@@ -1,4 +1,13 @@
-# SaaS Foundation
+# footnote
+
+> Cloned from saas-foundation v1.3.0. Port 5800. Upgrade with `npm run foundation:status`; template-owned paths are listed in the template's plan §3.2.
+
+## ⚠️ Scope Honesty (read first)
+
+Learning project. The public corpus is IRS publications, which are works of the United States Government and not subject to copyright (17 U.S.C. §105(a)). **Footnote quotes and cites those documents; it does not give tax or legal advice**, and every answer carries that sentence. Figures in the documents change yearly and the corpus is a pinned snapshot, so an answer can be out of date the day after it is given; the edition and revision date are part of every citation for that reason. The private tier (the firm's memos and client notes) is **entirely synthetic**: fictional firm, fictional client businesses, no real people. Nothing here is hardened for real client data. Banner verbatim in README.md.
+
+Footnote is a knowledge assistant whose every sentence carries a verified citation: chunking and retrieval (full-text, dense, hybrid — compared, not assumed) over eleven IRS small-business publications plus a synthetic private tier; answers that quote the passage they came from, with edition and page; a tested refusal when the documents don't say; retrieval filtered by caller inside the database query. Read `CLAUDE.md`, then `docs/decisions.md`.
+
 
 A Next.js 16 + Prisma 7 + Postgres template with the parts every multi-tenant app rebuilds: magic-link sign-in with TOTP,
 orgs and roles, one authorization path, an append-only audit log, share links, cron, and optional billing (Stripe) and
