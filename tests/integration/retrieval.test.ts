@@ -4,7 +4,7 @@ import { chunkCorpus, type Page } from '@/lib/corpus/chunk';
 import { indexChunks, indexEmbeddings } from '@/lib/retrieval/indexer';
 import { denseRetriever, ftsRetriever, hybridRetriever, type RetrievedChunk, rrf, tiersFor } from '@/lib/retrieval/retriever';
 import { snapshotId } from '@/lib/retrieval/snapshot';
-import { EMBED_DIM, type Embedder, voyageEmbed } from '@/lib/retrieval/voyage';
+import { EMBED_DIM, type Embedder, fetchWithRetry, voyageEmbed } from '@/lib/retrieval/voyage';
 import { makeOrg } from '../helpers/org';
 
 /** Hashed bag of words, L2-normalised: deterministic, no network, no spend. Shared words → higher cosine. */
@@ -117,6 +117,17 @@ describe('voyageEmbed goes through the spend ledger (D-18, D-23)', () => {
   it('names the missing key without calling', async () => {
     vi.stubEnv('VOYAGE_API_KEY', '');
     await expect(voyageEmbed(['x'], 'query')).rejects.toThrow(/VOYAGE_API_KEY is not set/);
+  });
+  it('waits out a 429 (Retry-After, else 21 s) and gives up after `tries`', async () => {
+    const slept: number[] = [];
+    const sleep = async (ms: number) => { slept.push(ms); };
+    const responses = [new Response('slow down', { status: 429, headers: { 'retry-after': '5' } }), new Response('slow down', { status: 429 }), Response.json({ ok: true })];
+    const call = vi.fn(async () => responses.shift()!);
+    expect((await fetchWithRetry(call, 40, sleep)).status).toBe(200);
+    expect(slept).toEqual([5000, 21000]);
+    const always429 = vi.fn(async () => new Response('', { status: 429 }));
+    expect((await fetchWithRetry(always429, 3, sleep)).status).toBe(429);
+    expect(always429).toHaveBeenCalledTimes(3);
   });
 });
 

@@ -22,7 +22,7 @@ const written = await indexChunks(snapshot, org.id, chunks);
 console.log(`chunks: ${written} written, ${chunks.length - written} already indexed (snapshot ${snapshot.slice(0, 19)}…, org ${CORPUS_ORG.slug})`);
 if (retriever !== 'fts') {
   const runId = `corpus:index:${randomUUID()}`;
-  const n = await indexEmbeddings(snapshot, org.id, EMBED_MODEL, voyageEmbed, runId);
+  const n = await indexEmbeddings(snapshot, org.id, EMBED_MODEL, voyageEmbed, runId, 32); // 32 ≈ 6K tokens, fits a 10K TPM cap per request
   console.log(`embeddings (${EMBED_MODEL}): ${n} written — run ${runId}`);
 }
 await db.$disconnect();

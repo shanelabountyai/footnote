@@ -18,13 +18,24 @@ export const voyageEmbed: Embedder = async (texts, inputType, scope = {}) => {
   const key = process.env.VOYAGE_API_KEY;
   if (!key) throw new Error('VOYAGE_API_KEY is not set — paste it into .env.local (O-12); fts needs no key');
   await assertBudget({ purpose: 'embed', model: EMBED_MODEL, estimateMicroUsd: costMicroUsd(EMBED_MODEL, estimateTokens(texts)), ...scope });
-  const res = await fetch(URL, {
+  const res = await fetchWithRetry(() => fetch(URL, {
     method: 'POST',
     headers: { authorization: `Bearer ${key}`, 'content-type': 'application/json' },
     body: JSON.stringify({ input: texts, model: EMBED_MODEL, input_type: inputType, output_dimension: EMBED_DIM, truncation: false }),
-  });
+  }));
   if (!res.ok) throw new Error(`voyage ${res.status}: ${(await res.text()).slice(0, 300)}`);
   const body = (await res.json()) as { data: { embedding: number[]; index: number }[]; usage: { total_tokens: number } };
   await recordCall({ purpose: 'embed', model: EMBED_MODEL, inputTokens: body.usage.total_tokens, ...scope });
   return body.data.sort((a, b) => a.index - b.index).map((d) => d.embedding);
 };
+
+/** Waits out 429s (a Voyage account with no payment method is capped at 3 requests / 10K tokens per minute, 2026-10-19).
+ *  ponytail: fixed 21 s sleep unless Retry-After says otherwise, 40 tries max; add token-aware pacing if it ever matters. */
+export async function fetchWithRetry(call: () => Promise<Response>, tries = 40, sleep = (ms: number) => new Promise((r) => setTimeout(r, ms))): Promise<Response> {
+  for (let attempt = 1; ; attempt++) {
+    const res = await call();
+    if (res.status !== 429 || attempt >= tries) return res;
+    await res.text();
+    await sleep((Number(res.headers.get('retry-after')) || 21) * 1000);
+  }
+}
