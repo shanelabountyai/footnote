@@ -7,6 +7,7 @@ Prints the snapshot id (D-9): sha256 over the sorted document hashes plus the pr
 """
 import hashlib, json, re, sys
 from pathlib import Path
+from check_golden import check_golden
 
 ROOT = Path(__file__).resolve().parent.parent
 MANIFEST = ROOT / "corpus" / "manifest.json"
@@ -66,7 +67,10 @@ def main(update: bool) -> int:
     for rel in private:
         if rel not in seen: errors.append(f"{rel}: in manifest but file missing")
     snapshot = hashlib.sha256("\n".join(sorted(doc_hashes) + sorted(private.values())).encode()).hexdigest()
+    golden_errors, unverified, n_golden = check_golden()
+    errors += [f"golden: {e}" for e in golden_errors]
     for e in errors: print("FAIL   ", e)
+    print(f"golden: {n_golden} questions, {len(unverified)} UNVERIFIED{' (' + ', '.join(unverified) + ')' if unverified else ''} — UNVERIFIED questions are excluded from the scorecard (D-21)")
     print(f"corpus:check {'FAIL' if errors else 'OK'} — {len(doc_hashes)} documents, {len(seen)} private files, snapshot sha256:{snapshot}")
     return 1 if errors else 0
 

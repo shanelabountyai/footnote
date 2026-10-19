@@ -1,0 +1,832 @@
+[
+  {
+    "id": "GA-01",
+    "slice": "A",
+    "question": "What is the standard mileage rate for business use of a car for 2025?",
+    "callerRole": "front_desk",
+    "expected": {
+      "citations": [
+        {
+          "docId": "p463-2025",
+          "page": 20,
+          "pageTolerance": 1,
+          "quoteFragment": "For 2025, the standard mileage rate for the cost of operating your car for business use is 70 cents ($0.70) per mile."
+        },
+        {
+          "docId": "p334-2025",
+          "page": 4,
+          "pageTolerance": 1,
+          "quoteFragment": "increased to 70 cents a mile"
+        }
+      ],
+      "refusal": null,
+      "mustLabelEditions": false
+    },
+    "notes": "If p463-2024 is also retrieved, the 67-cent figure must be labeled 2024 (editions.superseded)."
+  },
+  {
+    "id": "GA-02",
+    "slice": "A",
+    "question": "What is the social security wage base limit for 2026?",
+    "callerRole": "front_desk",
+    "expected": {
+      "citations": [
+        {
+          "docId": "p15-2026",
+          "page": 2,
+          "pageTolerance": 1,
+          "quoteFragment": "The social security wage base limit is $184,500."
+        }
+      ],
+      "refusal": null,
+      "mustLabelEditions": false
+    },
+    "notes": "Fails if $176,100 (p15-2025) is given for 2026. Kit said p. 1; the cover is p. 1, measured p. 2."
+  },
+  {
+    "id": "GA-03",
+    "slice": "A",
+    "question": "If I don't file a return, how long should I keep records for that year?",
+    "callerRole": "bookkeeper",
+    "expected": {
+      "citations": [
+        {
+          "docId": "p583-2024",
+          "page": 15,
+          "pageTolerance": 1,
+          "quoteFragment": "4. Do not file a return Not limited"
+        }
+      ],
+      "refusal": null,
+      "mustLabelEditions": false
+    },
+    "notes": "Table-chunking fixture: the row label must be in the quote. Fails on '3 years' (row 1)."
+  },
+  {
+    "id": "GA-04",
+    "slice": "A",
+    "question": "What is the rate per square foot under the simplified method for the home office deduction, and the maximum area?",
+    "callerRole": "front_desk",
+    "expected": {
+      "citations": [
+        {
+          "docId": "p587-2025",
+          "page": 10,
+          "pageTolerance": 1,
+          "quoteFragment": "$5, the prescribed rate, by the area of your home used for a qualified business use"
+        },
+        {
+          "docId": "p587-2025",
+          "page": 10,
+          "pageTolerance": 1,
+          "quoteFragment": "The area you use to figure your deduction is limited to 300 square feet."
+        }
+      ],
+      "refusal": null,
+      "mustLabelEditions": false
+    },
+    "notes": ""
+  },
+  {
+    "id": "GA-05",
+    "slice": "A",
+    "question": "Can I depreciate the cost of land?",
+    "callerRole": "service",
+    "expected": {
+      "citations": [
+        {
+          "docId": "p946-2025",
+          "page": 5,
+          "pageTolerance": 1,
+          "quoteFragment": "You cannot depreciate the cost of land because land does not wear out, become obsolete, or get used up."
+        }
+      ],
+      "refusal": null,
+      "mustLabelEditions": false
+    },
+    "notes": "PT-3 allowed half: service sees the public tier."
+  },
+  {
+    "id": "GA-06",
+    "slice": "A",
+    "question": "Do I owe self-employment tax if my net earnings were $350?",
+    "callerRole": "front_desk",
+    "expected": {
+      "citations": [
+        {
+          "docId": "p334-2025",
+          "page": 10,
+          "pageTolerance": 1,
+          "quoteFragment": "Your net earnings from self-employment (excluding church employee income) were $400 or more."
+        }
+      ],
+      "refusal": null,
+      "mustLabelEditions": false
+    },
+    "notes": "Kit p. 9; measured p. 10."
+  },
+  {
+    "id": "GA-07",
+    "slice": "A",
+    "question": "How much can I deduct for a business gift to one person per year?",
+    "callerRole": "front_desk",
+    "expected": {
+      "citations": [
+        {
+          "docId": "p463-2025",
+          "page": 16,
+          "pageTolerance": 1,
+          "quoteFragment": "You can deduct no more than $25 for business gifts you give directly or indirectly to each person during your tax year."
+        }
+      ],
+      "refusal": null,
+      "mustLabelEditions": false
+    },
+    "notes": "Kit p. 15; measured p. 16."
+  },
+  {
+    "id": "GA-08",
+    "slice": "A",
+    "question": "What is the section 179 deduction limit for tax years beginning in 2025?",
+    "callerRole": "bookkeeper",
+    "expected": {
+      "citations": [
+        {
+          "docId": "p946-2025",
+          "page": 18,
+          "pageTolerance": 1,
+          "quoteFragment": "for most property placed in service in tax years beginning in 2025 generally cannot be more than $2,500,000"
+        },
+        {
+          "docId": "p946-2025",
+          "page": 1,
+          "pageTolerance": 1,
+          "quoteFragment": "For tax years beginning in 2025, the maximum section 179 expense deduction is $2,500,000."
+        }
+      ],
+      "refusal": null,
+      "mustLabelEditions": false
+    },
+    "notes": "Kit ch. 2 p. 17; measured p. 18. The 2025 What's New item is on p. 1 (the cover page), the 2026 item on p. 2."
+  },
+  {
+    "id": "GA-09",
+    "slice": "A",
+    "question": "What is the monthly exclusion for qualified parking in 2026?",
+    "callerRole": "front_desk",
+    "expected": {
+      "citations": [
+        {
+          "docId": "p15b-2026",
+          "page": 2,
+          "pageTolerance": 1,
+          "quoteFragment": "For 2026, the monthly exclusion for qualified parking is $340"
+        }
+      ],
+      "refusal": null,
+      "mustLabelEditions": false
+    },
+    "notes": ""
+  },
+  {
+    "id": "GA-10",
+    "slice": "A",
+    "question": "What percentage of business meal expenses can generally be deducted?",
+    "callerRole": "front_desk",
+    "expected": {
+      "citations": [
+        {
+          "docId": "p463-2025",
+          "page": 15,
+          "pageTolerance": 1,
+          "quoteFragment": "In general, you can deduct only 50% of your business-related meal expenses, unless an exception applies."
+        }
+      ],
+      "refusal": null,
+      "mustLabelEditions": false
+    },
+    "notes": ""
+  },
+  {
+    "id": "GA-11",
+    "slice": "A",
+    "question": "What does the exclusive-use test for a home office require?",
+    "callerRole": "front_desk",
+    "expected": {
+      "citations": [
+        {
+          "docId": "p587-2025",
+          "page": 2,
+          "pageTolerance": 1,
+          "quoteFragment": "To qualify under the exclusive use test, you must use a specific area of your home only for your trade or business."
+        }
+      ],
+      "refusal": null,
+      "mustLabelEditions": false
+    },
+    "notes": ""
+  },
+  {
+    "id": "GA-12",
+    "slice": "A",
+    "question": "When must I have an EIN?",
+    "callerRole": "front_desk",
+    "expected": {
+      "citations": [
+        {
+          "docId": "p334-2025",
+          "page": 6,
+          "pageTolerance": 1,
+          "quoteFragment": "Pay wages to one or more employees."
+        },
+        {
+          "docId": "p583-2024",
+          "page": 4,
+          "pageTolerance": 1,
+          "quoteFragment": "An EIN is issued to individuals (sole proprietors), partnerships, corporations, and other entities by the IRS"
+        }
+      ],
+      "refusal": null,
+      "mustLabelEditions": false
+    },
+    "notes": ""
+  },
+  {
+    "id": "GA-13",
+    "slice": "A",
+    "question": "Is the cost of commuting between home and my regular place of business deductible?",
+    "callerRole": "front_desk",
+    "expected": {
+      "citations": [
+        {
+          "docId": "p463-2025",
+          "page": 19,
+          "pageTolerance": 1,
+          "quoteFragment": "Commuting expenses. You can’t deduct the costs of taking a bus, trolley, subway, or taxi, or of driving a car between your home and your main or regular place of work."
+        }
+      ],
+      "refusal": null,
+      "mustLabelEditions": false
+    },
+    "notes": "Page resolved 2026-10-19 (kit: 'ch. 4')."
+  },
+  {
+    "id": "GA-14",
+    "slice": "A",
+    "question": "What is the Medicare tax rate for 2026?",
+    "callerRole": "front_desk",
+    "expected": {
+      "citations": [
+        {
+          "docId": "p15-2026",
+          "page": 2,
+          "pageTolerance": 1,
+          "quoteFragment": "The Medicare tax rate is 1.45% each for the employee and employer, unchanged from 2025."
+        }
+      ],
+      "refusal": null,
+      "mustLabelEditions": false
+    },
+    "notes": ""
+  },
+  {
+    "id": "GM-01",
+    "slice": "M",
+    "question": "How long do I have to keep employment tax records?",
+    "callerRole": "front_desk",
+    "expected": {
+      "citations": [
+        {
+          "docId": "p15-2026",
+          "page": 9,
+          "pageTolerance": 1,
+          "quoteFragment": "Keep all records of employment taxes for at least 4 years."
+        },
+        {
+          "docId": "p583-2024",
+          "page": 16,
+          "pageTolerance": 1,
+          "quoteFragment": "If you have employees, you must keep all employment tax records for at least 4 years after the date the tax becomes due or is paid, whichever is later."
+        }
+      ],
+      "refusal": null,
+      "mustLabelEditions": false
+    },
+    "notes": "The staff retention policy (7 years) may be a third sentence labeled firm policy, never as the IRS rule."
+  },
+  {
+    "id": "GM-02",
+    "slice": "M",
+    "question": "What is the gross-receipts threshold to qualify as a small business taxpayer for the cash method?",
+    "callerRole": "bookkeeper",
+    "expected": {
+      "citations": [
+        {
+          "docId": "p334-2025",
+          "page": 16,
+          "pageTolerance": 1,
+          "quoteFragment": "average annual gross receipts of $31 million or less for the 3 prior tax years"
+        },
+        {
+          "docId": "p538-2022",
+          "page": 8,
+          "pageTolerance": 1,
+          "quoteFragment": "its average annual gross receipts for the 3 prior tax years were $26 million or less."
+        }
+      ],
+      "refusal": null,
+      "mustLabelEditions": true
+    },
+    "notes": "Both figures with their edition dates; neither declared 'correct'. Pub 538 fragment is the kit's wording and UNVERIFIED until Shane sets it in 1.9 (the page reads '... $26 million or less (indexed for inflation)', measured p. 9)."
+  },
+  {
+    "id": "GM-03",
+    "slice": "M",
+    "question": "Do I have to keep an inventory and use the accrual method if I sell merchandise?",
+    "callerRole": "bookkeeper",
+    "expected": {
+      "citations": [
+        {
+          "docId": "p334-2025",
+          "page": 16,
+          "pageTolerance": 1,
+          "quoteFragment": "If you must account for an inventory, you must generally use an accrual method of accounting for your purchases and sales."
+        },
+        {
+          "docId": "p538-2022",
+          "page": 7,
+          "pageTolerance": 1,
+          "quoteFragment": "Generally, if you produce, purchase, or sell merchandise, you must keep an inventory and use an accrual method for sales and purchases of merchandise."
+        }
+      ],
+      "refusal": null,
+      "mustLabelEditions": false
+    },
+    "notes": "Pub 538 sentence measured on p. 8 (kit: 7), within tolerance."
+  },
+  {
+    "id": "GM-04",
+    "slice": "M",
+    "question": "What are the social security and Medicare tax rates and the wage base for 2026?",
+    "callerRole": "front_desk",
+    "expected": {
+      "citations": [
+        {
+          "docId": "p15-2026",
+          "page": 1,
+          "pageTolerance": 1,
+          "quoteFragment": "of social security tax on taxable wages is 6.2% each for"
+        },
+        {
+          "docId": "p15-2026",
+          "page": 2,
+          "pageTolerance": 1,
+          "quoteFragment": "The social security wage base limit is $184,500."
+        },
+        {
+          "docId": "p15-2026",
+          "page": 2,
+          "pageTolerance": 1,
+          "quoteFragment": "The Medicare tax rate is 1.45% each for the employee and employer"
+        }
+      ],
+      "refusal": null,
+      "mustLabelEditions": false
+    },
+    "notes": "The 6.2% sentence spans the p. 1/p. 2 break (O-3 page-spanning case)."
+  },
+  {
+    "id": "GM-05",
+    "slice": "M",
+    "question": "Which records does Pub 583 say to keep for property, and for how long?",
+    "callerRole": "bookkeeper",
+    "expected": {
+      "citations": [
+        {
+          "docId": "p583-2024",
+          "page": 16,
+          "pageTolerance": 1,
+          "quoteFragment": "Keep records relating to property until the period of limitations expires for the year in which you dispose of the property in a taxable disposition."
+        },
+        {
+          "docId": "p583-2024",
+          "page": 15,
+          "pageTolerance": 1,
+          "quoteFragment": "Table 3. Period of Limitations"
+        }
+      ],
+      "refusal": null,
+      "mustLabelEditions": false
+    },
+    "notes": ""
+  },
+  {
+    "id": "GM-06",
+    "slice": "M",
+    "question": "What is the 2025 standard mileage rate, and what did the previous year's edition say?",
+    "callerRole": "bookkeeper",
+    "expected": {
+      "citations": [
+        {
+          "docId": "p463-2025",
+          "page": 20,
+          "pageTolerance": 1,
+          "quoteFragment": "For 2025, the standard mileage rate for the cost of operating your car for business use is 70 cents ($0.70) per mile."
+        },
+        {
+          "docId": "p463-2024",
+          "page": 2,
+          "pageTolerance": 1,
+          "quoteFragment": "For 2024, the standard mileage rate for the cost of operating your car for business use is 67 cents ($0.67) per mile."
+        }
+      ],
+      "refusal": null,
+      "mustLabelEditions": true
+    },
+    "notes": ""
+  },
+  {
+    "id": "GM-07",
+    "slice": "M",
+    "question": "What is the bonus (special) depreciation allowance for property acquired after January 19, 2025, and what election is available?",
+    "callerRole": "bookkeeper",
+    "expected": {
+      "citations": [
+        {
+          "docId": "p946-2025",
+          "page": 2,
+          "pageTolerance": 1,
+          "quoteFragment": "is eligible for a 100% special depreciation allowance"
+        },
+        {
+          "docId": "p334-2025",
+          "page": 4,
+          "pageTolerance": 1,
+          "quoteFragment": "you may instead elect to claim 40% (60% for property with a long production period and certain aircraft) additional first-year depreciation deduction"
+        }
+      ],
+      "refusal": null,
+      "mustLabelEditions": false
+    },
+    "notes": ""
+  },
+  {
+    "id": "GM-08",
+    "slice": "M",
+    "question": "What are the regular-use and exclusive-use tests for business use of the home?",
+    "callerRole": "front_desk",
+    "expected": {
+      "citations": [
+        {
+          "docId": "p587-2025",
+          "page": 2,
+          "pageTolerance": 1,
+          "quoteFragment": "To qualify under the exclusive use test, you must use a specific area of your home only for your trade or business."
+        },
+        {
+          "docId": "p587-2025",
+          "page": 2,
+          "pageTolerance": 1,
+          "quoteFragment": "Exclusively and regularly as your principal place of business"
+        }
+      ],
+      "refusal": null,
+      "mustLabelEditions": false
+    },
+    "notes": ""
+  },
+  {
+    "id": "GU-01",
+    "slice": "U",
+    "question": "What is the Oklahoma state sales tax rate?",
+    "callerRole": "front_desk",
+    "expected": {
+      "citations": [],
+      "refusal": "NO_RELEVANT_PASSAGE",
+      "mustLabelEditions": false
+    },
+    "notes": "State tax, not in corpus. No model call if the top score is below θ."
+  },
+  {
+    "id": "GU-02",
+    "slice": "U",
+    "question": "What will the social security wage base be for 2027?",
+    "callerRole": "partner",
+    "expected": {
+      "citations": [],
+      "refusal": "NO_RELEVANT_PASSAGE",
+      "mustLabelEditions": false
+    },
+    "notes": "Future year."
+  },
+  {
+    "id": "GU-03",
+    "slice": "U",
+    "question": "Should I form an S corporation or stay a sole proprietor?",
+    "callerRole": "bookkeeper",
+    "expected": {
+      "citations": [
+        {
+          "docId": "p583-2024",
+          "page": 3,
+          "pageTolerance": 1,
+          "quoteFragment": "A sole proprietorship is an unincorporated business that is owned by one individual."
+        },
+        {
+          "docId": "p583-2024",
+          "page": 3,
+          "pageTolerance": 1,
+          "quoteFragment": "S corporations. An eligible domestic corporation"
+        }
+      ],
+      "refusal": "OUT_OF_SCOPE",
+      "mustLabelEditions": false
+    },
+    "notes": "D-8: OUT_OF_SCOPE alongside status answered/partial — what Pub 583 says about business types, cited; no recommendation sentence."
+  },
+  {
+    "id": "GU-04",
+    "slice": "U",
+    "question": "What is the current prime interest rate?",
+    "callerRole": "front_desk",
+    "expected": {
+      "citations": [],
+      "refusal": "NO_RELEVANT_PASSAGE",
+      "mustLabelEditions": false
+    },
+    "notes": "Not in corpus."
+  },
+  {
+    "id": "GU-05",
+    "slice": "U",
+    "question": "How do I file a Form 941 in QuickBooks Online?",
+    "callerRole": "bookkeeper",
+    "expected": {
+      "citations": [],
+      "refusal": "NO_RELEVANT_PASSAGE",
+      "mustLabelEditions": false
+    },
+    "notes": "Software how-to."
+  },
+  {
+    "id": "GU-06",
+    "slice": "U",
+    "question": "What is the penalty, in dollars, for a late 2026 Form 1099-NEC?",
+    "callerRole": "partner",
+    "expected": {
+      "citations": [],
+      "refusal": "NO_RELEVANT_PASSAGE",
+      "mustLabelEditions": false
+    },
+    "notes": "Checked 2026-10-19: Pub 15 (2026) names Form 1099-NEC but states no dollar penalty for filing it late."
+  },
+  {
+    "id": "GU-07",
+    "slice": "U",
+    "question": "Can I deduct my dog as a security expense?",
+    "callerRole": "front_desk",
+    "expected": {
+      "citations": [],
+      "refusal": "NO_RELEVANT_PASSAGE",
+      "mustLabelEditions": false
+    },
+    "notes": "Not addressed."
+  },
+  {
+    "id": "GU-08",
+    "slice": "U",
+    "question": "What does Pub 535 say about business expenses?",
+    "callerRole": "partner",
+    "expected": {
+      "citations": [],
+      "refusal": "NO_RELEVANT_PASSAGE",
+      "mustLabelEditions": false
+    },
+    "notes": "Pub 535 is not in the corpus (O-6); the answer must not pretend it is."
+  },
+  {
+    "id": "GP-01",
+    "slice": "P",
+    "question": "What discount did we give Red Fork Welding?",
+    "callerRole": "front_desk",
+    "expected": {
+      "citations": [],
+      "refusal": "NO_RELEVANT_PASSAGE",
+      "mustLabelEditions": false
+    },
+    "notes": "PT-1: audit shows 0 partner chunks retrieved; the SQL carries the tier predicate; the same query as partner ranks the memo chunk first."
+  },
+  {
+    "id": "GP-02",
+    "slice": "P",
+    "question": "What discount did we give Red Fork Welding?",
+    "callerRole": "partner",
+    "expected": {
+      "citations": [
+        {
+          "docId": "ll-partner-fees-redfork-2026-02",
+          "page": 1,
+          "pageTolerance": 1,
+          "quoteFragment": "We agreed to a 15% discount on Red Fork Welding's monthly fee for the first six months."
+        }
+      ],
+      "refusal": null,
+      "mustLabelEditions": false
+    },
+    "notes": "Cited with tier partner and the revision date."
+  },
+  {
+    "id": "GP-03",
+    "slice": "P",
+    "question": "What accounting method does Sooner Sprout Nursery use?",
+    "callerRole": "front_desk",
+    "expected": {
+      "citations": [],
+      "refusal": "NO_RELEVANT_PASSAGE",
+      "mustLabelEditions": false
+    },
+    "notes": "Engagement tier is hidden from front_desk."
+  },
+  {
+    "id": "GP-04",
+    "slice": "P",
+    "question": "What accounting method does Sooner Sprout Nursery use?",
+    "callerRole": "bookkeeper",
+    "expected": {
+      "citations": [
+        {
+          "docId": "ll-eng-soonersprout-2026-02",
+          "page": 1,
+          "pageTolerance": 1,
+          "quoteFragment": "Sooner Sprout Nursery uses the cash method of accounting."
+        }
+      ],
+      "refusal": null,
+      "mustLabelEditions": false
+    },
+    "notes": ""
+  },
+  {
+    "id": "GP-05",
+    "slice": "P",
+    "question": "How long does the firm keep client records?",
+    "callerRole": "front_desk",
+    "expected": {
+      "citations": [
+        {
+          "docId": "ll-staff-record-retention-2025-10",
+          "page": 1,
+          "pageTolerance": 1,
+          "quoteFragment": "Ledger & Lane keeps client records for 7 years from the close of the engagement year."
+        }
+      ],
+      "refusal": null,
+      "mustLabelEditions": false
+    },
+    "notes": "PT-2: answered from the staff policy only; no partner chunk retrieved."
+  },
+  {
+    "id": "GV-01",
+    "slice": "V",
+    "question": "What was the standard mileage rate for 2024?",
+    "callerRole": "bookkeeper",
+    "expected": {
+      "citations": [
+        {
+          "docId": "p463-2024",
+          "page": 2,
+          "pageTolerance": 1,
+          "quoteFragment": "For 2024, the standard mileage rate for the cost of operating your car for business use is 67 cents ($0.67) per mile."
+        },
+        {
+          "docId": "p334-2024",
+          "page": 4,
+          "pageTolerance": 1,
+          "quoteFragment": "increased to 67 cents a mile"
+        }
+      ],
+      "refusal": null,
+      "mustLabelEditions": true
+    },
+    "notes": "Labeled 2024 edition; editions.superseded includes p463-2024. Fails if 70 cents is given for 2024."
+  },
+  {
+    "id": "GV-02",
+    "slice": "V",
+    "question": "What was the social security wage base for 2025?",
+    "callerRole": "partner",
+    "expected": {
+      "citations": [
+        {
+          "docId": "p15-2025",
+          "page": 2,
+          "pageTolerance": 1,
+          "quoteFragment": "The social security wage base limit is $176,100."
+        },
+        {
+          "docId": "p334-2025",
+          "page": 4,
+          "pageTolerance": 1,
+          "quoteFragment": "$176,100"
+        }
+      ],
+      "refusal": null,
+      "mustLabelEditions": true
+    },
+    "notes": "editions.superseded = [p15-2025]."
+  },
+  {
+    "id": "GV-03",
+    "slice": "V",
+    "question": "What is the social security wage base?",
+    "callerRole": "front_desk",
+    "expected": {
+      "citations": [
+        {
+          "docId": "p15-2026",
+          "page": 2,
+          "pageTolerance": 1,
+          "quoteFragment": "The social security wage base limit is $184,500."
+        },
+        {
+          "docId": "p15-2025",
+          "page": 2,
+          "pageTolerance": 1,
+          "quoteFragment": "The social security wage base limit is $176,100."
+        }
+      ],
+      "refusal": null,
+      "mustLabelEditions": true
+    },
+    "notes": "No year in the question: both figures, each labeled; neither presented as 'the' answer."
+  },
+  {
+    "id": "GV-04",
+    "slice": "V",
+    "question": "What was the maximum net SE earnings subject to social security tax for 2024?",
+    "callerRole": "bookkeeper",
+    "expected": {
+      "citations": [
+        {
+          "docId": "p334-2024",
+          "page": 4,
+          "pageTolerance": 1,
+          "quoteFragment": "The maximum net self-employment earnings subject to the social security part of the self-employment tax is $168,600 for 2024."
+        }
+      ],
+      "refusal": null,
+      "mustLabelEditions": true
+    },
+    "notes": ""
+  },
+  {
+    "id": "GV-05",
+    "slice": "V",
+    "question": "What is the section 179 limit for 2026?",
+    "callerRole": "partner",
+    "expected": {
+      "citations": [
+        {
+          "docId": "p946-2025",
+          "page": 2,
+          "pageTolerance": 1,
+          "quoteFragment": "For tax years beginning in 2026, the maximum section 179 expense deduction is $2,560,000."
+        },
+        {
+          "docId": "p946-2025",
+          "page": 2,
+          "pageTolerance": 1,
+          "quoteFragment": "sport utility vehicles placed in service in tax years beginning in 2026 is $32,000."
+        }
+      ],
+      "refusal": null,
+      "mustLabelEditions": true
+    },
+    "notes": "The 2025 edition states the 2026 figure in its own What's New for 2026."
+  },
+  {
+    "id": "GV-06",
+    "slice": "V",
+    "question": "What is the gross-receipts test amount for the cash method?",
+    "callerRole": "bookkeeper",
+    "expected": {
+      "citations": [
+        {
+          "docId": "p334-2025",
+          "page": 16,
+          "pageTolerance": 1,
+          "quoteFragment": "average annual gross receipts of $31 million or less for the 3 prior tax years"
+        },
+        {
+          "docId": "p538-2022",
+          "page": 8,
+          "pageTolerance": 1,
+          "quoteFragment": "its average annual gross receipts for the 3 prior tax years were $26 million or less."
+        }
+      ],
+      "refusal": null,
+      "mustLabelEditions": true
+    },
+    "notes": "As GM-02: both figures, both dates (Pub 538 Rev. January 2022). Shares GM-02's UNVERIFIED Pub 538 fragment."
+  }
+]
