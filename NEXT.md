@@ -1,8 +1,16 @@
 # NEXT
 
-## ▶ Next session: Phase 1 gate
+## ▶ Next session: Shane reviews `docs/phase-2-tasks.md`, then task 2.1
 
-Start in `~/Projects/footnote`. Tasks 1.1–1.8 and 1.10–1.12 are done. Before Phase 2: (1) **θ** (D-17 / O-4) is Shane's call: hybrid's fused RRF score is near-binary and cannot separate A from U (midpoint 0.024); the options are θ on the dense cosine (midpoint 0.559) with hybrid ranking, or a weak gate that leans on the model refusal (Session 4 below has the distributions); (2) write `docs/phase-2-tasks.md` per `docs/phase-1-tasks.md` "Before Phase 2"; (3) stop for review. **Still open, owner steps:** task 1.9 (ten hand answers + the GM-02/GV-06 fragment), and the GitHub repo + `origin`, which the first real CI run waits on.
+The Phase 1 gate stopped for review (per `docs/phase-1-tasks.md` "Before Phase 2"). Once Shane approves the Phase 2 list (or edits it), start **2.1, the prompt shape**. 2.5 asks for a decision first: the Anthropic SDK or plain `fetch`. **Owner steps still open:** task 1.9 (the ten hand answers and the GM-02/GV-06 fragment; 2.10 waits on it); the GitHub repo plus `origin` (the only remote is `template`), which the first real CI run waits on; and `ANTHROPIC_API_KEY`, whose line gets prepared at 2.5.
+
+## Session 6 — 2026-10-19 (Phase 1 gate)
+
+**Decided:** D-17a, closing O-4 (Shane clicked it). θ = **0.559 on the top dense cosine**, and hybrid stays the ranker. Calibration was GA-01..07 + GU-01..04 (median A 0.614, median U 0.520). On the held-out questions it refuses 3 of 4 U, and wrongly refuses 1 of 7 A and 4 of 15 M/V/P (GM-05, GV-02/03/05). The rejected RRF θ = 0.024 refused 4 of 4 U but 6 of 15 M/V/P, including GP-02 and GP-05.
+
+**Written:** `docs/phase-2-tasks.md`, tasks 2.1–2.10 plus exit criteria. 2.4 adds the dense leg's top cosine to `hybrid.search` for the gate. 2.2 uses zod, which is already a dependency.
+
+**Gate:** no code changed this session. Session 5's gate output stands. **Spend: $0.0147 of $25.**
 
 ## Session 5 — 2026-10-19 (task 1.12)
 
