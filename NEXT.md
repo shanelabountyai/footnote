@@ -1,32 +1,41 @@
 # NEXT
 
-## ▶ Next session: Shane's hand answers (1.9), then Phase 1 tasks 1.6–1.8
+## ▶ Next session: task 1.7 (three retrievers) — needs the Voyage key first
 
-Start in `~/Projects/footnote` (not the kickoff folder) on Fable. O-11 is closed as **D-25** (complex tables accepted as a v1 limit; the chunker marks table regions and never cites across them). Task **1.9** (ten hand answers into `eval/hand-answers.md`) is Shane's and must land before 1.10 is reported; the measured pages in `docs/decisions.md` §Golden-set changes are the starting point.
+Start in `~/Projects/footnote` on Fable. **Before 1.7 can index `dense`/`hybrid`, Shane pastes the Voyage key** into `.env.local` at the `VOYAGE_API_KEY=` line already prepared (gitignored; read directly via `process.env` at call time, O-12 — never in `.env.example`, INV-14). `fts` needs no key, so 1.7 can start with the `Retriever` interface, the chunk table (clone-owned Prisma schema: `tsvector` GIN + `Unsupported("vector(1024)")`, raw SQL for the cosine scan, no Prisma-side package needed) and `corpus:index -- --retriever=fts`; `dense` embeds through `assertBudget` with plain `fetch` to Voyage (`input_type` document/query), `hybrid` is RRF k = 60. Then 1.10 → 1.11 → 1.12. Task **1.9** (Shane's ten hand answers → `eval/hand-answers.md`) is still open and must land before 1.10 is reported; it also fixes the GM-02b fragment.
 
-## Session 0 — 2026-10-19 (on the Mac)
+## Session 1 — 2026-10-19 (on the Mac)
 
-**Built:** clone of saas-foundation **v1.3.0** on port **5800** (commits c124ca8, ea125d3, 90ae799, 5a02555); kit copied in; Fable pin in `.claude/settings.json`; local `footnote` / `footnote_test` databases with pool caps; `pgvector` 0.8.7 installed (brew) and enabled by a hand-written migration; task 1.1 commands; `config/prices.json` (checked 2026-10-19); corpus pinned and extracted (11 documents, **587 pages**, snapshot `sha256:cd1252c6…`); `tools/fetch_corpus.py`, `tools/check_corpus.py`; synthetic private tier (8 staff / 14 engagement / 8 partner / 10 injection memos) with `eval/fixtures/injection.json`; spend ledger (`ModelCall`, `assertBudget`, `npm run spend`, 6 tests); `docs/extraction-sample.md`.
+**Built:** task **1.6** chunker `src/lib/corpus/chunk.ts` + `tests/unit/chunk.test.ts` (commit 24131c9; D-10a) and task **1.8** `eval/golden.json` (41 questions) + `tools/check_golden.py` running inside `corpus:check` (commit 44571d4). Tasks: 1.1–1.6 ✅ · 1.7 not started · 1.8 ✅ · 1.9 Shane · 1.10–1.12 not started.
 
-**Tasks:** 1.1 ✅ · 1.2 ✅ · 1.3 ✅ · 1.4 ✅ by decision (16 OK / 4 WRONG of 20, the four being 3+-column tables; D-25) · 1.5 ✅ · 1.6–1.12 not started.
+**Gate output (last full run):** `npm test` **33 files / 185 tests passed**; `corpus:check` OK (11 documents, 40 private files, snapshot `sha256:cd1252c6…`, golden 41 questions / 2 UNVERIFIED); lint 0 errors (the 1 template warning in `e2e/billing.spec.ts`); typecheck OK; `permissions:verify` 0 checks (stub until 1.10). **Spend: $0.0000 of $25** (no model or embedding call yet).
 
-**Gate output (last full run):** lint 0 errors (1 template warning in `e2e/billing.spec.ts`), typecheck OK, `corpus:check` OK, `permissions:verify` 0 checks (stub), `foundation:drift` clean against v1.3.0, `npm test` **32 files / 178 tests passed**. **Spend: $0.0000 of $25** (no model or embedding call yet).
+**Chunk counts (1.6 acceptance; words per chunk, tokens ≈ words × 4/3):**
 
-**Decided (see `docs/decisions.md` §Session 0 log):** D-20a port 5800 + v1.3.0 (Shane) · O-7a→O-7b extraction is `pdftotext -raw` + dehyphenation (measured: 8/8 column-spanning sentences contiguous vs 2/8 default, 1/8 `-layout`; 25/26 kit quotes) · D-7a cover date as `revisionDate` · D-18a prices confirmed, **no difference from D-19** · D-23a cost in integer micro-USD · D-11a `corpus:check` behaviour · reuse-check result (scanner parsed 0 items; outcome recorded by hand) · donor "Where to look" corrections (UCS has no κ and no $ ledger; OpsAgent prices are hardcoded; clearpath is `~/Projects/clinic`).
+| doc | pages | chunks | table chunks | median words | max words |
+|---|---|---|---|---|---|
+| p15-2025 | 58 | 369 | 4 | 141 | 263 |
+| p15-2026 | 59 | 340 | 4 | 186 | 263 |
+| p15b-2026 | 36 | 184 | 9 | 231 | 263 |
+| p334-2024 | 55 | 398 | 9 | 79 | 263 |
+| p334-2025 | 57 | 394 | 9 | 89 | 263 |
+| p463-2024 | 62 | 405 | 9 | 110 | 312 |
+| p463-2025 | 62 | 370 | 9 | 123 | 263 |
+| p538-2022 | 22 | 132 | 0 | 149 | 263 |
+| p583-2024 | 28 | 169 | 3 | 75 | 263 |
+| p587-2025 | 35 | 278 | 2 | 78 | 263 |
+| p946-2025 | 113 | 680 | 90 | 100 | 263 |
+| private memos | 40 memos | 203 | 0 | — | — |
+| **total** | 587 + 40 | **3,922** | 148 | | |
 
-**Price check vs D-19:** identical — Sonnet 5.5 $2/$10, Opus 5.5 $4/$20, Haiku 5.5 $0.10/$0.50 (≤100K prompt; $0.50/$2.50 above), `voyage-4-lite` $0.02/M, 200M free tokens. IDs `claude-sonnet-5-5`, `claude-opus-5-5`, `claude-haiku-5-5`, `claude-fable-5-1` confirmed on the models page.
+Known chunker limits (D-10a): page-bounded, so a sentence across a page break is not joined (GM-04's 6.2% sentence, `p15-2026` pp. 1–2); a table region runs to the next run-in lead or the end of the page, so a table chunk may carry trailing prose; medians sit below the 262-word target because headings bound sections (O-3 size ablation if time allows).
 
-**Manifest (sha256 prefix · pages · cover date):** p334-2025 722639ba · 57 · 2026-02-10 | p15-2026 b46c3622 · 59 · 2025-12-15 | p463-2025 ddc3bb15 · 62 · 2026-02-27 | p583-2024 c551e158 · 28 · 2025-01-28 | p587-2025 7f68de21 · 35 · 2026-02-27 | p946-2025 07fadfb2 · 113 · 2026-03-13 | p538-2022 e2aa318b · 22 · 2022-02-14 | p15b-2026 a0af8513 · 36 · 2025-12-23 | p334-2024 0414933e · 55 · 2024-12-23 | p15-2025 168837bd · 58 · 2024-12-17 | p463-2024 5c8bbbc3 · 62 · 2025-02-27.
+**UNVERIFIED (1.8 acceptance):** `GM-02`, `GV-06` — both on the Pub 538 fragment "…were $26 million or less." (the page reads "…were $26 million or less (indexed for inflation)", measured p. 9). One edit to the shared fragment in `eval/golden.json` (two occurrences) after Shane sets it in 1.9 clears both. GA-13 (p. 19) and GU-03 (p. 3) resolved; GU-06 stays U. Measured-page notes: GA-08's 2025 What's New item is on `p946-2025` p. 1, GM-03's Pub 538 sentence on p. 8.
 
-**Quote check (brief §5.1/§5.2 against `corpus/text`, page ± 1):** 27 of 28 found. Nine are one page later than the kit said (the cover is p. 1): GA-02, GA-09, GA-14, GV-05a/b, GM-04, GM-07 → p. 2; GA-06 → p. 10; GA-07 → p. 16; GA-08 → p. 18. Resolved: GA-13 → `p463-2025` p. 19; GU-03 → `p583-2024` p. 3; GU-06 stays U (no dollar penalty for a late 1099-NEC in Pub 15).
+**Decided this session:** D-10a (chunker as built, with the page-spanning deviation) · O-12 default (clone-owned secrets read from `process.env` at call time, documented in README, never in `.env.example`) · golden `callerRole` default `front_desk` where the brief was silent.
 
-**UNVERIFIED:** `GM-02b` — the kit's Pub 538 p. 8 fragment ends "…$26 million or less." but the page reads "…$26 million or less (indexed for inflation)". Not edited; Shane sets the fragment in 1.9.
+**Contradictions carried from Session 0** (unchanged unless noted): 8 → O-12 default in force; 9 (O-10, API key table in Phase 4) open; 12 (template `CLONES.md` row uncommitted) open.
 
-**Contradictions / cannot-build-as-written (KICKOFF step 8; not resolved unless marked):**
-1. Port 5400 was claimed — resolved, D-20a. 2. Template v1.2.1 vs latest v1.3.0 — resolved (Shane: "use the newer one"). 3. Kit NEXT.md claimed `.claude/settings.json` existed; it did not — written here. 4. Brief §3 had the `-layout` column behaviour backwards — corrected with measurements. 5. D-18 says a stale price table "fails `npm run spend` with a warning", task 1.2 says "warn" — implemented as warning + exit 1 (D-18 outranks). 6. PRD answer-contract example `chunkId: "p15-2026:0043"` does not follow D-10's `<docId>:<page>:<ordinal>` — D-10 governs; PRD example not edited. 7. PRD P0-5 rule "sentences[*].citations non-empty … (D-5)" should cite D-6. 8. **INV-14 requires `.env.example` to match template-owned `src/core/env.ts` exactly**, so `VOYAGE_API_KEY` (1.7) and `ANTHROPIC_API_KEY` (Phase 2) cannot be added to `.env.example` without a clone-side env reader (e.g. `src/lib/env.ts` with its own schema) — decide before 1.7. 9. **O-10:** v1.3.0 has no API-key mechanism (`src/core` has none; the spec's only bearer check is the cron secret), so O-10's fallback applies: a hashed-key table with one row, Phase 4, after asking. 10. Task 1.4's gate failed on 3+-column tables that no golden-set question cites — closed as D-25. 11. `KICKOFF.md` still says 5400 / v1.2.1 — kept as the historical record. 12. The clone row is in the template's `CLONES.md` working tree, uncommitted (diff shown; committing the template was not asked).
+**Owner hand steps still open:** paste `VOYAGE_API_KEY` into `.env.local` (line prepared); private GitHub repo `shanelabountyai/footnote` + `git remote add origin` + first-push secret check (`git ls-files | grep -iE "\.env|secret|credential|\.pem$|\.key$"` — only `.env.example` may appear); build-log card A4; task 1.9 (ten hand answers, GM-02b fragment).
 
-**Reuse check:** `reuse-scan.py check` parsed 0 items from the checkbox list (434 built items in 1 indexed project); `find` probes returned document mentions only. Buckets recorded by hand in `docs/decisions.md`.
-
-**Owner hand steps still open:** private GitHub repo `shanelabountyai/footnote` + `git remote add origin` + first-push secret check (`git ls-files | grep -iE "\.env|secret|credential|\.pem$|\.key$"` — only `.env.example` may appear; `.gitignore` covers `.env`, `.env.*`, `corpus/raw/`); Voyage key (needed at 1.7; env mechanism per contradiction 8 first); build-log card A4; task 1.9.
-
-Spend so far: **$0.00** (embedding and model calls start at 1.7).
+Spend so far: **$0.00** (embedding calls start at 1.7).
