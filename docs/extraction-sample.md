@@ -37,6 +37,6 @@ For comparison, the same 20 on the reading-order mode (first pass, by eye): 9 OK
 - **Tables with three or more columns, and numeric tables with footnote superscripts, are not citable from `pdftotext` output in any mode.** The chunker must not let a citation span such a table, and the golden set should not expect one (it does not: its only table fixture, GA-03 / Pub 583 Table 3, is row 1 above).
 - Remaining artifacts, not counted as wrong: icon labels (`CAUTION`, `!`, `TIP`) on their own lines; checkbox glyphs dropped; a stray blank line at some column joins; a true compound broken at a line end is glued ("self-employed" → "selfemployed") because dehyphenation has no dictionary (O-7b ceiling).
 
-## Decision needed (O-11, `docs/decisions.md`)
+## Decision (D-25, 2026-10-19)
 
-The gate says stop and propose. Options: (a) accept the table limit for v1 — mark table regions in the chunker, never cite across them, keep simple two-column tables citable, list the four table pages above as known-uncitable; (b) add `pymupdf` as a table-only extraction path (`page.find_tables()`), a dependency, re-score these 4 rows before adopting it. Default in force until Shane decides: (a).
+Shane chose (a). The gate said stop and propose; the options were: Options: (a) accept the table limit for v1 — mark table regions in the chunker, never cite across them, keep simple two-column tables citable, list the four table pages above as known-uncitable; (b) add `pymupdf` as a table-only extraction path (`page.find_tables()`), a dependency, re-score these 4 rows before adopting it. Default in force until Shane decides: (a).
