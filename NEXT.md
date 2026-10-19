@@ -1,8 +1,29 @@
 # NEXT
 
-## ▶ Next session: task 1.11 (retrieval table), then 1.12 (CI gate)
+## ▶ Next session: task 1.12 (CI gate)
 
-Start in `~/Projects/footnote` on Fable. Build `eval:retrieval` (task 1.11): recall@1/5/10 and MRR per retriever (fts, dense, hybrid) on the verified A, M and V questions of `eval/golden.json`, by slice, plus the top-score distributions for A vs U (θ input, D-17); write `eval/results/retrieval-<snapshot>-<date>.json`; record the table here and the default retriever as D-15a with the measured gap. Known going in: fts (AND) returns **0 chunks for GP-01 and GP-05 as written** (D-12a), so expect fts recall to trail dense on the private slice. Each dense/hybrid question costs one query embed (~10 tokens, logged as $0); the Voyage account is still rate-capped (3 RPM / 10K TPM) until a payment method is added, and `voyageEmbed` waits out 429s, so a 41-question run takes about 15 minutes for dense + hybrid — run it in the background with failure-only monitoring. Then 1.12. **Task 1.9 (Shane) is still open**; 1.10 is built and green but its formal report waits on it.
+Start in `~/Projects/footnote`. Build the pipeline that fails if `corpus:check`, `permissions:verify` or `npm test` fails, and prove it on a throwaway branch by changing one byte of a committed page file. **Blocked in part:** the repo has no `origin`, so GitHub Actions cannot run until Shane creates `shanelabountyai/footnote` (owner hand step below). The workflow file can be written and the failure proven locally first. CI has no Voyage key, so `permissions:verify` dense/hybrid needs either a secret or a fts-only mode; decide that in 1.12. After 1.12 comes the Phase 1 gate: θ (open question below), `docs/phase-2-tasks.md`, then stop for review. **Task 1.9 (Shane) is still open.**
+
+## Session 4 — 2026-10-19 (task 1.11)
+
+**Built:** `scripts/eval-retrieval.ts` behind `npm run eval:retrieval`; pure metrics in `src/lib/eval/retrieval-metrics.ts` + `tests/unit/retrieval-metrics.test.ts`. Every question is embedded in **one** Voyage call per run (dense/hybrid read from that), so the run takes seconds instead of ~15 min under the rate cap. Writes `eval/results/retrieval-cd1252c6a407-2026-10-19.json` (per-question ranks, top-10 doc#page, top scores).
+
+**Measured** (k = 10, page ± tolerance match, recall = share of distinct expected (doc, page) citations, 2 UNVERIFIED excluded: GM-02, GV-06):
+
+| retriever | slice | n | recall@1 | recall@5 | recall@10 | MRR |
+|---|---|---|---|---|---|---|
+| fts | A+M+V | 26 | 0.231 | 0.538 | 0.577 | 0.399 |
+| dense | A+M+V | 26 | 0.442 | 0.846 | 0.923 | 0.695 |
+| hybrid | A+M+V | 26 | 0.423 | 0.904 | 0.942 | 0.685 |
+| fts / dense / hybrid | P (private, 3) | 3 | 0.333 / 1.000 / 1.000 | 0.333 / 1.000 / 1.000 | — | 0.333 / 1.000 / 1.000 |
+
+By slice (recall@5): A fts 0.607 / dense 0.929 / hybrid 0.964 (n 14); M 0.357 / 0.857 / 0.786 (n 7); V 0.600 / 0.600 / 0.900 (n 5). Full table in the script output and the results file.
+
+**Decided:** D-15a, default retriever **hybrid** on recall@5 (+0.058 over dense, −0.010 MRR; +0.366 over fts).
+
+**Open for the Phase 1 gate (θ, D-17 / O-4):** top-1 score distributions overlap on every retriever. Dense cosine: A 0.455–0.710 (median 0.614), U 0.424–0.603 (median 0.520); calibration midpoint **0.559**. Hybrid RRF: A 0.016–0.033, U 0.016–0.031; the fused score is close to binary (≈ 1/61 = one list ranks it first, ≈ 2/61 = both do), so θ on "the top fused score" as D-17 words it cannot separate A from U well (midpoint 0.024). Likely options: put θ on the dense cosine even with hybrid ranking, or accept a weak gate and lean on the model refusal. That is Shane's call at the gate; it is not decided here.
+
+**Gate:** `npm test` **35 files / 203 tests passed**; typecheck OK; lint 0 errors (the 1 template warning); `corpus:check` OK; `permissions:verify` OK. **Spend: $0.0147 of $25** (ledger 151 embed calls / 736,037 tokens; query embeds round to $0).
 
 ## Session 3 — 2026-10-19 (tasks 1.7 dense half, 1.10)
 

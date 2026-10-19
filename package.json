@@ -33,7 +33,7 @@
     "corpus:fetch": "python3 tools/fetch_corpus.py",
     "corpus:check": "python3 tools/check_corpus.py",
     "corpus:index": "npm run corpus:check && dotenv -e .env.local -- tsx scripts/corpus-index.ts",
-    "eval:retrieval": "echo 'eval:retrieval: 0 checks (Phase 1 task 1.11 \u2014 no retriever yet)'",
+    "eval:retrieval": "dotenv -e .env.local -- tsx scripts/eval-retrieval.ts",
     "permissions:verify": "dotenv -e .env.local -- tsx scripts/permissions-verify.ts",
     "spend": "dotenv -e .env.local -- tsx scripts/spend.ts"
   },
