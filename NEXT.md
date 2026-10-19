@@ -1,8 +1,20 @@
 # NEXT
 
-## ▶ Next session: task 1.7 (three retrievers) — needs the Voyage key first
+## ▶ Next session: finish task 1.7 (dense + hybrid), needs the Voyage key
 
-Start in `~/Projects/footnote` on Fable. **Before 1.7 can index `dense`/`hybrid`, Shane pastes the Voyage key** into `.env.local` at the `VOYAGE_API_KEY=` line already prepared (gitignored; read directly via `process.env` at call time, O-12 — never in `.env.example`, INV-14). `fts` needs no key, so 1.7 can start with the `Retriever` interface, the chunk table (clone-owned Prisma schema: `tsvector` GIN + `Unsupported("vector(1024)")`, raw SQL for the cosine scan, no Prisma-side package needed) and `corpus:index -- --retriever=fts`; `dense` embeds through `assertBudget` with plain `fetch` to Voyage (`input_type` document/query), `hybrid` is RRF k = 60. Then 1.10 → 1.11 → 1.12. Task **1.9** (Shane's ten hand answers → `eval/hand-answers.md`) is still open and must land before 1.10 is reported; it also fixes the GM-02b fragment.
+Start in `~/Projects/footnote` on Fable. **Shane pastes `VOYAGE_API_KEY`** into `.env.local` (the line is already there; the file is gitignored). Then run `npm run corpus:index -- --retriever=dense` **twice**: the first run embeds 3,922 chunks (≈ 31 batches of 128, expected about $0.02 at list price), the second must print `embeddings … 0 written`. Then `npm run spend` should show non-zero `embed` tokens, which completes the 1.7 acceptance; tick 1.7 in `docs/phase-1-tasks.md` with both numbers. After that: 1.10 (PT-1 + tier-filter lint, `permissions:verify`), then 1.11 → 1.12. Task **1.9** (Shane's ten hand answers → `eval/hand-answers.md`, plus the GM-02b fragment) must land before 1.10 is reported.
+
+## Session 2 — 2026-10-19 (task 1.7, fts half)
+
+**Built** (commits dc98aae, 7cce3b1, efde10a): migration `20261019195011_retrieval` (`CorpusChunk` with tsvector + GIN, `ChunkEmbedding` vector(1024)); `src/lib/retrieval/` with `retriever.ts` (`Retriever`, `tiersFor`, fts / dense / hybrid RRF k = 60, org + tier filter inside every query), `voyage.ts` (plain fetch, `assertBudget` before, `recordCall` after), `indexer.ts`, `snapshot.ts`; `scripts/corpus-index.ts` (`corpus:index` runs `corpus:check` first, upserts org `ledger-lane`); `tests/integration/retrieval.test.ts` (14 tests: idempotency, org/tier filter on all three retrievers with a fake embedder, RRF, the ledger path with fetch stubbed, snapshot id).
+
+**Measured:** `corpus:index -- --retriever=fts` first run **3,922 written**, re-run **0 written**. fts query form probe (D-15b): AND 17 / OR 14 of 32 answerable questions with an expected passage in the top 5, so the AND form from D-15 stays.
+
+**Gate:** `npm test` **34 files / 199 tests passed**; typecheck OK; lint 0 errors (the 1 template warning); `corpus:check` OK (snapshot `sha256:cd1252c6…`); `permissions:verify` still a stub until 1.10. **Spend: $0.0000 of $25** (no live embedding call yet).
+
+**Decided:** D-15b (storage as built, org `ledger-lane`, fts AND kept, whole-micro-USD rounding means a single query embed logs $0 with its tokens).
+
+**Not pushed:** the repo still has no `origin` (owner hand step below).
 
 ## Session 1 — 2026-10-19 (on the Mac)
 
