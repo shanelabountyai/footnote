@@ -1,0 +1,22 @@
+{
+  "_comment": "Per-MTok USD prices read from the vendor pages on checkedAt (D-18). Never from memory. `npm run spend` warns when checkedAt is older than 60 days. Fable 5.1 is listed only so an accidental runtime call is priced, not because it may be used (D-4).",
+  "checkedAt": "2026-10-19",
+  "sources": {
+    "anthropic": "https://platform.claude.com/docs/en/about-claude/pricing",
+    "anthropicModels": "https://platform.claude.com/docs/en/about-claude/models/overview",
+    "voyage": "https://www.mongodb.com/docs/voyageai/management/billing"
+  },
+  "models": {
+    "claude-sonnet-5-5": {"inputPerMTok": 2.00, "outputPerMTok": 10.00, "cacheWrite5mPerMTok": 2.50, "cacheReadPerMTok": 0.10, "batchDiscount": 0.5},
+    "claude-opus-5-5":   {"inputPerMTok": 4.00, "outputPerMTok": 20.00, "cacheWrite5mPerMTok": 5.00, "cacheReadPerMTok": 0.20, "batchDiscount": 0.5},
+    "claude-haiku-5-5":  {"inputPerMTok": 0.10, "outputPerMTok": 0.50, "cacheWrite5mPerMTok": 0.125, "cacheReadPerMTok": 0.01, "batchDiscount": 0.5,
+                          "over100kPromptTokens": {"inputPerMTok": 0.50, "outputPerMTok": 2.50}},
+    "claude-fable-5-1":  {"inputPerMTok": 10.00, "outputPerMTok": 50.00, "cacheWrite5mPerMTok": 12.50, "cacheReadPerMTok": 0.25, "batchDiscount": 0.5, "runtimeAllowed": false}
+  },
+  "embeddings": {
+    "voyage-4-lite":    {"perMTok": 0.02, "freeTokens": 200000000},
+    "voyage-4":         {"perMTok": 0.06, "freeTokens": 200000000},
+    "voyage-context-4": {"perMTok": 0.12, "freeTokens": 200000000},
+    "rerank-3-lite":    {"perMTok": 0.02, "freeTokens": 200000000}
+  }
+}
