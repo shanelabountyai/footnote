@@ -1,0 +1,34 @@
+// Footnote — clone-owned schema (never in the template). Spend ledger first (Phase 1 task 1.2, D-18, D-23).
+
+/// Why a call was made. The scorecard groups by this; the caps apply across all of them.
+enum ModelPurpose {
+  answer
+  judge
+  embed
+}
+
+/// `budget_exceeded` rows are refusals: no call was made, costMicroUsd holds the refused estimate.
+enum ModelCallOutcome {
+  ok
+  budget_exceeded
+}
+
+/// Every live model or embedding call, or its refusal (D-23). `eval:scorecard` and `GET /answers/:id`
+/// read these rows only. Cost is integer micro-dollars (1 USD = 1,000,000) priced from config/prices.json
+/// at write time — no floats, no Decimal (house money rule, D-23a).
+model ModelCall {
+  id           String           @id @default(uuid()) @db.Uuid
+  createdAt    DateTime         @default(now()) @db.Timestamptz(6)
+  purpose      ModelPurpose
+  model        String
+  outcome      ModelCallOutcome @default(ok)
+  inputTokens  Int              @default(0)
+  outputTokens Int              @default(0)
+  costMicroUsd Int
+  runId        String?
+  answerId     String?
+
+  @@index([runId])
+  @@index([answerId])
+  @@index([purpose, outcome])
+}
