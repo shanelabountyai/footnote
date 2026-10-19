@@ -1,8 +1,20 @@
 # NEXT
 
-## ▶ Next session: finish task 1.7 (dense + hybrid), needs the Voyage key
+## ▶ Next session: task 1.11 (retrieval table), then 1.12 (CI gate)
 
-Start in `~/Projects/footnote` on Fable. **Shane pastes `VOYAGE_API_KEY`** into `.env.local` (the line is already there; the file is gitignored). Then run `npm run corpus:index -- --retriever=dense` **twice**: the first run embeds 3,922 chunks (≈ 31 batches of 128, expected about $0.02 at list price), the second must print `embeddings … 0 written`. Then `npm run spend` should show non-zero `embed` tokens, which completes the 1.7 acceptance; tick 1.7 in `docs/phase-1-tasks.md` with both numbers. After that: 1.10 (PT-1 + tier-filter lint, `permissions:verify`), then 1.11 → 1.12. Task **1.9** (Shane's ten hand answers → `eval/hand-answers.md`, plus the GM-02b fragment) must land before 1.10 is reported.
+Start in `~/Projects/footnote` on Fable. Build `eval:retrieval` (task 1.11): recall@1/5/10 and MRR per retriever (fts, dense, hybrid) on the verified A, M and V questions of `eval/golden.json`, by slice, plus the top-score distributions for A vs U (θ input, D-17); write `eval/results/retrieval-<snapshot>-<date>.json`; record the table here and the default retriever as D-15a with the measured gap. Known going in: fts (AND) returns **0 chunks for GP-01 and GP-05 as written** (D-12a), so expect fts recall to trail dense on the private slice. Each dense/hybrid question costs one query embed (~10 tokens, logged as $0); the Voyage account is still rate-capped (3 RPM / 10K TPM) until a payment method is added, and `voyageEmbed` waits out 429s, so a 41-question run takes about 15 minutes for dense + hybrid — run it in the background with failure-only monitoring. Then 1.12. **Task 1.9 (Shane) is still open**; 1.10 is built and green but its formal report waits on it.
+
+## Session 3 — 2026-10-19 (tasks 1.7 dense half, 1.10)
+
+**Built** (commits 4aac2ea, cbaa212, and the 1.10 commit): `voyageEmbed` waits out 429s (`fetchWithRetry`: Retry-After, else 21 s, 40 tries; tested), `corpus:index` embeds in batches of 32; `scripts/permissions-verify.ts` behind `npm run permissions:verify` — PT-1, PT-2, PT-3 retrieval halves for all three retrievers, the query log captured by wrapping `db.$queryRawUnsafe` (template client untouched), and the lint that only `retriever.ts` and `indexer.ts` touch the chunk tables.
+
+**Measured:** dense index **3,922 embeddings**, re-run **0 written**; ledger **130 `embed` calls, 735,309 tokens, $0.0147** (D-15c). `permissions:verify` **22 checks OK**; with the tier predicate neutralized in the working tree **12 fail** and front_desk's unfiltered top 10 for the Red Fork question is 5 partner + 5 engagement chunks (D-12a). fts has no lexical match for GP-01/GP-05 as written for any role ("give", "long" absent from the memos; the OR form ranks IRS prose above both memos and was not adopted), so the fts best-match half is probed with the brief's own sentences and the output line says so.
+
+**Gate:** `npm test` **34 files / 200 tests passed**; typecheck OK; lint 0 errors (the 1 template warning); `corpus:check` OK (snapshot `sha256:cd1252c6…`, GM-02/GV-06 still UNVERIFIED); `permissions:verify` OK. **Spend: $0.0147 of $25.**
+
+**Decided:** D-15c (dense index as measured, 429 throttle), D-12a (`permissions:verify` design and measurements).
+
+**Not pushed:** the repo still has no `origin` (owner hand step below). Voyage: adding a payment method on the dashboard lifts the 3 RPM / 10K TPM cap; nothing in code depends on it.
 
 ## Session 2 — 2026-10-19 (task 1.7, fts half)
 
@@ -50,4 +62,4 @@ Known chunker limits (D-10a): page-bounded, so a sentence across a page break is
 
 **Owner hand steps still open:** paste `VOYAGE_API_KEY` into `.env.local` (line prepared); private GitHub repo `shanelabountyai/footnote` + `git remote add origin` + first-push secret check (`git ls-files | grep -iE "\.env|secret|credential|\.pem$|\.key$"` — only `.env.example` may appear); build-log card A4; task 1.9 (ten hand answers, GM-02b fragment).
 
-Spend so far: **$0.00** (embedding calls start at 1.7).
+Spend so far: **$0.0147** (dense index, 735,309 embedding tokens).
