@@ -1,0 +1,72 @@
+Table 1-2. Which Forms Must I File?
+IF you are liable for... THEN use Form... DUE by...1
+Income tax 1040, or 1040-SR, and Schedule C2
+15th day of 4th month after end of
+tax year.
+Self-employment tax Schedule SE File with Form 1040, Form 1040-SR, or
+1040-SS.
+Estimated tax 1040-ES 15th day of 4th, 6th, and 9th months of tax
+year, and 15th day of 1st month after the end
+of tax year.
+Social security and Medicare taxes and income
+tax withholding
+941 or 944 April 30, July 31, October 31, and January 31.3
+See Pub. 15.
+Providing information on social security and
+Medicare taxes and income tax withholding
+W-2 (to employee)
+W-2 and W-3 (to the SSA)
+January 31.3
+January 31.3
+Federal unemployment tax (FUTA) 940 January 31.3
+April 30, July 31, October 31, and January 31,
+but only if the liability for unpaid tax is more
+than $500.
+Filing information returns for payments to
+nonemployees and transactions with other
+persons
+See Information Returns Forms 1099—to the recipient by January 31
+and to the IRS by February 28 (March 31 if
+filing electronically).4
+Other forms—see the General Instructions for
+Certain Information Returns.
+Excise tax See Excise Taxes See the instructions for the forms.
+1
+If a due date falls on a Saturday, Sunday, or legal holiday, file by the next day that is not a Saturday, Sunday, or legal holiday. For more information, see Pub. 509.
+2
+File a separate schedule for each business.
+3
+See the form instructions if you go out of business, change the form of your business, or stop paying wages.
+4
+Form 1099-NEC—to the IRS by January 31 (even if filing electronically) if you are reporting nonemployee compensation.
+Employment Taxes
+If you have employees, you will need to file forms to report
+employment taxes. Employment taxes include the following items.
+• Social security and Medicare taxes.
+• Federal income tax withholding.
+• Federal unemployment tax (FUTA).
+For more information, see Pub. 15 (Circular E), Employer's Tax Guide. That publication explains your tax responsibilities as an employer.
+Do not reduce your deduction for social security
+and Medicare taxes by the nonrefundable and refundable portions of the FFCRA and ARP of 2021
+credits for qualified sick and family leave wages claimed
+on an employment tax return. Instead, report the credits
+as income.
+To help you determine whether the people working for
+you are your employees, see Pub. 15-A. That publication
+has information to help you determine whether an individual is an independent contractor or an employee.
+CAUTION
+!
+If you incorrectly classify an employee as an independent contractor, you may be held liable for employment taxes for that worker plus a penalty.
+An independent contractor is someone who is self-employed. You generally do not have to withhold or pay any
+taxes on payments made to an independent contractor.
+Excise Taxes
+This section identifies some of the excise taxes you may
+have to pay and the forms you have to file if you do any of
+the following.
+• Manufacture or sell certain products.
+• Operate certain kinds of businesses.
+• Use various kinds of equipment, facilities, or products.
+• Receive payment for certain services.
+For more information on excise taxes, see Pub. 510, Excise Taxes.
+CAUTION
+!

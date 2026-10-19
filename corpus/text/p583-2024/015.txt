@@ -1,0 +1,60 @@
+Bookkeeping System
+You must decide whether to use a single-entry or a double-entry bookkeeping system. The single-entry system of
+bookkeeping is the simplest to maintain, but it may not be
+suitable for everyone. You may find the double-entry system better because it has built-in checks and balances to
+assure accuracy and control.
+Single-entry. A single-entry system is based on the income statement (profit or loss statement). It can be a simple and practical system if you are starting a small business. The system records the flow of income and
+expenses through the use of:
+1. A daily summary of cash receipts, and
+2. Monthly summaries of cash receipts and disbursements.
+Double-entry. A double-entry bookkeeping system uses
+journals and ledgers. Transactions are first entered in a
+journal and then posted to ledger accounts. These accounts show income, expenses, assets (property a business owns), liabilities (debts of a business), and net worth
+(excess of assets over liabilities). You close income and
+expense accounts at the end of each tax year. You keep
+asset, liability, and net worth accounts open on a permanent basis.
+In the double-entry system, each account has a left
+side for debits and a right side for credits. It is self-balancing because you record every transaction as a debit entry
+in one account and as a credit entry in another.
+Under this system, the total debits must equal the total
+credits after you post the journal entries to the ledger accounts. If the amounts do not balance, you have made an
+error and you must find and correct it.
+An example of a journal entry exhibiting a payment of
+rent in October is shown next.
+General Journal
+Date Description of Entry Debit Credit
+Oct. 5 Rent expense 780.00
+Cash 780.00
+Computerized System
+There are computer software packages you can use for
+recordkeeping. They can be purchased over the Internet
+and in many retail stores. These packages are very helpful
+and relatively easy to use; they require very little knowledge of bookkeeping and accounting.
+If you use a computerized system, you must be able to
+produce sufficient legible records to support and verify entries made on your return and determine your correct tax
+liability. To meet this qualification, the machine-sensible
+records must reconcile with your books and return. These
+records must provide enough detail to identify the underlying source documents.
+You must also keep all machine-sensible records and a
+complete description of the computerized portion of your
+recordkeeping system. This documentation must be sufficiently detailed to show all of the following items.
+• Functions being performed as the data flows through
+the system.
+• Controls used to ensure accurate and reliable processing.
+• Controls used to prevent the unauthorized addition, alteration, or deletion of retained records.
+• Charts of accounts and detailed account descriptions.
+For more information, see Revenue Procedure 98-25 in
+Cumulative Bulletin 1998-1, available at IRS.gov/
+Businesses/Automated-Records.
+Table 3. Period of Limitations
+IF you... THEN the period is...
+1. Owe additional tax and situations (2), (3), and (4), below, do not apply to you 3 years
+2. Do not report income that you should report and it is more than 25% of the gross
+income shown on the return
+6 years
+3. File a fraudulent return Not limited
+4. Do not file a return Not limited
+5. File a claim for credit or refund after you filed your return Later of: 3 years or
+2 years after tax
+was paid
+6. File a claim for a loss from worthless securities or a bad debt deduction 7 years

@@ -1,0 +1,85 @@
+deduction for the car. The car isn’t qualified property for
+purposes of the special depreciation allowance.
+Before applying the limit, you figure your maximum section 179 deduction to be $9,000. This is the cost of your
+qualifying property (up to the maximum $1,220,000
+amount) multiplied by your business use ($15,000 × 60%
+(0.60)).
+You then figure that your section 179 deduction for
+2024 is limited to $7,440 (60% of $12,400). You then figure your unadjusted basis of $1,560 (($15,000 × 60%
+(0.60)) − $7,440) for determining your depreciation deduction. You have reached your maximum depreciation deduction for 2024. For 2025, you will use your unadjusted
+basis of $1,560 to figure your depreciation deduction.
+Deductions in years after the recovery period. If the
+depreciation deductions for your car are reduced under
+the passenger automobile limits (discussed earlier), you
+will have unrecovered basis in your car at the end of the
+recovery period. If you continue to use your car for business, you can deduct that unrecovered basis (subject to
+depreciation limits) after the recovery period ends.
+Unrecovered basis. This is your cost or other basis in
+the car reduced by any clean-fuel vehicle deduction (for
+vehicles placed in service before January 1, 2006), alternative motor vehicle credit, electric vehicle credit, gas guzzler tax, and depreciation (including any special depreciation allowance, discussed earlier, unless you elect not to
+claim it) and section 179 deductions that would have been
+allowable if you had used the car 100% for business and
+investment use.
+The recovery period. For 5-year property, your recovery period is 6 calendar years. A part year’s depreciation
+is allowed in the first calendar year, a full year’s depreciation is allowed in each of the next 4 calendar years, and a
+part year’s depreciation is allowed in the 6th calendar
+year.
+Under MACRS, your recovery period is the same
+whether you use declining balance or straight line depreciation. You determine your unrecovered basis in the 7th
+year after you placed the car in service.
+How to treat unrecovered basis. If you continue to
+use your car for business after the recovery period, you
+can claim a depreciation deduction in each succeeding
+tax year until you recover your basis in the car. The maximum amount you can deduct each year is determined by
+the date you placed the car in service and your business-use percentage. For example, no deduction is allowed for a year you use your car 100% for personal purposes.
+Example. In April 2018, you bought and placed in
+service a car you used exclusively in your business. The
+car cost $61,500. You didn’t claim a section 179 deduction
+or the special depreciation allowance for the car. You continued to use the car 100% in your business throughout
+the recovery period (2018 through 2023). For those years,
+you used the MACRS Depreciation Chart (200% DB
+method), Maximum Depreciation Deduction for Passenger
+Automobiles (Including Trucks and Vans) Acquired After
+September 27, 2017, and Placed in Service During 2018
+or Later table, earlier, for the applicable tax year to figure
+your depreciation deductions during the recovery period.
+Your depreciation deductions were subject to the depreciation limits, so you will have unrecovered basis at the end
+of the recovery period as shown in the following table.
+MACRS Deprec.
+Year % Amount Limit Allowed
+2018 20.00 $12,300 $10,000 $10,000
+2019 32.00 19,680 16,000 16,000
+2020 19.20 11,808 9,600 9,600
+2021 11.52 7,085 5,760 5,760
+2022 11.52 7,085 5,760 5,760
+2023 5.76 3,542 5,760 3,542
+Total $61,500 $50,662
+For the correct limit, see the Maximum Depreciation
+Deduction for Passenger Automobiles (Including Trucks
+and Vans) Acquired After September 27, 2017, and
+Placed in Service During 2018 or Later table under Depreciation Limits, earlier, for the maximum amount of depreciation allowed each year.
+At the end of 2023, you had an unrecovered basis in
+the car of $10,838 ($61,500 – $50,662). If you continued
+to use the car 100% for business in 2024 and later years,
+you can claim a depreciation deduction equal to the lesser
+of $5,760 or your remaining unrecovered basis.
+If your business use of the car was less than 100% during any year, your depreciation deduction would be less
+than the maximum amount allowable for that year. However, in determining your unrecovered basis in the car, you
+would still reduce your original basis by the maximum
+amount allowable as if the business use had been 100%.
+For example, if you had used your car 60% for business
+instead of 100%, your allowable depreciation deductions
+would have been $30,397 ($50,662 × 60% (0.60)), but you
+still would have to reduce your basis by $50,662 to determine your unrecovered basis.
+Car Used 50% or Less for Business
+If you use your car 50% or less for qualified business use
+(defined earlier under Depreciation Deduction) either in
+the year the car is placed in service or in a later year, special rules apply. The rules that apply in these two situations are explained in the following paragraphs. (For this
+purpose, “car” was defined earlier under Actual Car Expenses and includes certain trucks and vans.)
+Qualified business use 50% or less in year placed in
+service. If you use your car 50% or less for qualified business use, the following rules apply.
+• You can’t take the section 179 deduction.
+• You can’t take the special depreciation allowance.
+• You must figure depreciation using the straight line
+method over a 5-year recovery period. You must continue to use the straight line method even if your percentage of business use increases to more than 50%
+in a later year.

@@ -1,0 +1,54 @@
+3. Check Disbursements Journal
+Year 20— Month January
+Day Paid To
+Check
+#
+Amount of
+Check Materials
+Gross
+Payroll
+Federal
+Withheld
+Income
+Tax
+FICA Social
+Security
+Reserve
+FICA
+Medicare
+Reserve
+3 Dale Advertising 74 85.00
+4 City Treasurer 75 35.00
+4 Auto Parts, Inc. 76 203.00 203.00
+4 John E. Marks 77 214.11 260.00 (20.00) (16.12) (3.77)
+6 Henry Brown 78 250.00
+6 Mike's Deli 79 36.00
+6 Joe's Service
+Station
+80 74.50 29.50
+6 ABC Auto Paint 81 137.50 137.50
+7 Henry Brown 82 225.00
+14 Telephone Co. 83 27.00
+15
+National Bank (Tax
+Deposit) 84 119.56 40.00 32.24 7.54
+18 National Bank 85 90.09
+18 Auto Parts, Inc. 86 472.00 472.00
+18 Henry Brown 87 275.00
+18 John E. Marks 88 214.11 260.00 (20.00) (16.12) (3.77)
+21 Electric Co. 89 175.30
+21 M.B. Ignition 90 66.70 66.70
+21 Baker's Fender Co. 91 9.80 9.80
+21 Petty Cash 92 17.00 15.00
+21 Henry Brown 93 225.00
+25 Baker's Fender Co. 94 150.00 150.00
+25 Enterprise
+Properties
+95 300.00
+25 State Treasurer 96 12.00
+25 State Treasurer 97 65.00
+3,478.67 1,083.50 520.00 -0- -0- -0-
+Bank service
+charge
+10.00
+TOTALS 3,488.67 1,083.50 520.00 -0- -0- -0-

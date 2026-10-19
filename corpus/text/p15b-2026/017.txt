@@ -1,0 +1,94 @@
+shareholder in their wages. When figuring social security
+and Medicare taxes, you must also include the cost of this
+coverage in the 2% shareholder’s wages. Include the cost
+in boxes 1, 3, and 5 of Form W-2. However, you don’t have
+to withhold federal income tax or pay FUTA tax on the cost
+of any group-term life insurance coverage you provide to
+the 2% shareholder.
+Health Savings Accounts (HSAs)
+An HSA is an account owned by a qualified individual who
+is generally your employee or former employee. Any contributions that you make to an HSA become the employee’s property and can’t be withdrawn by you. Contributions to the account are used to pay current or future
+medical expenses of the account owner, their spouse, and
+any qualified dependent. The medical expenses must not
+be reimbursable by insurance or other sources and their
+payment from HSA funds (distribution) won’t give rise to a
+medical expense deduction on the individual’s federal income tax return.
+Eligibility. A qualified individual must be covered by a
+High Deductible Health Plan (HDHP) and not be covered
+by other health insurance except for permitted insurance
+listed under section 223(c)(3) or insurance for accidents,
+disability, dental care, vision care, long-term care, or telehealth and other remote care. For calendar year 2026, a
+qualifying HDHP must have a deductible of at least $1,700
+for self-only coverage or $3,400 for family coverage and
+must limit annual out-of-pocket expenses of the beneficiary to $8,500 for self-only coverage and $17,000 for
+family coverage.
+There are no income limits that restrict an individual’s
+eligibility to contribute to an HSA nor is there a requirement that the account owner have earned income to make
+a contribution.
+Exceptions. An individual isn’t a qualified individual if
+they can be claimed as a dependent on another person’s
+tax return. Also, an employee’s participation in a health
+FSA or HRA generally disqualifies the individual (and employer) from making contributions to their HSA. However,
+an individual may qualify to participate in an HSA if they
+are participating in only a limited-purpose FSA or HRA or
+a post-deductible FSA. For more information, see Other
+employee health plans in Pub. 969.
+Employer contributions. Up to specified dollar limits,
+cash contributions to the HSA of a qualified individual (determined monthly) are exempt from federal income tax
+withholding, social security tax, Medicare tax, and FUTA
+tax if you reasonably believe that the employee can exclude the benefits from gross income. For 2026, you can
+contribute up to $4,400 for self-only coverage under an
+HDHP or $8,750 for family coverage under an HDHP to a
+qualified individual’s HSA.
+The contribution amounts listed above are increased by
+$1,000 for a qualified individual who is age 55 or older at
+any time during the year. For two qualified individuals who
+are married to each other and who are each age 55 or
+older at any time during the year, each spouse’s
+contribution limit is increased by $1,000, provided each
+spouse has a separate HSA. No contributions can be
+made to an individual’s HSA after they become enrolled in
+Medicare Part A or Part B.
+Nondiscrimination rules. Your contribution amount to
+an employee’s HSA must be comparable for all employees
+who have comparable coverage during the same period.
+Otherwise, there will be an excise tax equal to 35% of the
+amount you contributed to all employees’ HSAs.
+For guidance on employer comparable contributions to
+HSAs under section 4980G of the Internal Revenue Code
+in instances where an employee hasn’t established an
+HSA by December 31 and in instances where an employer accelerates contributions for the calendar year for
+employees who have incurred qualified medical expenses,
+see Regulations section 54.4980G-4.
+Exception. The Tax Relief and Health Care Act of
+2006 allows employers to make larger HSA contributions
+for a non-highly compensated employee than for a highly
+compensated employee. A highly compensated employee
+for 2026 is an employee who meets either of the following
+tests.
+1. The employee was a 5% owner at any time during the
+year or the preceding year.
+2. The employee received more than $160,000 in pay for
+the preceding year.
+You can choose to ignore test (2) if the employee wasn’t
+also in the top 20% of employees when ranked by pay for
+the preceding year.
+Partnerships and S corporations. Partners and 2%
+shareholders of an S corporation aren’t eligible for salary
+reduction (pre-tax) contributions to an HSA. Employer
+contributions to the HSA of a bona fide partner or 2%
+shareholder are treated as distributions or guaranteed
+payments, as determined by the facts and circumstances.
+For more information, see Notice 2005-8, 2005-4 I.R.B.
+368, available at IRS.gov/irb/2005-04_IRB#NOT-2005-8.
+Cafeteria plans. You may contribute to an employee’s
+HSA using a cafeteria plan and your contributions aren’t
+subject to the statutory comparability rules. However, cafeteria plan nondiscrimination rules still apply. For example,
+contributions under a cafeteria plan to employee HSAs
+can’t be greater for higher-paid employees than they are
+for lower-paid employees. Contributions that favor
+lower-paid employees aren’t prohibited.
+Reporting requirements. You must report your contributions to an employee’s HSA in box 12 of Form W-2 using code W. The trustee or custodian of the HSA, generally a bank or insurance company, reports distributions
+from the HSA using Form 1099-SA.
+More information. For more information about HSAs,
+see Pub. 969.

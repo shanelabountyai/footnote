@@ -1,0 +1,86 @@
+December 31, placed in service on October 16 an item of
+5-year property with a basis of $1,000. Tara does not elect
+to claim a section 179 deduction and the property does
+not qualify for a special depreciation allowance. The depreciation method for this property is the 200% declining
+balance method. The depreciation rate is 40%. The corporation must apply the mid-quarter convention because
+the property was the only item placed in service that year
+and it was placed in service in the last 3 months of the tax
+year.
+Tara treats the property as placed in service on September 1. This date is shown in the table provided in the
+example illustrating the mid-quarter convention under Using the Applicable Convention in a Short Tax Year, earlier,
+for property that Tara Corporation placed in service during
+the quarter that begins on August 8 and ends on October
+19. Under MACRS, Tara is allowed 4 months of depreciation for the short tax year that consists of 10 months. The
+corporation first multiplies the basis ($1,000) by 40% to
+get the depreciation for a full tax year of $400. The corporation then multiplies $400 by 4/12 to get the short tax year
+depreciation of $133.
+Property Placed in Service Before a Short
+Tax Year
+If you have a short tax year after the tax year in which you
+began depreciating property, you must change the way
+you figure depreciation for that property. If you were using
+the percentage tables, you can no longer use them. You
+must figure depreciation for the short tax year and each
+later tax year as explained next.
+Depreciation After a Short Tax Year
+You can use either of the following methods to figure the
+depreciation for years after a short tax year.
+• The simplified method.
+• The allocation method.
+You must use the method you choose consistently.
+Using the simplified method for a 12-month year. Under the simplified method, you figure the depreciation for a
+later 12-month year in the recovery period by multiplying
+the adjusted basis of your property at the beginning of the
+year by the applicable depreciation rate.
+Example. Assume the same facts as in Example 1 under Property Placed in Service in a Short Tax Year, earlier.
+Tara Corporation claimed depreciation of $167 for its short
+tax year. The adjusted basis on January 1 of the next year
+is $833 ($1,000 − $167). Tara’s depreciation for that next
+year is 40% of $833, or $333.
+Using the simplified method for a short tax year. If a
+later tax year in the recovery period is a short tax year, you
+figure depreciation for that year by multiplying the adjusted
+basis of the property at the beginning of the tax year by
+the applicable depreciation rate, and then by a fraction.
+The fraction’s numerator is the number of months (including parts of a month) in the tax year. Its denominator is 12.
+Using the simplified method for an early disposition.
+If you dispose of property in a later tax year before the end
+of the recovery period, determine the depreciation for the
+year of disposition by multiplying the adjusted basis of the
+property at the beginning of the tax year by the applicable
+depreciation rate and then multiplying the result by a fraction. The fraction’s numerator is the number of months (including parts of a month) the property is treated as in
+service during the tax year (applying the applicable convention). Its denominator is 12.
+Using the allocation method for a 12-month or short
+tax year. Under the allocation method, you figure the depreciation for each later tax year by allocating to that year
+the depreciation attributable to the parts of the recovery
+years that fall within that year. Whether your tax year is a
+12-month or short tax year, you figure the depreciation by
+determining which recovery years are included in that
+year. For each recovery year included, multiply the depreciation attributable to that recovery year by a fraction. The
+fraction’s numerator is the number of months (including
+parts of a month) that are included in both the tax year and
+the recovery year. Its denominator is 12. The allowable depreciation for the tax year is the sum of the depreciation
+figured for each recovery year.
+Example. Assume the same facts as in Example 1 under Property Placed in Service in a Short Tax Year, earlier.
+Tara Corporation’s first tax year after the short tax year is a
+full year of 12 months, beginning January 1 and ending
+December 31. The first recovery year for the 5-year property placed in service during the short tax year extends
+from August 1 to July 31. Tara deducted 5 months of the
+first recovery year on its short-year tax return. Seven
+months of the first recovery year and 5 months of the second recovery year fall within the next tax year. The depreciation for the next tax year is $333, which is the sum of
+the following.
+• $233—The depreciation for the first recovery year
+($400 × 7/12).
+• $100—The depreciation for the second recovery year.
+This is figured by multiplying the adjusted basis of
+$600 ($1,000 − $400) by 40% (0.40), then multiplying
+the $240 result by 5/12.
+Using the allocation method for an early disposition.
+If you dispose of property before the end of the recovery
+period in a later tax year, determine the depreciation for
+the year of disposition by multiplying the depreciation figured for each recovery year (or part of a recovery year) included in the tax year by a fraction. The numerator of the
+fraction is the number of months (including parts of
+months) the property is treated as in service in the tax
+year (applying the applicable convention). The denominator is 12. If there is more than one recovery year in the tax
+year, you add together the depreciation for each recovery
+year.

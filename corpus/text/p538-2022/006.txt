@@ -1,0 +1,87 @@
+and information about ruling requests, see the Instructions
+for Form 1128.
+Personal Service Corporation (PSC)
+A PSC must use a calendar tax year unless any of the following apply.
+• The corporation makes an election under section 444
+of the Internal Revenue Code. See Section 444 Election, below, for details.
+• The corporation elects to use a 52-53-week tax year
+ending with reference to the calendar year or a tax
+year elected under section 444.
+• The corporation establishes a business purpose for a
+fiscal year.
+See the Instructions for Form 1120 and Pub. 542 for general information about PSCs. For information on adopting
+or changing tax years for PSCs and information about ruling requests, see the Instructions for Form 1128.
+Section 444 Election
+A partnership, S corporation, electing S corporation, or
+PSC can elect under section 444 of the Internal Revenue
+Code to use a tax year other than its required tax year.
+Certain restrictions apply to the election. A partnership or
+an S corporation that makes a section 444 election must
+make certain required payments and a PSC must make
+certain distributions (discussed later). The section 444
+election does not apply to any partnership, S corporation,
+or PSC that establishes a business purpose for a different
+period, explained later.
+A partnership, S corporation, or PSC can make a section 444 election if it meets all the following requirements.
+• It is not a member of a tiered structure (defined in
+Treasury Regulations section 1.444-2T).
+• It has not previously had a section 444 election in effect.
+• It elects a year that meets the deferral period requirement.
+Deferral period. The determination of the deferral period depends on whether the partnership, S corporation,
+or PSC is retaining its tax year or adopting or changing its
+tax year with a section 444 election.
+Retaining tax year. Generally, a partnership, S corporation, or PSC can make a section 444 election to retain
+its tax year only if the deferral period of the new tax year is
+3 months or less. This deferral period is the number of
+months between the beginning of the retained year and
+the close of the first required tax year.
+Adopting or changing tax year. If the partnership, S
+corporation, or PSC is adopting or changing to a tax year
+other than its required year, the deferral period is the number of months from the end of the new tax year to the end
+of the required tax year. The IRS will allow a section 444
+election only if the deferral period of the new tax year is
+less than the shorter of:
+• Three months, or
+• The deferral period of the tax year being changed.
+This is the tax year immediately preceding the year for
+which the partnership, S corporation, or PSC wishes
+to make the section 444 election.
+If the partnership, S corporation, or PSC's tax year is the
+same as its required tax year, the deferral period is zero.
+Example 1. BD Partnership uses a calendar year,
+which is also its required tax year. BD cannot make a section 444 election because the deferral period is zero.
+Example 2. E, a newly formed partnership, began operations on December 1. E is owned by calendar year
+partners. E wants to make a section 444 election to adopt
+a September 30 tax year. E's deferral period for the tax
+year beginning December 1 is 3 months, the number of
+months between September 30 and December 31.
+Making the election. Make a section 444 election by filing Form 8716 with the Internal Revenue Service Center
+where the entity will file its tax return. See the instructions
+for Form 8716 for information on when to file.
+Attach a copy of Form 8716 to Form 1065, Form
+1120S, or Form 1120 for the first tax year for which the
+election is made.
+Terminating the election. The section 444 election remains in effect until it is terminated. If the election is terminated, another section 444 election cannot be made for
+any tax year.
+The election ends when any of the following applies to
+the partnership, S corporation, or PSC.
+• The entity changes to its required tax year.
+• The entity liquidates.
+• The entity becomes a member of a tiered structure.
+• The IRS determines that the entity willfully failed to
+comply with the required payments or distributions.
+The election will also end if either of the following
+events occur.
+• An S corporation's S election is terminated. However,
+if the S corporation immediately becomes a PSC, the
+PSC can continue the section 444 election of the S
+corporation.
+• A PSC ceases to be a PSC. If the PSC elects to be an
+S corporation, the S corporation can continue the
+election of the PSC.
+Required payment for partnership or S corporation.
+A partnership or an S corporation must make a required
+payment for any tax year:
+• The section 444 election is in effect.
+• The required payment for that year (or any preceding
+tax year) is more than $500.

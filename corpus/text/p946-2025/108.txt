@@ -1,0 +1,128 @@
+Table B-2.
+Asset
+class Description of assets included
+Table of Class Lives and Recovery Periods
+Recovery Periods
+(in years)
+Class Life
+(in years)
+GDS
+(MACRS) ADS
+Water Utilities:
+50 203 50
+49.3
+Includes assets used in the gathering, treatment, and commercial distribution of water.
+49.4
+49.5
+50.0
+51.0
+57.0
+57.1
+79.0
+80.0
+Central Steam Utility Production and Distribution:
+Includes assets used in the production and distribution of steam for sale. Does not include
+assets used in waste reduction and resource recovery plants which are elsewhere classified.
+Waste Reduction and Resource Recovery Plants:
+Includes assets used in the conversion of refuse or other solid waste or biomass to heat or to a
+solid, liquid, or gaseous fuel. Also includes all process plant equipment and structures at the
+site used to receive, handle, collect, and process refuse or other solid waste or biomass in a
+waterwall, combustion system, oil or gas pyrolysis system, or refuse-derived fuel system to
+create hot water, gas, steam, and electricity. Includes material recovery and support assets
+used in refuse or solid refuse or solid waste receiving, collecting, handling, sorting, shredding,
+classifying, and separation systems. Does not include any package boilers, or electric
+generators and related assets such as electricity, hot water, steam, and manufactured gas
+production plants classified in classes 00.4, 49.13, 49.221, and 49.4. Does include, however, all
+other utilities such as water supply and treatment facilities, ash handling, and other related land
+improvements of a waste reduction and resource recovery plant.
+Municipal Wastewater Treatment Plant
+Municipal Sewer
+Distributive Trades and Services:
+Includes assets used in wholesale and retail trade, and personal and professional services.
+Includes section 1245 assets used in marketing petroleum and petroleum products.
+Distributive Trades and Services—Billboard, Service Station Buildings, and Petroleum
+Marketing Land Improvements:
+Includes section 1250 assets, including service station buildings and depreciable land
+improvements, whether section 1245 property or section 1250 property, used in the marketing
+of petroleum and petroleum products, but not including any of these facilities related to
+petroleum and natural gas trunk pipelines. Includes car wash buildings and related land
+improvements. Includes billboards, whether such assets are section 1245 property or section
+1250 property. Excludes all other land improvements, buildings, and structural components as
+defined in section 1.48-1(e) of the regulations.
+Recreation:
+Includes assets used in the provision of entertainment services on payment of a fee or
+admission charge, as in the operation of bowling alleys, billiard and pool establishments,
+theaters, concert halls, and miniature golf courses. Does not include amusement and theme
+parks and assets which consist primarily of specialized land improvements or structures, such
+as golf courses, sports stadia, race tracks, ski slopes, and buildings which house the assets
+used in entertainment services.
+Theme and Amusement Parks:
+Includes assets used in the provision of rides, attractions, and amusements in activities defined as theme
+and amusement parks, and includes appurtenances associated with a ride, attraction, amusement, or theme
+setting within the park such as ticket booths, facades, shop interiors, and props, special purpose structures,
+and buildings other than warehouses, administration buildings, hotels, and motels. Includes all land
+improvements for or in support of park activities (for example, parking lots, sidewalks, waterways, bridges,
+fences, landscaping, etc.), and support functions (for example, food and beverage retailing, souvenir vending,
+and other nonlodging accommodations) if owned by the park and provided exclusively for the benefit of park
+patrons. Theme and amusement parks are defined as combinations of amusements, rides, and attractions
+which are permanently situated on park land and open to the public for the price of admission. This guideline
+class is a composite of all assets used in this industry except transportation equipment (general purpose
+airplanes, etc., which are included in asset guideline classes with the prefix 00.2); assets used in the
+trucks, cars, provision of administrative services (asset classes with the prefix 00.1) and warehouses,
+administration buildings, hotels, and motels.
+Certain Property for Which Recovery Periods Assigned
+A. Personal Property With No Class Life
+Section 1245 Real Property With No Class Life
+B. Qualified Technological Equipment, as defined in section 168(i)(2).
+C. Property Used in Connection with Research and Experimentation referred to in section
+168(e)(3)(B).
+D. Alternative energy property described in section 48(l)(3)(A)(ix) (as in effect on the day before
+the date of enactment (11/5/90) of the Revenue Reconciliation Act of 1990).
+E. Biomass property described in section 48(l)(15) (as in effect on the day before the date of
+enactment (11/5/90) of the Revenue Reconciliation Act of 1990) and is a qualifying small
+production facility within the meaning of section 3(17)(c) of the Federal Power Act (16 U.S.C.
+796(17)(C)), as in effect on September 1, 1986.
+Any high technology medical equipment as defined in section 168(i)(2)(C) which is described in asset guideline class 57.0 is assigned a 5-year
+recovery period for the alternate MACRS method.
+The class life (if any) of property described in class B, C, D, E, or F is determined by reference to the asset guideline classes. If an item of property
+described in paragraph B, C, D, E, or F is not described in any asset guideline class, such item of property has no class life.
+Use straight line method over 25 years if placed in service after June 12, 1996, unless placed in service under a binding contract in effect before June 10,
+1996, and at all times until placed in service.
+28 20
+10 7
+24 15
+50 203
+9 5
+20 15
+10 7
+12.5 7
+28
+10
+24
+50
+91
+20
+10
+12.5
+7 12
+7 40
+2 5 5
+2 5 class life if
+no class
+life—12
+2 5
+2 5
+class life if
+no class
+life—12
+class life if
+no class
+life—12
+F. Energy property described in section 48(a)(3)(A) (or would be described if “solar or wind
+energy” were substituted for “solar energy” in section 48(a)(3)(A)(i)).
+2 5 class life if
+no class
+life—12
+1
+2
+3

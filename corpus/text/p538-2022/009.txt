@@ -1,0 +1,89 @@
+Under the 12-month rule, a taxpayer is not required to
+capitalize amounts paid to create certain rights or benefits
+for the taxpayer that do not extend beyond the earlier of
+the following.
+• 12 months after the right or benefit begins, or
+• The end of the tax year after the tax year in which payment is made.
+If you have not been applying the general rule (an expense paid in advance is deductible only in the year to
+which it applies) and/or the 12-month rule to the expenses
+you paid in advance, you must obtain approval from the
+IRS before using the general rule and/or the 12-month
+rule. See Change in Accounting Method, later.
+Example 1. You are a calendar year taxpayer and
+pay $3,000 in 2021 for a business insurance policy that is
+effective for 3 years (36 months), beginning on July 1,
+2021. The general rule that an expense paid in advance is
+deductible only in the year to which it applies is applicable
+to this payment because the payment does not qualify for
+the 12-month rule. Therefore, only $500 (6/36 x $3,000) is
+deductible in 2021, $1,000 (12/36 x $3,000) is deductible
+in 2022, $1,000 (12/36 x $3,000) is deductible in 2023,
+and the remaining $500 is deductible in 2024.
+Example 2. You are a calendar year taxpayer and
+pay $10,000 on July 1, 2021, for a business insurance
+policy that is effective for only 1 year beginning on July 1,
+2021. The 12-month rule applies. Therefore, the full
+$10,000 is deductible in 2021.
+Excluded Entities
+The following entities generally cannot use the cash
+method, including any combination of methods that includes the cash method. (However, see Special rules for
+farming businesses, later.)
+• A corporation (other than an S corporation). However,
+see Exceptions below.
+• A partnership with a corporation (other than an S corporation) as a partner. However, see Exceptions below.
+• A tax shelter, as defined in section 448(d)(3).
+Exceptions
+The following entities can use the cash method of accounting.
+• Any corporation or partnership, other than a tax shelter, that meets the gross receipts test explained below.
+• A qualified personal service corporation (PSC).
+Gross receipts test. A corporation or partnership, other
+than a tax shelter, that meets the gross receipts test can
+generally use the cash method. A corporation or a partnership meets the test if its average annual gross receipts
+for the 3 prior tax years were $26 million or less (indexed
+for inflation).
+Determine an entity’s average annual gross receipts
+by:
+1. Adding the gross receipts for the 3 prior tax years;
+and
+2. Dividing the total by 3.
+Generally, a partnership applies the test at the partnership
+level. Gross receipts for a short tax year are annualized.
+Aggregation rules. Organizations that are members
+of an affiliated service group or a controlled group of corporations treated as a single employer for tax purposes
+must aggregate their gross receipts to determine whether
+the gross receipts test is met.
+Change to accrual method. A corporation or partnership that fails to meet the gross receipts test for any tax
+year cannot use the cash method and must change to an
+accrual method of accounting, effective for the tax year in
+which the entity fails to meet this test. The entity must file
+Form 3115 to request the change. See the Instructions for
+Form 3115.
+Special rules for farming businesses. Generally, a
+taxpayer engaged in the trade or business of farming is allowed to use the cash method for its farming business.
+However, certain corporations (other than S corporations)
+and partnerships that have a partner that is a corporation
+must use an accrual method for their farming business,
+unless they meet the gross receipts test discussed above.
+See chapter 2 of Pub. 225, Farmer's Tax Guide, for
+more information.
+Qualified Personal Service Corporation (PSC). A corporation that meets the function and ownership tests below is a qualified PSC and can use the cash method.
+Function test. A corporation meets the function test if
+at least 95% of its activities are in the performance of
+services in the fields of health (including veterinary services), law, engineering (including surveying and mapping),
+architecture, accounting, actuarial science, performing
+arts, or consulting.
+Ownership test. A corporation meets the ownership
+test if substantially all of its stock is owned, directly or indirectly, at all times during the year by one or more of the
+following.
+1. Employees performing services for the corporation in
+a field qualifying under the function test.
+2. Retired employees who had performed services in
+those fields.
+3. The estate of an employee described in (1) or (2).
+4. Any other person who acquired the stock by reason of
+the death of an employee referred to in (1) or (2), but
+only for the 2-year period beginning on the date of
+death.
+Indirect ownership is generally taken into account if the
+stock is owned indirectly through one or more partnerships, S corporations, or qualified PSCs. Stock owned by
+one of these entities is considered owned by the entity's

@@ -1,0 +1,84 @@
+Ownership and use tests. The ownership and use tests
+generally require that during the 5-year period ending on
+the date of the sale:
+• You owned the home for at least 2 years (ownership
+test), and
+• You lived in the home as your main home for at least 2
+years (use test). The 2 years of residence can fall anywhere within the 5-year period, and it does not need to
+be a single block of time.
+Gain on Sale
+If you use property partly as a home and partly for business, the treatment of any gain on the sale varies depending on whether the part of the property used for business
+is part of your home or separate from it.
+Part of Home Used for Business
+If the part of your property used for business is within your
+home, such as a room used as a home office for a business or rooms used to provide daycare, you do not need
+to allocate gain on the sale of the property between the
+business part of the property and the part used as a
+home. In addition, you do not need to report the sale of the
+business part on Form 4797, Sales of Business Property.
+This is true whether or not you were entitled to claim any
+depreciation. However, you cannot exclude the part of any
+gain equal to any depreciation allowed or allowable after
+May 6, 1997. See Depreciation, later.
+Separate Part of Property Used for Business
+You may have used part of your property as a home and a
+separate part of it, such as an outbuilding, for business.
+Use test not met for business part. You cannot exclude gain on the separate part of your property used for
+business unless you owned and lived in that part of your
+property for at least 2 years during the 5-year period ending on the date of the sale. If you do not meet the use test
+for the business part of the property, an allocation of the
+gain on the sale is required. For this purpose, you must allocate the basis of the property and the amount realized
+upon its sale between the business part and the part used
+as a home. You must report the sale of the business part
+on Form 4797.
+Use test met for business part (business use in year
+of sale). If you used a separate part of your property for
+business in the year of sale, you should treat the sale of
+the property as the sale of two properties, even if you met
+the use test for the business part. You must report the sale
+of the business part on Form 4797.
+To determine the amount to report on Form 4797, you
+must divide your selling price, selling expenses, and basis
+between the part of the property used for business and
+the separate part used as your home. In the same way, if
+you qualify to exclude any of the gain on the business part
+of your property, also divide your maximum exclusion between that part of the property and the separate part used
+as your home.
+Excluding gain on the business part of your property. You can generally exclude gain on the part of your
+property used for business if you owned and lived in that
+part as your main home for at least 2 years during the
+5-year period ending on the date of the sale.
+Use test met for business part (no business use in
+year of sale). If you have used a separate part of your
+property for business (though not in the year of sale) but
+meet the use test for both the business part and the part
+you use as a home, you do not need to treat the transaction as the sale of two properties. Also, you do not need to
+file Form 4797. You can generally exclude gain on the entire property.
+Depreciation
+If you were entitled to deduct depreciation on the part of
+your home used for business, you cannot exclude the part
+of the gain equal to any depreciation you deducted (or
+could have deducted) for periods after May 6, 1997. This
+means that when figuring the amount of gain you can exclude, you must reduce the total gain by any depreciation
+allowed or allowable on the part of your home used for
+business after May 6, 1997.
+If you can show by adequate records or other evidence
+that the depreciation you actually deducted (the allowed
+depreciation) was less than the amount you were entitled
+to deduct (the allowable depreciation), the amount you
+cannot exclude (and must subtract from your total gain
+when figuring your exclusion) is the amount you actually
+deducted.
+You do not have to reduce the gain by any depreciation
+you deducted (or could have deducted) for a separate
+structure for which you cannot exclude the allocable portion of the gain.
+Basis Adjustment
+If you used any part of your home for business, you must
+adjust the basis of your home for any depreciation that
+was allowable for its business use, even if you did not
+claim it. If you deducted less depreciation than you could
+have under the method you properly selected, you must
+decrease the basis by the amount you could have deducted under that method. If you deducted more depreciation
+than you should have under the method you properly selected, you must decrease the basis by the amount you
+should have deducted, plus the part of the excess deducted that actually decreased your tax liability for any year.
+For more information on reducing the basis of your property for depreciation, see Pub. 551.

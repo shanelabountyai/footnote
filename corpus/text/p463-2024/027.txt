@@ -1,0 +1,88 @@
+is used for business, and the denominator (bottom
+number) is 12.
+Example. You use a car only for personal purposes
+during the first 6 months of the year. During the last 6
+months of the year, you drive the car a total of 15,000
+miles of which 12,000 miles are for business. This gives
+you a business use percentage of 80% (12,000 ÷ 15,000)
+for that period. Your business use for the year is 40%
+(80% (0.80) × 6/12).
+Limits. The amount you can claim for section 179, special depreciation allowance, and depreciation deductions
+may be limited. The maximum amount you can claim depends on the year in which you placed your car in service.
+You have to reduce the maximum amount if you didn’t use
+the car exclusively for business. See Depreciation Limits,
+later.
+Unadjusted basis. You use your unadjusted basis (often
+referred to as your basis or your basis for depreciation) to
+figure your depreciation using the MACRS depreciation
+chart, explained later under Modified Accelerated Cost
+Recovery System (MACRS). Your unadjusted basis for figuring depreciation is your original basis increased or decreased by certain amounts.
+To figure your unadjusted basis, begin with your car’s
+original basis, which is generally its cost. Cost includes
+sales taxes (see Sales taxes, earlier), destination charges,
+and dealer preparation. Increase your basis by any substantial improvements you make to your car, such as adding air conditioning or a new engine. Decrease your basis
+by any section 179 deduction, special depreciation allowance, gas guzzler tax, and vehicle credits claimed. See
+Pub. 551, Basis of Assets, for further details.
+If your business use later falls to 50% or less, you
+may have to recapture (include in your income)
+any excess depreciation. See Car Used 50% or
+Less for Business, later, for more information.
+If you acquired the car by gift or inheritance, see Pub.
+551, Basis of Assets, for information on your basis in the
+car.
+Improvements. A major improvement to a car is treated as a new item of 5-year recovery property. It is treated
+as placed in service in the year the improvement is made.
+It doesn’t matter how old the car is when the improvement
+is added. Follow the same steps for depreciating the improvement as you would for depreciating the original cost
+of the car. However, you must treat the improvement and
+the car as a whole when applying the limits on the depreciation deductions. Your car’s depreciation deduction for
+the year (plus any section 179 deduction, special depreciation allowance, and depreciation on any improvements)
+can’t be more than the depreciation limit that applies for
+that year. See Depreciation Limits, later.
+Car trade-in. If you traded one car (the “old car”) for another car (the “new car”) in 2024, you must treat the transaction as a disposition of the old car and the purchase of
+the new car. You must treat the old car as disposed of at
+CAUTION
+!
+the time of the trade-in. The depreciable basis of the new
+car is the adjusted basis of the old car (figured as if 100%
+of the car’s use had been for business purposes) plus any
+additional amount you paid for the new car. You then figure your depreciation deduction for the new car beginning
+with the date you placed it in service. You must also complete Form 2106, Part II, Section D. This method is explained later, beginning at Effect of trade-in on basis.
+Form 2106 is only used by Armed Forces reservists, qualified performing artists, fee-basis state or
+local government officials, and employees with
+impairment-related work expenses. Due to the suspension
+of miscellaneous itemized deductions subject to the 2%
+floor under section 67(a), employees who don’t fit into one
+of the listed categories may not use Form 2106.
+Effect of trade-in on basis. The discussion that follows applies to trade-ins of cars in 2024, where the election was made to treat the transaction as a disposition of
+the old car and the purchase of the new car. For information on how to figure depreciation for cars involved in a
+like-kind exchange (trade-in) in 2024, for which the election wasn’t made, see Pub. 946 and Regulations section
+1.168(i)-6(d)(3).
+Note. Like-kind exchanges completed after December
+31, 2017, are generally limited to exchanges of real property not held primarily for sale. Regulations section
+1.168(i)-6 doesn't reflect this change in law.
+Traded car used only for business. If you trade in a
+car you used only in your business for another car that will
+be used only in your business, your original basis in the
+new car is your adjusted basis in the old car, plus any additional amount you pay for the new car.
+Example. You trade in a car that has an adjusted basis
+of $5,000 for a new car. In addition, you pay cash of
+$20,000 for the new car. Your original basis of the new car
+is $25,000 (your $5,000 adjusted basis in the old car plus
+the $20,000 cash paid). Your unadjusted basis is $25,000
+unless you claim the section 179 deduction, special depreciation allowance, or have other increases or decreases to your original basis, discussed under Unadjusted
+basis, earlier.
+Traded car used partly in business. If you trade in a
+car you used partly in your business for a new car you will
+use in your business, you must make a “trade-in” adjustment for the personal use of the old car. This adjustment
+has the effect of reducing your basis in your old car, but
+not below zero, for purposes of figuring your depreciation
+deduction for the new car. (This adjustment isn’t used,
+however, when you determine the gain or loss on the later
+disposition of the new car. See Pub. 544, Sales and Other
+Dispositions of Assets, for information on how to report the
+disposition of your car.)
+To figure the unadjusted basis of your new car for depreciation, first add to your adjusted basis in the old car
+any additional amount you pay for the new car. Then subtract from that total the excess, if any, of:
+CAUTION
+!

@@ -1,0 +1,83 @@
+self-insurance. This applies even if you can’t get business insurance coverage for certain business risks.
+However, your actual losses may be deductible. For
+more information, see Pub. 547.
+2. Loss of earnings. You can’t deduct premiums for a
+policy that pays for your lost earnings due to sickness
+or disability. However, see item 8 in the previous list.
+3. Certain life insurance and annuities.
+a. For contracts issued before June 9, 1997, you
+can’t deduct the premiums on a life insurance policy covering you, an employee, or any person with
+a financial interest in your business if you are directly or indirectly a beneficiary of the policy. You
+are included among possible beneficiaries of the
+policy if the policy owner is obligated to repay a
+loan from you using the proceeds of the policy. A
+person has a financial interest in your business if
+the person is an owner or part owner of the business or has lent money to the business.
+b. For contracts issued after June 8, 1997, you generally can’t deduct the premiums on any life insurance policy, endowment contract, or annuity contract if you are directly or indirectly a beneficiary.
+The disallowance applies without regard to whom
+the policy covers.
+4. Insurance to secure a loan. If you take out a policy on
+your life or on the life of another person with a financial interest in your business to get or protect a business loan, you can’t deduct the premiums as a business expense. Nor can you deduct the premiums as
+interest on business loans or as an expense of financing loans. In the event of death, the proceeds of the
+policy are not taxed as income even if they are used
+to liquidate the debt.
+Self-employed health insurance deduction. You may
+be able to deduct the amount you paid for medical and
+dental insurance and qualified long-term care insurance
+for you and your family.
+How to figure the deduction. Generally, you can use
+the worksheet in the Instructions for Form 1040 to figure
+your deduction. However, if any of the following apply, you
+must use Form(s) 7206.
+• You have more than one source of income subject to
+SE tax.
+• You file Form 2555 (relating to foreign earned income).
+• You are using amounts paid for qualified long-term
+care insurance to figure the deduction.
+See Form 8962 and its separate instructions and use
+Pub. 974 if the insurance plan established, or considered
+to be established, under your business was obtained
+through the Health Insurance Marketplace and you are
+claiming the premium tax credit.
+Prepayment. You can’t deduct expenses in advance,
+even if you pay them in advance. This rule applies to any
+expense paid far enough in advance to, in effect, create an
+asset with a useful life extending substantially beyond the
+end of the current-tax year.
+Example. In 2025, you signed a 3-year insurance contract. Even though you paid the premiums for 2025, 2026,
+and 2027 when you signed the contract, you can only deduct the premium for 2025 on your 2025 tax return. You
+can deduct in 2026 and 2027 the premiums allocable to
+those years.
+Interest
+You can generally deduct as a business expense some or
+all interest you pay or accrue during the tax year on debts
+related to your business. Interest relates to your business
+if you use the proceeds of the loan for a business expense. It doesn’t matter what type of property secures the
+loan. You can deduct interest on a debt only if you meet all
+of the following requirements.
+• You are legally liable for that debt.
+• Both you and the lender intend that the debt be repaid.
+• You and the lender have a true debtor-creditor relationship.
+Certain taxpayers are required to limit their business interest expense deduction. For tax years beginning in
+2025, the calculation of adjusted taxable income includes
+a requirement to add back to taxable income the deductions for depreciation, amortization, and depletion to arrive
+at the amount that is used to determine if your interest expense is limited. See the Instructions for Form 8990 to determine whether you are required to limit your business interest expense deduction, who is required to file Form
+8990, and how certain businesses may elect out of the
+business interest expense limitation.
+Personal loans. You can’t deduct on Schedule C (Form
+1040) the interest you paid on personal loans. If a loan is
+part business and part personal, you must divide the interest between the personal part and the business part.
+Interest on car loans. If you are self-employed and use
+your vehicle in your business, you can deduct the part of
+the interest expense that represents your business use of
+the vehicle on Schedule C (Form 1040). Additionally, you
+may be able to deduct as qualified passenger vehicle loan
+interest the part of the interest expense that represents
+your personal use of the vehicle on Schedule 1-A (Form
+1040). If you use your vehicle for both business and personal purposes, and you claim a deduction in 2025 on
+Schedule 1-A (Form 1040) for vehicle loan interest allocable to your personal use, then you can’t claim a deduction
+for that same interest on Schedule C (Form 1040). See
+the Instructions for Schedule 1-A (Form 1040), which are
+included in the Instructions for Form 1040, for more information.
+Example. In 2025, you paid $600 interest on a car
+loan. During 2025, you used the car 60% for business and

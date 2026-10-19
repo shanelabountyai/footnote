@@ -1,0 +1,92 @@
+This section discusses the exclusion rules for the following fringe benefits.
+• Accident and health benefits.
+• Achievement awards.
+• Adoption assistance.
+• Athletic facilities.
+• De minimis (minimal) benefits.
+• Dependent care assistance.
+• Educational assistance.
+• Employee discounts.
+• Employee stock options.
+• Employer-provided cell phones.
+• Group-term life insurance coverage.
+• HSAs.
+• Lodging on your business premises.
+• Meals.
+• No-additional-cost services.
+• Retirement planning services.
+• Transportation (commuting) benefits.
+• Tuition reduction.
+• Working condition benefits.
+See Table 2-1 for an overview of the employment tax
+treatment of these benefits.
+Table 2-1. Special Rules for Various Types of Fringe Benefits
+(For more information, see the full discussion in this section.)
+Treatment Under Employment Taxes
+Type of fringe benefit Income tax withholding Social Security and Medicare
+(including Additional Medicare
+Tax when wages are paid in
+excess of $200,000)1
+Federal unemployment (FUTA)
+Accident and health benefits
+Exempt (except 2%
+shareholder-employees of S
+corporations).
+Exempt Exempt
+Achievement awards Exempt2
+up to $1,600 for qualified plan awards ($400 for nonqualified awards).
+Adoption assistance Exempt2 3
+Taxable Taxable
+Athletic facilities Exempt if substantially all use during the calendar year is by employees, their spouses, and their dependent
+children, and the facility is operated by the employer on premises owned or leased by the employer.
+De minimis (minimal) benefits Exempt Exempt Exempt
+Dependent care assistance Exempt3
+up to certain limits, $7,500 ($3,750 for married employee filing separate return).
+Educational assistance Exempt up to $5,250 of benefits each year. (See Educational Assistance, later in this section.)
+Employee discounts Exempt3
+up to certain limits. (See Employee Discounts, later in this section.)
+Employee stock options See Employee Stock Options, later in this section.
+Employer-provided cell phones Exempt if provided primarily for noncompensatory business purposes.
+Group-term life insurance coverage
+Exempt Exempt2 4 6
+up to cost of $50,000 of
+coverage. (Special rules apply to
+former employees.)
+Exempt
+Health savings accounts (HSAs) Exempt for qualified individuals up to the HSA contribution limits. (See Health Savings Accounts, later in this
+section.)
+Lodging on your business premises Exempt2
+if furnished on your business premises, for your convenience, and as a condition of employment.
+Meals
+Exempt2
+if furnished on your business premises for your convenience.
+Exempt if de minimis.
+No-additional-cost services Exempt3
+Exempt3
+Exempt3
+Retirement planning services Exempt5
+Exempt5
+Exempt5
+Transportation (commuting) benefits
+Exempt2
+up to certain limits if for rides in a commuter highway vehicle and/or transit passes ($340) or qualified
+parking ($340). (See Transportation (Commuting) Benefits, later in this section.)
+Exempt if de minimis.
+Tuition reduction Exempt3
+if for undergraduate education (or graduate education if the employee performs teaching or research
+activities).
+Working condition benefits Exempt Exempt Exempt
+1
+Or other railroad retirement taxes, if applicable.
+2
+Exemption doesn’t apply to S corporation employees who are 2% shareholders.
+3
+Exemption doesn’t apply to certain highly compensated employees under a program that favors those employees.
+4
+Exemption doesn’t apply to certain key employees under a plan that favors those employees.
+5
+Exemption doesn’t apply to services for tax preparation, accounting, legal, or brokerage services.
+6
+You must include in your employee’s wages the cost of group-term life insurance beyond $50,000 worth of coverage, reduced by the amount the employee paid
+toward the insurance. Report it as wages in boxes 1, 3, and 5 of the employee’s Form W-2. Also, show it in box 12 with code C. The amount is subject to social
+security and Medicare taxes, and you may, at your option, withhold federal income tax.

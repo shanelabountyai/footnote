@@ -1,0 +1,36 @@
+Daily Cash Receipts
+1. Daily Summary of Cash Receipts
+Date
+TOTAL RECEIPTS
+Cash sales
+Sales tax
+Cash in register (including unspent petty cash)
+Cash on hand
+Coins
+Bills
+Checks
+TOTAL CASH IN REGISTER
+Add: Petty cash slips
+TOTAL CASH
+Less: Change and petty cash
+Petty cash slips
+Coins and bills
+(unspent petty cash)
+TOTAL CHANGE AND PETTY CASH FUND
+TOTAL CASH RECEIPTS
+䊲
+䊲
+January 3, 20 —
+263.60
+4.20
+267.80
+300.80
+17.00
+317.80
+50.00
+267.80
+17.00
+33.00
+23.75
+143.00
+134.05

@@ -1,0 +1,80 @@
+your employee’s income for any tax year beginning after
+2017 and before 2026. For tax years beginning after 2025,
+P.L. 119-21 permanently eliminates the exclusion of qualified bicycle commuting reimbursements from your employee’s income.
+Employee. For this exclusion, treat the following individuals as employees.
+• A current employee.
+• A leased employee who has provided services to you
+on a substantially full-time basis for at least a year if
+the services are performed under your primary direction or control.
+A self-employed individual isn’t an employee for qualified transportation benefit purposes.
+Exception for S corporation shareholders. Don’t
+treat a 2% shareholder of an S corporation as an employee of the corporation for this purpose. A 2% shareholder is someone who directly or indirectly owns (for any
+day during the tax year) more than 2% of the corporation’s
+stock or stock with more than 2% of the voting power.
+Treat a 2% shareholder as you would a partner in a partnership for fringe benefit purposes, but don’t treat the benefit as a reduction in distributions to the 2% shareholder.
+For more information, see Revenue Ruling 91-26, 1991-1
+C.B. 184.
+Relation to other fringe benefits. You can’t exclude a
+qualified transportation benefit you provide to an employee under the de minimis or working condition benefit
+rules. However, if you provide a local transportation benefit
+other than by transit pass or commuter highway vehicle, or
+to a person other than an employee, you may be able to
+exclude all or part of the benefit under other fringe benefit
+rules (de minimis, working condition, etc.).
+Exclusion from wages. You can generally exclude the
+value of transportation benefits that you provide to an employee during 2026 from the employee’s wages up to the
+following limits.
+• $340 per month for combined commuter highway vehicle transportation and transit passes.
+• $340 per month for qualified parking.
+Benefits more than the limit. If the value of a benefit
+for any month is more than its limit, include in the employee’s wages the amount over the limit minus any amount
+the employee paid for the benefit. You can’t exclude the
+excess from the employee’s wages as a de minimis transportation benefit.
+Qualified transportation benefits aren’t deductible.
+Sections 274(a)(4) and 274(l) of the Internal Revenue
+Code provide that no deduction is allowed for qualified
+transportation benefits (whether provided directly by you,
+through a bona fide reimbursement arrangement, or
+through a compensation reduction agreement) incurred or
+paid after 2017. Also, no deduction is allowed for any expense incurred for providing any transportation, or any
+payment or reimbursement to your employee, in connection with travel between your employee’s residence and
+place of employment, except as necessary for ensuring
+the safety of your employee. While you may no longer deduct payments for qualified transportation benefits, the
+fringe benefit exclusion rules still apply and the payments
+may be excluded from your employee’s wages, as discussed earlier. Although the value of a qualified transportation fringe benefit is relevant in determining the fringe
+benefit exclusion and whether the section 274(e)(2) exception for expenses treated as compensation applies,
+the deduction that is disallowed relates to the expense of
+providing a qualified transportation fringe, not its value.
+For more information, see Regulations sections 1.274-13
+and 1.274-14.
+More information. For more information on qualified
+transportation benefits, including van pools, and how to
+determine the value of parking, see Regulations section
+1.132-9.
+Tuition Reduction
+An eligible educational institution can exclude the value of
+a qualified tuition reduction it provides to an employee
+from the employee’s wages.
+A tuition reduction for undergraduate education generally qualifies for this exclusion if it is for the education of
+one of the following individuals.
+1. A current employee.
+2. A former employee who retired or left on disability.
+3. A surviving spouse of an individual who died while an
+employee.
+4. A surviving spouse of a former employee who retired
+or left on disability.
+5. A dependent child or spouse of any individual listed in
+(1) through (4) above.
+A tuition reduction for graduate education qualifies for
+this exclusion only if it is for the education of a graduate
+student who performs teaching or research activities for
+the eligible educational institution.
+For more information on this exclusion, see Qualified
+Tuition Reduction under Other Types of Educational Assistance in chapter 1 of Pub. 970.
+Working Condition Benefits
+This exclusion applies to property and services you provide to an employee so that the employee can perform
+their job. It applies to the extent the cost of the property or
+services would be allowable as a business expense or depreciation expense deduction to the employee if they had
+paid for it. The employee must meet any substantiation requirements that apply to the deduction. Examples of working condition benefits include an employee’s use of a
+company car for business, an employer-provided cell
+phone provided primarily for noncompensatory business

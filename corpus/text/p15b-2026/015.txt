@@ -1,0 +1,76 @@
+3. An individual who was formerly your employee under
+(1) or (2).
+4. A leased employee who has provided services to you
+on a substantially full-time basis for at least a year if
+the services are performed under your primary direction or control.
+Exception for S corporation shareholders. Don’t
+treat a 2% shareholder of an S corporation as an employee of the corporation for this purpose. A 2% shareholder is someone who directly or indirectly owns (for any
+day during the tax year) more than 2% of the corporation’s
+stock or stock with more than 2% of the voting power.
+Treat a 2% shareholder as you would a partner in a partnership for fringe benefit purposes, but don’t treat the benefit as a reduction in distributions to the 2% shareholder.
+For more information, see Revenue Ruling 91-26, 1991-1
+C.B. 184.
+The 10-employee rule. Generally, life insurance isn’t
+group-term life insurance unless you provide it at some
+time during the calendar year to at least 10 full-time employees.
+For this rule and the first exception discussed next,
+count employees who choose not to receive the insurance
+as if they do receive insurance, unless, to receive it, they
+must contribute to the cost of benefits other than the
+group-term life insurance. For example, count an employee who could receive insurance by paying part of the
+cost, even if that employee chooses not to receive it. However, don’t count an employee who chooses not to receive
+insurance if the employee must pay part or all of the cost
+of permanent benefits in order to obtain group-term life insurance. A permanent benefit is an economic value extending beyond 1 policy year (for example, a paid-up or
+cash-surrender value) that is provided under a life insurance policy.
+Exceptions. Even if you don’t meet the 10-employee
+rule, two exceptions allow you to treat insurance as
+group-term life insurance.
+Under the first exception, you don’t have to meet the
+10-employee rule if all the following conditions are met.
+1. If evidence that the employee is insurable is required,
+it is limited to a medical questionnaire (completed by
+the employee) that doesn’t require a physical.
+2. You provide the insurance to all your full-time employees or, if the insurer requires the evidence mentioned
+in (1), to all full-time employees who provide evidence
+the insurer accepts.
+3. You figure the coverage based on either a uniform
+percentage of pay or the insurer’s coverage brackets
+that meet certain requirements. See Regulations section 1.79-1 for details.
+Under the second exception, you don’t have to meet
+the 10-employee rule if all the following conditions are
+met.
+• You provide the insurance under a common plan covering your employees and the employees of at least
+one other employer who isn’t related to you.
+• The insurance is restricted to, but mandatory for, all
+your employees who belong to, or are represented by,
+an organization (such as a union) that carries on substantial activities besides obtaining insurance.
+• Evidence of whether an employee is insurable doesn’t
+affect an employee’s eligibility for insurance or the
+amount of insurance that employee gets.
+To apply either exception, don’t consider employees
+who were denied insurance for any of the following reasons.
+• They were 65 or older.
+• They customarily work 20 hours or less a week or 5
+months or less in a calendar year.
+• They haven’t been employed for the waiting period
+given in the policy. This waiting period can’t be more
+than 6 months.
+Exclusion from wages. You can generally exclude the
+cost of up to $50,000 of group-term life insurance coverage from the wages of an insured employee. You can exclude the same amount from the employee’s wages when
+figuring social security and Medicare taxes. In addition,
+you don’t have to withhold federal income tax or pay FUTA
+tax on any group-term life insurance you provide to an employee.
+Coverage over the limit. You must include in your
+employee’s wages the cost of group-term life insurance
+beyond $50,000 worth of coverage, reduced by the
+amount the employee paid toward the insurance. Report it
+as wages in boxes 1, 3, and 5 of the employee’s Form
+W-2. Also, show it in box 12 with code C. The amount is
+subject to social security and Medicare taxes, and you
+may, at your option, withhold federal income tax.
+Figure the monthly cost of the insurance to include in
+the employee’s wages by multiplying the number of thousands of dollars of all insurance coverage over $50,000
+(figured to the nearest $100) by the cost shown in Table 2-2. For all coverage provided within the calendar year,
+use the employee’s age on the last day of the employee’s
+tax year. You must prorate the cost from the table if less
+than a full month of coverage is involved.

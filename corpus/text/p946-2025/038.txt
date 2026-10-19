@@ -1,0 +1,98 @@
+4. Recovery period .................
+5. Method and convention ...........
+6. Depreciation rate (from
+tables) ..........................
+Part II
+7. Cost or other basis* .............. $
+8. Business/investment use ......... %
+9. Multiply line 7 by line 8 ................ $
+10. Total claimed for section 179 deduction
+and other items ...................... $
+11. Subtract line 10 from line 9. This is your
+tentative basis for depreciation ........ $
+12. Multiply line 11 by the applicable
+percentage if the special depreciation
+allowance applies. This is your special
+depreciation allowance. Enter -0- if this is
+not the year you placed the property in
+service, the property is not qualified
+property, or you elected not to claim a
+special allowance .................... $
+13. Subtract line 12 from line 11. This is your
+basis for depreciation .................
+14. Depreciation rate (from line 6) .........
+15. Multiply line 13 by line 14. This is your
+MACRS depreciation deduction ....... $
+* If real estate, do not include cost (basis) of land.
+The following example shows how to figure your
+MACRS depreciation deduction using the percentage tables and the MACRS Worksheet.
+Example. You bought office furniture (7-year property)
+for $10,000 and placed it in service on August 11, 2025.
+You use the furniture only for business. This is the only
+property you placed in service this year. You did not elect
+a section 179 deduction and the property is not qualified
+property for purposes of claiming a special depreciation
+allowance, so your property’s unadjusted basis is its cost,
+$10,000. You use GDS and the half-year convention to figure your depreciation. You refer to the MACRS Percentage
+Table Guide in Appendix A and find that you should use
+Table A-1. Multiply your property’s unadjusted basis each
+year by the percentage for 7-year property given in Table
+A-1. You figure your depreciation deduction using the
+MACRS Worksheet as follows.
+MACRS Worksheet
+Keep for Your Records
+Part I
+1. MACRS system (GDS or
+ADS) ...................... GDS
+2. Property class ............. 7-year
+3. Date placed in service ...... 8/11/25
+4. Recovery period ........... 7-year
+5. Method and
+convention ................ 200%DB/Half-Year
+6. Depreciation rate (from
+tables) .................... 0.1429
+Part II
+7. Cost or other basis* ........ $10,000
+8. Business/investment
+use ....................... 100 %
+9. Multiply line 7 by line 8 .............. $10,000
+10. Total claimed for section 179
+deduction and other items .......... -0-
+11. Subtract line 10 from line 9. This is
+your tentative basis for
+depreciation ....................... $10,000
+12. Multiply line 11 by the applicable
+percentage if the special depreciation
+allowance applies. This is your special
+depreciation allowance. Enter -0- if
+this is not the year you placed the
+property in service, the property is not
+qualified property, or you elected not
+to claim a special allowance ......... -0-
+13. Subtract line 12 from line 11. This is
+your basis for depreciation .......... $10,000
+14. Depreciation rate (from line 6) ....... 0.1429
+15. Multiply line 13 by line 14. This is your
+MACRS depreciation deduction ..... $1,429
+* If real estate, do not include cost (basis) of land.
+If there are no adjustments to the basis of the property
+other than depreciation, your depreciation deduction for
+each subsequent year of the recovery period will be as follows.
+Year Basis Percentage Deduction
+2024 . . . . . . . . . . $10,000 24.49% $2,449
+2025 . . . . . . . . . . 10,000 17.49 1,749
+2026 . . . . . . . . . . 10,000 12.49 1,249
+2027 . . . . . . . . . . 10,000 8.93 893
+2028 . . . . . . . . . . 10,000 8.92 892
+2029 . . . . . . . . . . 10,000 8.93 893
+2030 . . . . . . . . . . 10,000 4.46 446
+Examples
+The following examples are provided to show you how to
+use the percentage tables. In both examples, assume the
+following.
+• You use the property only for business.
+• You use the calendar year as your tax year.
+• You use GDS for all the properties.
+Example 1. You bought a building and land for
+$120,000 and placed it in service on March 8. The sales
+contract showed that the building cost $100,000 and the

@@ -1,0 +1,86 @@
+Generally, anyone can adopt the calendar year. However, you must adopt the calendar year if:
+• You keep no books or records;
+• You have no annual accounting period;
+• Your present tax year does not qualify as a fiscal year;
+or
+• You are required to use a calendar year by a provision
+in the Internal Revenue Code or Treasury Regulations.
+Fiscal Year
+A fiscal year is 12 consecutive months ending on the last
+day of any month except December 31st. If you are allowed to adopt a fiscal year, you must consistently maintain your books and records and report your income and
+expenses using the time period adopted.
+52-53-Week Tax Year
+You can elect to use a 52-53-week tax year if you keep
+your books and records and report your income and expenses on that basis. If you make this election, your
+52-53-week tax year must always end on the same day of
+the week. Your 52-53-week tax year must always end on:
+• Whatever date this same day of the week last occurs
+in a calendar month, or
+• Whatever date this same day of the week falls that is
+nearest to the last day of the calendar month.
+Election. To make the election for the 52-53-week tax
+year, attach a statement with the following information to
+your tax return.
+1. The month in which the new 52-53-week tax year
+ends.
+2. The day of the week on which the tax year always
+ends.
+3. The date the tax year ends. It can be either of the following dates on which the chosen day:
+a. Last occurs in the month in (1), above, or
+b. Occurs nearest to the last day of the month in (1),
+above.
+When you figure depreciation or amortization, a
+52-53-week tax year is generally considered a year of 12
+calendar months.
+To determine an effective date (or apply provisions of
+any law) expressed in terms of tax years beginning, including, or ending on the first or last day of a specified calendar month, a 52-53-week tax year is considered to:
+• Begin on the first day of the calendar month beginning
+nearest to the first day of the 52-53-week tax year,
+and
+• End on the last day of the calendar month ending
+nearest to the last day of the 52-53-week tax year.
+Example. Assume a tax provision applies to tax years
+beginning on or after July 1, which (for purposes of this
+example) happens to be a Sunday. For this purpose, a
+52-53-week tax year that begins on the last Tuesday of
+June, which (for purposes of this example) falls on June
+25, is treated as beginning on July 1.
+Short Tax Year
+A short tax year is a tax year of less than 12 months. A
+short period tax return may be required when you (as a
+taxable entity):
+• Are not in existence for an entire tax year, or
+• Change your accounting period.
+Tax on a short period tax return is figured differently for
+each situation.
+Not in Existence Entire Year
+Even if a taxable entity was not in existence for the entire
+year, a tax return is required for the time it was in existence. Requirements for filing the return and figuring the
+tax are generally the same as the requirements for a return for a full tax year (12 months) ending on the last day
+of the short tax year.
+Example 1. XYZ Corporation was organized on July
+1. It elected the calendar year as its tax year. The corporation’s first tax return will cover the short period from July 1
+through December 31.
+Example 2. A calendar year corporation dissolved on
+July 23. The corporation’s final return will cover the short
+period from January 1 through July 23.
+Death of individual. Although the return of the decedent
+is a return for the short period beginning with the first day
+of his last taxable year and ending with the date of his
+death, the filing of a return and the payment of tax for the
+decedent may be made as though the decedent had lived
+throughout his last taxable year. The decedent’s tax return
+must be filed for the decedent by the 15th day of the 4th
+month after the close of the individual's regular tax year. If
+the due date falls on a Saturday, Sunday, or legal holiday,
+file by the next business day. The decedent's final return
+will be a short period tax return that begins on January
+1st, and ends on the date of death. In the case of a decedent who dies on December 31st, the last day of the regular tax year, a full calendar-year tax return is required.
+Figuring Tax for Short Year
+If the IRS approves a change in your tax year or if you are
+required to change your tax year, you must figure the tax
+and file your return for the short tax period. The short tax
+period begins on the first day after the close of your old
+tax year and ends on the day before the first day of your
+new tax year.
+Figure tax for a short year under the general rule, explained below. You may then be able to use a relief

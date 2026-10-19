@@ -1,0 +1,74 @@
+with making the saleable product, but that is a necessary
+part of the manufacturing process.
+Other labor. Other labor costs not properly chargeable to
+the cost of goods sold can be deducted as selling or administrative expenses. Generally, the only kinds of labor
+costs properly chargeable to your cost of goods sold are
+the direct or indirect labor costs and certain other costs
+treated as overhead expenses properly charged to the
+manufacturing process, as discussed later under
+Line 39—Other Costs.
+Line 38—Materials and Supplies
+Materials and supplies, such as hardware and chemicals,
+used in manufacturing goods are charged to cost of goods
+sold. Those that are not used in the manufacturing process are treated as deferred charges. You deduct them as
+a business expense when you use them. Business expenses are discussed in chapter 8.
+Line 39—Other Costs
+Examples of other costs incurred in a manufacturing or
+mining process that you charge to your cost of goods sold
+are as follows.
+Containers. Containers and packages that are an integral part of the product manufactured are a part of your
+cost of goods sold. If they are not an integral part of the
+manufactured product, their costs are shipping or selling
+expenses.
+Freight-in. Freight-in, express-in, and cartage-in on raw
+materials, supplies you use in production, and merchandise you purchase for sale are all part of cost of goods
+sold.
+Overhead expenses. Overhead expenses include expenses such as rent, heat, light, power, insurance, depreciation, taxes, maintenance, labor, and supervision. The
+overhead expenses you have as direct and necessary expenses of the manufacturing operation are included in
+your cost of goods sold.
+Line 40—Add Lines 35 Through 39
+The total of lines 35 through 39 equals the cost of the
+goods available for sale during the year.
+Line 41—Inventory at End of Year
+Subtract the value of your closing inventory (including, as
+appropriate, the allocable parts of the cost of raw materials and supplies, direct labor, and overhead expenses)
+from line 40. Inventory at the end of the year is also known
+as closing or ending inventory. Your ending inventory will
+usually become the beginning inventory of your next tax
+year.
+Line 42—Cost of Goods Sold
+When you subtract your closing inventory (inventory at the
+end of the year) from the cost of goods available for sale,
+the remainder is your cost of goods sold during the tax
+year.
+7.
+Figuring Gross Profit
+Introduction
+After you have figured the gross receipts from your business (chapter 5) and the cost of goods sold (chapter 6),
+you are ready to figure your gross profit. You must determine gross profit before you can deduct any business expenses. These expenses are discussed in chapter 8.
+Businesses that sell products. Figure your gross profit
+by first figuring your net receipts. Figure net receipts
+(line 3) on Schedule C by subtracting any returns and allowances (line 2) from gross receipts (line 1). Returns and
+allowances include cash or credit refunds you make to
+customers, rebates, and other allowances off the actual
+sales price.
+Next, subtract the cost of goods sold (line 4) from net
+receipts (line 3). The result is the gross profit from your
+business.
+Businesses that sell services. You do not have to figure the cost of goods sold if the sale of merchandise is not
+an income-producing factor for your business. Your gross
+profit is the same as your net receipts (gross receipts minus any refunds, rebates, or other allowances). Most professions and businesses that sell services rather than
+products can figure gross profit directly from net receipts
+in this way.
+Illustration. This illustration of the gross profit section of
+the income statement of a retail business shows how
+gross profit is figured.
+Income Statement Year Ended December
+31, 2024
+Gross receipts . . . . . . . . . . . . . . . . . . . . . . . . . . . . $400,000
+Minus: Returns and allowances . . . . . . . . . . . . . . . . . 14,940
+Net receipts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $385,060
+Minus: Cost of goods sold . . . . . . . . . . . . . . . . . . . . 288,140
+Gross profit . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $96,920
+The cost of goods sold for this business is figured as
+follows.

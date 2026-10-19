@@ -1,0 +1,106 @@
+Table B-2.
+Asset
+class Description of assets included
+Table of Class Lives and Recovery Periods
+Recovery Periods
+(in years)
+Class Life
+(in years)
+GDS
+(MACRS) ADS
+Manufacture of Tobacco and Tobacco Products:
+15 7 15
+21.0
+Includes assets used in the production of cigarettes, cigars, smoking and chewing tobacco,
+snuff, and other tobacco products.
+22.1
+22.2
+22.3
+22.4
+22.5
+23.0
+24.1
+24.2
+24.3
+24.4
+26.1
+Manufacture of Knitted Goods:
+Includes assets used in the production of knitted and netted fabrics and lace. Assets used in
+yarn preparation, bleaching, dyeing, printing, and other similar finishing processes, texturing,
+and packaging are elsewhere classified.
+Manufacture of Yarn, Thread, and Woven Fabric:
+Includes assets used in the production of spun yarns including the preparing, blending, spinning, and
+twisting of fibers into yarns and threads, the preparation of yarns such as twisting, warping, and winding, the
+production of covered elastic yarn and thread, cordage, woven fabric, tire fabric, braided fabric, twisted jute
+for packaging, mattresses, pads, sheets, and industrial belts, and the processing of textile mill waste to
+recover fibers, flocks, and shoddies. Assets used to manufacture carpets, man-made fibers, and nonwovens,
+and assets used in texturing, bleaching, dyeing, printing, and other similar finishing processes, are elsewhere
+classified.
+Manufacture of Carpets and Dyeing, Finishing, and Packaging of Textile Products and
+Manufacture of Medical and Dental Supplies:
+Includes assets used in the production of carpets, rugs, mats, woven carpet backing, chenille, and other
+tufted products, and assets used in the joining together of backing with carpet yarn or fabric. Includes assets
+used in washing, scouring, bleaching, dyeing, printing, drying, and similar finishing processes applied to
+textile fabrics, yarns, threads, and other textile goods. Includes assets used in the production and packaging
+of textile products, other than apparel, by creasing, forming, trimming, cutting, and sewing, such as the
+preparation of carpet and fabric samples, or similar joining together processes (other than the production of
+scrim reinforced paper products and laminated paper products) such as the sewing and folding of hosiery
+and panty hose, and the creasing, folding, trimming, and cutting of fabrics to produce nonwoven products,
+such as disposable diapers and sanitary products. Also includes assets used in the production of medical
+and dental supplies other than drugs and medicines. Assets used in the manufacture of nonwoven carpet
+backing, and hard surface floor covering such as tile, rubber, and cork, are elsewhere classified.
+Manufacture of Textile Yarns:
+Includes assets used in the processing of yarns to impart bulk and/or stretch properties to the
+yarn. The principal machines involved are falsetwist, draw, beam-to-beam, and stuffer box
+texturing equipment and related highspeed twisters and winders. Assets, as described above,
+which are used to further process man-made fibers are elsewhere classified when located in
+the same plant in an integrated operation with man-made fiber producing assets. Assets used
+to manufacture man-made fibers and assets used in bleaching, dyeing, printing, and other
+similar finishing processes are elsewhere classified.
+Manufacture of Nonwoven Fabrics:
+Includes assets used in the production of nonwoven fabrics, felt goods including felt hats, padding, batting,
+wadding, oakum, and fillings, from new materials and from textile mill waste. Nonwoven fabrics are defined
+as fabrics (other than reinforced and laminated composites consisting of nonwovens and other products)
+manufactured by bonding natural and/or synthetic fibers and/or filaments by means of induced mechanical
+interlocking, fluid entanglement, chemical adhesion, thermal or solvent reaction, or by combination thereof
+other than natural hydration bonding as occurs with natural cellulose fibers. Such means include resin
+bonding, web bonding, and melt bonding. Specifically includes assets used to make flocked and needle
+punched products other than carpets and rugs. Assets, as described above, which are used to manufacture
+nonwovens are elsewhere classified when located in the same plant in an integrated operation with
+man-made fiber producing assets. Assets used to manufacture man-made fibers and assets used in
+bleaching, dyeing, printing, and other similar finishing processes are elsewhere classified.
+Manufacture of Apparel and Other Finished Products:
+Includes assets used in the production of clothing and fabricated textile products by the cutting
+and sewing of woven fabrics, other textile products, and furs; but does not include assets used
+in the manufacture of apparel from rubber and leather.
+Cutting of Timber:
+Includes logging machinery and equipment and roadbuilding equipment used by logging and
+sawmill operators and pulp manufacturers for their own account.
+Sawing of Dimensional Stock From Logs:
+Includes machinery and equipment installed in permanent or well-established sawmills.
+Sawing of Dimensional Stock From Logs:
+Includes machinery and equipment in sawmills characterized by temporary foundations and a
+lack, or minimum amount, of lumberhandling, drying, and residue disposal equipment and
+facilities.
+Manufacture of Wood Products, and Furniture:
+Includes assets used in the production of plywood, hardboard, flooring, veneers, furniture, and
+other wood products, including the treatment of poles and timber.
+Manufacture of Pulp and Paper:
+Includes assets for pulp materials handling and storage, pulp mill processing, bleach processing, paper and
+paperboard manufacturing, and on-line finishing. Includes pollution control assets and all land improvements
+associated with the factory site or production process such as effluent ponds and canals, provided such
+improvements are depreciable but does not include buildings and structural components as defined in
+section 1.48-1(e)(1) of the regulations. Includes steam and chemical recovery boiler systems, with any rated
+capacity, used for the recovery and regeneration of chemicals used in manufacturing. Does not include
+assets used either in pulpwood logging, or in the manufacture of hardboard.
+7.5 5 7.5
+11 7 11
+9 5 9
+8 5 8
+10 7 10
+9 5 9
+6 5 6
+10 7 10
+6 5 6
+10 7 10
+13 7 13

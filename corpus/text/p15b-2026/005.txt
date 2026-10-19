@@ -1,0 +1,77 @@
+Exception for S corporation shareholders. Don’t
+treat a 2% shareholder of an S corporation as an employee of the corporation for this purpose. A 2% shareholder for this purpose is someone who directly or indirectly owns (for any day during the tax year) more than 2%
+of the corporation’s stock or stock with more than 2% of
+the voting power. Treat a 2% shareholder as you would a
+partner in a partnership for fringe benefit purposes, but
+don’t treat the benefit as a reduction in distributions to the
+2% shareholder. For more information, see Revenue Ruling 91-26, 1991-1 C.B. 184.
+Plans that favor highly compensated employees. If
+your plan favors highly compensated employees as to eligibility to participate, contributions, or benefits, you must
+include in their wages the value of taxable benefits they
+could have selected. A plan you maintain under a collective bargaining agreement doesn’t favor highly compensated employees.
+A highly compensated employee for this purpose is any
+of the following employees.
+1. An officer.
+2. A shareholder who owns more than 5% of the voting
+power or value of all classes of the employer’s stock.
+3. An employee who is highly compensated based on
+the facts and circumstances.
+4. A spouse or dependent of a person described in (1),
+(2), or (3).
+Plans that favor key employees. If your plan favors key
+employees, you must include in their wages the value of
+taxable benefits they could have selected. A plan favors
+key employees if more than 25% of the total of the nontaxable benefits you provide for all employees under the plan
+go to key employees. However, a plan you maintain under
+a collective bargaining agreement doesn’t favor key employees.
+A key employee during 2026 is generally an employee
+who is either of the following.
+1. An officer having annual pay of more than $235,000.
+2. An employee who for 2026 is either of the following.
+a. A 5% owner of your business.
+b. A 1% owner of your business whose annual pay is
+more than $150,000.
+Simple Cafeteria Plans for Small
+Businesses
+Eligible employers meeting contribution requirements and
+eligibility and participation requirements can establish a
+simple cafeteria plan. Simple cafeteria plans are treated
+as meeting the nondiscrimination requirements of a cafeteria plan and certain benefits under a cafeteria plan.
+Eligible employer. You’re an eligible employer if you
+employed an average of 100 or fewer employees during
+either of the 2 preceding years. If your business wasn’t in
+existence throughout the preceding year, you’re eligible if
+you reasonably expect to employ an average of 100 or
+fewer employees in the current year. If you establish a simple cafeteria plan in a year that you employ an average of
+100 or fewer employees, you’re considered an eligible employer for any subsequent year until the year after you employ an average of 200 or more employees.
+Eligibility and participation requirements. These requirements are met if all employees who had at least
+1,000 hours of service for the preceding plan year are eligible to participate and each employee eligible to participate in the plan may elect any benefit available under the
+plan. You may elect to exclude from the plan employees
+who:
+1. Are under age 21 before the close of the plan year,
+2. Have less than 1 year of service with you as of any
+day during the plan year,
+3. Are covered under a collective bargaining agreement
+if there is evidence that the benefits covered under the
+cafeteria plan were the subject of good-faith bargaining, or
+4. Are nonresident aliens working outside the United
+States whose income didn’t come from a U.S. source.
+Contribution requirements. You must make a contribution to provide qualified benefits on behalf of each qualified employee in an amount equal to:
+1. A uniform percentage (not less than 2%) of the employee’s compensation for the plan year; or
+2. An amount that is at least 6% of the employee’s compensation for the plan year or twice the amount of the
+salary reduction contributions of each qualified employee, whichever is less.
+If the contribution requirements are met using option (2),
+the rate of contribution to any salary reduction contribution
+of a highly compensated or key employee can’t be greater
+than the rate of contribution to any other employee.
+More information. For more information about cafeteria
+plans, see section 125 of the Internal Revenue Code and
+its regulations.
+2. Fringe Benefit Exclusion
+Rules
+This section discusses the exclusion rules that apply to
+fringe benefits. These rules exclude all or part of the value
+of certain benefits from the recipient’s pay.
+In most cases, the excluded benefits aren’t subject to
+federal income tax withholding, social security tax, Medicare tax, federal unemployment tax under the Federal Unemployment Tax Act (FUTA), or Railroad Retirement Tax
+Act (RRTA) taxes and aren’t reported on Form W-2.

@@ -1,0 +1,103 @@
+disposition under Disposition of a Car, later, for information on how to figure the depreciation allowed in the year
+of disposition.
+How to use the 2025 chart. To figure your depreciation deduction for 2025, find the percentage in the column
+of Table 4-1 based on the date that you first placed the car
+in service and the depreciation method that you are using.
+Multiply the unadjusted basis of your car (defined earlier)
+by that percentage to determine the amount of your depreciation deduction. If you prefer to figure your depreciation
+deduction without the help of the chart, see Pub. 946.
+Caution: Your deduction can’t be more than the maximum depreciation limit for cars. See Depreciation Limits,
+later.
+Example. You bought a used truck in February 2024 to
+use exclusively in your landscape business. You paid
+$9,200 for the truck with no trade-in. You didn’t claim any
+section 179 deduction, the truck didn’t qualify for the special depreciation allowance, and you chose to use the
+200% DB method to get the largest depreciation deduction in the early years.
+You used the MACRS Depreciation Chart in 2024 to
+find your percentage. The unadjusted basis of the truck
+equals its cost because you used it exclusively for business. You multiplied the unadjusted basis of the truck,
+$9,200, by the percentage that applied, 20%, to figure
+your 2024 depreciation deduction of $1,840.
+In 2025, you used the truck for personal purposes when
+you repaired your parent’s cabin. Your records show that
+the business use of the truck was 90% in 2025. You used
+Table 4-1 to find your percentage. Reading down the first
+column for the date placed in service and across to the
+200% DB column, you locate your percentage, 32%. You
+multiply the unadjusted basis of the truck, $8,280 ($9,200
+cost × 90% (0.90) business use), by 32% (0.32) to figure
+your 2025 depreciation deduction of $2,650.
+Depreciation Limits
+There are limits on the amount you can deduct for depreciation of your car, truck, or van. The section 179 deduction and special depreciation allowance are treated as depreciation for purposes of the limits. The maximum
+amount you can deduct each year depends on the date
+you acquired the passenger automobile and the year you
+place the passenger automobile in service. These limits
+are shown in the following tables for 2025.
+Maximum Depreciation Deduction for
+Passenger Automobiles (Including Trucks
+and Vans) Acquired Before September 28,
+2017, and Placed in Service During 2018–
+2025
+Date 4th &
+placed in 1st 2nd 3rd later
+service year year year years
+2025 $12,200 $19,600 $11,800 $7,060
+2024 12,400 19,800 11,900 7,160
+2023 12,200 19,500 11,700 6,960
+2022 11,200 18,000 10,800 6,460
+2021 10,200 16,400 9,800 5,860
+2020 10,100 16,100 9,700 5,760
+2019 14,9001
+16,100 9,700 5,760
+2018 16,4002
+16,000 9,600 5,760
+1
+$10,100 if the passenger automobile isn’t qualified property or if you elect not to claim
+the special depreciation allowance.
+2
+$10,000 if the passenger automobile isn’t qualified property or if you elect not to claim
+the special depreciation allowance.
+Maximum Depreciation Deduction for
+Passenger Automobiles (Including Trucks
+and Vans) Acquired After September 27,
+2017, and Placed in Service During 2018 or
+Later
+Date 4th &
+placed in 1st 2nd 3rd later
+service year year year years
+2025 $20,2001
+$19,600 $11,800 $7,060
+2024 20,4002
+19,800 11,900 7,160
+2023 20,2003
+19,500 11,700 6,960
+2022 19,2004
+18,000 10,800 6,460
+2021 18,2005
+16,400 9,800 5,860
+2019–2020 18,1006
+16,100 9,700 5,760
+2018 18,0007
+16,000 9,600 5,760
+1
+$12,200 if the passenger automobile isn’t qualified property or if you elect not to claim
+the special depreciation allowance.
+2
+$12,400 if the passenger automobile isn’t qualified property or if you elect not to claim
+the special depreciation allowance.
+3
+$12,200 if the passenger automobile isn’t qualified property or if you elect not to claim
+the special depreciation allowance.
+4
+$11,200 if the passenger automobile isn’t qualified property or if you elect not to claim
+the special depreciation allowance.
+5
+$10,200 if the passenger automobile isn’t qualified property or if you elect not to claim
+the special depreciation allowance.
+6
+$10,100 if the passenger automobile isn’t qualified property or if you elect not to claim
+the special depreciation allowance.
+7
+$10,000 if the passenger automobile isn’t qualified property or if you elect not to claim
+the special depreciation allowance.
+The maximum amount you can deduct each year depends on the year you place the car in service. These limits are shown in the following tables for prior years.

@@ -1,0 +1,81 @@
+Legal and tax considerations enter into this decision. Only
+tax considerations are discussed in this Pub.
+Your form of business determines which income
+tax return form you have to file. See Table 2 to find
+out which form you have to file.
+Sole proprietorships. A sole proprietorship is an unincorporated business that is owned by one individual. It is
+the simplest form of business organization to start and
+maintain. The business has no existence apart from you,
+the owner. Its liabilities are your personal liabilities. You
+undertake the risks of the business for all assets owned,
+whether or not used in the business. You include the income and expenses of the business on your personal tax
+return.
+More information. For more information on sole proprietorships, see Pub. 334. If you are a farmer, see Pub.
+225.
+Partnerships. A partnership is the relationship existing
+between two or more persons who join to carry on a trade
+or business. Each person contributes money, property, labor, or skill, and expects to share in the profits and losses
+of the business.
+A partnership must file an annual information return to
+report the income, deductions, gains, losses, etc., from its
+operations, but it does not pay income tax. Instead, it
+“passes through” any profits or losses to its partners. Each
+partner includes his or her share of the partnership's items
+on his or her tax return.
+More information. For more information on partnerships, see Pub. 541.
+Business owned and operated by spouses. If you and
+your spouse jointly own and operate an unincorporated
+business and share in the profits and losses, you are partners in a partnership, whether or not you have a formal
+partnership agreement. Do not use Schedule C (Form
+1040). Instead, file Form 1065, U.S. Return of Partnership
+Income. For more information, see Pub. 541.
+Exception—Community Income. If you and your
+spouse wholly own an unincorporated business as community property under the community property laws of a
+state, foreign country, or U.S. possession, you can treat
+the business either as a sole proprietorship or a partnership. States with community property laws include Arizona, California, Idaho, Louisiana, Nevada, New Mexico,
+Texas, Washington, and Wisconsin. See Pub. 555 for
+more information about community property laws.
+Exception—Qualified joint venture. If you and your
+spouse each materially participate as the only members of
+an unincorporated, jointly owned and operated business,
+and you file a joint return for the tax year, you can make a
+joint election to be treated as a qualified joint venture instead of a partnership for the tax year. Making this election
+will allow you to avoid the complexity of Form 1065 but still
+give each spouse credit for social security earnings on
+which retirement benefits are based. For an explanation of
+TIP
+"material participation," see the instructions for Schedule C (Form 1040), line G.
+To make this election, you must divide all items of income, gain, loss, deduction, and credit attributable to the
+business between you and your spouse in accordance
+with your respective interests in the venture. Each of you
+must file a separate Schedule C (Form 1040) and a separate Schedule SE (Form 1040). For more information, see
+Qualified Joint Venture in the Instructions for Schedule SE
+(Form 1040).
+Corporations. In forming a corporation, prospective
+shareholders exchange money, property, or both, for the
+corporation's capital stock. A corporation generally takes
+the same deductions as a sole proprietorship to figure its
+taxable income. A corporation can also take special deductions.
+C corporations. The profit of a C corporation is taxed
+to the corporation when earned, and then is taxed to the
+shareholders when distributed as dividends. However,
+shareholders cannot deduct any loss of the corporation.
+For more information on corporations, see Pub. 542.
+S corporations. An eligible domestic corporation (or a
+domestic entity eligible to elect to be treated as a corporation) can avoid double taxation (once to the corporation
+and again to the shareholders) as long as it meets certain
+tests and elects to be treated as an S corporation. Generally, an S corporation is exempt from federal income tax
+other than tax on certain capital gains and passive income. On their tax returns, the S corporation's shareholders include their share of the corporation's separately stated items of income, deduction, loss, and credit, and their
+share of nonseparately stated income or loss. For more information on S corporations and the tests that need to be
+met to be eligible to elect to be an S corporation, see the
+instructions for Form 2553, Election by a Small Business
+Corporation, and Form 1120-S, U.S. Income Tax Return
+for an S Corporation.
+Limited liability company. A limited liability company
+(LLC) is an entity formed under state law by filing articles
+of organization as an LLC. The members of an LLC are
+not personally liable for its debts. An LLC may be classified for federal income tax purposes as either a partnership, a corporation, or an entity disregarded as separate
+from its owner by applying the rules in Regulations section
+301.7701-3.
+More information. For more information on LLCs, see
+the Instructions for Form 8832, Entity Classification Election.

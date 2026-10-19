@@ -1,0 +1,85 @@
+send copies to the Social Security Administration. See Information Returns, later, for more information on Form
+W-2.
+Excise Taxes
+This section describes the excise taxes you may have to
+pay and the forms you have to file if you do any of the following.
+• Manufacture or sell certain products.
+• Operate certain kinds of businesses.
+• Use various kinds of equipment, facilities, or products.
+• Receive payment for certain services.
+For more information on excise taxes, see Pub. 510.
+Form 720. The federal excise taxes reported on Form
+720, Quarterly Federal Excise Tax Return, consist of several broad categories of taxes, including the following.
+• Environmental taxes.
+• Communications and air transportation taxes.
+• Fuel taxes.
+• Tax on the first retail sale of heavy trucks, trailers, and
+tractors.
+• Manufacturers taxes on the sale or use of a variety of
+different articles.
+Form 2290. There is a federal excise tax on certain
+trucks, truck tractors, and buses used on public highways.
+The tax applies to vehicles having a taxable gross weight
+of 55,000 pounds or more. Report the tax on Form 2290,
+Heavy Highway Vehicle Use Tax Return. For more information, see the Instructions for Form 2290.
+Form 730. If you are in the business of accepting wagers
+or conducting a wagering pool or lottery, you may be liable
+for the federal excise tax on wagering. Use Form 730,
+Monthly Tax Return for Wagers, to figure the tax on the
+wagers you receive.
+Form 11-C. Use Form 11-C, Occupational Tax and Registration Return for Wagering, to register for any wagering
+activity and to pay the federal occupational tax on wagering.
+Depositing Taxes
+You generally have to deposit federal employment taxes,
+certain excise taxes, corporate income tax, and S corporation taxes before you file your return.
+You must use an electronic funds transfer (EFT) to
+make all federal tax deposits. Generally, an EFT is made
+using the Electronic Federal Tax Payment System
+(EFTPS). If you don't want to use EFTPS, you can arrange
+for your tax professional, financial institution, payroll service, or other trusted third party to make electronic deposits
+on your behalf.
+Any business that has a federal tax obligation and requests a new EIN will automatically be enrolled in EFTPS.
+Through the mail, the business will receive an EFTPS PIN
+package that contains instructions for activating its EFTPS
+enrollment.
+Information Returns
+If you make or receive payments in your business, you
+may have to report them to the IRS on information returns.
+The IRS compares the payments shown on the information returns with each person's income tax return to see if
+the payments were included in income. You must give a
+copy of each information return you are required to file to
+the recipient or payer. In addition to the forms described
+below, you may have to use other returns to report certain
+kinds of payments or transactions. For more details on information returns and when you have to file them, see the
+General Instructions for Certain Information Returns.
+Form 1099-MISC. Use Form 1099-MISC, Miscellaneous
+Information, to report certain payments you make in your
+trade or business. These payments include the following
+items.
+• Royalty payments of $10 or more.
+• Rent payments of $600 or more, other than rents paid
+to real estate agents.
+• Prizes and awards of $600 or more that are not for
+services, such as winnings on TV or radio shows.
+• Payments to certain crew members by operators of
+fishing boats.
+• Cash payments of $600 or more for fish (or other
+aquatic life) you purchase from anyone engaged in the
+trade or business of catching fish.
+Either the Form 1099-MISC or Form 1099-NEC can be
+used to report sales totaling $5,000 or more of consumer
+products to a person on a buy-sell, deposit-commission,
+or other commission basis for resale anywhere other than
+in a permanent retail establishment. For more information
+on what to report on Form 1099-MISC, see the Instructions for Forms 1099-MISC and 1099-NEC.
+Form 1099-NEC. Use Form 1099-NEC, Nonemployee
+Compensation, to report certain payments you make in
+your trade or business. These payments include the following items.
+• Payments of $600 or more for services performed by
+someone who is not your employee.
+• If you withheld certain federal income tax under the
+backup withholding rules regardless of the amount of
+the payment.
+You may choose to report direct sales of $5,000 or more of
+consumer goods to a person for resale on Form
+1099-NEC rather than Form 1099-MISC. For more information on what to report on Form 1099-NEC, see the Instructions for Forms 1099-MISC and 1099-NEC.

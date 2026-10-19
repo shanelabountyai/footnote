@@ -1,0 +1,83 @@
+trees right next to it. These bushes and trees are closely
+associated with the building, so they have a determinable
+useful life. Therefore, you can depreciate them. Add your
+other land preparation costs to the basis of your land because they have no determinable life and you cannot depreciate them.
+Excepted Property
+Even if the requirements explained in the preceding discussions are met, you cannot depreciate the following
+property.
+• Property placed in service and disposed of in the
+same year. Determining when property is placed in
+service is explained later.
+• Equipment used to build capital improvements. You
+must add otherwise allowable depreciation on the
+equipment during the period of construction to the basis of your improvements. See Uniform Capitalization
+Rules in Pub. 551.
+• Section 197 intangibles. You must amortize these
+costs. Intangible property, such as certain computer
+software, that is not section 197 intangible property,
+can be depreciated if it meets certain requirements.
+See Intangible Property, later.
+• Certain term interests.
+Certain term interests in property. You cannot depreciate a term interest in property created or acquired after
+July 27, 1989, for any period during which the remainder
+interest is held, directly or indirectly, by a person related to
+you. A term interest in property means a life interest in
+property, an interest in property for a term of years, or an
+income interest in a trust.
+Related persons. For a description of related persons, see Related persons, later. For this purpose, however, treat as related persons only the relationships listed
+in items (1) through (10) of that discussion and substitute
+“50%” for “10%” each place it appears.
+Basis adjustments. If you would be allowed a depreciation deduction for a term interest in property except that
+the holder of the remainder interest is related to you, you
+must generally reduce your basis in the term interest by
+any depreciation or amortization not allowed.
+If you hold the remainder interest, you must generally
+increase your basis in that interest by the depreciation not
+allowed to the term interest holder. However, do not increase your basis for depreciation not allowed for periods
+during which either of the following situations applies.
+• The term interest is held by an organization exempt
+from tax.
+• The term interest is held by a nonresident alien individual or foreign corporation, and the income from the
+term interest is not effectively connected with the conduct of a trade or business in the United States.
+Exceptions. The above rules do not apply to the
+holder of a term interest in property acquired by gift,
+bequest, or inheritance. They also do not apply to the
+holder of dividend rights that were separated from any
+stripped preferred stock if the rights were purchased after
+April 30, 1993, or to a person whose basis in the stock is
+determined by reference to the basis in the hands of the
+purchaser.
+When Does Depreciation
+Begin and End?
+Terms you may need to know
+(see Glossary):
+Basis
+Exchange
+Placed in service
+You begin to depreciate your property when you place it in
+service for use in your trade or business or for the production of income. You stop depreciating property either when
+you have fully recovered your cost or other basis or when
+you retire it from service, whichever happens first.
+Placed in Service
+You place property in service when it is ready and available for a specific use, whether in a business activity, an income-producing activity, a tax-exempt activity, or a personal activity. Even if you are not using the property, it is in
+service when it is ready and available for its specific use.
+Example 1. You bought a machine for your business.
+The machine was delivered last year. However, it was not
+installed and operational until this year. It is considered
+placed in service this year. If the machine had been ready
+and available for use when it was delivered, it would be
+considered placed in service last year even if it was not
+actually used until this year.
+Example 2. On April 6, Sue Thorn bought a house to
+use as residential rental property. Sue made several repairs and had it ready for rent on July 5. At that time, Sue
+began to advertise it for rent in the local newspaper. The
+house is considered placed in service in July when it was
+ready and available for rent. Sue can begin to depreciate it
+in July.
+Example 3. James Elm is a building contractor who
+specializes in constructing office buildings. James bought
+a truck last year that had to be modified to lift materials to
+second-story levels. The installation of the lifting equipment was completed and James accepted delivery of the
+modified truck on January 10 of this year. The truck was
+placed in service on January 10, the date it was ready and
+available to perform the function for which it was bought.

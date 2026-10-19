@@ -1,0 +1,87 @@
+language by which the employee certifies the form is correct. A Form W-4 is also invalid if, by the date an employee gives it to you, they clearly indicate it is false. An
+employee who submits a false Form W-4 may be subject
+to a $500 penalty. You may treat a Form W-4 as invalid if
+the employee wrote “exempt” below Step 4(c) and
+checked the box in Step 2(c) or entered numbers for
+Steps 3 and 4.
+When you get an invalid Form W-4, don’t use it to figure
+federal income tax withholding. Tell the employee it is invalid and ask for another one. If the employee doesn’t give
+you a valid one, and you have an earlier Form W-4 for this
+employee that is valid, withhold as you did before. If you
+don’t have an earlier Form W-4 that is valid, withhold tax
+as if the employee had checked the box for Single or Married filing separately in Step 1(c) and made no entries in
+Step 2, Step 3, or Step 4 of the 2026 Form W-4. However,
+an employee who was paid wages in 2019 who never submitted a valid Form W-4 and submits an invalid Form W-4
+in 2026 should continue to be treated as single and claiming zero allowances on a 2019 Form W-4. If you use the
+optional computational bridge, described earlier under Redesigned Form W-4, you may treat this employee as if
+they had checked the box for Single or Married filing separately in Step 1(c), and made no entries in Step 2 and
+Step 3, an entry of $8,600 in Step 4(a), and an entry of
+zero in Step 4(b) of the 2026 Form W-4.
+Amounts exempt from levy on wages, salary, and
+other income. If you receive a Notice of Levy on Wages,
+Salary, and Other Income (a notice in the Form 668 series), you must withhold amounts as described in the instructions for these forms. Pub. 1494 has tables to figure
+the amount exempt from levy. If a levy issued in a prior
+year is still in effect and the taxpayer submits a new Statement of Exemptions and Filing Status, use the current
+year Pub. 1494 to figure the exempt amount.
+Social Security and Medicare Taxes
+The Federal Insurance Contributions Act (FICA) provides
+for a federal system of old-age, survivors, disability, and
+hospital insurance. The old-age, survivors, and disability
+insurance part is financed by the social security tax. The
+hospital insurance part is financed by the Medicare tax.
+Each of these taxes is reported separately.
+Generally, you’re required to withhold social security
+and Medicare taxes from your employees’ wages and pay
+the employer share of these taxes. Certain types of wages
+and compensation aren’t subject to social security and
+Medicare taxes. See section 5 and section 15 for details.
+Generally, employee wages are subject to social security
+and Medicare taxes regardless of the employee’s age or
+whether they are receiving social security benefits. If the
+employee reported tips, see section 6.
+The $150 test or the $2,500 test for farmwork. All
+cash wages that you pay to an employee during the year
+for farmwork are subject to social security and Medicare
+taxes and federal income tax withholding if either of the
+two tests below is met.
+• You pay cash wages to an employee of $150 or more
+in a year for farmwork (count all cash wages paid on a
+time, piecework, or other basis). The $150 test applies
+separately to each farmworker that you employ. If you
+employ a family of workers, each member is treated
+separately. Don’t count wages paid by other employers.
+• The total that you pay for farmwork (cash and noncash) to all your employees is $2,500 or more during
+the year.
+Exceptions. Annual cash wages of less than $150
+you pay to a seasonal farmworker aren’t subject to social
+security and Medicare taxes, or federal income tax withholding, even if you pay $2,500 or more to all your farmworkers. However, these wages count toward the $2,500
+test for determining whether other farmworkers’ wages are
+subject to social security and Medicare taxes.
+A seasonal farmworker is a worker who:
+• Is employed in agriculture as a hand-harvest laborer,
+• Is paid piece rates in an operation that is usually paid
+on a piece-rate basis in the region of employment,
+• Commutes daily from their permanent home to the
+farm, and
+• Had been employed in agriculture less than 13 weeks
+in the preceding calendar year.
+Wages paid to a child under 18 working on a farm that
+is a sole proprietorship or a partnership in which each
+partner is a parent of a child aren’t subject to social security and Medicare taxes. However, these wages count toward the $2,500 test for determining whether other farmworkers’ wages are subject to social security and
+Medicare taxes.
+Deducting the tax. Deduct the employee tax from
+each wage payment. If you’re not sure that the wages that
+you pay to a farmworker during the year will be taxable,
+you may either deduct the tax when you make the payments or wait until the $2,500 test or the $150 test discussed earlier has been met.
+Tax rates and the social security wage base limit. Social security and Medicare taxes have different rates and
+only the social security tax has a wage base limit. The
+wage base limit is the maximum wage subject to the tax
+for the year. Determine the amount of withholding for social security and Medicare taxes by multiplying each payment by the employee tax rate.
+For 2026, the social security tax rate is 6.2% (amount
+withheld) each for the employer and employee (12.4% total). The social security wage base limit is $184,500. The
+tax rate for Medicare is 1.45% (amount withheld) each for
+the employee and employer (2.9% total). There is no wage
+base limit for Medicare tax; all covered wages are subject
+to Medicare tax.
+Additional Medicare Tax withholding. In addition to
+withholding Medicare tax at 1.45%, you must withhold a

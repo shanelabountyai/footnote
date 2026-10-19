@@ -1,0 +1,77 @@
+the permitted change rules for health coverage under a
+cafeteria plan and discusses two specific situations in
+which a cafeteria plan participant is permitted to revoke
+their election under a cafeteria plan during a period of coverage.
+Definition of marriage. A marriage of two individuals is
+recognized for federal tax purposes if the marriage is recognized by the state or territory of the United States in
+which the marriage is entered into, regardless of legal residence. Two individuals who enter into a relationship that is
+denominated as a marriage under the laws of a foreign jurisdiction are recognized as married for federal tax purposes if the relationship would be recognized as a marriage
+under the laws of at least one state or territory of the United States, regardless of legal residence. Individuals who
+have entered into a registered domestic partnership, civil
+union, or other similar relationship that isn’t denominated
+as a marriage under the law of the state or territory of the
+United States where such relationship was entered into
+aren’t lawfully married for federal tax purposes, regardless
+of legal residence.
+Notice 2014-1 discusses how certain rules for cafeteria
+plans, including health and dependent care FSAs, and
+health savings accounts (HSAs) apply to same-sex spouses participating in employee benefit plans. Notice
+2014-1, 2014-2 I.R.B. 270, is available at IRS.gov/irb/
+2014-02_IRB#NOT-2014-1.
+Getting tax forms, instructions, and publications. Go
+to IRS.gov/Forms to download current and prior-year
+forms, instructions, and publications.
+Ordering tax forms, instructions, and publications.
+Go to IRS.gov/OrderForms to order current forms, instructions, and publications; call 800-829-3676 to order
+prior-year forms and instructions. The IRS will process
+your order as soon as possible. Don’t resubmit requests
+you’ve already sent us. You can get forms, instructions,
+and publications faster online.
+Getting answers to your tax questions. If you have a
+tax question not answered by this publication, check
+IRS.gov and How To Get Tax Help at the end of this publication.
+Photographs of missing children. The IRS is a proud
+partner with the National Center for Missing & Exploited
+Children® (NCMEC). Photographs of missing children selected by the Center may appear in this publication on pages that would otherwise be blank. You can help bring
+these children home by looking at the photographs and
+calling 1-800-THE-LOST (1-800-843-5678) if you recognize a child.
+Introduction
+This publication supplements Pub. 15, Employer’s Tax
+Guide; and Pub. 15-A, Employer’s Supplemental Tax
+Guide. It contains information for employers on the employment tax treatment of fringe benefits.
+Comments and suggestions. We welcome your comments about this publication and your suggestions for future editions.
+You can send us comments through IRS.gov/
+FormComments.
+Or you can write to:
+Internal Revenue Service
+Tax Forms and Publications
+1111 Constitution Ave. NW, IR-6526
+Washington, DC 20224
+Although we can’t respond individually to each comment received, we do appreciate your feedback and will
+consider your comments and suggestions as we revise
+our tax forms, instructions, and publications. Don’t send
+tax questions, tax returns, or payments to this address.
+1. Fringe Benefit Overview
+A fringe benefit is a form of pay for the performance of
+services. For example, you provide an employee with a
+fringe benefit when you allow the employee to use a business vehicle to commute to and from work.
+Performance of services. A person who performs services for you doesn’t have to be your employee. A person
+may perform services for you as an independent contractor, partner, or director. Also, for fringe benefit purposes,
+treat a person who agrees not to perform services (such
+as under a covenant not to compete) as performing services.
+Provider of benefit. You’re the provider of a fringe benefit if it is provided for services performed for you. You’re
+considered the provider of a fringe benefit even if a third
+party, such as your client or customer, provides the benefit
+to your employee for services the employee performs for
+you. For example, if, in exchange for goods or services,
+your customer provides daycare services as a fringe benefit to your employees for services they provide for you as
+their employer, then you’re the provider of this fringe benefit even though the customer is actually providing the daycare.
+Recipient of benefit. The person who performs services
+for you is considered the recipient of a fringe benefit provided for those services. That person may be considered
+the recipient even if the benefit is provided to someone
+who didn’t perform services for you. For example, your
+employee may be the recipient of a fringe benefit you provide to a member of the employee’s family.
+Are Fringe Benefits Taxable?
+Any fringe benefit you provide is taxable and must be included in the recipient’s pay unless the law specifically excludes it. Section 2 discusses the exclusions that apply to
+certain fringe benefits. Any benefit not excluded under the
+rules discussed in section 2 is taxable.

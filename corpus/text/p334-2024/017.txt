@@ -1,0 +1,93 @@
+Useful Items
+You may want to see:
+Publication
+544 Sales and Other Dispositions of Assets
+Form (and Instructions)
+4797 Sales of Business Property
+Sch D (Form 1040) Capital Gains and Losses
+See chapter 12 for information about getting publications
+and forms.
+What Is a Disposition of
+Property?
+A disposition of property includes the following transactions.
+• You sell property for cash or other property.
+• You exchange property for other property.
+• You receive money as a tenant for the cancellation of a
+lease.
+• You receive money for granting the exclusive use of a
+copyright throughout its life in a particular medium.
+• You transfer property to satisfy a debt.
+• You abandon property.
+• Your bank or other financial institution forecloses on
+your mortgage or repossesses your property.
+• Your property is damaged, destroyed, or stolen, and
+you receive property or money in payment.
+• Your property is condemned, or disposed of under the
+threat of condemnation, and you receive property or
+money in payment.
+• You give property away.
+For details about damaged, destroyed, or stolen property,
+see Pub. 547, Casualties, Disasters, and Thefts. For details about other dispositions, see chapter 1 of Pub. 544.
+Nontaxable exchanges. Certain exchanges of property
+are not taxable. This means any gain from the exchange is
+not recognized and you cannot deduct any loss. Your gain
+or loss will not be recognized until you sell or otherwise
+dispose of the property you receive.
+Like-kind exchanges. A like-kind exchange is the exchange of property for other like-kind property. It is the
+most common type of nontaxable exchange. To be a
+like-kind exchange, the property traded and the property
+received must be both (a) real property, and (b) business
+or investment property.
+Report the exchange of like-kind property on Form
+8824, Like-Kind Exchanges. For more information about
+like-kind exchanges, see chapter 1 of Pub. 544.
+Installment sales. An installment sale is a sale of property where you receive at least one payment after the tax
+544
+4797
+Sch D (Form 1040)
+year of the sale. If you finance the buyer's purchase of
+your property, instead of having the buyer get a loan or
+mortgage from a third party, you probably have an installment sale.
+For more information about installment sales, see Pub.
+537.
+Sale of a business. The sale of a business is usually not
+a sale of one asset. Instead, all the assets of the business
+are sold. Generally, when this occurs, each asset is treated as being sold separately for determining the treatment
+of gain or loss.
+Both the buyer and seller involved in the sale of a business must report to the IRS the allocation of the sales
+price among the business assets. Use Form 8594, Asset
+Acquisition Statement Under Section 1060, to provide this
+information. The buyer and seller should each attach Form
+8594 to their federal income tax return for the year in
+which the sale occurred.
+For more information about the sale of a business, see
+Pub. 544.
+How Do I Figure a Gain or
+Loss?
+Table 3-1. How To Figure a Gain or Loss
+IF your... THEN you have a...
+adjusted basis is more than the amount
+realized loss.
+amount realized is more than the
+adjusted basis gain.
+Basis, adjusted basis, amount realized, fair market
+value, and amount recognized are defined next. You need
+to know these definitions to figure your gain or loss.
+Basis. The cost or purchase price of property is usually
+its basis for figuring the gain or loss from its sale or other
+disposition. However, if you acquired the property by gift,
+by inheritance, or in some way other than buying it, you
+must use a basis other than its cost. For more information
+about basis, see Pub. 551, Basis of Assets.
+Adjusted basis. The adjusted basis of property generally
+is your original cost or other basis plus certain additions,
+and minus certain deductions such as depreciation and
+casualty losses. In determining gain or loss, the costs of
+transferring property to a new owner, such as selling expenses, are added to the adjusted basis of the property.
+Amount realized. Generally, the amount you realize from
+a disposition is the total of all money you receive plus the
+fair market value of all property or services you receive.
+The amount you realize also includes any of your liabilities
+that were assumed by the buyer and any liabilities to
+which the property you transferred is subject, such as real
+estate taxes or a mortgage.

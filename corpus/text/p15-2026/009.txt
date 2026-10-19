@@ -1,0 +1,93 @@
+withheld must be reported on Form 941, Form 943, or
+Form 944, not on Form 945. However, distributions from
+such plans to a beneficiary or estate of a deceased employee aren’t wages and are reported on Forms 1099-R,
+Distributions From Pensions, Annuities, Retirement or
+Profit-Sharing Plans, IRAs, Insurance Contracts, etc.; federal income tax withheld must be reported on Form 945.
+Backup withholding. You must generally withhold 24%
+of certain taxable payments if the payee fails to furnish you
+with their correct TIN. This withholding is referred to as
+“backup withholding.”
+Payments subject to backup withholding include interest, dividends, patronage dividends, rents, royalties, commissions, nonemployee compensation, payments made in
+settlement of payment card or third-party network transactions, and certain other payments you make in the course
+of your trade or business. In addition, transactions by
+brokers and barter exchanges and certain payments
+made by fishing boat operators are subject to backup
+withholding.
+You can use Form W-9 to request payees to furnish
+their TINs. Form W-9 must be used when payees must
+certify that the number furnished is correct, or when payees must certify that they’re not subject to backup withholding or are exempt from backup withholding. The Instructions for the Requester of Form W-9 include a list of
+types of payees who are exempt from backup withholding.
+For more information, see Pub. 1281, Backup Withholding
+for Missing and Incorrect Name/TIN(s).
+Caution: Backup withholding doesn’t apply to wages,
+pensions, annuities, IRAs (including simplified employee
+pension (SEP) and SIMPLE retirement plans), section
+404(k) distributions from an employee stock ownership
+plan (ESOP), medical savings accounts (MSAs), health
+savings accounts (HSAs), long-term-care benefits, or real
+estate transactions.
+Recordkeeping
+Keep all records of employment taxes for at least 4 years.
+These should be available for IRS review. Your records
+should include the following information.
+• Your EIN.
+• Amounts and dates of all wage, annuity, and pension
+payments.
+• Amounts of tips reported to you by your employees.
+• Records of allocated tips.
+• The fair market value (FMV) of in-kind wages paid.
+• Names, addresses, SSNs, and occupations of
+employees and recipients.
+• Any employee copies of Forms W-2 and W-2c
+returned to you as undeliverable.
+• Dates of employment for each employee.
+• Periods for which employees and recipients were paid
+while absent due to sickness or injury and the amount
+and weekly rate of payments you or third-party payers
+made to them.
+• Copies of employees’ and recipients’ federal income
+tax withholding certificates (Forms W-4, W-4P, W-4R,
+W-4S, and W-4V).
+• Dates and amounts of tax deposits you made and
+acknowledgment numbers for deposits made by
+EFTPS.
+• Copies of returns filed and confirmation numbers.
+• Records of fringe benefits and expense
+reimbursements provided to your employees,
+including substantiation.
+• Documentation to substantiate any credits claimed.
+Records related to qualified sick leave wages and
+qualified family leave wages for leave taken after
+March 31, 2021, and before October 1, 2021, should
+be kept for at least 6 years. For more information on
+substantiation requirements, go to IRS.gov/PLC.
+Records related to qualified wages for the COVID-19
+related employee retention credit paid after June 30,
+2021, should be kept for at least 7 years. For more
+information on substantiation requirements, go to
+IRS.gov/ERC.
+If a crew leader furnished you with farmworkers, you
+must keep a record of the name, permanent mailing
+address, and EIN of the crew leader. If the crew leader
+has no permanent mailing address, record their present
+address.
+Change of Business Name
+Notify the IRS immediately if you change your business
+name. Write to the IRS office where you file your returns,
+using the Without a payment address provided in the
+instructions for your employment tax return, to notify the
+IRS of any business name change. See Pub. 1635 to see
+if you need to apply for a new EIN.
+Change of Business Address
+or Responsible Party
+Notify the IRS immediately if you change your business
+address or responsible party. Complete and mail Form
+8822-B to notify the IRS of a business address or
+responsible party change. For a definition of “responsible
+party,” see the Instructions for Form SS-4.
+Filing Addresses
+Generally, your filing address for Form 940, Form 941,
+Form 943, Form 944, Form 945, or Form CT-1 depends on
+the location of your residence or principal place of
+business and whether or not you’re including a payment
+with your return. There are separate filing addresses for

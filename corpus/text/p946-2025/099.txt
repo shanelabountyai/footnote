@@ -1,0 +1,106 @@
+Table B-1.
+Asset
+class
+00.11
+00.12
+00.13
+00.21
+00.22
+Description of assets included
+Table of Class Lives and Recovery Periods
+Recovery Periods
+(in years)
+Class Life
+(in years)
+GDS
+(MACRS) ADS
+SPECIFIC DEPRECIABLE ASSETS USED IN ALL BUSINESS ACTIVITIES, EXCEPT AS NOTED:
+00.23
+00.241
+00.242
+00.25
+00.26
+00.27
+00.28
+00.3
+00.4
+Office Furniture, Fixtures, and Equipment:
+Includes furniture and fixtures that are not a structural component of a building. Includes such
+assets as desks, files, safes, and communications equipment. Does not include
+communications equipment that is included in other classes.
+10 7 10
+Information Systems:
+Includes computers and their peripheral equipment used in administering normal business
+transactions and the maintenance of business records, their retrieval and analysis.
+Information systems are defined as:
+1) Computers: A computer is a programmable electronically activated device capable of
+accepting information, applying prescribed processes to the information, and supplying the
+results of these processes with or without human intervention. It usually consists of a central
+processing unit containing extensive storage, logic, arithmetic, and control capabilities.
+Excluded from this category are adding machines, electronic desk calculators, etc., and other
+equipment described in class 00.13.
+2) Peripheral equipment consists of the auxiliary machines which are designed to be placed
+under control of the central processing unit. Nonlimiting examples are: Card readers, card
+punches, magnetic tape feeds, high speed printers, optical character readers, tape cassettes,
+mass storage units, paper tape equipment, keypunches, data entry devices, teleprinters,
+terminals, tape drives, disc drives, disc files, disc packs, visual image projector tubes, card
+sorters, plotters, and collators. Peripheral equipment may be used online or offline.
+Does not incude equipment that is an integral part of other capital equipment that is included
+in other classes of economic activity, that is, computers used primarily for process or production
+control, switching, channeling, and automating distributive trades and services such as point
+of sale (POS) computer systems. Also, does not include equipment of a kind used primarily for
+amusement or entertainment of the user.
+6 5 5
+Data Handling Equipment; except Computers:
+Includes only typewriters, calculators, adding and accounting machines, copiers, and
+duplicating equipment.
+6 5 6
+Airplanes (airframes and engines), except those used in commercial or contract carrying
+of passengers or freight, and all helicopters (airframes and engines)
+6 5 6
+Automobiles, Taxis 3 5 5
+Buses 9 5 9
+Light General Purpose Trucks:
+5 5 4 ) s d n u o p 0 0 0 , 3 1 n a h t s s e l t h g i e w l a u t c a ( d a o r e h t r e v o e s u r o f s k c u r t s e d u l c n I
+Heavy General Purpose Trucks:
+Includes heavy general purpose trucks, concrete ready mix-trucks, and ore trucks, for use
+over the road (actual unloaded weight 13,000 pounds or more)
+6 5 6
+Railroad Cars and Locomotives, except those owned by railroad transportation
+companies
+15 7 15
+Tractor Units for Use Over-the-Road 4 3 4
+Trailers and Trailer-Mounted Containers 6 5 6
+Vessels, Barges, Tugs, and Similar Water Transportation Equipment, except those used
+in marine construction
+18 10 18
+Land Improvements:
+Includes improvements directly to or added to land, whether such improvements are section
+1245 property or section 1250 property, provided such improvements are depreciable.
+Examples of such assets might include sidewalks, roads, canals, waterways, drainage
+facilities, sewers (not including municipal sewers in class 51), wharves and docks, bridges,
+fences, landscaping shrubbery, or radio and television transmitting towers. Does not include
+land improvements that are explicitly included in any other class, and buildings and structural
+components as defined in section 1.48-1(e) of the regulations. Excludes public utility initial
+clearing and grading land improvements as specified in Rev. Rul. 72-403, 1972-2 C.B. 102.
+20 15 20
+Industrial Steam and Electric Generation and/or Distribution Systems:
+Includes assets, whether such assets are section 1245 property or 1250 property, provided
+such assets are depreciable, used in the production and/or distribution of electricity with rated
+total capacity in excess of 500 Kilowatts and/or assets used in the production and/or
+distribution of steam with rated total capacity in excess of 12,500 pounds per hour for use by
+the taxpayer in its industrial manufacturing process or plant activity and not ordinarily available
+for sale to others. Does not include buildings and structural components as defined in section
+1.48-1(e) of the regulations. Assets used to generate and/or distribute electricity or steam of
+the type described above, but of lesser rated capacity, are not included, but are included in
+the appropriate manufacturing equipment classes elsewhere specified. Also includes electric
+generating and steam distribution assets, which may utilize steam produced by a waste
+reduction and resource recovery plant, used by the taxpayer in its industrial manufacturing
+process or plant activity. Steam and chemical recovery boiler systems used for the recovery
+and regeneration of chemicals used in manufacturing, with rated capacity in excess of that
+described above, with specifically related distribution and return systems are not included but
+are included in appropriate manufacturing equipment classes elsewhere specified. An example
+of an excluded steam and chemical recovery boiler system is that used in the pulp and paper
+manufacturing equipment classes elsewhere specified. An example of an excluded steam and
+chemical recovery boiler system is that used in the pulp and paper manufacturing industry.
+22 15 22

@@ -1,0 +1,93 @@
+3. Subtract the markup in (2) from the closing inventory
+at retail. The result is the approximate closing
+inventory at cost.
+Closing inventory. The following example shows how
+to figure your closing inventory using the retail method.
+Example. Your records show the following information
+on the last day of your tax year.
+Retail
+Item Cost Value
+Opening inventory . . . . . . . . . . . . . . $52,000 $60,000
+Purchases . . . . . . . . . . . . . . . . . . . 53,000 78,500
+Sales . . . . . . . . . . . . . . . . . . . . . . 98,000
+Markups . . . . . . . . . . . . . . . . . . . . 2,000
+Markdowns . . . . . . . . . . . . . . . . . . 500
+Using the retail method, determine your closing inventory as follows.
+Retail
+Item Cost Value
+Opening inventory . . . . . . . . . . . . . . $52,000 $60,000
+Plus: Purchases . . . . . . . . . . . . . . . 53,000 78,500
+Net markups
+($2,000 − $500 markdowns) . . . . . . . 1,500
+Total . . . . . . . . . . . . . . . . . . . . . . $105,000 $140,000
+Minus: Sales . . . . . . . . . . . . . . . . . . . . . . . . . . 98,000
+Closing inventory at retail . . . . . . . . . . . . . . . . . . $42,000
+Minus: Markup* (.25 × $42,000) . . . . . . . . . . . . . . 10,500
+Closing inventory at cost . . . . . . . . . . . . . . . . . . $31,500
+* See Markup percentage, next, for an explanation of how the markup
+percentage (25%) was figured for this example.
+Markup percentage. The markup ($35,000) is the
+difference between cost ($105,000) and the retail value
+($140,000). Divide the markup by the total retail value to
+get the markup percentage (25%). You cannot use arbitrary standard percentages of purchase markup to determine markup. You must determine it as accurately as possible from department records for the period covered by
+your tax return.
+Markdowns. When determining the retail selling price
+of goods on hand at the end of the year, markdowns are
+recognized only if the goods were offered to the public at
+the reduced price. Markdowns not based on an actual reduction of retail sales price, such as those based on depreciation and obsolescence, are not allowed.
+Retail method with LIFO. If you use LIFO with the retail
+method, you must adjust your retail selling prices for
+markdowns as well as markups.
+Price index. If you are using the retail method and LIFO,
+adjust the inventory value, determined using the retail
+method, at the end of the year to reflect price changes
+since the close of the preceding year. Generally, to make
+this adjustment, you must develop your own retail price index based on an analysis of your own data under a
+method acceptable to the IRS. However, a department
+store using LIFO that offers a full line of merchandise for
+sale can use an inventory price index provided by the Bureau of Labor Statistics. Other sellers can use this index if
+they can demonstrate the index is accurate, reliable, and
+suitable for their use.
+Retail method without LIFO. If you do not use LIFO
+and have been determining your inventory under the retail
+method except that, to approximate the lower of cost or
+market, you have followed the consistent practice of adjusting the retail selling prices of goods for markups (but
+not markdowns), you can continue that practice. The adjustments must be bona fide, consistent, and uniform and
+you must also exclude markups made to cancel or correct
+markdowns. The markups you include must be reduced
+by markdowns made to cancel or correct the markups.
+If you do not use LIFO and you previously determined
+inventories without eliminating markdowns in making adjustments to retail selling prices, you can continue this
+practice only if you first get IRS approval. You can adopt
+and use this practice on the first tax return you file for the
+business, subject to IRS approval on examination of your
+tax return.
+Figuring income tax. Resellers who use the retail
+method of pricing inventories can determine their tax on
+that basis.
+To use this method, you must do all of the following.
+• State that you are using the retail method on your tax
+return.
+• Keep accurate records.
+• Use this method each year unless the IRS allows you
+to change to another method.
+You must keep records for each separate department
+or class of goods carrying different percentages of gross
+profit. Purchase records should show the firm name, date
+of invoice, invoice cost, and retail selling price. You should
+also keep records of the respective departmental or class
+accumulation of all purchases, markdowns, sales, stock,
+etc.
+Perpetual or Book Inventory
+You can figure the cost of goods on hand by either a perpetual or book inventory if inventory is kept by following
+sound accounting practices. Inventory accounts must be
+charged with the actual cost of goods purchased or produced and credited with the value of goods used, transferred, or sold. Credits must be determined on the basis of
+the actual cost of goods acquired during the year and their
+inventory value at the beginning of the tax year.
+Physical inventory. You must take a physical inventory
+at reasonable intervals and the book amount for inventory
+must be adjusted to agree with the actual inventory.
+Loss of Inventory
+You claim a casualty or theft loss of inventory, including
+items you hold for sale to customers, through the increase
+in the cost of goods sold by properly reporting your

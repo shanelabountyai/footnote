@@ -1,0 +1,98 @@
+gives it a new or different use. Examples of improvements
+are replacing electric wiring or plumbing, adding a new
+roof or addition, paneling, or remodeling.
+You must carefully distinguish between repairs and improvements. See Repairs, earlier, under Actual Expenses.
+You must also keep accurate records of these expenses.
+These records will help you decide whether an expense is
+a deductible or a capital (added to the basis) expense.
+However, if you make repairs as part of an extensive remodeling or restoration of your home, the entire job is an
+improvement.
+Example. You buy an older home and fix up two rooms
+as a beauty salon. You patch the plaster on the ceilings
+and walls, paint, repair the floor, install an outside door,
+and install new wiring, plumbing, and other equipment.
+Normally, the patching, painting, and floor work are repairs
+and the other expenses are permanent improvements.
+However, because the work gives your property a new
+use, the entire remodeling job is a permanent improvement and its cost is added to the basis of the property. You
+cannot deduct any portion of it as a repair expense.
+Adjusting for depreciation deducted in earlier
+years. Decrease the basis of your property by the depreciation you deducted, or could have deducted, on your tax
+returns under the method of depreciation you properly selected. If you deducted less depreciation than you could
+have under the method you selected, decrease the basis
+by the amount you could have deducted under that
+method. If you did not deduct any depreciation, decrease
+the basis by the amount you could have deducted.
+If you deducted more depreciation than you should
+have, decrease your basis by the amount you should have
+deducted, plus the part of the excess depreciation you deducted that actually decreased your tax liability for any
+year.
+If you deducted the incorrect amount of depreciation,
+see Pub. 946.
+Fair market value defined. The fair market value of your
+home is the price at which the property would change
+hands between a buyer and a seller, neither having to buy
+or sell, and both having reasonable knowledge of all necessary facts. Sales of similar property, on or about the
+date you begin using your home for business, may be
+helpful in determining the property’s fair market value.
+Figuring the depreciation deduction for the current
+year. If you began using your home for business before
+2025, continue to use the same depreciation method you
+used in past tax years. However, if you figured your deduction for business use of the home using the simplified
+method in a prior year, you will need to use the optional
+depreciation table for modified accelerated cost recovery
+system (MACRS) property. See Pub. 946 for the optional
+depreciation tables. For more information about the simplified method, see Revenue Procedure 2013-13, 2013-06
+I.R.B. 478, available at IRS.gov/irb/
+2013-06_IRB#RP-2013-13.
+If you began using your home for business for the first
+time in 2025, depreciate the business part as
+nonresidential real property under MACRS. Under
+MACRS, nonresidential real property is depreciated using
+the straight line method over 39 years. For more information on MACRS and other methods of depreciation, see
+Pub. 946.
+To figure the depreciation deduction, you must first figure the part of the cost of your home that can be depreciated (depreciable basis). The depreciable basis is figured
+by multiplying the percentage of your home used for business by the smaller of the following.
+• The adjusted basis of your home (excluding land) on
+the date you began using your home for business.
+• The fair market value of your home (excluding land) on
+the date you began using your home for business.
+Depreciation table. If 2025 was the first year you
+used your home for business, you can figure your 2025
+depreciation for the business part of your home by using
+the appropriate percentage from the following table.
+MACRS Percentage Table for
+39-Year Nonresidential Real
+Property
+Table 2.
+Month First Used for Business Percentage To Use
+1 2.461%
+2 2.247%
+3 2.033%
+4 1.819%
+5 1.605%
+6 1.391%
+7 1.177%
+8 0.963%
+9 0.749%
+10 0.535%
+11 0.321%
+12 0.107%
+Multiply the depreciable basis of the business part of
+your home by the percentage from the table for the first
+month you use your home for business. See Pub. 946 for
+the percentages for the remaining tax years of the recovery period.
+Example. In May, Frankie began to use one room at
+home exclusively and regularly to meet clients. This room
+is 8% of the square footage of the home. Frankie bought
+the home in 2014 for $125,000. Frankie determined from
+the property tax records that the adjusted basis in the
+house (exclusive of land) is $115,000. In May, the house
+had a fair market value of $165,000. Frankie multiplies the
+adjusted basis of $115,000 (which is less than the fair
+market value) by 8%. The result is $9,200, the depreciable
+basis for the business part of the house.
+Frankie files a tax return based on the calendar year.
+May is the fifth month of this tax year. Frankie multiplies
+the depreciable basis of $9,200 by 1.605% (0.01605), the
+percentage from the table for the fifth month. Frankie’s depreciation deduction is $147.66.

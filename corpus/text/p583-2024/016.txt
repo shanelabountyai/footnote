@@ -1,0 +1,80 @@
+How Long To Keep Records
+You must keep your records as long as they may be needed for the administration of any provision of the Internal
+Revenue Code. Generally, this means you must keep records that support an item of income or deduction on a return until the period of limitations for that return runs out.
+The period of limitations is the period of time in which
+you can amend your return to claim a credit or refund, or
+the IRS can assess additional tax. Table 3 contains the
+periods of limitations that apply to income tax returns. Unless otherwise stated, the years refer to the period after
+the return was filed. Returns filed before the due date are
+treated as filed on the due date.
+Keep copies of your filed tax returns. They help in
+preparing future tax returns and making computations if you file an amended return.
+Employment taxes. If you have employees, you must
+keep all employment tax records for at least 4 years after
+the date the tax becomes due or is paid, whichever is
+later. For more information about recordkeeping for employment taxes, see Pub. 15.
+Assets. Keep records relating to property until the period
+of limitations expires for the year in which you dispose of
+the property in a taxable disposition. You must keep these
+records to figure any depreciation, amortization, or depletion deduction, and to figure your basis for computing gain
+or loss when you sell or otherwise dispose of the property.
+Generally, if you received property in a nontaxable exchange, your basis in that property is the same as the basis of the property you gave up, increased by any money
+you paid. You must keep the records on the old property,
+as well as on the new property, until the period of limitations expires for the year in which you dispose of the new
+property in a taxable disposition.
+Records for nontax purposes. When your records are
+no longer needed for tax purposes, do not discard them
+until you check to see if you have to keep them longer for
+other purposes. For example, your insurance company or
+creditors may require you to keep them longer than the
+IRS does.
+Recordkeeping System Example
+This example illustrates a single-entry system used by
+Henry Brown, who is the sole proprietor of a small automobile body shop. Henry uses part-time help, has no inventory of items held for sale, and uses the cash method
+of accounting.
+These sample records should not be viewed as a recommendation of how to keep your records. They are intended only to show how one business keeps its records.
+1. Daily Summary of Cash Receipts
+This summary is a record of cash sales for the day. It accounts for cash at the end of the day over the amount in
+TIP
+the Change and Petty Cash Fund at the beginning of the
+day.
+Henry takes the cash sales entry from his cash register
+tape. If he had no cash register, he would simply total his
+cash sale slips and any other cash received that day.
+He carries the total receipts shown in this summary for
+January 3 ($267.80), including cash sales ($263.60) and
+sales tax ($4.20), to the Monthly Summary of Cash Receipts.
+Petty cash fund. Henry uses a petty cash fund to make
+small payments without having to write checks for small
+amounts. Each time he makes a payment from this fund,
+he makes out a petty cash slip and attaches it to his receipt as proof of payment. He sets up a fixed amount
+($50) in his petty cash fund. The total of the unspent petty
+cash and the amounts on the petty cash slips should
+equal the fixed amount of the fund. When the totals on the
+petty cash slips approach the fixed amount, he brings the
+cash in the fund back to the fixed amount by writing a
+check to “Petty Cash” for the total of the outstanding slips.
+(See the Check Disbursements Journal entry for check
+number 92.) This restores the fund to its fixed amount of
+$50. He then summarizes the slips and enters them in the
+proper columns in the monthly check disbursements journal.
+2. Monthly Summary of Cash Receipts
+This shows the income activity for the month. Henry carries the total monthly net sales shown in this summary for
+January ($4,865.05) to his Annual Summary.
+To figure total monthly net sales, Henry reduces the total monthly receipts by the sales tax imposed on his customers and turned over to the state. He cannot take a deduction for sales tax turned over to the state because he
+only collected the tax. He does not include the tax in his
+income.
+3. Check Disbursements Journal
+Henry enters checks drawn on the business checking account in the Check Disbursements Journal each day. All
+checks are prenumbered and each check number is listed
+and accounted for in the column provided in the journal.
+Frequent expenses have their own headings across the
+sheet. He enters in a separate column expenses that require comparatively numerous or large payments each
+month, such as materials, gross payroll, and rent. Under
+the General Accounts column, he enters small expenses
+that normally have only one or two monthly payments,
+such as licenses and postage.
+Henry does not pay personal or nonbusiness expenses
+by checks drawn on the business account. If he did, he
+would record them in the journal, even though he could
+not deduct them as business expenses.

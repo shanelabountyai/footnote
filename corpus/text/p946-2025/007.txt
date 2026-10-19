@@ -1,0 +1,78 @@
+Conversion to business use. If you place property in
+service in a personal activity, you cannot claim depreciation. However, if you change the property’s use to use in a
+business or income-producing activity, then you can begin
+to depreciate it at the time of the change. You place the
+property in service in the business or income-producing
+activity on the date of the change.
+Example. You bought a home and used it as your personal home several years before you converted it to rental
+property. Although its specific use was personal and no
+depreciation was allowable, you placed the home in service when you began using it as your home. You can begin
+to claim depreciation in the year you converted it to rental
+property because its use changed to an income-producing use at that time.
+Idle Property
+Continue to claim a deduction for depreciation on property
+used in your business or for the production of income even
+if it is temporarily idle (not in use). For example, if you stop
+using a machine because there is a temporary lack of a
+market for a product made with that machine, continue to
+deduct depreciation on the machine.
+Cost or Other Basis Fully Recovered
+You stop depreciating property when you have fully recovered your cost or other basis. You fully recover your basis
+when your section 179 deduction, allowed or allowable
+depreciation deductions, and salvage value, if applicable,
+equal the cost or investment in the property. See What Is
+the Basis of Your Depreciable Property, later.
+Retired From Service
+You stop depreciating property when you retire it from
+service, even if you have not fully recovered its cost or
+other basis. You retire property from service when you
+permanently withdraw it from use in a trade or business or
+from use in the production of income because of any of
+the following events.
+• You sell or exchange the property.
+• You convert the property to personal use.
+• You abandon the property.
+• You transfer the property to a supplies or scrap account.
+• The property is destroyed.
+Caution: If you included the property in a general asset account, see How Do You Use General Asset Accounts? in chapter 4 for the rules that apply when you dispose of that property.
+What Method Can You Use To
+Depreciate Your Property?
+Terms you may need to know
+(see Glossary):
+Adjusted basis
+Basis
+Convention
+Exchange
+Fiduciary
+Grantor
+Intangible property
+Nonresidential real property
+Placed in service
+Related persons
+Residential rental property
+Salvage value
+Section 1245 property
+Section 1250 property
+Standard mileage rate
+Straight line method
+Unit-of-production method
+Useful life
+You must use the Modified Accelerated Cost Recovery
+System (MACRS) to depreciate most property. MACRS is
+discussed in chapter 4.
+You cannot use MACRS to depreciate the following
+property.
+• Property you placed in service before 1987.
+• Certain property owned or used in 1986.
+• Intangible property.
+• Films, videotapes, and recordings.
+• Certain corporate or partnership property acquired in
+a nontaxable transfer.
+• Property you elected to exclude from MACRS.
+The following discussions describe the property listed
+above and explain what depreciation method should be
+used.
+Property You Placed in Service
+Before 1987
+You cannot use MACRS for property you placed in service
+before 1987 (except property you placed in service after

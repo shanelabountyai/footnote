@@ -1,0 +1,85 @@
+• A leased employee who has provided services to you
+on a substantially full-time basis for at least a year if
+the services are performed under your primary direction or control.
+• Yourself (if you’re a sole proprietor).
+• A partner who performs services for a partnership.
+Exclusion from wages. You can exclude up to $5,250
+of educational assistance you provide to an employee under an educational assistance program from the employee’s wages each year.
+Assistance over $5,250. If you don’t have an educational assistance plan, or you provide an employee with
+assistance exceeding $5,250, you must include the value
+of these benefits as wages, unless the benefits are working condition benefits. Working condition benefits may be
+excluded from wages. Property or a service provided is a
+working condition benefit to the extent that if the employee
+paid for it, the amount paid would have been allowable as
+a business or depreciation expense. See Working Condition Benefits, later in this section.
+Self-employed individuals, shareholders, and owners. While there are no specific income limits for receiving educational assistance benefits, an educational assistance program must satisfy certain requirements under
+section 127 of the Internal Revenue Code and Regulations section 1.127-2, including not being discriminatory in
+favor of employees who are highly compensated employees. An individual who is self-employed within the meaning of section 401(c)(1) of the Internal Revenue Code may
+receive educational assistance. While shareholders and
+owners may receive educational assistance, not more
+than 5% of the amounts paid or incurred by the employer
+for educational assistance during the year may be provided for the class of individuals who are shareholders or
+owners (or their spouses or dependents), each of whom
+(on any day of the tax year) owns more than 5% of the
+stock or of the capital or profits interest in the employer.
+If the owners are the only employees, they can’t receive
+educational assistance under section 127 of the Internal
+Revenue Code because of the 5% benefit limitation described above. The following formula can be used to determine the amount of educational assistance that an
+owner/employee can receive. Multiply the total amount of
+educational assistance provided to employees other than
+the owner/employee by 5.263158% (0.05263158). Then
+round down to two decimal places, but not greater than
+$5,250.
+Example. A company has a single owner/employee
+and 19 other employees. If each employee (other than the
+owner/employee) claims the educational assistance and
+receives the full $5,250, the owner/employee may also receive $5,250. The total amount of educational assistance
+provided to employees (other than the owner/employee) is
+$5,250 x 19 = $99,750. $99,750 x 0.05263158 =
+$5,250.000105 (rounded down to two decimal places is
+$5,250.00). If the owner/employee receives $5,250 in educational assistance, then the 5% benefit limitation would
+be satisfied. The total amount of educational assistance
+provided under the program is $99,750 + $5,250 =
+$105,000, and 5% of $105,000 is $5,250.
+However, if not every employee receives the full
+$5,250, the amount the owner/employee may exclude is
+reduced. If only eight of the employees (other than the
+owner/employee) receive $5,250, then the total amount of
+educational assistance provided to employees (other than
+the owner/employee) is 8 x $5,250 = $42,000. $42,000 x
+0.05263158 = $2,210.52636 (rounded down to two decimal places is $2,210.52). If the owner/employee receives
+$2,210.52 in educational assistance, then the 5% benefit
+limitation would be satisfied. The total amount of educational assistance provided under the program is $42,000 +
+$2,210.52 = $44,210.52, and 5% of $44,210.52 is approximately $2,210.52.
+Employee Discounts
+This exclusion applies to a price reduction you give your
+employee on property or services you offer to customers
+in the ordinary course of the line of business in which the
+employee performs substantial services. It applies
+whether the property or service is provided at no charge
+(in which case only part of the discount may be excludable
+as a qualified employee discount) or at a reduced price. It
+also applies if the benefit is provided through a partial or
+total cash rebate.
+The benefit may be provided either directly by you or indirectly through a third party. For example, an employee of
+an appliance manufacturer may receive a qualified employee discount on the manufacturer’s appliances purchased at a retail store that offers the appliances for sale
+to customers.
+Employee discounts don’t apply to discounts on real
+property or discounts on personal property of a kind commonly held for investment (such as stocks or bonds). They
+also don’t include discounts on a line of business of the
+employer for which the employee doesn’t provide substantial services, or discounts on property or services of a kind
+that aren’t offered for sale to customers. Therefore, discounts on items sold in an employee store that aren’t sold
+to customers aren’t excluded from employee income.
+Also, employee discounts provided by another employer
+through a reciprocal agreement aren’t excluded.
+Employee. For this exclusion, treat the following individuals as employees.
+• A current employee.
+• A former employee who retired or left on disability.
+• A surviving spouse of an individual who died while an
+employee.
+• A surviving spouse of an employee who retired or left
+on disability.
+• A leased employee who has provided services to you
+on a substantially full-time basis for at least a year if
+the services are performed under your primary direction or control.
+• A partner who performs services for a partnership.

@@ -1,0 +1,125 @@
+Table B-2.
+Asset
+class Description of assets included
+Table of Class Lives and Recovery Periods
+Recovery Periods
+(in years)
+Class Life
+(in years)
+GDS
+(MACRS) ADS
+Telephone Communications:
+45 20 45
+48.11
+Includes the assets classified below and that are used in the provision of commercial and
+contract telephonic services such as:
+48.12
+48.121
+48.13
+48.14
+48.2
+48.31
+48.32
+48.33
+48.34
+48.35
+48.36
+48.37
+48.38
+48.39
+Telephone Central Office Buildings:
+Includes assets intended to house central office equipment, as defined in Federal
+Communications Commission Part 31 Account No. 212 whether section 1245 or section 1250
+property.
+Telephone Central Office Equipment:
+Includes central office switching and related equipment as defined in Federal Communications
+Commission Part 31 Account No. 221. Does not include computer-based telephone central
+office switching equipment included in class 48.121. Does not include private branch exchange
+(PBX) equipment.
+Computer-Based Telephone Central Office Switching Equipment:
+Includes equipment whose functions are those of a computer or peripheral equipment (as
+defined in section 168(i)(2)(B) of the Code) used in its capacity as telephone central office
+equipment. Does not include private branch exchange (PBX) equipment.
+Telephone Station Equipment:
+Includes such station apparatus and connections as teletypewriters, telephones, booths, private
+exchanges, and comparable equipment as defined in Federal Communications Commission
+Part 31 Account Nos. 231, 232, and 234.
+Telephone Distribution Plant:
+Includes such assets as pole lines, cable, aerial wire, underground conduits, and comparable
+equipment, and related land improvements as defined in Federal Communications Commission
+Part 31 Account Nos. 241, 242.1, 242.2, 242.3, 242.4, 243, and 244.
+Radio and Television Broadcastings:
+Includes assets used in radio and television broadcasting, except transmitting towers.
+Telegraph, Ocean Cable, and Satellite Communications (TOCSC) includes
+communications-related assets used to provide domestic and international radio-telegraph,
+wire-telegraph, ocean-cable, and satellite communications services; also includes related land
+improvements. If property described in classes 48.31–48.45 is comparable to telephone
+distribution plant described in class 48.14 and used for 2-way exchange of voice and data
+communication which is the equivalent of telephone communication, such property is assigned
+a class life of 24 years under this revenue procedure. Comparable equipment does not include
+cable television equipment used primarily for 1-way communication.
+TOCSC—Electric Power Generating and Distribution Systems:
+Includes assets used in the provision of electric power by generation, modulation, rectification,
+channelization, control, and distribution. Does not include these assets when they are installed
+on customers’ premises.
+TOCSC—High Frequency Radio and Microwave Systems:
+Includes assets such as transmitters and receivers, antenna supporting structures, antennas,
+transmission lines from equipment to antenna, transmitter cooling systems, and control and
+amplification equipment. Does not include cable and long-line systems.
+TOCSC—Cable and Long-Line Systems:
+Includes assets such as transmission lines, pole lines, ocean cables, buried cable and conduit,
+repeaters, repeater stations, and other related assets. Does not include high frequency radio or
+microwave systems.
+TOCSC—Central Office Control Equipment:
+Includes assets for general control, switching, and monitoring of communications signals
+including electromechanical switching and channeling apparatus, multiplexing equipment
+patching and monitoring facilities, in-house cabling, teleprinter equipment, and associated site
+improvements.
+TOCSC—Computerized Switching, Channeling, and Associated Control Equipment:
+Includes central office switching computers, interfacing computers, other associated specialized
+control equipment, and site improvements.
+TOCSC—Satellite Ground Segment Property:
+Includes assets such as fixed earth station equipment, antennas, satellite communications
+equipment, and interface equipment used in satellite communications. Does not include general
+purpose equipment or equipment used in satellite space segment property.
+TOCSC—Satellite Space Segment Property:
+Includes satellites and equipment used for telemetry, tracking, control, and monitoring when
+used in satellite communications.
+TOCSC—Equipment Installed on Customer’s Premises:
+Includes assets installed on customer’s premises, such as computers, terminal equipment,
+power generation and distribution systems, private switching center, teleprinters, facsimile
+equipment, and other associated and related equipment.
+TOCSC—Support and Service Equipment:
+Includes assets used to support but not engage in communications. Includes store, warehouse
+and shop tools, and test and laboratory assets.
+Cable Television (CATV): Includes communications-related assets used to provide cable
+television community antenna television services. Does not include assets used to provide
+subscribers with 2-way communications services.
+18 10 18
+9.5 5
+10 71
+24 15
+6 5
+19 10
+13 7
+26.5 20
+16.5 10
+10.5 7
+10 7
+8 5
+10 7
+13.5 7
+9.5
+101
+24
+6
+19
+13
+26.5
+16.5
+10.5
+10
+8
+10
+13.5
+1 Property described in asset guideline class 48.13 which is qualified technological equipment as defined in section 168(i)(2) is assigned a 5-year recovery period.

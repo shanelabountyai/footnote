@@ -1,0 +1,80 @@
+• Goods ordered for future delivery if you do not yet
+have title.
+Assets. Do not include the following in inventory.
+• Land, buildings, and equipment used in your business.
+• Notes, accounts receivable, and similar assets.
+• Real estate held for sale by a real estate dealer in the
+ordinary course of business.
+• Supplies that do not physically become part of the
+item intended for sale.
+Special rules apply to the cost of inventory or
+property imported from a related person. See the
+regulations under section 1059A of the Internal
+Revenue Code.
+Identifying Cost
+You can use any of the following methods to identify the
+cost of items in inventory.
+Specific Identification Method
+Use the specific identification method when you can identify and match the actual cost to the items in inventory.
+Use the FIFO or LIFO method, explained next, if:
+• You cannot specifically identify items with their costs,
+or
+• The same type of goods are intermingled in your inventory and they cannot be identified with specific invoices.
+FIFO Method
+The FIFO (first-in first-out) method assumes the items you
+purchased or produced first are the first items you sold,
+consumed, or otherwise disposed of. The items in inventory at the end of the tax year are matched with the costs
+of similar items that you most recently purchased or produced.
+LIFO Method
+The LIFO (last-in first-out) method assumes the items of
+inventory you purchased or produced last are the first
+items you sold, consumed, or otherwise disposed of.
+Items included in closing inventory are considered to be
+from the opening inventory in the order of acquisition and
+from those acquired during the tax year.
+LIFO rules. The rules for using the LIFO method are
+very complex. Two are discussed briefly here. For more
+information on these and other LIFO rules, see sections
+472 through 474 of the Internal Revenue Code and the related income tax regulations.
+Dollar-value method. Under the dollar-value method
+of pricing LIFO inventories, goods and products must be
+CAUTION
+!
+grouped into one or more pools (classes of items), depending on the kinds of goods or products in the inventories. See Regulations section 1.472-8.
+Simplified dollar-value method. Under this method,
+you establish multiple inventory pools in general categories from appropriate government price indexes. You then
+use changes in the price index to estimate the annual
+change in price for inventory items in the pools.
+An eligible small business (average annual gross receipts of $5 million or less for the 3 preceding tax years)
+can elect the simplified dollar-value LIFO method. See
+section 474(c).
+Taxpayers who cannot use the method under section
+474 should see Regulations section 1.472-8(e)(3) for a
+similar simplified dollar-value method.
+Adopting LIFO method. File Form 970, Application To
+Use LIFO Inventory Method, or a statement with all the information required on Form 970 to adopt the LIFO
+method. You must file the form (or the statement) with
+your timely filed tax return for the year in which you first
+use LIFO.
+Differences Between
+FIFO and LIFO
+Each method produces different income results, depending on the trend of price levels at the time. In times of inflation, when prices are rising, LIFO will produce a larger
+cost of goods sold and a lower closing inventory. Under
+FIFO, the cost of goods sold will be lower and the closing
+inventory will be higher. However, in times of falling prices, the opposite will hold.
+Valuing Inventory
+The value of your inventory is a major factor in figuring
+your taxable income. The method you use to value the inventory is very important.
+The following methods, described below, are those
+generally available for valuing inventory.
+• Cost.
+• Lower of cost or market.
+• Retail.
+Goods that cannot be sold. These are goods you cannot sell at normal prices or they are unusable in the usual
+way because of damage, imperfections, shop wear,
+changes of style, odd or broken lots, or other similar causes. You should value these goods at their bona fide selling price minus direct cost of disposition, no matter which
+method you use to value the rest of your inventory. If
+these goods consist of raw materials or partly finished
+goods held for use or consumption, you must value them
+on a reasonable basis, considering their usability and condition. Do not value them for less than scrap value. For
+more information, see Regulations section 1.471-2(c).

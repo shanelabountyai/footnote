@@ -1,0 +1,91 @@
+Example 1. Jay owns a home and files federal income
+taxes on a calendar year basis. On July 20, Jay began using 420 square feet at the home for a qualified business
+use. Jay continued to use 420 square feet of the home until the end of the year. The average monthly allowable
+square footage is 125 square feet, which is figured using
+300 square feet for each month, August through December, divided by the number of months in the year ((0 + 0 +
+0 + 0 + 0 + 0 + 0 + 300 + 300 + 300 + 300 + 300)/12).
+Example 2. Jessie owns a home and files federal income taxes on a calendar year basis. On April 20, Jessie
+began using 100 square feet of the home for a qualified
+business use. On August 5, Jessie expanded the area of
+qualified use to 330 square feet. Jessie continued to use
+the 330 square feet until the end of the year. The average
+monthly allowable square footage is 150 square feet,
+which is figured using 100 square feet for May through
+July and 300 square feet for August through December,
+divided by the number of months in the year ((0 + 0 + 0 + 0
++ 100 + 100 +100 + 300 + 300 + 300 + 300 + 300)/12).
+Example 3. Guadalupe owns a home and files federal
+income taxes on a calendar year basis. From January 1
+through July 16, Guadalupe used 300 square feet of the
+home for a qualified business use. On July 17, Guadalupe
+moved to a new home and immediately began using 200
+square feet for the same qualified business use. While
+preparing a 2025 tax return, Guadalupe decided to use
+the simplified method to deduct the qualified business use
+of the first home and files Form 8829 to deduct the qualified business use of the second home. The average
+monthly allowable square footage is 175 square feet,
+which is figured using 300 square feet for January through
+July, divided by the number of months in the year ((300 +
+300 + 300 + 300 + 300 + 300 + 300 + 0 + 0 + 0 + 0 + 0)/
+12).
+Caution: If you moved during the year, your average allowable square footage will generally be less than 300.
+Gross income limitation. Your deduction for business
+use of the home is limited to an amount equal to the gross
+income derived from the qualified business use of the
+home reduced by the business deductions that are unrelated to the use of your home. If the business deductions
+that are unrelated to the use of your home are greater than
+the gross income derived from the qualified business use
+of your home, then you cannot take a deduction for this
+qualified business use of your home.
+Business expenses not related to use of the home.
+These expenses relate to the business activity in the
+home, but not to the use of the home itself. You can still
+deduct business expenses that are unrelated to the use of
+the home. See Where To Deduct, later. Examples of business expenses that are unrelated to the use of the home
+are advertising, wages, supplies, dues, and depreciation
+for equipment.
+Space used regularly for daycare. If you do not use the
+area of your home exclusively for daycare, you must reduce the prescribed rate (maximum $5 per square foot)
+before figuring your deduction. The reduced rate will equal
+the prescribed rate times a fraction. The numerator of the
+fraction is the number of hours that the space was used
+during the year for daycare and the denominator is the total number of hours during the year that the space was
+available for all uses. You can use the Daycare Facility
+Worksheet (for simplified method), near the end of this
+publication, to help you figure the reduced rate.
+Tip: If you used at least 300 square feet for daycare
+regularly and exclusively during the year, then you do not
+need to reduce the prescribed rate or complete the Daycare Facility Worksheet.
+Daycare Facility
+If you use space in your home on a regular basis for providing daycare, you may be able to claim a deduction for
+that part of your home even if you use the same space for
+nonbusiness purposes. To qualify for this exception to the
+exclusive use rule, you must meet both of the following requirements.
+• You must be in the trade or business of providing daycare for children, persons age 65 or older, or persons
+who are physically or mentally unable to care for themselves.
+• You must have applied for, been granted, or be exempt from having a license, certification, registration,
+or approval as a daycare center or as a family or group
+daycare home under state law. You do not meet this
+requirement if your application was rejected or your license or other authorization was revoked.
+Figuring the deduction. If you elect to use the simplified
+method for your home, figure your deduction as described
+earlier in Using the Simplified Method under Figuring the
+Deduction.
+If you are figuring your deduction using actual expenses and you regularly use part of your home for daycare,
+figure what part is used for daycare, as explained in Business Percentage, earlier, under Figuring the Deduction. If
+you also use that part exclusively for daycare, deduct all
+the allocable expenses, subject to the deduction limit, as
+explained earlier.
+If the use of part of your home as a daycare facility is
+regular, but not exclusive, you must figure the percentage
+of time that part of your home is used for daycare. A room
+that is available for use throughout each business day and
+that you regularly use in your business is considered to be
+used for daycare throughout each business day. You do
+not have to keep records to show the specific hours the
+area was used for business. You can use the area occasionally for personal reasons. However, a room you use
+only occasionally for business does not qualify for the deduction. No deduction is allowed for the cost of a basic local telephone line provided to the home.
+Tip: To find the percentage of time you actually use
+your home for business, compare the total time used for
+business to the total time that part of your home can be
+used for all purposes. You can compare the hours of

@@ -1,0 +1,101 @@
+Table B-2.
+Asset
+class Description of assets included
+Table of Class Lives and Recovery Periods
+Recovery Periods
+(in years)
+Class Life
+(in years)
+GDS
+(MACRS) ADS
+Manufacture of Primary Nonferrous Metals:
+14 7 14
+33.2
+Includes assets used in the smelting, refining, and electrolysis of nonferrous metals from ore,
+pig, or scrap, the rolling, drawing, and alloying of nonferrous metals; the manufacture of
+castings, forgings, and other basic products of nonferrous metals; and the manufacture of
+nails, spikes, structural shapes, tubing, wire, and cable.
+33.21
+33.3
+33.4
+34.0
+34.01
+35.0
+36.0
+36.1
+Manufacture of Primary Nonferrous Metals—Special Tools:
+Includes assets defined as special tools such as dies, jigs, molds, patterns, fixtures, gauges,
+and drawings concerning such special tools used in the activities as defined in class 33.2,
+Manufacture of Primary Nonferrous Metals. Special tools are specifically designed for the
+production or processing of particular products or parts and have no significant utilitarian value
+and cannot be adapted to further or different use after changes or improvements are made in
+the model design of the particular part produced by the special tools. Does not include general
+purpose small tools such as wrenches and drills, both hand and power-driven, and other
+general purpose equipment such as conveyors, transfer equipment, and materials handling
+devices. Rolls, mandrels, and refractories are not included in class 33.21 but are included in
+class 33.2.
+Manufacture of Foundry Products:
+Includes assets used in the casting of iron and steel, including related operations such as
+molding and coremaking. Also includes assets used in the finishing of castings and
+patternmaking when performed at the foundry, all special tools, and related land improvements.
+Manufacture of Primary Steel Mill Products:
+Includes assets used in the smelting, reduction, and refining of iron and steel from ore, pig, or
+scrap; the rolling, drawing, and alloying of steel; the manufacture of nails, spikes, structural
+shapes, tubing, wire, and cable. Includes assets used by steel service centers and ferrous metal
+forges, and assets used in coke production, regardless of ownership. Also includes related land
+improvements and all special tools used in the above activities.
+Manufacture of Fabricated Metal Products:
+Includes assets used in the production of metal cans, tinware, fabricated structural metal
+products, metal stampings, and other ferrous and nonferrous metal and wire products not
+elsewhere classified. Does not include assets used to manufacture non-electric heating
+apparatus.
+Manufacture of Fabricated Metal Products—Special Tools:
+Includes assets defined as special tools such as dies, jigs, molds, patterns, fixtures, gauges,
+and returnable containers and drawings concerning such special tools used in the activities as
+defined in class 34.0. Special tools are specifically designed for the production or processing of
+particular machine components, products, or parts, and have no significant utilitarian value and
+cannot be adapted to further or different use after changes or improvements are made in the
+model design of the particular part produced by the special tools. Does not include general
+small tools such as wrenches and drills, both hand and power-driven, and other general
+purpose equipment such as conveyors, transfer equipment, and materials handling devices.
+Manufacture of Electrical and Non-Electrical Machinery and Other Mechanical Products:
+Includes assets used to manufacture or rebuild finished machinery and equipment and
+replacement parts thereof such as machine tools, general industrial and special industry
+machinery, electrical power generation, transmission, and distribution systems, space heating,
+cooling, and refrigeration systems, commercial and home appliances, farm and garden
+machinery, construction machinery, mining and oil field machinery, internal combustion engines
+(except those elsewhere classified), turbines (except those that power airborne vehicles),
+batteries, lamps and lighting fixtures, carbon and graphite products, and electromechanical and
+mechanical products including business machines, instruments, watches and clocks, vending
+and amusement machines, photographic equipment, medical and dental equipment and
+appliances, and ophthalmic goods. Includes assets used by manufacturers or rebuilders of
+such finished machinery and equipment in activities elsewhere classified such as the
+manufacture of castings, forgings, rubber and plastic products, electronic subassemblies or
+other manufacturing activities if the interim products are used by the same manufacturer
+primarily in the manufacture, assembly, or rebuilding of such finished machinery and
+equipment. Does not include assets used in mining, assets used in the manufacture of primary
+ferrous and nonferrous metals, assets included in class 00.11 through 00.4, and assets
+elsewhere classified.
+Manufacture of Electronic Components, Products, and Systems:
+Includes assets used in the manufacture of electronic communication, computation,
+instrumentation and control system, including airborne applications; also includes assets used
+in the manufacture of electronic products such as frequency and amplitude modulated
+transmitters and receivers, electronic switching stations, television cameras, video recorders,
+record players and tape recorders, computers and computer peripheral machines, and
+electronic instruments, watches, and clocks; also includes assets used in the manufacture of
+components, provided their primary use is products and systems defined above such as
+electron tubes, capacitors, coils, resistors, printed circuit substrates, switches, harness cables,
+lasers, fiber optic devices, and magnetic media devices. Specifically excludes assets used to
+manufacture electronic products and components, photocopiers, typewriters, postage meters
+and other electromechanical and mechanical business machines and instruments that are
+elsewhere classified. Does not include semiconductor manufacturing equipment included in
+class 36.1.
+Any Semiconductor Manufacturing Equipment
+6.5 5 6.5
+14 7 14
+15 7 15
+12 7 12
+3 3 3
+10 7 10
+6 5 6
+5 5 5

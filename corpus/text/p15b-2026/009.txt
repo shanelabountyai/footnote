@@ -1,0 +1,85 @@
+Deduction limit. Your deduction for the cost of employee achievement awards given to any one employee
+during the tax year is limited to the following.
+• $400 for awards that aren’t qualified plan awards.
+• $1,600 for all awards, whether or not qualified plan
+awards.
+A qualified plan award is an achievement award given
+as part of an established written plan or program that
+doesn’t favor highly compensated employees as to eligibility or benefits.
+A highly compensated employee is an employee who
+meets either of the following tests.
+1. The employee was a 5% owner at any time during the
+year or the preceding year.
+2. The employee received more than $160,000 in pay for
+the preceding year.
+You can choose to ignore test (2) if the employee
+wasn’t also in the top 20% of employees when ranked by
+pay for the preceding year.
+An award isn’t a qualified plan award if the average cost
+of all the employee achievement awards given during the
+tax year (that would be qualified plan awards except for
+this limit) is more than $400. To figure this average cost,
+ignore awards of nominal value.
+Deduct achievement awards, up to the maximum
+amounts listed earlier, as a nonwage business expense on
+your return or business schedule.
+Caution: To determine for 2026 whether an achievement award is a “qualified plan award” under the deduction rules described under Deduction limit above, treat any
+employee who received more than $160,000 in pay for
+2025 as a highly compensated employee.
+If the cost of awards given to an employee is more than
+your allowable deduction, include in the employee’s wages the larger of the following amounts.
+• The part of the cost that is more than your allowable
+deduction (up to the value of the awards).
+• The amount by which the value of the awards exceeds
+your allowable deduction.
+Exclude the remaining value of the awards from the employee’s wages.
+Adoption Assistance
+An adoption assistance program is a separate written plan
+of an employer that meets all of the following requirements.
+1. It benefits employees who qualify under rules set up
+by you, which don’t favor highly compensated employees or their dependents. To determine whether
+your plan meets this test, don’t consider employees
+excluded from your plan who are covered by a collective bargaining agreement if there is evidence that
+adoption assistance was a subject of good-faith bargaining.
+2. It doesn’t pay more than 5% of its payments during
+the year for shareholders or owners (or their spouses
+or dependents). A shareholder or owner is someone
+who owns (on any day of the tax year) more than 5%
+of the stock or of the capital or profits interest of your
+business.
+3. You give reasonable notice of the plan to eligible employees.
+4. Employees provide reasonable substantiation that
+payments or reimbursements are for qualifying expenses.
+For this exclusion, a highly compensated employee for
+2026 is an employee who meets either of the following
+tests.
+1. The employee was a 5% owner at any time during the
+year or the preceding year.
+2. The employee received more than $160,000 in pay for
+the preceding year.
+You can choose to ignore test (2) if the employee wasn’t
+also in the top 20% of employees when ranked by pay for
+the preceding year.
+You must exclude all payments or reimbursements you
+make under an adoption assistance program for an employee’s qualified adoption expenses from the employee’s
+wages subject to federal income tax withholding. However, you can’t exclude these payments from wages subject to social security, Medicare, and FUTA taxes.
+You must report all qualifying adoption expenses you
+paid or reimbursed under your adoption assistance program for each employee for the year in box 12 of the employee’s Form W-2. Report all amounts including those in
+excess of the $17,670 exclusion for 2026. Use code T to
+identify this amount.
+Exception for S corporation shareholders. For this
+exclusion, don’t treat a 2% shareholder of an S corporation as an employee of the corporation. A 2% shareholder
+is someone who directly or indirectly owns (for any day
+during the tax year) more than 2% of the corporation’s
+stock or stock with more than 2% of the voting power.
+Treat a 2% shareholder as you would a partner in a partnership for fringe benefit purposes, but don’t treat the benefit as a reduction in distributions to the 2% shareholder.
+For more information, see Revenue Ruling 91-26, 1991-1
+C.B. 184.
+More information. For more information on adoption
+benefits, see Notice 97-9, which is on page 35 of Internal
+Revenue Bulletin 1997-2 at IRS.gov/pub/irs-irbs/
+irb97-02.pdf. Advise your employees to see the Instructions for Form 8839.
+Athletic Facilities
+You can exclude the value of an employee’s use of an
+on-premises gym or other athletic facility you operate from
+an employee’s wages if substantially all use of the facility

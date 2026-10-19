@@ -1,0 +1,87 @@
+land cost $20,000. It is nonresidential real property. The
+building’s unadjusted basis is its original cost, $100,000.
+You refer to the MACRS Percentage Table Guide in Appendix A and find that you should use Table A-7a. March
+is the third month of your tax year, so multiply the building’s unadjusted basis, $100,000, by the percentages for
+the third month in Table A-7a. Your depreciation deduction
+for each of the first 3 years is as follows.
+Year Basis Percentage Deduction
+1st . . . . . . . . . . . . $100,000 2.033% $2,033
+2nd . . . . . . . . . . . 100,000 2.564 2,564
+3rd . . . . . . . . . . . 100,000 2.564 2,564
+Example 2. During the year, you bought a machine
+(7-year property) for $4,000, office furniture (7-year property) for $1,000, and a computer (5-year property) for
+$5,000. You placed the machine in service in January, the
+furniture in September, and the computer in October. You
+do not elect a section 179 deduction and none of these
+items are qualified property for purposes of claiming a
+special depreciation allowance.
+You placed property in service during the last 3 months
+of the year, so you must first determine if you have to use
+the mid-quarter convention. The total bases of all property
+you placed in service during the year are $10,000. The
+$5,000 basis of the computer, which you placed in service
+during the last 3 months (the fourth quarter) of your tax
+year, is more than 40% of the total bases of all property
+($10,000) you placed in service during the year. Therefore, you must use the mid-quarter convention for all three
+items.
+You refer to the MACRS Percentage Table Guide in Appendix A to determine which table you should use under
+the mid-quarter convention. The machine is 7-year property placed in service in the first quarter, so you use Table
+A-2. The furniture is 7-year property placed in service in
+the third quarter, so you use Table A-4. Finally, because
+the computer is 5-year property placed in service in the
+fourth quarter, you use Table A-5. Knowing what table to
+use for each property, you figure the depreciation for the
+first 2 years as follows.
+Year Property Basis Percentage Deduction
+1st Machine $4,000 25.00 $1,000
+2nd Machine 4,000 21.43 857
+1st Furniture 1,000 10.71 107
+2nd Furniture 1,000 25.51 255
+1st Computer 5,000 5.00 250
+2nd Computer 5,000 38.00 1,900
+Sale or Other Disposition Before the
+Recovery Period Ends
+If you sell or otherwise dispose of your property before the
+end of its recovery period, your depreciation deduction for
+the year of the disposition will be only part of the depreciation amount for the full year. You have disposed of your
+property if you have permanently withdrawn it from use in
+your business or income-producing activity because of its
+sale, exchange, retirement, abandonment, involuntary
+conversion, or destruction. After you figure the full-year
+depreciation amount, figure the deductible part using the
+convention that applies to the property.
+Half-year convention used. For property for which you
+used a half-year convention, the depreciation deduction
+for the year of the disposition is half the depreciation determined for the full year.
+Mid-quarter convention used. For property for which
+you used the mid-quarter convention, figure your depreciation deduction for the year of the disposition by multiplying a full year of depreciation by the percentage listed below for the quarter in which you disposed of the property.
+Quarter Percentage
+First . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12.5%
+Second . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37.5
+Third . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 62.5
+Fourth . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 87.5
+Example. On December 2, 2022, you placed in service an item of 5-year property costing $10,000. You did not
+claim a section 179 deduction and the property does not
+qualify for a special depreciation allowance. Your unadjusted basis for the property was $10,000. You used the
+mid-quarter convention because this was the only item of
+business property you placed in service in 2022 and it was
+placed in service during the last 3 months of your tax year.
+Your property is in the 5-year property class, so you used
+Table A-5 to figure your depreciation deduction. Your deductions for 2022, 2023, and 2024 were $500 (5% of
+$10,000), $3,800 (38% of $10,000), and $2,280 (22.80%
+of $10,000), respectively. You disposed of the property on
+April 6, 2025. To determine your depreciation deduction
+for 2025, first figure the deduction for the full year. This is
+$1,368 (13.68% of $10,000). April is in the second quarter
+of the year, so you multiply $1,368 by 37.5% (0.375) to get
+your depreciation deduction of $513 for 2025.
+Mid-month convention used. If you dispose of residential rental or nonresidential real property, figure your depreciation deduction for the year of the disposition by multiplying a full year of depreciation by a fraction. The
+numerator of the fraction is the number of months (including partial months) in the year that the property is considered in service. The denominator is 12.
+Example. On July 2, 2023, you purchased and placed
+in service residential rental property. The property cost
+$100,000, not including the cost of land. You used Table
+A-6 to figure your MACRS depreciation for this property.
+You sold the property on March 2, 2025. You file your tax
+return based on the calendar year.
+A full year of depreciation for 2025 is $3,636. This is
+$100,000 multiplied by 0.03636 (the percentage for the

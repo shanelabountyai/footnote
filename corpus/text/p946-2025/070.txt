@@ -1,0 +1,96 @@
+Chart 1. Use this chart to find the correct percentage table to use for any property other than residential rental
+and nonresidential real property. Use Chart 2 for residential rental and nonresidential real property.
+MACRS
+System
+Depreciation
+Method
+Appendix A
+MACRS Percentage Table Guide
+General Depreciation System (GDS)
+Alternative Depreciation System (ADS)
+Recovery Period Convention Class
+Month or
+Quarter
+Placed
+in Service Table
+GDS 200% GDS/3, 5, 7, 10 Half-Year 3, 5, 7, 10 Any A-1
+GDS 200% GDS/3, 5, 7, 10 3, 5, 7, 10 1st Qtr
+2nd Qtr
+3rd Qtr
+4th Qtr
+A-2
+A-3
+A-4
+A-5
+GDS 150% GDS/3, 5, 7, 10 Half-Year 3, 5, 7, 10 Any A-14
+GDS 150% GDS/3, 5, 7, 10 Mid-Quarter 3, 5, 7, 10 1st Qtr
+2nd Qtr
+3rd Qtr
+4th Qtr
+A-15
+A-16
+A-17
+A-18
+GDS 150% GDS/15, 20 Half-Year 15 & 20 Any A-1
+GDS 150% GDS/15, 20 Mid-Quarter 15 & 20 1st Qtr
+2nd Qtr
+3rd Qtr
+4th Qtr
+A-2
+A-3
+A-4
+A-5
+GDS
+ADS
+SL GDS
+ADS
+Half-Year Any Any A-8
+GDS
+ADS
+SL GDS
+ADS
+Mid-Quarter Any 1st Qtr
+2nd Qtr
+3rd Qtr
+4th Qtr
+A-9
+A-10
+A-11
+A-12
+ADS 150% ADS Half-Year Any Any A-14
+ADS 150% ADS Mid-Quarter Any 1st Qtr
+2nd Qtr
+3rd Qtr
+4th Qtr
+A-15
+A-16
+A-17
+A-18
+Chart 2. Use this chart to find the correct percentage table to use for residential rental and nonresidential real
+property. Use Chart 1 for all other property.
+MACRS
+System
+Depreciation
+Method Recovery Period Convention Class
+Month or
+Quarter
+Placed
+in Service Table
+GDS SL GDS/27.5 Mid-Month Residential Rental Any A-6
+GDS SL
+SL
+GDS/31.5
+GDS/39
+Mid-Month Nonresidential Real Any A-7
+A-7a
+ADS SL ADS/30 Mid-Month Residential Rental Any A-13
+Chart 3. Income Inclusion Amount Rates
+for MACRS Leased Listed Property
+Table
+Amount A Percentages
+Amount B Percentages
+A-19
+A-20
+SL ADS/40 Mid-Month Any A-13a Residential Rental and
+Nonresidential Real
+Mid-Quarter

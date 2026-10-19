@@ -1,0 +1,80 @@
+Using the MACRS Percentage Tables
+To help you figure your deduction under MACRS, the IRS
+has established percentage tables that incorporate the
+applicable convention and depreciation method. These
+percentage tables are in Appendix A near the end of this
+publication.
+Which table to use. Appendix A contains the MACRS
+Percentage Table Guide, which is designed to help you locate the correct percentage table to use for depreciating
+your property. The percentage tables immediately follow
+the guide.
+Rules Covering the Use of the Tables
+The following rules cover the use of the percentage tables.
+1. You must apply the rates in the percentage tables to
+your property’s unadjusted basis.
+2. You cannot use the percentage tables for a short tax
+year. See Figuring the Deduction for a Short Tax Year,
+later, for information on the short tax year rules.
+3. Once you start using the percentage tables for any
+item of property, you must generally continue to use
+them for the entire recovery period of the property.
+4. You must stop using the tables if you adjust the basis
+of the property for any reason other than:
+a. Depreciation allowed or allowable, or
+b. An addition or improvement to that property that is
+depreciated as a separate item of property.
+Basis adjustments other than those made due to the items
+listed in (4) include an increase in basis for the recapture
+of a clean-fuel deduction or credit and a reduction in basis
+for a casualty loss.
+Basis adjustment due to recapture of clean-fuel vehicle deduction or credit. If you increase the basis of your
+property because of the recapture of part or all of a deduction for clean-fuel vehicles or the credit for clean-fuel vehicle refueling property placed in service before January 1,
+2006, you cannot continue to use the percentage tables.
+For the year of the adjustment and the remaining recovery
+period, you must figure the depreciation deduction yourself using the property’s adjusted basis at the end of the
+year. See Figuring the Deduction Without Using the Tables, later.
+Basis adjustment due to casualty loss. If you reduce
+the basis of your property because of a casualty, you cannot continue to use the percentage tables. For the year of
+the adjustment and the remaining recovery period, you
+must figure the depreciation yourself using the property’s
+adjusted basis at the end of the year. See Figuring the Deduction Without Using the Tables, later.
+Example. On October 26, 2024, Sandra and Frank
+Elm, calendar year taxpayers, bought and placed in service in their business a new item of 7-year property. It cost
+$39,000 and they elected a section 179 deduction of
+$24,000. They also made an election under section 168(k)
+(7) not to deduct the special depreciation allowance for
+7-year property placed in service in 2024. Their unadjusted basis after the section 179 deduction was $15,000
+($39,000 – $24,000). They figured their MACRS depreciation deduction using the percentage tables. For 2024, their
+MACRS depreciation deduction was $536.
+In July 2025, the property was vandalized and they had
+a deductible casualty loss of $3,000. Sandra and Frank
+must adjust the property’s basis for the casualty loss, so
+they can no longer use the percentage tables. Their adjusted basis at the end of 2025, before figuring their 2025 depreciation, is $11,464. They figure that amount by subtracting the 2024 MACRS depreciation of $536 and the
+casualty loss of $3,000 from the unadjusted basis of
+$15,000. They must now figure their depreciation for 2025
+without using the percentage tables.
+Figuring the Unadjusted Basis of Your
+Property
+You must apply the table rates to your property’s unadjusted basis each year of the recovery period. Unadjusted
+basis is the same basis amount you would use to figure
+gain on a sale, but you figure it without reducing your original basis by any MACRS depreciation taken in earlier
+years. However, you do reduce your original basis by other
+amounts, including the following.
+• Any amortization taken on the property.
+• Any section 179 deduction claimed.
+• Any special depreciation allowance taken on the property.
+For business property you purchase during the year,
+the unadjusted basis is its cost minus these and other applicable adjustments. If you trade property, your unadjusted basis in the property received is the cash paid plus the
+adjusted basis of the property traded minus these adjustments.
+MACRS Worksheet
+You can use this worksheet to help you figure your depreciation deduction using the percentage tables. Use a separate worksheet for each item of property. Then, use the
+information from this worksheet to prepare Form 4562.
+Caution: Do not use this worksheet for automobiles.
+Use the Depreciation Worksheet for Passenger Automobiles in chapter 5.
+MACRS Worksheet
+Keep for Your Records
+Part I
+1. MACRS system (GDS or
+ADS) ............................
+2. Property class ...................
+3. Date placed in service ............

@@ -1,0 +1,81 @@
+seventh month of the third recovery year) from Table A-6.
+You then apply the mid-month convention for the 21/2
+months of use in 2025. Treat the month of disposition as
+one-half month of use. Multiply $3,636 by the fraction, 2.5
+over 12, to get your 2025 depreciation deduction of
+$757.50.
+Figuring the Deduction Without Using
+the Tables
+Instead of using the rates in the percentage tables to figure your depreciation deduction, you can figure it yourself.
+Before making the computation each year, you must reduce your adjusted basis in the property by the depreciation claimed the previous year(s).
+Caution: Figuring MACRS deductions without using
+the tables will generally result in a slightly different amount
+than using the tables.
+Declining Balance Method
+When using a declining balance method, you apply the
+same depreciation rate each year to the adjusted basis of
+your property. You must use the applicable convention for
+the first tax year and you must switch to the straight line
+method beginning in the first year for which it will give an
+equal or greater deduction. The straight line method is explained later.
+You figure depreciation for the year you place property
+in service as follows.
+1. Multiply your adjusted basis in the property by the declining balance rate.
+2. Apply the applicable convention.
+You figure depreciation for all other years (before the
+year you switch to the straight line method) as follows.
+1. Reduce your adjusted basis in the property by the depreciation allowed or allowable in earlier years.
+2. Multiply this new adjusted basis by the same declining balance rate used in earlier years.
+If you dispose of property before the end of its recovery
+period, see Using the Applicable Convention, later, for information on how to figure depreciation for the year you
+dispose of it.
+Figuring depreciation under the declining balance
+method and switching to the straight line method is illustrated in Example 1, later, under Examples.
+Declining balance rate. You figure your declining balance rate by dividing the specified declining balance percentage (150% or 200% changed to a decimal) by the
+number of years in the property’s recovery period. For example, for 3-year property depreciated using the 200%
+declining balance method, divide 2.00 (200%) by 3 to get
+0.6667, or a 66.67% declining balance rate. For 15-year
+property depreciated using the 150% declining balance
+method, divide 1.50 (150%) by 15 to get 0.10, or a 10%
+declining balance rate.
+The following table shows the declining balance rate for
+each property class and the first year for which the straight
+line method gives an equal or greater deduction.
+Property
+Class Method
+Declining Balance
+Rate Year
+3-year 200% DB 66.667% 3rd
+5-year 200% DB 40.0 4th
+7-year 200% DB 28.571 5th
+10-year 200% DB 20.0 7th
+15-year 150% DB 10.0 7th
+20-year 150% DB 7.5 9th
+Straight Line Method
+When using the straight line method, you apply a different
+depreciation rate each year to the adjusted basis of your
+property. You must use the applicable convention in the
+year you place the property in service and the year you
+dispose of the property.
+You figure depreciation for the year you place property
+in service as follows.
+1. Multiply your adjusted basis in the property by the
+straight line rate.
+2. Apply the applicable convention.
+You figure depreciation for all other years (including the
+year you switch from the declining balance method to the
+straight line method) as follows.
+1. Reduce your adjusted basis in the property by the depreciation allowed or allowable in earlier years (under
+any method).
+2. Determine the depreciation rate for the year.
+3. Multiply the adjusted basis figured in (1) by the depreciation rate figured in (2).
+If you dispose of property before the end of its recovery
+period, see Using the Applicable Convention, later, for information on how to figure depreciation for the year you
+dispose of it.
+Straight line rate. You determine the straight line depreciation rate for any tax year by dividing the number 1 by
+the years remaining in the recovery period at the beginning of that year. When figuring the number of years remaining, you must take into account the convention used
+in the year you placed the property in service. If the number of years remaining is less than 1, the depreciation rate
+for that tax year is 1.0 (100%).
+Using the Applicable Convention
+The applicable convention (discussed earlier under Which
+Convention Applies) affects how you figure your

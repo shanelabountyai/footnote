@@ -1,0 +1,30 @@
+Simplified Method Worksheet
+Use this worksheet if you file Schedule F (Form 1040) or you are a partner, and you are using the simplified method to
+figure your deduction for business use of the home. Use a separate worksheet for each qualified business use of your
+home.
+1. Enter the amount of the gross income limitation. See the Instructions for the Simplified
+Method Worksheet .................................................................... 1.
+2. Allowable square footage for the qualified business use. Do not enter more than 300 square
+feet. See the Instructions for the Simplified Method Worksheet ............................ 2.
+3. Simplified method amount
+a. Maximum allowable amount ......................................................... 3a. $5
+b. For daycare facilities not used exclusively for business, enter the decimal amount from the
+Daycare Facility Worksheet; otherwise, enter 1.0 ...................................... 3b.
+c. Multiply line 3a by line 3b and enter result to 2 decimal places .......................... 3c.
+4. Multiply line 2 by line 3c ................................................................ 4.
+5. Allowable expenses using the simplified method. Enter the smaller of line 1 or line 4. If
+zero or less, enter -0-. See Where To Deduct, earlier, for where to enter this amount on
+your return ............................................................................ 5.
+6. Carryover of unallowed expenses from a prior year that are not allowed in 2025.
+a. Operating expenses. Enter the amount, if any, from your last Worksheet To Figure the
+Deduction for Business Use of Your Home, line 41 (line 40 if before 2018). See the
+Instructions for the Simplified Method Worksheet ..................................... 6a.
+b. Excess casualty losses and depreciation. Enter the amount, if any, from your last
+Worksheet To Figure the Deduction for Business Use of Your Home, line 42 (line 41 if
+before 2018). See the Instructions for the Simplified Method Worksheet ................. 6b.
+Daycare Facility Worksheet (for simplified method)
+1. Multiply days used for daycare during the year by hours used per day ................ 1.
+2. Total hours available for use during the year. See the Instructions for the Daycare
+Facility Worksheet ............................................................... 2.
+3. Divide line 1 by line 2. Enter the result as a decimal amount here and on line 3b of the
+Simplified Method Worksheet .................................................... 3.

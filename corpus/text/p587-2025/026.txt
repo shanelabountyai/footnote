@@ -1,0 +1,45 @@
+Area Adjustment Worksheet (for simplified method)
+If you used the same area for your qualified business use for the entire year, complete only Part I; otherwise, skip Part I
+and complete Part II using lines 1 through 5 to help you figure the amount to enter for each month. All amounts reported
+on this worksheet must be in square feet.
+Part I. Same area was used for the entire year.
+1. Area used for this qualified business use . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1.
+2. Shared use. Complete line 2 if someone else also used the home to conduct business that qualifies
+for the deduction; otherwise, enter 300 on line 2d and go to line 3.
+a. Area not shared. Enter portion of line 1 that was not shared with another person’s qualified
+business use of the home . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2a.
+b. Total area shared with another person’s qualified business use. Subtract line 2a from line 1 . . . . . 2b.
+c. Reasonable allocation of shared area to this qualified business use . . . . . . . . . . . . . . . . . . . . . . . . . 2c.
+d. Add lines 2a and 2c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2d.
+3. Multiple qualified business uses. Complete line 3 if you used the home for more than one qualified
+business use; otherwise, enter 300 on line 3d and go to line 4.
+a. Total area of home used for all your qualified business uses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3a.
+b. Maximum area . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3b. 300
+c. Enter the smaller of line 3a and 3b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3c.
+d. Reasonable allocation of line 3c to this qualified business use . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3d.
+4. Maximum area . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4. 300
+5. Enter the smaller of lines 1, 2d, 3d, and 4. Enter the result on line 2 of the Simplified Method
+Worksheet . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5.
+Part II. Area changed during the year or was used for only part of the year.
+6. Complete lines 6a through 6n if you used the area for this qualified business use for part of the year or the area used for this
+qualifying business use changed during the year.
+(i) Month Note: If your qualified business use was less than 15 days in a month,
+enter -0- in column (ii) for that month; otherwise, use lines 1 through 5
+above for each month, and enter the amount you get for line 5 in column (ii)
+for that month.
+(ii) Area
+a. January . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+b. February . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+c. March . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+d. April . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+e. May . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+f. June . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+g. July . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+h. August . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+i. September . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+j. October . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+k. November . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+l. December . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+m. Add lines 6a through 6l, column (ii) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6m.
+n. Average monthly allowable square footage. Divide line 6m by 12. Enter the result on line 2 of the
+Simplified Method Worksheet . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6n.

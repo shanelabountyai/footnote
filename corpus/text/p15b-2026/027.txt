@@ -1,0 +1,85 @@
+wages or reimbursed by the employee. Go to IRS.gov/
+Pub15B for the standard mileage rate per mile for 2026.
+You can use the cents-per-mile rule if either of the following requirements is met.
+• You reasonably expect the vehicle to be regularly used
+in your trade or business throughout the calendar year
+(or for a shorter period during which you own or lease
+it).
+• The vehicle meets the mileage test.
+Caution: Maximum automobile value. You can’t use
+the cents-per-mile rule for an automobile (including a truck
+or van) if its value when you first make it available to any
+employee for personal use is more than the maximum automobile value. Go to IRS.gov/P15B for the maximum automobile value for the calendar year 2026. For guidance
+related to the impact of P.L. 115-97 on this rule, see Treasury Decision 9893, 2020-09 I.R.B. 449, available at
+IRS.gov/irb/2020-09_IRB#TD-9893. If you and the employee own or lease the automobile together, see Regulations sections 1.61-21(e)(1)(iii)(B) and (C).
+Vehicle. For the cents-per-mile rule, a vehicle is any motorized wheeled vehicle, including an automobile, manufactured primarily for use on public streets, roads, and
+highways.
+Regular use in your trade or business. Whether a vehicle is regularly used in your trade or business is determined on the basis of all facts and circumstances. A vehicle is considered regularly used in your trade or business
+if one of the following safe harbor conditions is met.
+• At least 50% of the vehicle’s total annual mileage is for
+your trade or business.
+• You sponsor a commuting pool that generally uses the
+vehicle each workday to drive at least three employees to and from work.
+Infrequent business use of the vehicle, such as for occasional trips to the airport or between your multiple business premises, isn’t regular use of the vehicle in your
+trade or business.
+Mileage test. A vehicle meets the mileage test for a calendar year if both of the following requirements are met.
+• The vehicle is actually driven at least 10,000 miles
+during the year. If you own or lease the vehicle only
+part of the year, reduce the 10,000-mile requirement
+proportionately.
+• The vehicle is used during the year primarily by employees. Consider the vehicle used primarily by employees if they use it consistently for commuting. Don’t
+treat the use of the vehicle by another individual
+whose use would be taxed to the employee as use by
+the employee.
+For example, if only one employee uses a vehicle during the calendar year and that employee drives the vehicle
+at least 10,000 miles in that year, the vehicle meets the
+mileage test even if all miles driven by the employee are
+personal.
+Consistency requirements. If you use the
+cents-per-mile rule, the following requirements apply.
+• You must begin using the cents-per-mile rule on the
+first day you make the vehicle available to any employee for personal use. However, if you use the commuting rule (discussed later) when you first make the
+vehicle available to any employee for personal use,
+you can change to the cents-per-mile rule on the first
+day for which you don’t use the commuting rule.
+• You must use the cents-per-mile rule for all later years
+in which you make the vehicle available to any employee and the vehicle qualifies, except that you can
+use the commuting rule for any year during which use
+of the vehicle qualifies under the commuting rule.
+However, if the vehicle doesn’t qualify for the
+cents-per-mile rule during a later year, you can use for
+that year and thereafter any other rule for which the
+vehicle then qualifies.
+• You must continue to use the cents-per-mile rule if you
+provide a replacement vehicle to the employee (and
+the vehicle qualifies for the use of this rule) and your
+primary reason for the replacement is to reduce federal taxes.
+Items included in cents-per-mile rate. The
+cents-per-mile rate includes the value of maintenance and
+insurance for the vehicle. Don’t reduce the rate by the
+value of any service included in the rate that you didn’t
+provide. You can take into account the services actually
+provided for the vehicle by using the general valuation
+rule, earlier.
+For miles driven in the United States, its territories,
+Canada, and Mexico, the cents-per-mile rate includes the
+value of fuel you provide. If you don’t provide fuel, you can
+reduce the rate by no more than 5.5 cents.
+For special rules that apply to fuel you provide for miles
+driven outside the United States, Canada, and Mexico,
+see Regulations section 1.61-21(e)(3)(ii)(B).
+The value of any other service you provide for a vehicle
+isn’t included in the cents-per-mile rate. Use the general
+valuation rule to value these services.
+Commuting Rule
+Under this rule, you determine the value of a vehicle you
+provide to an employee for commuting use by multiplying
+each one-way commute (that is, from home to work or
+from work to home) by $1.50. If more than one employee
+commutes in the vehicle, this value applies to each employee. This amount must be included in the employee’s
+wages or reimbursed by the employee.
+You can use the commuting rule if all the following requirements are met.
+• You provide the vehicle to an employee for use in your
+trade or business and, for bona fide noncompensatory
+business reasons, you require the employee to commute in the vehicle. You will be treated as if you had
+met this requirement if the vehicle is generally used

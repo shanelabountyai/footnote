@@ -1,0 +1,77 @@
+4.
+Figuring Depreciation
+Under MACRS
+Introduction
+The Modified Accelerated Cost Recovery System
+(MACRS) is used to recover the basis of most business
+and investment property placed in service after 1986.
+MACRS consists of two depreciation systems, the General Depreciation System (GDS) and the Alternative Depreciation System (ADS). Generally, these systems provide different methods and recovery periods to use in
+figuring depreciation deductions.
+Caution: To be sure you can use MACRS to figure depreciation for your property, see What Method Can You
+Use To Depreciate Your Property? in chapter 1.
+This chapter explains how to determine which MACRS
+depreciation system applies to your property. It also discusses other information you need to know before you can
+figure depreciation under MACRS. This information includes the property’s recovery class, placed in service
+date, and basis, as well as the applicable recovery period,
+convention, and depreciation method. It explains how to
+use this information to figure your depreciation deduction
+and how to use a general asset account to depreciate a
+group of properties. Finally, it explains when and how to
+recapture MACRS depreciation.
+Useful Items
+You may want to see:
+Publication
+225 Farmer’s Tax Guide
+463 Travel, Gift, and Car Expenses
+544 Sales and Other Dispositions of Assets
+551 Basis of Assets
+587 Business Use of Your Home
+Form (and Instructions)
+2106 Employee Business Expenses
+4562 Depreciation and Amortization
+See How To Get Tax Help at the end of this publication for
+information about getting publications and forms.
+225
+463
+544
+551
+587
+2106
+4562
+Which Depreciation System
+(GDS or ADS) Applies?
+Terms you may need to know
+(see Glossary):
+Listed property
+Nonresidential real property
+Placed in service
+Property class
+Recovery period
+Residential rental property
+Tangible property
+Tax exempt
+Your use of either the General Depreciation System (GDS)
+or the Alternative Depreciation System (ADS) to depreciate property under MACRS determines what depreciation
+method and recovery period you use. You must generally
+use GDS unless you are specifically required by law to
+use ADS or you elect to use ADS.
+If you placed your property in service in 2025, complete
+Part III of Form 4562 to report depreciation using MACRS.
+Complete Section B of Part III to report depreciation using
+GDS, and complete Section C of Part III to report depreciation using ADS. If you placed your property in service before 2025 and are required to file Form 4562, report depreciation using either GDS or ADS on line 17 in Part III.
+Required use of ADS. You must use ADS for the following property.
+• Nonresidential real property, residential real property,
+and qualified improvement property held by an electing real property trade or business (as defined in section 163(j)(7)(B) of the Internal Revenue Code). For
+more information, see Revenue Procedure 2019-8 on
+page 347 of Internal Revenue Bulletin 2019-3, available at IRS.gov/irb/2019-03_IRB#RP-2019-08, as
+modified by Revenue Procedure 2021-28 on page 5 of
+Internal Revenue Bulletin 2021-27, available at
+IRS.gov/irb/2021-27_IRB#RP-2021-28.
+• Any property with a recovery period of 10 years or
+more under GDS held by an electing farming business
+(as defined in section 163(j)(7)(C) of the Internal Revenue Code). For more information, see Revenue Procedure 2019-8 on page 347 of Internal Revenue Bulletin 2019-3, available at IRS.gov/irb/
+2019-03_IRB#RP-2019-08.
+• Any tax-exempt use property.
+• Any tax-exempt bond-financed property.
+• All property used predominantly in a farming business
+and placed in service in any tax year during which an

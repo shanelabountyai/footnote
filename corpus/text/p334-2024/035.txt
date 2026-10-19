@@ -1,0 +1,81 @@
+What property can be depreciated? You can depreciate property if it meets all the following requirements.
+• It must be property you own.
+• It must be used in business or held to produce income. You can never depreciate inventory (explained
+in chapter 2) because it is not held for use in your business.
+• It must have a useful life that extends substantially beyond the year it is placed in service.
+• It must have a determinable useful life, which means
+that it must be something that wears out, decays, gets
+used up, becomes obsolete, or loses its value from
+natural causes. You can never depreciate the cost of
+land because land does not wear out, become obsolete, or get used up.
+• It must not be excepted property. This includes property placed in service and disposed of in the same
+year.
+Repairs. In general, you do not depreciate the costs of
+repairs or maintenance if they do not improve your property. Instead, you deduct these amounts on line 21 of
+Schedule C. Improvements are amounts paid for betterments to your property, restorations of your property, or
+work that adapts your property to a new or different use.
+Election to capitalize repair and maintenance
+costs that do not improve your property. You can
+make an election to treat certain repairs or replacements
+in your trade or business as improvements subject to depreciation. This election is available if you treat these
+amounts as capital expenditures on your books and records regularly used in computing your income and expenses.
+Depreciation method. The method for depreciating
+most business and investment property placed in service
+after 1986 is called the Modified Accelerated Cost Recovery System (MACRS). MACRS is discussed in detail in
+Pub. 946.
+Section 179 deduction. You can elect to deduct a limited amount of the cost of certain depreciable property in
+the year you place the property in service. This deduction
+is known as the section 179 deduction. The maximum
+amount you can elect to deduct during 2024 is generally
+$1,220,000 (higher limits apply to certain property).
+This limit is generally reduced by the amount by which
+the cost of the property placed in service during the tax
+year exceeds $3,050,000. The total amount of depreciation (including the section 179 deduction) you can take for
+a passenger automobile you use in your business and first
+place in service in 2024 is $12,400 ($20,400 if you take
+the special depreciation allowance for qualified passenger
+automobiles placed in service in 2024). Special rules apply to trucks and vans. For more information, see Pub.
+946. It explains what property qualifies for the deduction,
+what limits apply to the deduction, and when and how to
+recapture the deduction.
+Your section 179 election for the cost of any sport
+utility vehicle (SUV) and certain other vehicles is
+limited to $30,500. For more information, see the
+Instructions for Form 4562 or Pub. 946.
+Listed property. You must follow special rules and recordkeeping requirements when depreciating listed property. Listed property includes any of the following.
+• Most passenger automobiles.
+• Most other property used for transportation.
+• Any property of a type generally used for entertainment, recreation, or amusement.
+For more information about listed property, see Pub.
+946.
+Form 4562. Use Form 4562, Depreciation and Amortization, if you are claiming any of the following.
+• Depreciation on property placed in service during the
+current tax year.
+• A section 179 deduction.
+• Depreciation on any listed property (regardless of
+when it was placed in service).
+Employees' Pay
+You can generally deduct on Schedule C the pay you give
+your employees for the services they perform for your
+business. The pay may be in cash, property, or services.
+To be deductible, your employees' pay must be an ordinary and necessary expense and you must pay or incur it
+in the tax year. In addition, the pay must meet both the following tests.
+• The pay must be reasonable.
+• The pay must be for services performed.
+You cannot deduct your own salary or any personal
+withdrawals you make from your business. As a sole proprietor, you are not an employee of the business.
+Kinds of pay. Some of the ways you may provide pay to
+your employees are listed below.
+• Awards.
+• Bonuses.
+• Education expenses.
+• Fringe benefits (discussed later).
+• Loans or advances you do not expect the employee to
+repay if they are for personal services actually performed.
+• Property you transfer to an employee as payment for
+services.
+• Reimbursements for employee business expenses.
+• Sick pay.
+• Vacation pay.
+CAUTION
+!

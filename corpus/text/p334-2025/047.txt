@@ -1,0 +1,85 @@
+earnings. If you use both optional methods, you can report
+no more than $7,240 as your combined net earnings from
+self-employment.
+Example. You are a self-employed farmer. You also
+operate a retail grocery store. Your gross income, actual
+net earnings from self-employment, and optional farm and
+optional nonfarm net earnings from self-employment are
+shown in Table 10-2.
+Example—Farm and Nonfarm
+Earnings
+Table 10-2.
+Income and
+earnings Farm Nonfarm
+Gross income $4,500 $6,000
+Actual net earnings $900 $500
+Optional net
+earnings (2/3 of
+gross income) $3,000 $4,000
+Table 10-3 shows four methods or combinations of
+methods you can use to figure net earnings from self-employment using the farm and nonfarm gross income and
+actual net earnings shown in Table 10-2.
+• Method 1. Using the regular method for both farm and
+nonfarm income.
+• Method 2. Using the optional method for farm income
+and the regular method for nonfarm income.
+• Method 3. Using the regular method for farm income
+and the optional method for nonfarm income.
+• Method 4. Using the optional method for both farm
+and nonfarm income.
+Note: Actual net earnings are the same as net earnings
+figured using the regular method.
+Example—Net Earnings Table 10-3.
+Net
+earnings 1 2 3 4
+Actual
+farm $900 $900
+Optional
+farm $3,000 $3,000
+Actual
+nonfarm $500 $500
+Optional
+nonfarm $4,000 $4,000
+Amount
+you can
+report: $1,400 $3,500 $4,900 $7,240*
+* Limited to $7,240 because you used both optional methods.
+Fiscal-Year Filer
+If you use a tax year other than the calendar year, you
+must use the tax rate and maximum earnings limit in effect
+at the beginning of your tax year. Even if the tax rate or
+maximum earnings limit changes during your tax year,
+continue to use the same rate and limit throughout your
+tax year.
+Reporting SE Tax
+Use Schedule SE (Form 1040) to figure and report your
+SE tax. If you file Form 1040 or 1040-SR, enter the SE tax
+on line 4 of Schedule 2 and attach Schedule SE (Form
+1040) to your form. If you file Form 1040-SS, enter the SE
+tax on line 3 and attach Schedule SE (Form 1040) to your
+form.
+If you need to pay SE tax, you must file Form
+1040, 1040-SR, or 1040-SS, as applicable (with
+Schedule SE (Form 1040) attached) even if you
+don’t otherwise have to file a federal income tax return.
+Joint return. Even if you file a joint return, you can’t file a
+joint Schedule SE (Form 1040). This is true whether one
+spouse or both spouses have earnings subject to SE tax.
+If both of you have earnings subject to SE tax, each of you
+must complete a separate Schedule SE (Form 1040). Attach both schedules to the joint return.
+More than one business. If you have more than one
+trade or business, you must combine the net profit (or
+loss) from each business to figure your SE tax. A loss from
+one business will generally reduce your profit from another
+business. File one Schedule SE (Form 1040) showing the
+earnings from self-employment, but file a separate Schedule C or F (Form 1040) for each business.
+Example. You are the sole proprietor of two separate
+businesses. You operate a restaurant that made a net
+profit of $25,000. You also have a cabinetmaking business
+that had a net loss of $500. You must file a Schedule C
+(Form 1040) for the restaurant showing your net profit of
+$25,000 and another Schedule C (Form 1040) for the cabinetmaking business showing your net loss of $500. You
+file one Schedule SE (Form 1040) showing total earnings
+subject to SE tax of $24,500.
+CAUTION
+!

@@ -1,0 +1,84 @@
+Gross nonfarm income . . . . . . . . . . . . . . . . . . . . . . $12,000
+Net nonfarm profit . . . . . . . . . . . . . . . . . . . . . . . . . $1,200
+Your actual net earnings for 2024 are $1,108 ($1,200 ×
+0.9235). Because your net profit is less than $7,493 and
+less than 72.189% of your gross income, you can use the
+nonfarm optional method to figure net earnings of $6,920.
+Because these net earnings are higher than your actual
+net earnings, you can report net earnings of $6,920 for
+2024.
+Example 2. Net nonfarm profit not less than
+$7,493. Assume that in Example 1 your net profit is
+$8,900. You must use the regular method. You cannot use
+the nonfarm optional method because your net nonfarm
+profit is not less than $7,493.
+Example 3. Net loss from a nonfarm business. Assume that in Example 1 you have a net loss of $700. You
+can use the nonfarm optional method and report $6,920
+as your net earnings from self-employment.
+Farm Optional Method
+Use the farm optional method only for earnings from a
+farming business. See Pub. 225 for information about this
+method.
+Using Both Optional Methods
+If you have both farm and nonfarm earnings, you may be
+able to use both optional methods to determine your net
+earnings from self-employment.
+To figure your net earnings using both optional methods, you must do the following.
+• Figure your farm and nonfarm net earnings separately
+under each method. Do not combine farm earnings
+with nonfarm earnings to figure your net earnings under either method.
+• Add the net earnings figured under each method to arrive at your total net earnings from self-employment.
+You can report less than your total actual farm and nonfarm net earnings but not less than actual nonfarm net
+earnings. If you use both optional methods, you can report
+no more than $6,920 as your combined net earnings from
+self-employment.
+Example. You are a self-employed farmer. You also
+operate a retail grocery store. Your gross income, actual
+net earnings from self-employment, and optional farm and
+optional nonfarm net earnings from self-employment are
+shown in Table 10-2.
+Example—Farm and Nonfarm
+Earnings
+Table 10-2.
+Income and
+Earnings Farm Nonfarm
+Gross income $4,500 $6,000
+Actual net earnings $900 $500
+Optional net
+earnings (2/3 of
+gross income) $3,000 $4,000
+Table 10-3 shows four methods or combinations of
+methods you can use to figure net earnings from self-employment using the farm and nonfarm gross income and
+actual net earnings shown in Table 10-2.
+• Method 1. Using the regular method for both farm and
+nonfarm income.
+• Method 2. Using the optional method for farm income
+and the regular method for nonfarm income.
+• Method 3. Using the regular method for farm income
+and the optional method for nonfarm income.
+• Method 4. Using the optional method for both farm
+and nonfarm income.
+Note. Actual net earnings are the same as net earnings
+figured using the regular method.
+Example—Net Earnings Table 10-3.
+Net
+Earnings 1 2 3 4
+Actual
+farm $900 $900
+Optional
+farm $3,000 $3,000
+Actual
+nonfarm $500 $500
+Optional
+nonfarm $4,000 $4,000
+Amount
+you can
+report: $1,400 $3,500 $4,900 $6,920*
+* Limited to $6,920 because you used both optional methods.
+Fiscal Year Filer
+If you use a tax year other than the calendar year, you
+must use the tax rate and maximum earnings limit in effect
+at the beginning of your tax year. Even if the tax rate or
+maximum earnings limit changes during your tax year,
+continue to use the same rate and limit throughout your
+tax year.

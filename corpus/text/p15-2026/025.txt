@@ -1,0 +1,72 @@
+on May 29. Using supplemental wage withholding method
+1b, you do the following.
+1. Add the first and second bonus amounts to the
+amount of wages from the most recent base salary
+pay date (May 1) ($2,000 + $1,000 + $2,000 =
+$5,000).
+2. Determine the amount of withholding on the combined $5,000 amount to be $419 using the wage
+bracket tables.
+3. Subtract the amounts withheld from wages on the
+most recent base salary pay date (May 1) and the
+amounts withheld from the first bonus payment from
+the combined withholding amount ($419 – $65 – $114
+= $240).
+4. Withhold $240 from the second bonus payment.
+Tips are treated as supplemental wages. Withhold income tax on tips from wages earned by the employee or
+from other funds the employee makes available (see Federal income tax withholding on tips in section 6). Don’t
+withhold the income tax due on tips from employee tips. If
+an employee receives regular wages and reports tips, figure income tax withholding as if the tips were supplemental wages. If you withheld income tax from the regular wages in the current or immediately preceding calendar year,
+you can withhold on the tips by method 1a or 1b discussed earlier in this section under Supplemental wages
+identified separately from regular wages. If you didn’t withhold income tax from the regular wages in the current or
+immediately preceding calendar year, add the tips to the
+regular wages and withhold income tax on the total by
+method 1b discussed earlier. Employers also have the option to treat tips as regular wages rather than supplemental wages. Service charges aren’t tips; therefore, withhold
+taxes on service charges as you would on regular wages.
+Vacation pay. Vacation pay is subject to withholding as if
+it were a regular wage payment. When vacation pay is in
+addition to regular wages for the vacation period (for example, an annual lump-sum payment for unused vacation
+leave), treat it as a supplemental wage payment. If the vacation pay is for a time longer than your usual payroll period, spread it over the pay periods for which you pay it.
+8. Payroll Period
+Your payroll period is a period of service for which you
+usually pay wages. When you have a regular payroll period, withhold income tax for that time period even if your
+employee doesn’t work the full period.
+No regular payroll period. When you don’t have a regular payroll period, withhold the tax as if you paid wages
+for a daily or miscellaneous payroll period. Figure the
+number of days (including Sundays and holidays) in the
+period covered by the wage payment. If the wages are unrelated to a specific length of time (for example, commissions paid on completion of a sale), count back the number of days from the payment period to the latest of:
+• The last wage payment made during the same calendar year;
+• The date employment began, if during the same calendar year; or
+• January 1 of the same year.
+Employee paid for period less than 1 week. When
+you pay an employee for a period of less than 1 week, and
+the employee signs a statement under penalties of perjury
+indicating they aren’t working for any other employer during the same week for wages subject to withholding, figure
+withholding based on a weekly payroll period. If the employee later begins to work for another employer for wages
+subject to withholding, the employee must notify you
+within 10 days. You then figure withholding based on the
+daily or miscellaneous period.
+9. Withholding From
+Employees’ Wages
+Caution: References to federal income tax withholding
+don’t apply to employers in American Samoa, Guam, the
+CNMI, the USVI, and Puerto Rico, unless you have employees who are subject to U.S. income tax withholding.
+Contact your local tax department for information about income tax withholding.
+Federal Income Tax Withholding
+Redesigned Form W-4. The IRS redesigned Form W-4
+for 2020 and subsequent years. Before 2020, the value of
+a withholding allowance was tied to the amount of the personal exemption. Due to changes in the law, taxpayers
+can no longer claim personal exemptions or dependency
+exemptions; therefore, Form W-4 no longer asks an employee to report the number of withholding allowances that
+they are claiming. The revised Form W-4 is divided into
+five steps. Step 1 and Step 5 apply to all employees. In
+Step 1, employees enter personal information like their
+name and filing status. In Step 5, employees sign the
+form. Employees who complete only Step 1 and Step 5
+will have their withholding figured based on their filing status’s standard deduction and tax rates with no other adjustments. If applicable, in Step 2, employees increase
+their withholding to account for higher tax rates due to income from other jobs in their household. Under Step 2,
+employees either enter an additional amount to withhold
+per payroll period in Step 4(c) or check the box in Step
+2(c) for higher withholding rate tables to apply to their wages. In Step 3, employees decrease their withholding by
+reporting the annual amount of any credits they will claim
+on their income tax return. In Step 4, employees may increase or decrease their withholding based on the annual
+amount of other income or deductions they will report on

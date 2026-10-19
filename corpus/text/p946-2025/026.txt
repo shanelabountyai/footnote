@@ -1,0 +1,80 @@
+Tip: If you place qualified property in service in a short
+tax year, you can take the full amount of a special depreciation allowance.
+Depreciable basis. This is the property’s cost or other
+basis multiplied by the percentage of business/investment
+use, reduced by the total amount of any credits and deductions allocable to the property.
+The following are examples of some credits and deductions that reduce depreciable basis.
+• Any section 179 deduction.
+• Any deduction for removal of barriers to the disabled
+and the elderly.
+• Any disabled access credit, enhanced oil recovery
+credit, and credit for employer-provided childcare facilities and services.
+• Basis adjustment to investment credit property under
+section 50(c) of the Internal Revenue Code.
+• Section 181 expense deduction.
+For additional credits and deductions that affect basis,
+see section 1016 of the Internal Revenue Code.
+For information about how to determine the cost or
+other basis of property, see What Is the Basis of Your Depreciable Property? in chapter 1. For a discussion of business/investment use, see Partial business or investment
+use under Property Used in Your Business or Income-Producing Activity in chapter 1.
+Depreciating the remaining cost. After you figure your
+special depreciation allowance for your qualified property
+or qualified production property, you can use the remaining cost to figure your regular MACRS depreciation deduction (discussed in chapter 4). Therefore, you must reduce the depreciable basis of the property by the special
+depreciation allowance before figuring your regular
+MACRS depreciation deduction.
+Example. On January 7, 2025, you placed in service
+in your business qualified property (that is not long production period property or certain aircraft) that cost
+$450,000 and that you acquired after September 27,
+2017. You did not elect to claim a section 179 deduction.
+You deduct 40% of the cost ($180,000) as a special depreciation allowance for 2025. You use the remaining cost
+of the property to figure a regular MACRS depreciation
+deduction for your property for 2025 and later years.
+Like-kind exchanges and involuntary conversions. If
+you acquired qualified property in a like-kind exchange or
+an involuntary conversion after September 27, 2017, and
+the qualified property is new property, the carryover basis
+and any excess basis of the acquired property are eligible
+for the special depreciation allowance. The excess basis
+is the amount of any additional consideration given by the
+taxpayer in the exchange, for example, additional cash, liabilities, non-like-kind property, or other boot paid for the
+new property. See Pub. 551 for more information on carryover basis and excess basis.
+If you acquired qualified property in a like-kind exchange or an involuntary conversion after September 27,
+2017, and the qualified property is used property, only the
+excess basis of the acquired property is eligible for the
+special depreciation allowance. After you figure your special depreciation allowance, you can use the remaining
+carryover basis to figure your regular MACRS depreciation
+deduction. See Figuring the Deduction for Property Acquired in a Nontaxable Exchange in chapter 4 under How
+Is the Depreciation Deduction Figured.
+How Can You Elect Not To
+Claim an Allowance?
+You can elect, for any class of property, not to deduct any
+special depreciation allowances for all property in such
+class placed in service during the tax year.
+To make an election, attach a statement to your return
+indicating what election you are making and the class of
+property for which you are making the election.
+The election must be made separately by each person
+owning qualified property (for example, by the partnerships, by the S corporation, or for each member of a consolidated group by the common parent of the group).
+When to make election. Generally, you must make the
+election on a timely filed tax return (including extensions)
+for the year in which you place the property in service.
+However, if you timely filed your return for the year without making the election, you can still make the election by
+filing an amended return within 6 months of the due date
+of the original return (not including extensions). Attach the
+election statement to the amended return. On the amended return, write “Filed pursuant to section 301.9100-2.”
+Revoking an election. Once you elect not to deduct a
+special depreciation allowance for a class of property, you
+cannot revoke the election without IRS consent. A request
+to revoke the election is a request for a letter ruling.
+Caution: If you elect not to have any special depreciation allowance apply, the property placed in service after
+2015 will not be subject to an alternative minimum tax adjustment for depreciation.
+When Must You Recapture an
+Allowance?
+When you dispose of property for which you claimed a
+special depreciation allowance, any gain on the disposition is generally recaptured (included in income) as ordinary income up to the amount of the special depreciation
+allowance previously allowed or allowable. See When Do
+You Recapture MACRS Depreciation? in chapter 4 for
+more information.
+Recapture of allowance deducted for qualified GO
+Zone property. If, in any year after the year you claim the
+special depreciation allowance for qualified GO Zone

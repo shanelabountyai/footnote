@@ -1,0 +1,82 @@
+• The use of property as pay for the services of a 5%
+owner or related person.
+• The use of property as pay for services of any person
+(other than a 5% owner or related person), unless the
+value of the use is included in that person’s gross income and income tax is withheld on that amount
+where required.
+Caution: Property does not stop being used predominantly for qualified business use because of a transfer at
+death.
+Exception for leasing or compensatory use of aircraft. Treat the leasing of any aircraft by a 5% owner or
+related person, or the compensatory use of any aircraft,
+as a qualified business use if at least 25% of the total use
+of the aircraft during the year is for a qualified business
+use. If the 25% test is not met, you cannot take accelerated depreciation
+For business aircraft, allocate the use based on mileage or hours on a per-passenger basis for the year. This
+can be done using the flight-by-flight method or the occupied-seat method computations.
+5% owner. For a business entity that is not a corporation,
+a 5% owner is any person who owns more than 5% of the
+capital or profits interest in the business.
+For a corporation, a 5% owner is any person who owns,
+or is considered to own, either of the following.
+• More than 5% of the outstanding stock of the corporation.
+• Stock possessing more than 5% of the total combined
+voting power of all stock in the corporation.
+Related persons. For a description of related persons,
+see Related persons in the discussion on property owned
+or used in 1986 under What Method Can You Use To Depreciate Your Property? in chapter 1. For this purpose,
+however, treat as related persons only the relationships
+listed in items (1) through (10) of that discussion and substitute “50%” for “10%” each place it appears.
+Examples. The following examples illustrate whether the
+use of business property is qualified business use.
+Example 1. John Maple is the sole proprietor of a
+plumbing contracting business. Richard, John’s sibling, is
+employed by John in the business. As part of Richard’s
+pay, Richard is allowed to use one of the company automobiles for personal use. The company includes the value
+of the personal use of the automobile in Richard’s gross
+income and properly withholds tax on it. The use of the
+automobile is pay for the performance of services by a related person, so it is not a qualified business use.
+Example 2. John, in Example 1, allows unrelated employees to use company automobiles for personal purposes. John does not include the value of the personal use
+of the company automobiles as part of their compensation
+and does not withhold tax on the value of the use of the
+automobiles. This use of company automobiles by employees is not a qualified business use.
+Example 3. James Company Inc. owns several automobiles that its employees use for business purposes.
+The employees are also allowed to take the automobiles
+home at night. The FMV of each employee’s use of an automobile for any personal purpose, such as commuting to
+and from work, is reported as income to the employee and
+James Company withholds tax on it. This use of company
+automobiles by employees, even for personal purposes, is
+a qualified business use for the company.
+Investment Use
+The use of property to produce income in a nonbusiness
+activity (investment use) is not a qualified business use.
+However, you can treat the investment use as business
+use to figure the depreciation deduction for the property in
+a given year.
+Example 1. You use an item of listed property 50% of
+the time to manage your investments. You also use the
+item of listed property 40% of the time in your part-time
+consumer research business. Your item of listed property
+is listed property because it is not used at a regular business establishment. You do not use the item of listed
+property predominantly for qualified business use. Therefore, you cannot elect a section 179 deduction or claim a
+special depreciation allowance for the item of listed property. You must depreciate it using the straight line method
+over the ADS recovery period. Your combined business/
+investment use for determining your depreciation deduction is 90%.
+Example 2. If you use your item of listed property 30%
+of the time to manage your investments and 60% of the
+time in your consumer research business, it is used predominantly for qualified business use. You can elect a
+section 179 deduction and, if you do not deduct all the
+item of listed property’s cost, you can claim a special depreciation allowance and depreciate the item of listed
+property using the 200% declining balance method over
+the GDS recovery period. Your combined business/investment use for determining your depreciation deduction is
+90%.
+Recapture of Excess Depreciation
+If you used listed property more than 50% in a qualified
+business use in the year you placed it in service, you must
+recapture (include in income) excess depreciation in the
+first year you use it 50% or less. You also increase the adjusted basis of your property by the same amount.
+Excess depreciation is:
+1. The depreciation allowable for the property (including
+any section 179 deduction and special depreciation
+allowance claimed) for years before the first year you
+do not use the property predominantly for qualified
+business use, minus

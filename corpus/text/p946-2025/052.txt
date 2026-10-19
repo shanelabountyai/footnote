@@ -1,0 +1,81 @@
+method over the ADS recovery period. You may also
+have to recapture (include in income) any excess depreciation claimed in previous years. A similar inclusion amount applies to certain leased property.
+• Passenger automobile limits and rules. Annual
+limits apply to depreciation deductions (including section 179 deductions and any special depreciation allowance) for certain passenger automobiles. You can
+continue to deduct depreciation for the unrecovered
+basis resulting from these limits after the end of the recovery period.
+This chapter defines listed property and explains the
+special rules and depreciation deduction limits that apply,
+including the special inclusion amount rule for leased
+property. It also discusses the recordkeeping rules for listed property and explains how to report information about
+the property on your tax return.
+Useful Items
+You may want to see:
+Publication
+463 Travel, Gift, and Car Expenses
+587 Business Use of Your Home
+Form (and Instructions)
+2106 Employee Business Expenses
+4562 Depreciation and Amortization
+4797 Sales of Business Property
+See How To Get Tax Help at the end of this publication for
+information about getting publications and forms.
+What Is Listed Property?
+Terms you may need to know
+(see Glossary):
+Capitalized
+Commuting
+Improvement
+Recovery period
+Straight line method
+Listed property is any of the following.
+• Passenger automobiles (as defined later).
+• Business aircraft (discussed later).
+• Any other property used for transportation, unless it is
+an excepted vehicle.
+• Property generally used for entertainment, recreation,
+or amusement (including photographic, phonographic,
+communication, and video recording equipment).
+463
+587
+2106
+4562
+4797
+Improvements to listed property. An improvement
+made to listed property that must be capitalized is treated
+as a new item of depreciable property. The recovery period and method of depreciation that apply to the listed
+property as a whole also apply to the improvement. For
+example, if you must depreciate the listed property using
+the straight line method, you must also depreciate the improvement using the straight line method.
+Passenger Automobiles
+A passenger automobile is any four-wheeled vehicle
+made primarily for use on public streets, roads, and highways and rated at 6,000 pounds or less of unloaded gross
+vehicle weight (6,000 pounds or less of gross vehicle
+weight for trucks and vans). It includes any part, component, or other item physically attached to the automobile
+at the time of purchase or usually included in the purchase
+price of an automobile.
+The following vehicles are not considered passenger
+automobiles for these purposes.
+• An ambulance, hearse, or combination ambulance-hearse used directly in a trade or business.
+• A vehicle used directly in the trade or business of
+transporting persons or property for pay or hire.
+• A truck or van that is a qualified nonpersonal use vehicle.
+Qualified nonpersonal use vehicles. Qualified nonpersonal use vehicles are vehicles that by their nature are not
+likely to be used more than a minimal amount for personal
+purposes. They include the trucks and vans listed as excepted vehicles under Other Property Used for Transportation next. They also include trucks and vans that have
+been specially modified so that they are not likely to be
+used more than a minimal amount for personal purposes,
+such as by installation of permanent shelving and painting
+the vehicle to display advertising or the company’s name.
+For a detailed discussion of passenger automobiles, including leased passenger automobiles, see Pub. 463.
+Business Aircraft
+A business aircraft may be depreciated using straight line
+depreciation over its useful life. Business aircraft may also
+be eligible for accelerated depreciation including the section 179 election deduction, the special depreciation allowance, and MACRS which allows the aircraft owner to
+immediately expense a portion of the aircraft if certain
+tests are met. These tests are based on the qualified business use of the aircraft.
+Qualified business-use tests. Qualified business use is
+defined as any use in a trade or business. To claim accelerated depreciation on business aircraft, you must meet
+the 50% test under section 280F(b) of the Internal Revenue Code and the 25% test under section 280F(d)(6)(C)
+(ii) of the Internal Revenue Code. Failure to meet either of
+these tests disqualifies the aircraft from claiming

@@ -1,0 +1,78 @@
+Line 14—Excess home mortgage interest. If you
+are claiming the standard deduction, enter all the home
+mortgage interest paid for loans used to buy, build, or substantially improve the home in which you conducted business in column (b) of line 14. Do not include mortgage interest on a loan that did not benefit your home (for
+example, a home equity loan used to pay off credit card
+bills, to buy a car, or to pay tuition costs).
+If you are itemizing deductions on Schedule A and the
+amount you figured in Step 1 under Mortgage interest reported on line 6, earlier, was less than the full amount of
+interest you paid because of the limits on deducting home
+mortgage interest as a personal expense, include the excess attributable to the loans used to buy, build, or substantially improve the home in which you conducted business in column (b) of line 14.
+Example. If you paid $15,000 of home mortgage interest on loans used to buy, build, or substantially improve
+the home in which you conducted business but would only
+be able to deduct $12,000 on Schedule A because of the
+limits that apply to deducting home mortgage interest as a
+personal expense, include $3,000 ($15,000 - $12,000 =
+$3,000) in column (b) of line 14.
+Line 15—Excess real estate taxes. If you are claiming the standard deduction, enter all the real estate taxes
+paid on the home in which you conducted business in column (b) of line 15.
+If you are itemizing deductions on Schedule A and you
+used the Line 7 Worksheet to figure the amount to include
+in column (a) of line 7, then include the amount from
+line 11 of the Line 7 Worksheet in column (a) of line 15 of
+the Worksheet To Figure the Deduction for Business Use
+of Your Home; otherwise, do not enter an amount on
+line 15.
+Lines 26–31. On lines 26 through 31, figure your limit on
+deductions for excess casualty losses and depreciation.
+If you deducted actual expenses for business use of
+your home on your 2024 tax return, enter on line 29 the
+amount from line 42 of your 2024 worksheet. If you used
+the simplified method in 2024, enter on line 29 the amount
+from line 6b of your 2024 Simplified Method Worksheet.
+Line 27—Excess casualty loss. Multiply the casualty losses attributable to the home in which you conducted business that are in excess of the amount reported on
+line 5 (if any) by the business percentage of those losses
+and enter the result.
+Lines 32–34. On line 32, total all allowable business-use-of-the-home deductions.
+On line 33, enter the total of the casualty losses shown
+on lines 10 and 31. Enter the amount from line 33 on
+line 27 of Form 4684, Section B. Attach a statement to
+your tax return showing how you calculated the deductible
+loss (you can use the worksheet as your attachment) and
+enter "See attached statement" above line 27 of Form
+4684. See the Instructions for Form 4684 for more information on completing that form.
+Line 34 is the total (other than casualty losses) allowable as a deduction for business use of your home. If you
+file Schedule F (Form 1040), enter this amount on line 32,
+Other expenses, and enter “Business Use of Home” on
+the line beside the entry. Do not add the specific expenses
+into other line totals of Part II of Schedule F (Form 1040).
+If you are a partner, see Where To Deduct, earlier, for
+information on how to claim the deduction.
+Part 3—Depreciation of Your Home
+Figure your depreciation deduction on lines 35 through 40.
+On line 35, enter the smaller of the adjusted basis or the
+fair market value of the property at the time you first used it
+for business. Do not adjust this amount for changes in basis or value after that date. Allocate the basis between the
+land and the building on lines 36 and 37. You cannot depreciate any part of the land. On line 39, enter the correct
+percentage for the current year from the tables in Pub.
+946. Multiply this percentage by the business basis to get
+the depreciation deduction. Enter this figure on lines 40
+and 28. Complete and attach Form 4562 to your return if
+this is the first year you used your home, or an improvement or addition to your home, for business.
+Part 4—Carryover of Unallowed Expenses to
+Next Year
+Complete these lines to figure the expenses that must be
+carried forward to the next year in which you use actual
+expenses.
+Worksheets To Figure the
+Deduction for Business Use of
+Your Home (Simplified Method)
+Simplified Method Worksheet and the Daycare Facility
+Worksheet (for simplified method) in this section are to be
+used by taxpayers filing Schedule F (Form 1040) or by
+partners with certain unreimbursed ordinary and necessary expenses if using the simplified method to figure the
+deduction. If you are filing Schedule C (Form 1040) to report a business use of your home in your trade or business and you are using the simplified method to figure the
+deduction, use the Simplified Method Worksheet and the
+Daycare Facility Worksheet (for simplified method) in your
+Instructions for Schedule C for that business use.
+The Area Adjustment Worksheet (for simplified method)
+in this section may be used by any taxpayer using the simplified method to figure the deduction.

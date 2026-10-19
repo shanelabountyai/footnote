@@ -1,0 +1,136 @@
+Table B-2.
+Asset
+class Description of assets included
+Table of Class Lives and Recovery Periods
+Recovery Periods
+(in years)
+Class Life
+(in years)
+GDS
+(MACRS) ADS
+DEPRECIABLE ASSETS USED IN THE FOLLOWING ACTIVITIES:
+Agriculture:
+Includes machinery and equipment, grain bins, and fences but no other land improvements,
+that are used in the production of crops or plants, vines, and trees; livestock; the operation of
+farm dairies, nurseries, greenhouses, sod farms, mushroom cellars, cranberry bogs, apiaries,
+and fur farms; the performance of agriculture, animal husbandry, and horticultural services.
+10
+12 7 12
+7 5 7
+10 7 10
+10 3 10
+1
+3 12
+1
+3 12
+1
+7 12
+3 3 3
+5 5 5
+25 20 25
+15
+10 7 10
+7.5 5 7.5
+01.1
+01.11
+01.21
+01.221
+01.222
+01.223
+01.224
+01.225
+01.23
+01.24
+01.3
+01.4
+10.0
+13.0
+13.1
+13.2
+13.3
+15.0
+20.1
+20.2
+20.3
+20.4
+20.5
+Cotton Ginning Assets
+Cattle, Breeding or Dairy
+Any breeding or work horse that is 12 years old or less at the time it is placed in service2
+Any breeding or work horse that is more than 12 years old at the time it is placed in service2
+Any race horse that is more than 2 years old at the time it is placed in service2
+Any horse that is more than 12 years old at the time it is placed in service and that is
+neither a race horse nor a horse described in class 01.2222
+Any horse not described in class 01.221, 01.222, 01.223, or 01.224
+Hogs, Breeding
+Sheep and Goats, Breeding
+Farm buildings except structures included in class 01.4
+Single purpose agricultural or horticultural structures (within the meaning of section
+168(i)(13) of the Code)
+Mining:
+Includes assets used in the mining and quarrying of metallic and nonmetallic minerals (including sand,
+gravel, stone, and clay) and the milling, beneficiation, and other primary preparation of such materials.
+Offshore Drilling:
+Includes assets used in offshore drilling for oil and gas such as floating, self-propelled and
+other drilling vessels, barges, platforms, and drilling equipment and support vessels such as
+tenders, barges, towboats, and crewboats. Excludes oil and gas production assets.
+Drilling of Oil and Gas Wells:
+Includes assets used in the drilling of onshore oil and gas wells and the provision of
+geophysical and other exploration services; and the provision of such oil and gas field services
+as chemical treatment, plugging and abandoning of wells, and cementing or perforating well
+casings. Does not include assets used in the performance of any of these activities and
+services by integrated petroleum and natural gas producers for their own account.
+Exploration for and Production of Petroleum and Natural Gas Deposits:
+Includes assets used by petroleum and natural gas producers for drilling of wells and production of
+petroleum and natural gas, including gathering pipelines and related storage facilities. Also includes
+petroleum and natural gas offshore transportation facilities used by producers and others consisting
+of platforms (other than drilling platforms classified in class 13.0), compression or pumping
+equipment, and gathering and transmission lines to the first onshore transshipment facility. The assets
+used in the first onshore transshipment facility are also included and consist of separation equipment
+(used for separation of natural gas, liquids, and in class 49.23), and liquid holding or storage facilities
+(other than those classified in class 49.25). Does not include support vessels.
+Petroleum Refining:
+Includes assets used for the distillation, fractionation, and catalytic cracking of crude petroleum
+into gasoline and its other components.
+Construction:
+Includes assets used in construction by general building, special trade, heavy, and marine
+construction contractors; operative and investment builders; real estate subdividers and
+developers; and others except railroads.
+Manufacture of Grain and Grain Mill Products:
+Includes assets used in the production of flours, cereals, livestock feeds, and other grain and
+grain mill products.
+Manufacture of Sugar and Sugar Products:
+Includes assets used in the production of raw sugar, syrup, or finished sugar from sugar cane or sugar beets.
+Manufacture of Vegetable Oils and Vegetable Oil Products:
+Includes assets used in the production of oil from vegetable materials and the manufacture of
+related vegetable oil products.
+Manufacture of Other Food and Kindred Products:
+Includes assets used in the production of foods and beverages not included in classes 20.1,
+20.2, and 20.3.
+Manufacture of Food and Beverages—Special Handling Devices:
+Includes assets defined as specialized materials handling devices such as returnable pallets,
+palletized containers, and fish processing equipment including boxes, baskets, carts, and flaking trays
+used in activities as defined in classes 20.1, 20.2, 20.3, and 20.4. Does not include general purpose
+small tools such as wrenches and drills, both hand and power-driven, and other general purpose
+equipment such as conveyors, transfer equipment, and materials handling devices.
+6 5 6
+14 7 14
+16 10 16
+6 5 6
+17 10 17
+18 10 18
+18 10 18
+12 7 12
+4 3 4
+Property described in asset classes 01.223, 01.224, and 01.225 are assigned recovery periods but have no class lives.
+A horse is more than 2 (or 12) years old after the day that is 24 (or 144) months after its actual birthdate.
+7 if property was placed in service before 1989.
+1
+2
+3
+4
+103
+15
+74 10
+5 if machinery and equipment used in a farming business (other than any grain bin, cotton ginning asset, fence, or other land improvement) placed in service
+after 2017, in tax years ending after 2017.

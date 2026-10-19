@@ -1,0 +1,103 @@
+Table B-2.
+Asset
+class Description of assets included
+Table of Class Lives and Recovery Periods
+Recovery Periods
+(in years)
+Class Life
+(in years)
+GDS
+(MACRS) ADS
+Manufacture of Motor Vehicles:
+12 7 12
+37.11
+Includes assets used in the manufacture and assembly of finished automobiles, trucks, trailers,
+motor homes, and buses. Does not include assets used in mining, printing and publishing,
+production of primary metals, electricity, or steam, or the manufacture of glass, industrial
+chemicals, batteries, or rubber products, which are classified elsewhere. Includes assets used
+in manufacturing activities elsewhere classified other than those excluded above, where such
+activities are incidental to and an integral part of the manufacture and assembly of finished
+motor vehicles such as the manufacture of parts and subassemblies of fabricated metal
+products, electrical equipment, textiles, plastics, leather, and foundry and forging operations.
+Does not include any assets not classified in manufacturing activity classes, for example, does
+not include any assets classified in asset guideline classes 00.11 through 00.4. Activities will be
+considered incidental to the manufacture and assembly of finished motor vehicles only if 75%
+or more of the value of the products produced under one roof are used for the manufacture
+and assembly of finished motor vehicles. Parts that are produced as a normal replacement
+stock complement in connection with the manufacture and assembly of finished motor
+vehicles are considered used for the manufacture assembly of finished motor vehicles.
+Does not include assets used in the manufacture of component parts if these assets are used
+by taxpayers not engaged in the assembly of finished motor vehicles.
+37.12
+37.2
+37.31
+37.32
+37.33
+37.41
+37.42
+39.0
+Manufacture of Motor Vehicles—Special Tools:
+Includes assets defined as special tools, such as jigs, dies, fixtures, molds, patterns, gauges,
+and specialty transfer and shipping devices, owned by manufacturers of finished motor vehicles
+and used in qualified activities as defined in class 37.11. Special tools are specifically designed
+for the production or processing of particular motor vehicle components and have no
+significant utilitarian value, and cannot be adapted to further or different use after changes or
+improvements are made in the model design of the particular part produced by the special
+tools. Does not include general purpose small tools such as wrenches and drills, both hand and
+power-driven, and other general purpose equipment such as conveyors, transfer equipment,
+and materials handling devices.
+Manufacture of Aerospace Products:
+Includes assets used in the manufacture and assembly of airborne vehicles and their component
+parts including hydraulic, pneumatic, electrical, and mechanical systems. Does not include assets
+used in the production of electronic airborne detection, guidance, control, radiation, computation,
+test, navigation, and communication equipment or the components thereof.
+Ship and Boat Building Machinery and Equipment:
+Includes assets used in the manufacture and repair of ships, boats, caissons, marine drilling
+rigs, and special fabrications not included in asset classes 37.32 and 37.33. Specifically
+includes all manufacturing and repairing machinery and equipment, including machinery and
+equipment used in the operation of assets included in asset class 37.32. Excludes buildings
+and their structural components.
+Ship and Boat Building Dry Docks and Land Improvements:
+Includes assets used in the manufacture and repair of ships, boats, caissons, marine drilling
+rigs, and special fabrications not included in asset classes 37.31 and 37.33. Specifically
+includes floating and fixed dry docks, ship basins, graving docks, shipways, piers, and all other
+land improvements such as water, sewer, and electric systems. Excludes buildings and their
+structural components.
+Ship and Boat Building—Special Tools:
+Includes assets defined as special tools such as dies, jigs, molds, patterns, fixtures, gauges,
+and drawings concerning such special tools used in the activities defined in classes 37.31 and
+37.32. Special tools are specifically designed for the production or processing of particular
+machine components, products, or parts, and have no significant utilitarian value and cannot
+be adapted to further or different use after changes or improvements are made in the model
+design of the particular part produced by the special tools. Does not include general purpose
+small tools such as wrenches and drills, both hand and power-driven, and other general
+purpose equipment such as conveyors, transfer equipment, and materials handling devices.
+Manufacture of Locomotives:
+Includes assets used in building or rebuilding railroad locomotives (including mining and
+industrial locomotives). Does not include assets of railroad transportation companies or assets
+of companies which manufacture components of locomotives but do not manufacture finished
+locomotives.
+Manufacture of Railroad Cars:
+Includes assets used in building or rebuilding railroad freight or passenger cars (including rail
+transit cars). Does not include assets of railroad transportation companies or assets of
+companies which manufacture components of railroad cars but do not manufacture finished
+railroad cars.
+Manufacture of Athletic, Jewelry, and Other Goods:
+Includes assets used in the production of jewelry; musical instruments; toys and sporting
+goods; motion picture and television films and tapes; and pens, pencils, office and art supplies,
+brooms, brushes, caskets, etc.
+Railroad Transportation:
+Classes with the prefix 40 include the assets identified below that are used in the commercial
+and contract carrying of passengers and freight by rail. Assets of electrified railroads will be
+classified in a manner corresponding to that set forth below for railroads not independently
+operated as electric lines. Excludes the assets included in classes with the prefix beginning
+00.1 and 00.2 above, and also excludes any non-depreciable assets included in Interstate
+Commerce Commission accounts enumerated for this class.
+3 3 3
+10 7 10
+12 7 12
+16 10 16
+6.5 5 6.5
+11.5 7 11.5
+12 7 12
+12 7 12

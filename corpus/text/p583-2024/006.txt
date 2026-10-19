@@ -1,0 +1,60 @@
+Which form you use depends on how your business is organized. See Table 2 to find out which return you have to
+file.
+The federal income tax is a pay-as-you-go tax. You
+must pay the tax as you earn or receive income during the
+year. An employee usually has income tax withheld from
+his or her pay. If you do not pay your tax through withholding, or do not pay enough tax that way, you might have to
+pay estimated tax. If you are not required to make estimated tax payments, you may pay any tax due when you file
+your return.
+Reminder. If your business is an LLC, how you elected to
+have the LLC treated for tax purposes (either as a corporation, partnership, or as part of the LLC owner's tax return) will determine what taxes you must pay and what
+forms you should use to pay your taxes.
+Estimated tax. Generally, you must pay taxes on income,
+including self-employment tax (discussed next), by making regular payments of estimated tax during the year.
+Sole proprietors, partners, and S corporation
+shareholders. You generally have to make estimated tax
+payments if you expect to owe tax of $1,000 or more when
+you file your return. Use Form 1040-ES, Estimated Tax for
+Individuals, to figure and pay your estimated tax. For more
+information, see Pub. 505.
+Corporations. You generally have to make estimated
+tax payments for your corporation if you expect it to owe
+tax of $500 or more when you file its return. You must deposit the payments as explained later under Depositing
+Taxes. For more information, see Pub. 542.
+Self-Employment Tax
+Self-employment tax (SE tax) is a social security and
+Medicare tax primarily for individuals who work for themselves. Your payments of SE tax contribute to your coverage under the social security system. Social security coverage provides you with retirement benefits, disability
+benefits, survivor benefits, and hospital insurance (Medicare) benefits.
+Table 2. Which Forms Must I File?
+IF you are a... THEN you may have to pay... FILE form...
+Sole proprietor Income tax 1040 or 1040-SR, and Schedule C 1
+(Schedule F 1
+for farm business)
+Self-employment tax 1040 or 1040-SR, and Schedule SE
+Estimated tax 1040-ES
+Employment taxes:
+• Social security and Medicare
+taxes and income tax
+withholding
+941 or 944 (943 for farm employees)
+• Federal unemployment (FUTA)
+tax
+940
+Excise taxes See Excise Taxes
+Partnership Annual return of income 1065
+Employment taxes Same as sole proprietor
+Excise taxes See Excise Taxes
+Partner in a partnership (individual) Income tax 1040 or 1040-SR, and Schedule E 2
+Self-employment tax 1040 or 1040-SR, and Schedule SE
+Estimated tax 1040-ES
+C corporation or S corporation Income tax 1120 (C corporation) 2
+1120-S (S corporation) 2
+Estimated tax 1120-W (corporation only)
+Employment taxes Same as sole proprietor
+Excise taxes See Excise Taxes
+S corporation shareholder Income tax 1040 or 1040-SR, and Schedule E 2
+Estimated tax 1040-ES
+1
+File a separate schedule for each business.
+2
+Various other schedules may be needed.

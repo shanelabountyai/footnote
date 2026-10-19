@@ -1,0 +1,87 @@
+expenses you have for parking fees and tolls. Don’t include expenses of operating your car or expenses of commuting between your home and work.
+Employee business expenses other than nonentertainment meals. Show your other employee business
+expenses on Form 2106, lines 3 and 4, column A. Don’t
+include expenses for nonentertainment meals on those
+lines. Line 4 is for expenses such as gifts, educational expenses (tuition and books), office-in-the-home expenses,
+and trade and professional publications.
+Tip: If line 4 expenses are the only ones you are claiming, you received no reimbursements (or the reimbursements were all included in box 1 of your Form W-2), and
+the special rules discussed later don’t apply to you, don’t
+complete Form 2106.
+Non-entertainment-related meal expenses. Show the
+full amount of your expenses for nonentertainment business-related meals on Form 2106, line 5, column B. Include meals while away from your tax home overnight and
+other business meals. Enter 50% of the line 8, column B,
+meal expenses on line 9, column B.
+“Hours of service” limits. If you are subject to the
+Department of Transportation’s “hours of service” limits
+(as explained earlier under Individuals subject to “hours of
+service” limits in chapter 2), use 80% instead of 50% for
+meals while away from your tax home.
+Reimbursements. Enter on Form 2106, line 7, the
+amounts your employer (or third party) reimbursed you
+that weren’t reported to you in box 1 of your Form W-2.
+This includes any amount reported under code L in box 12
+of Form W-2.
+Allocating your reimbursement. If you were reimbursed under an accountable plan and want to deduct excess expenses that weren’t reimbursed, you may have to
+allocate your reimbursement. This is necessary when your
+employer pays your reimbursement in the following manner.
+• Pays you a single amount that covers non-entertainment-related meals and/or entertainment, as well as
+other business expenses.
+• Doesn’t clearly identify how much is for deductible
+non-entertainment-related meals.
+You must allocate that single payment so that you know
+how much to enter on Form 2106, line 7, column A and
+column B.
+Example. Your employer paid you an expense allowance of $12,000 this year under an accountable plan. The
+$12,000 payment consisted of $5,000 for airfare and
+$7,000 for non-entertainment-related meals, and car expenses. Your employer didn’t clearly show how much of
+the $7,000 was for the cost of deductible non-entertainment-related meals. You actually spent $14,000 during the
+year ($5,500 for airfare, $4,500 for non-entertainment-related meals, and $4,000 for car expenses).
+Since the airfare allowance was clearly identified, you
+know that $5,000 of the payment goes in column A, line 7,
+of Form 2106. To allocate the remaining $7,000, you use
+the worksheet from the Instructions for Form 2106. Your
+completed worksheet follows.
+Reimbursement Allocation Worksheet
+(Keep for your records.)
+1. Enter the total amount of reimbursements your
+employer gave you that weren’t reported to you
+in box 1 of Form W-2 . . . . . . . . . . . . . . . . $7,000
+2. Enter the total amount of your expenses for the
+periods covered by this reimbursement . . . . . 8,500
+3. Enter the part of the amount on line 2 that was
+your total expense for
+non-entertainment-related meals . . . . . . . . . 4,500
+4. Divide line 3 by line 2. Enter the result as a
+decimal (rounded to at least three places) . . . . 0.529
+5. Multiply line 1 by line 4. Enter the result here
+and in column B, line 7 . . . . . . . . . . . . . . . 3,703
+6. Subtract line 5 from line 1. Enter the result here
+and in column A, line 7 . . . . . . . . . . . . . . . $3,297
+On line 7 of Form 2106, you enter $8,297 ($5,000 airfare
+and $3,297 of the $7,000) in column A and $3,703 (of the
+$7,000) in column B.
+After you complete the form. If you are an Armed
+Forces reservist, a government official who is paid on a
+fee basis, a performing artist, or a disabled employee with
+impairment-related work expenses, see Special Rules,
+later.
+Limits on employee business expenses. Your employee business expenses may be subject to either of the
+limits described next. They are figured in the following order on the specified form.
+1. Limit on meals and entertainment. Certain
+non-entertainment-related meal expenses are subject to a
+50% limit. Generally, entertainment expenses are nondeductible if paid or incurred after December 2017. If you are
+an employee, you figure this limit on line 9 of Form 2106.
+(See 50% Limit in chapter 2.)
+2. Limit on total itemized deductions. Limitations on
+itemized deductions are suspended for tax years beginning after 2017, per section 68(g).
+Special Rules
+This section discusses special rules that apply only to
+Armed Forces reservists, government officials who are
+paid on a fee basis, performing artists, and disabled employees with impairment-related work expenses. For tax
+years beginning after 2017, they are the only taxpayers
+who can use Form 2106.
+Armed Forces Reservists Traveling More
+Than 100 Miles From Home
+If you are a member of a reserve component of the Armed
+Forces of the United States and you travel more than 100
+miles away from home in connection with your

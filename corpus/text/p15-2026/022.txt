@@ -1,0 +1,86 @@
+deposited for it, you may claim a refund for the overpayment or have it applied to your next employment tax return. See Valuation of fringe benefits, earlier in this section. If you underestimated the value and deposited too
+little, you may be subject to a failure-to-deposit (FTD) penalty. See section 11 for information on deposit penalties.
+If you deposited the required amount of taxes but withheld a lesser amount from the employee, you can recover
+from the employee the social security, Medicare, or income tax you deposited on their behalf and included in
+the employee’s Form W-2. However, you must recover the
+income tax before April 1 of the following year.
+Back pay. Back pay, including retroactive wage increases (but not amounts paid as liquidated damages), is
+taxed as ordinary wages in the year paid. For information
+on reporting back pay to the SSA, see Pub. 957.
+Sick pay. In general, sick pay is any amount you pay under a plan to an employee who is unable to work because
+of sickness or injury. These amounts are sometimes paid
+by a third party, such as an insurance company or an employees’ trust. In either case, these payments are subject
+to social security, Medicare, and FUTA taxes. These taxes
+don’t apply to sick pay paid more than 6 calendar months
+after the last calendar month in which the employee
+worked for the employer. The payments are always subject to federal income tax. See section 6 of Pub. 15-A for
+more information.
+Overtime compensation. The FLSA provides that employers must generally pay covered, nonexempt employees at least one-and-a-half times their regular rate of pay
+for hours worked over 40 hours per week. For more information about overtime compensation, go to dol.gov/
+agencies/whd/overtime.
+Overtime compensation is subject to social security,
+Medicare, and FUTA taxes. Overtime is also subject to
+federal income tax withholding. However, for tax years beginning after 2024 and ending before 2029, P.L. 119-21 allows individuals (employees and other workers not treated
+as employees) to deduct up to $12,500 ($25,000 if married filing jointly) of qualified overtime compensation on
+their income tax returns. Qualified overtime is compensation that exceeds the regular rate of pay (such as the “half”
+portion of time-and-a-half compensation) that is required
+to be paid to an individual under section 7 of the FLSA of
+1938. Employers must use an employee’s updated Form
+W-4, if one is submitted by the employee, and the federal
+income tax withholding procedures in Pub. 15-T to allow
+the employee to account for their expected deduction and
+receive more money in each paycheck instead of waiting
+until filing their income tax return to receive the full benefit
+of this deduction.
+Identity protection services. The value of identity protection services provided by an employer to an employee
+isn’t included in an employee’s gross income and doesn’t
+need to be reported on an information return (such as
+Form W-2) filed for an employee. This includes identity
+protection services provided before a data breach occurs.
+This exception doesn’t apply to cash received instead of
+identity protection services or to proceeds received under
+an identity theft insurance policy. For more information,
+see Announcement 2015-22, 2015-35 I.R.B. 288, available at IRS.gov/irb/2015-35_IRB#ANN-2015-22; and Announcement 2016-02, 2016-3 I.R.B. 283, available at
+IRS.gov/irb/2016-03_IRB#ANN-2016-02.
+6. Tips
+Cash tips your employee receives from customers are
+generally subject to withholding. Your employee must report cash tips to you by the 10th of the month after the
+month the tips are received. Cash tips include tips paid by
+cash, check, debit card, and credit card. The report
+should include tips you paid over to the employee for
+charge customers, tips the employee received directly
+from customers, and tips received from other employees
+under any tip-sharing arrangement. Both directly and indirectly tipped employees must report tips to you. No report
+is required for months when tips are less than $20. If you
+don’t give your employees any specific method to report
+tips (for example, an electronic tip reporting system), your
+employees must give you a statement reporting their tips.
+The statement must be signed and dated by the employee
+and must include:
+• The employee’s name, address, and SSN;
+• Your name and address;
+• The month and year (or the beginning and ending
+dates, if the statement is for a period of less than 1
+calendar month) the report covers; and
+• The total of tips received during the month or period.
+You’re permitted to establish a system for electronic tip
+reporting by employees. See Regulations section
+31.6053-1(d). You may also suggest that your employees
+see Pub. 531, Reporting Tip Income.
+Collecting taxes on tips. You must collect federal income tax (see Federal income tax withholding on tips,
+later), employee social security tax, and employee Medicare tax on the employee’s tips. The withholding rules for
+withholding an employee’s share of Medicare tax on tips
+also apply to withholding the Additional Medicare Tax
+once wages and tips exceed $200,000 in the calendar
+year.
+You can collect these taxes from the employee’s wages
+(excluding tips) or from other funds they make available.
+See Tips are treated as supplemental wages in section 7
+for more information. Stop collecting the employee share
+of social security tax when their wages and tips for tax
+year 2026 reach $184,500; collect the income and employee Medicare taxes for the whole year on all wages and
+tips. You’re responsible for the employer social security tax
+on wages and tips until the wages (including tips) reach
+the limit. You’re responsible for the employer Medicare tax
+for the whole year on all wages and tips. Tips are considered to be paid at the time the employee reports them to
+you. Deposit taxes on tips based on your deposit schedule

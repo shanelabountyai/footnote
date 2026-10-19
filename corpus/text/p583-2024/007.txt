@@ -1,0 +1,83 @@
+You must pay SE tax and file Schedule SE (Form 1040)
+if either of the following applies.
+1. Your net earnings from self-employment were $400 or
+more.
+2. You had church employee income of $108.28 or more.
+Use Schedule SE (Form 1040) to figure your SE tax. For
+more information, see Pub. 334.
+You can deduct a portion of your SE tax as an adjustment to income on your Form 1040 or
+1040-SR.
+The Social Security Administration (SSA) time limit
+for posting self-employment income. Generally, the
+SSA will give you credit only for self-employment income
+reported on a tax return filed within 3 years, 3 months, and
+15 days after the tax year you earned the income. If you
+file your tax return or report a change in your self-employment income after this time limit, the SSA may change its
+records, but only to remove or reduce the amount. The
+SSA will not change its records to increase your self-employment income.
+Employment Taxes
+This section briefly discusses the employment taxes you
+must pay, the forms you must file to report them, and other
+forms that must be filed when you have employees.
+Employment taxes include the following.
+• Social security and Medicare taxes.
+• Federal income tax withholding.
+• Federal unemployment (FUTA) tax.
+If you have employees, you will need to get Pub. 15
+(Circular E), Employer's Tax Guide. If you have agricultural
+employees, get Pub. 51 (Circular A), Agricultural Employer's Tax Guide. These publications explain your tax responsibilities as an employer.
+If you are not sure whether the people working for you
+are your employees, see Pub. 15-A. That publication has
+information to help you determine whether an individual is
+an employee or an independent contractor. Also, people
+who provide a service generally associated with the sharing (or on-demand, gig, or access) economy are, under
+certain circumstances, independent contractors. An independent contractor is someone who is self-employed.
+Generally, you do not have to withhold or pay any taxes on
+payments to an independent contractor. If you wrongly
+classify an employee as an independent contractor, you
+can be held liable for employment taxes for that worker
+plus a penalty.
+Federal Income, Social Security, and
+Medicare Taxes
+You generally must withhold federal income tax from your
+employee's wages. To figure how much federal income tax
+to withhold from each wage payment, use the employee's
+TIP
+Form W-4 (discussed later under Hiring Employees) and
+the methods described in Pub. 15-T. Pub. 15-T provides
+instructions about how to apply Form W-4 to calculate
+withholding on the employee.
+Social security and Medicare taxes pay for benefits that
+workers and their families receive under the Federal Insurance Contributions Act (FICA). Social security tax pays for
+benefits under the old-age, survivors, and disability insurance part of FICA. Medicare tax pays for benefits under
+the hospital insurance part of FICA. You withhold part of
+these taxes from your employee's wages and you pay a
+part yourself. To find out how much social security and
+Medicare tax to withhold and to pay, see Pub. 15.
+Which form do I file? Report these taxes on Form 941,
+Employer's QUARTERLY Federal Tax Return, or Form
+944, Employer's ANNUAL Federal Tax Return. (Farm employers use Form 943, Employer's Annual Federal Tax Return for Agricultural Employees.)
+Federal Unemployment (FUTA) Tax
+The federal unemployment tax is part of the federal and
+state program under the Federal Unemployment Tax Act
+(FUTA) that pays unemployment compensation to workers
+who lose their jobs. You report and pay FUTA tax separately from social security and Medicare taxes and withheld income tax. You pay FUTA tax only from your own
+funds. Employees do not pay this tax or have it withheld
+from their pay.
+Which form do I file? Report federal unemployment tax
+on Form 940, Employer's Annual Federal Unemployment
+(FUTA) Tax Return. See Pub. 15 to find out if you can use
+this form.
+Hiring Employees
+Have the employees you hire fill out Form I-9 and Form
+W-4.
+Form I-9. You must verify that each new employee is legally eligible to work in the United States. Both you and
+the employee must complete the U.S. Citizenship and Immigration Services (USCIS) Form I-9, Employment Eligibility Verification. You can get the form from USCIS offices
+or from the USCIS website at USCIS.gov. Call the USCIS
+at 800-375-5283 for more information about your responsibilities.
+Form W-4. Each employee must fill out Form W-4, Employee's Withholding Certificate. You will use the information provided on this form to figure the amount of income
+tax to withhold from your employee's wages. For more information, see Pub. 15-T.
+Form W-2 Wage Reporting
+After the calendar year is over, you must furnish copies of
+Form W-2, Wage and Tax Statement, to each employee to
+whom you paid wages during the year. You must also

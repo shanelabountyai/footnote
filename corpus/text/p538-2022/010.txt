@@ -1,0 +1,84 @@
+owners in proportion to their ownership interest in that entity. Other forms of indirect stock ownership, such as stock
+owned by family members, are generally not considered
+when determining if the ownership test is met.
+For purposes of the ownership test, a person is not
+considered an employee of a corporation unless that person performs more than minimal services for the corporation.
+Change to accrual method. A corporation that fails
+to meet the function test for any tax year; or fails to meet
+the ownership test at any time during any tax year must
+change to an accrual method of accounting, effective for
+the year in which the corporation fails to meet either test.
+A corporation that fails to meet the function test or the
+ownership test is not treated as a qualified PSC for any
+part of that tax year.
+Accrual Method
+Under an accrual method of accounting, you generally report income in the year it is earned and deduct or capitalize expenses in the year incurred. The purpose of an accrual method of accounting is to match income and
+expenses in the correct year.
+Income
+Generally, you include an amount in gross income for the
+tax year in which the all events test is met. This test is met
+when all events have occurred which fix your right to receive the income and you can determine the amount with
+reasonable accuracy. However, if you have an applicable
+financial statement (AFS), you include the amount in income no later than when the item of income is reported in
+your applicable financial statement (AFS). This is known
+as the AFS income inclusion rule, discussed next.
+AFS income inclusion rule. Under this rule, you report
+an amount in your gross income on the earliest of the following events.
+• When you receive payment.
+• When the income amount is due to you.
+• When you earn the income.
+• When title passes.
+• When included as revenue in your AFS if you have an
+AFS.
+See Regulations section 1.451-3(a)(5) for a hierarchical
+list of financial statements. See Regulations section
+1.451-3(b) for guidance in determining the appropriate
+AFS income amount when applying the inclusion rule. If
+your financial results are reported on the AFS for a group
+of entities, use the group's AFS to apply the AFS income
+inclusion rule. Generally, the AFS income inclusion rule is
+not applicable to you if you use a special method of accounting to report an item of income. See Regulations
+section 1.451-3(a)(13) for examples of special methods of
+accounting to which the AFS income inclusion rule generally does not apply.
+AFS cost offset method. If you are required to account
+for income from the sale of inventory under the AFS income inclusion rule, you may be eligible to elect the AFS
+cost offset method. This method allows you to reduce the
+reported amount of income accelerated under this rule.
+See Regulations section 1.451-3(c) for more information
+on the application of this method. If you receive advance
+payments for the sale of inventory, you may elect to use
+the advance payment cost offset method. See Advance
+Payments below.
+Estimated income. If you include a reasonably estimated amount in gross income and later determine the exact
+amount is different, take the difference into account in the
+tax year you make that determination.
+Advance Payments
+Generally, you report an advance payment for goods,
+services, or other items as income in the year you receive
+the payment. However, if you use an accrual method of
+accounting, you can elect to postpone including the advance payment in income until the next year. However,
+you cannot postpone including any payment beyond that
+tax year.
+To be eligible for the deferral method, advance payments must meet the following requirements:
+• Full inclusion of the payment in gross income in the
+year of receipt is a permissible method of accounting;
+• A portion of the advance payment is included in revenue in your applicable financial statement (AFS) for a
+subsequent tax year, or if you do not have an AFS,
+you earn a portion of the payment in a subsequent tax
+year; and
+• You received the advance payment for goods, services, or such other items that the Secretary has identified.
+You are considered to receive an item of gross income
+if you actually or constructively receive it or it is due and
+payable to you.
+Certain gift card sales are considered advance payments and eligible for the deferral method. Certain types
+of prepayments are excluded from the definition of advance payments and are ineligible for this deferral method
+such as some types of rent or insurance premiums. See
+section 451(c)(B) for exclusions to the term “advance payment.”
+See section 451(c) and Regulations section 1.451-8 for
+more information.
+How to report payments. Generally, include an advance payment in income in the year in which you receive
+it. However, you may use the deferral method described
+above for qualifying advance payments.
+Deferral method with AFS. Any advance payment
+you include in gross receipts on your tax return must be
+included no later than when the income is included on an

@@ -1,0 +1,90 @@
+Mortgage interest reported on line 6. If you are claiming the standard deduction, do not report an amount on
+line 6. If you itemize your deductions, figure the amount to
+include in column (b) of line 6 as follows.
+Step 1. Treat all the mortgage interest you paid as a
+personal expense and figure the amount that would be deductible as an itemized deduction on Schedule A. See
+Pub. 936 for more information about figuring the home
+mortgage interest deduction and the limits that may apply.
+Step 2. Include in column (b) of line 6 the amount of
+deductible mortgage interest figured in Step 1 that is attributable to the home in which you conducted the business. Because the limits on deducting mortgage interest
+as a personal expense are figured using all loans secured
+by your home(s), do not claim mortgage interest in column
+(a) as a direct expense, even if you use a separate structure in your home in connection with your trade or business.
+Mortgage interest reported on Schedule A. When
+you figure your itemized deduction for mortgage interest
+on Schedule A, include the following amounts of deductible mortgage interest that you figured in Step 1 to the extent they are not deducted on another form, such as
+Schedule E, as a rental expense.
+• The amount of deductible mortgage interest you figured in Step 1 that is not attributable to the home in
+which you conducted the business.
+• The personal portion of deductible mortgage interest
+you included in column (b) of line 6. For example, if
+your business percentage on line 3 is 30%, 70% of the
+amount you included in column (b) of line 6 is deductible as an itemized deduction on Schedule A.
+Excess mortgage interest. See the instructions for
+line 14, later, to deduct the part of your mortgage interest
+from loans used to buy, build, or substantially improve the
+home in which you conducted business that is not allowed
+on line 6 because of the limits on deducting home mortgage interest as a personal expense.
+Real estate taxes reported on line 7. If you are claiming the standard deduction, do not report an amount on
+line 7. If you are itemizing deductions, figure the amount to
+include on line 7 as follows.
+Step 1. If the total of your state and local income (or if
+elected on your Schedule A, general sales) taxes, real estate taxes, and personal property taxes is not more than
+$10,000 ($5,000 if married filing separately), enter all the
+real estate taxes attributable to the home in which you
+conducted business in column (b) of line 7.
+Step 2. If you do not meet the condition of Step 1, use
+the following worksheet to figure the amount to include in
+column (a) of line 7.
+Line 7 Worksheet
+1. Enter your state and local income taxes (or, if you
+elect on Schedule A, your state and local general
+sales taxes) that are personal expenses . . . . . . 1.
+2. Enter all the state and local real estate taxes you
+paid on the home in which you conducted
+business . . . . . . . . . . . . . . . . . . . . . . . . . 2.
+3. Enter any other state and local real estate taxes
+you paid that are a personal expense and not
+included on line 2 . . . . . . . . . . . . . . . . . . . . 3.
+4. Enter your state and local personal property
+taxes that are a personal expense . . . . . . . . . . 4.
+5. Add lines 1 through 4 . . . . . . . . . . . . . . . . . 5.
+6. Multiply line 2 by the percentage on line 3 of the
+Worksheet To Figure the Deduction for Business
+Use of Your Home . . . . . . . . . . . . . . . . . . . 6.
+7a. Subtract line 6 from line 5 . . . . . . . . . . . . . . . 7a.
+7b. Is line 5 less than or equal to $10,000 ($5,000 if
+married filing separately)?
+Yes. Skip lines 7c and 7d. Enter $10,000
+($5,000 if married filing separately) on line 8.
+Then proceed to line 9.
+No. Go to line 7c.
+7c. Is line 7a greater than or equal to $40,000
+($20,000 if married filing separately)?
+Yes. Skip line 7d. Enter $10,000 ($5,000 if
+married filing separately) on line 8. Then proceed
+to line 9.
+No. Go to line 7d.
+7d. Would your modified adjusted gross income on
+line 4 of the State and Local Tax Deduction
+Worksheet in the Instructions for Schedule A
+(Form 1040) be less than or equal to $500,000
+($250,000 if married filing separately) if you
+entered $40,000 ($20,000 if married filing
+separately) on line 8 of this worksheet, next?
+Yes. Enter $40,000 ($20,000 if married filing
+separately) on line 8. Then proceed to line 9.
+No or Unsure. See Iteration instructions,
+later.
+8. Enter the overall limit on the deduction for state
+and local income, sales, and property taxes from
+line 7b, 7c, 7d, or Step 6 of the Iteration
+instructions (as applicable). . . . . . . . . . . . . . . 8.
+9. Subtract line 7a from line 8. If zero or less,
+enter -0- . . . . . . . . . . . . . . . . . . . . . . . . . . 9.
+10. Real estate taxes reported on line 7. Enter the
+smaller of line 6 or line 9 here and in column (a)
+of line 7 of the Worksheet To Figure the
+Deduction for Business Use of Your Home . . . . 10.
+11. Excess real estate taxes reported on line 15.
+Subtract line 10 from line 6 . . . . . . . . . . . . . . 11.

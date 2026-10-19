@@ -1,0 +1,81 @@
+furniture ($1,000) by 0.28571 to get the depreciation of
+$286 for the full year. You placed the furniture in service in
+the third quarter of your tax year, so you multiply $286 by
+37.5% (the mid-quarter percentage for the third quarter).
+The result, $107, is your deduction for depreciation on the
+furniture for the first year.
+For the second year, the adjusted basis of the furniture
+is $893. You figure this by subtracting the first year’s depreciation ($107) from the basis of the furniture ($1,000).
+Your depreciation for the second year is $255 ($893 ×
+0.28571).
+First- and second-year depreciation for computer.
+The 200% DB rate for 5-year property is 0.40. You determine this by dividing 2.00 (200%) by 5 years. The depreciation for the computer for a full year is $2,000 ($5,000 ×
+0.40). You placed the computer in service in the fourth
+quarter of your tax year, so you multiply the $2,000 by
+12.5% (the mid-quarter percentage for the fourth quarter).
+The result, $250, is your deduction for depreciation on the
+computer for the first year.
+For the second year, the adjusted basis of the computer is $4,750. You figure this by subtracting the first
+year’s depreciation ($250) from the basis of the computer
+($5,000). Your depreciation deduction for the second year
+is $1,900 ($4,750 × 0.40).
+Example 4—200% DB method and half-year convention. Last year, in July, you bought and placed in
+service in your business a new item of 7-year property.
+This was the only item of property you placed in service
+last year. The property cost $39,000 and you elected a
+$24,000 section 179 deduction. You also made an election under section 168(k)(7) not to deduct the special depreciation allowance for 7-year property placed in service
+last year. Your unadjusted basis for the property is
+$15,000. Because you did not place any property in service in the last 3 months of your tax year, you used the
+half-year convention. You figured your deduction using the
+percentages in Table A-1 for 7-year property. Last year,
+your depreciation was $2,144 ($15,000 × 14.29%
+(0.1429)).
+In July of this year, your property was vandalized. You
+had a deductible casualty loss of $3,000. You spent
+$3,500 to put the property back in operational order. Your
+adjusted basis at the end of this year is $13,356. You figured this by first subtracting the first year’s depreciation
+($2,144) and the casualty loss ($3,000) from the unadjusted basis of $15,000. To this amount ($9,856), you then
+added the $3,500 repair cost.
+You cannot use the table percentages to figure your depreciation for this property for this year because of the adjustments to basis. You must figure the deduction yourself.
+You determine the DB rate by dividing 2.00 (200%) by 7
+years. The result is 0.28571 or 28.571%. You multiply the
+adjusted basis of your property ($13,356) by the DB rate
+of 0.28571 to get your depreciation deduction of $3,816
+for this year.
+Figuring the Deduction for Property
+Acquired in a Nontaxable Exchange
+If your property has a carryover basis because you acquired it in a nontaxable transfer such as a like-kind exchange or involuntary conversion, you must generally figure depreciation for the property as if the transfer had not
+occurred. However, see Like-kind exchanges and involuntary conversions, earlier, in chapter 3 under How Much
+Can You Deduct; and Property Acquired in a Like-Kind Exchange or Involuntary Conversion next.
+Property Acquired in a Like-Kind Exchange
+or Involuntary Conversion
+You must generally depreciate the carryover basis of property acquired in a like-kind exchange or involuntary conversion over the remaining recovery period of the property
+exchanged or involuntarily converted. You also generally
+continue to use the same depreciation method and convention used for the exchanged or involuntarily converted
+property. This applies only to acquired property with the
+same or a shorter recovery period and the same or more
+accelerated depreciation method than the property exchanged or involuntarily converted. The excess basis (the
+part of the acquired property’s basis that exceeds its carryover basis), if any, of the acquired property is treated as
+newly placed in service property.
+For acquired property that has a longer recovery period
+or a less accelerated depreciation method than the exchanged or involuntarily converted property, you must
+generally depreciate the carryover basis of the acquired
+property as if it were placed in service in the same tax
+year as the exchanged or involuntarily converted property.
+You also generally continue to use the longer recovery period and less accelerated depreciation method of the acquired property.
+If the MACRS property you acquired in the exchange or
+involuntary conversion is a new qualified property, discussed earlier in chapter 3 under What Is Qualified Property, you can claim a special depreciation allowance on at
+least a portion of the carryover basis. Special rules apply
+to vehicles acquired in a trade-in before 2018. For information on how to figure depreciation for a vehicle acquired
+in a trade-in that is subject to the passenger automobile
+limits, see Deductions for Passenger Automobiles Acquired in a Trade-In under Do the Passenger Automobile
+Limits Apply? in chapter 5.
+Caution: Like-kind exchanges completed after December 31, 2017, are generally limited to exchanges of
+real property not held primarily for sale.
+Election out. Instead of using the above rules, you
+can elect, for depreciation purposes, to treat the adjusted
+basis of the exchanged or involuntarily converted property
+as if disposed of at the time of the exchange or involuntary
+conversion. Treat the carryover basis and excess basis, if
+any, for the acquired property as if placed in service the
+later of the date you acquired it or the time of the

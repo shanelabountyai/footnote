@@ -1,0 +1,77 @@
+Example. You are a tailor. You bought two industrial
+sewing machines from your father. You placed both machines in service in the same year you bought them. They
+do not qualify as section 179 property because you and
+your father are related persons. You cannot claim a section 179 deduction for the cost of these machines.
+What Property Does Not
+Qualify?
+Terms you may need to know
+(see Glossary):
+Basis
+Class life
+Certain property does not qualify for the section 179 deduction. This includes the following.
+Land and Improvements
+Land and land improvements do not qualify as section 179
+property. Land improvements include swimming pools,
+paved parking areas, wharves, docks, bridges, and fences.
+Excepted Property
+Even if the requirements explained earlier under What
+Property Qualifies? are met, you cannot elect the section
+179 deduction for the following property.
+• Certain property you lease to others (if you are a noncorporate lessor).
+• Property used predominantly outside the United
+States, except property described in section 168(g)(4)
+of the Internal Revenue Code.
+• Property used by certain tax-exempt organizations,
+except property used in connection with the production of income subject to the tax on unrelated trade or
+business income.
+• Property used by governmental units or foreign persons or entities, except property used under a lease
+with a term of less than 6 months.
+Leased property. Generally, you cannot claim a section
+179 deduction based on the cost of property you lease to
+someone else. This rule does not apply to corporations.
+However, you can claim a section 179 deduction for the
+cost of the following property.
+1. Property you manufacture or produce and lease to
+others.
+2. Property you purchase and lease to others if both the
+following tests are met.
+a. The term of the lease (including options to renew)
+is less than 50% of the property’s class life.
+b. For the first 12 months after the property is transferred to the lessee, the total business deductions
+you are allowed on the property (other than rents
+and reimbursed amounts) are more than 15% of
+the rental income from the property.
+How Much Can You Deduct?
+Terms you may need to know
+(see Glossary):
+Adjusted basis
+Basis
+Placed in service
+Your section 179 deduction is generally the cost of the
+qualifying property. However, the total amount you can
+elect to deduct under section 179 is subject to a dollar
+limit and a business income limit. These limits apply to
+each taxpayer, not to each business. However, see Married Individuals under Dollar Limits, later. For a passenger
+automobile, the total section 179 deduction and depreciation deduction are limited. See Do the Passenger Automobile Limits Apply? in chapter 5.
+If you deduct only part of the cost of qualifying property
+as a section 179 deduction, you can generally depreciate
+the cost you do not deduct.
+Trade-in of other property. If you acquire qualified property in a like-kind exchange, only the excess basis of the
+acquired property is eligible for the section 179 deduction.
+For more information on excess basis, see Pub. 551.
+Caution: Like-kind exchanges beginning after December 31, 2017, are generally limited to exchanges of real
+property not held primarily for sale. Section 1.168(i)-6 of
+the regulations does not reflect this change in law.
+If you buy qualifying property with cash and a trade-in,
+its cost for purposes of the section 179 deduction includes
+only the cash you paid.
+Example. Silver Leaf, a retail bakery, traded in two
+ovens having a total adjusted basis of $680, for a new
+oven costing $1,320. They received an $800 trade-in allowance for the old ovens and paid $520 in cash for the
+new oven. On the date that Silver Leaf traded in the two
+old ovens for the new oven, the old ovens and the new
+oven are classified as real property under the law of the
+state in which the old and new ovens are located and, as a
+result, the old and new ovens are real property for purposes of section 1031. The new oven is section 179 property.
+Only the portion of the new oven’s basis paid by cash
+qualifies for the section 179 deduction. Therefore, Silver

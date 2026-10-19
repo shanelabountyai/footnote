@@ -1,0 +1,99 @@
+Schedule R (Form 943). Under certain circumstances, the
+IRS may waive the electronic filing requirement. To request a waiver, the CPEO must file a written request using
+the IRS Online Registration System for Professional Employer Organizations at least 45 days before the due date
+of the return for which the CPEO is unable to electronically
+file. For more information on filing a waiver request electronically, go to IRS.gov/CPEO. Also see Revenue
+Procedure 2023-18.
+Penalties. For each whole or part month a return isn’t
+filed when required, there is a failure-to-file (FTF) penalty
+of 5% of the unpaid tax due with that return. The maximum
+penalty is generally 25% of the tax due. Also, for each
+whole or part month the tax is paid late, there is a failure-to-pay (FTP) penalty of 0.5% per month of the amount
+of tax. For individual filers only, the FTP penalty is reduced
+from 0.5% per month to 0.25% per month if an installment
+agreement is in effect. You must have filed your return on
+or before the due date of the return to qualify for the reduced penalty. The maximum amount of the FTP penalty
+is also 25% of the tax due. If both penalties apply in any
+month, the FTF penalty is reduced by the amount of the
+FTP penalty. The penalties won’t be charged if you have
+reasonable cause for failing to file or pay. If you receive a
+penalty notice, you can provide an explanation of why you
+believe reasonable cause exists. In addition to any penalties, interest accrues from the due date of the tax on any
+unpaid balance.
+If income, social security, or Medicare tax that must be
+withheld isn’t withheld or isn’t paid, you may be personally
+liable for the trust fund recovery penalty. See Trust fund recovery penalty in section 11.
+Generally, the use of a third-party payer, such as a PSP
+or reporting agent, doesn’t relieve an employer of the responsibility to ensure tax returns are filed and all taxes are
+paid or deposited correctly and on time. However, see
+Certified professional employer organization (CPEO) in
+section 16 for an exception.
+Don’t file more than one return per return period.
+Employers with multiple locations or divisions must file
+only one Form 941 per quarter or one Form 944 per year.
+An agricultural employer must file only one Form 943 per
+year. A payer of nonpayroll payments that withheld federal
+income tax or backup withholding must file only one Form
+945 per year. Filing more than one return may result in
+processing delays and may require correspondence between you and the IRS. For information on making adjustments to previously filed returns, see section 13.
+Reminders about filing.
+• Don’t report more than 1 calendar quarter on a Form
+941.
+• If you need Form 941, Form 943, Form 944, or Form
+945, go to IRS.gov/Forms. Also see Ordering Employer Tax Forms, Instructions, and Publications, earlier.
+• Enter your name and EIN on Form 941, Form 943,
+Form 944, or Form 945. Be sure they’re exactly as they
+appeared on earlier returns.
+• See the Instructions for Form 941, Instructions for
+Form 943, Instructions for Form 944, or Instructions for
+Form 945 for information on preparing the form.
+Final return. If you go out of business, you must file a final return for the last quarter (last year for Form 943, Form
+944, or Form 945) in which wages (nonpayroll payments
+for Form 945) are paid. If you continue to pay wages or
+other compensation for periods following termination of
+your business, you must file returns for those periods. See
+the Instructions for Form 941, Instructions for Form 943,
+Instructions for Form 944, or Instructions for Form 945 for
+details on how to file a final return.
+If you’re required to file a final return, you’re also required to furnish Forms W-2 to your employees and file
+Forms W-2 and W-3 with the SSA by the due date of your
+final return. Don’t send an original or copy of your Form
+941, Form 943, or Form 944 to the SSA. See the General
+Instructions for Forms W-2 and W-3 for more information.
+Employers in Puerto Rico, see the General Instructions for
+Forms W-3 (PR) and W-3C (PR).
+Filing late returns for previous years. Get a copy of
+Form 941, Form 943, Form 944, or Form 945 (and separate instructions) with a revision date showing the year,
+and, if applicable, quarter for which your delinquent return
+is being filed. Prior year and/or quarterly Form 941, Form
+943, Form 944, and Form 945 are available, respectively,
+at IRS.gov/Form941, IRS.gov/Form943, IRS.gov/
+Form944, and IRS.gov/Form945 (select the link for “All
+form revisions” under “Other items you may find useful”).
+Also, see Ordering Employer Tax Forms, Instructions, and
+Publications, earlier. Contact the IRS at 800-829-4933 if
+you have any questions about filing late returns.
+Table 3. Social Security and Medicare Tax
+Rates (for 3 Prior Years)
+Calendar year
+Wage base limit
+(each employee)
+Tax rate on
+taxable wages
+and tips
+2025—social security $176,100 12.4%
+2025—Medicare All wages 2.9%
+2024—social security $168,600 12.4%
+2024—Medicare All wages 2.9%
+2023—social security $160,200 12.4%*
+2023—Medicare All wages 2.9%
+*Qualified sick leave wages and qualified family leave wages for leave taken
+after March 31, 2020, and before April 1, 2021, aren’t subject to the employer
+share of social security tax; therefore, the tax rate on these wages is 6.2%
+(0.062).
+Reconciling Forms W-2 and W-3 with Forms 941,
+Form 943, or Form 944. When there are discrepancies
+between Forms 941, Form 943, or Form 944 filed with the
+IRS and Forms W-2 and W-3 filed with the SSA, the IRS
+or the SSA may contact you to resolve the discrepancies.
+Take the following steps to help reduce discrepancies.

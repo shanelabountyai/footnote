@@ -1,0 +1,90 @@
+Regular Method
+To figure net earnings using the regular method, multiply
+your self-employment earnings by 92.35% (0.9235). For
+your net earnings figured using the regular method, see
+line 4a of your Schedule SE (Form 1040).
+Net earnings figured using the regular method are also
+called actual net earnings.
+Nonfarm Optional Method
+Use the nonfarm optional method only for earnings that do
+not come from farming. You may use this method if you
+meet all the following tests.
+1. You are self-employed on a regular basis. This means
+that your actual net earnings from self-employment
+were $400 or more in at least 2 of the 3 tax years before the one for which you use this method. For this
+purpose, the prior-year net earnings can be from either farm or nonfarm earnings or both.
+2. You have used this method less than 5 years. (There
+is a 5-year lifetime limit.) The years do not have to be
+one after another.
+3. Your net nonfarm profits were:
+a. Less than $7,493, and
+b. Less than 72.189% of your gross nonfarm income.
+Net nonfarm profit. Net nonfarm profit is generally the
+total of the amounts from:
+• Line 31 of Schedule C (Form 1040); and
+• Box 14, code A, of Schedule K-1 (Form 1065) (from
+nonfarm partnerships).
+However, you may need to adjust the amount reported
+on Schedule K-1 if you are a general partner or if it is a
+loss.
+Gross nonfarm income. Your gross nonfarm income is
+generally the total of the amounts from:
+• Line 7 of Schedule C (Form 1040); and
+• Box 14, code C, of Schedule K-1 (Form 1065) (from
+nonfarm partnerships).
+Figuring Nonfarm Net Earnings
+If you meet the three tests explained earlier, use the following table to figure your nonfarm net earnings from
+self-employment under the nonfarm optional method.
+Table 10-1. Figuring Nonfarm Net Earnings
+IF your gross nonfarm
+income is...
+THEN your net
+earnings are equal to...
+$10,380 or less two-thirds of your gross
+nonfarm income.
+more than $10,380 $7,493.
+Optional net earnings less than actual net earnings.
+You cannot use this method to report an amount less than
+your actual nonfarm net earnings from self-employment.
+Your actual nonfarm net earnings are your nonfarm net
+earnings figured using the regular method, explained earlier.
+Gross nonfarm income of $10,380 or less. The following examples illustrate how to figure net earnings when
+gross nonfarm income is $10,380 or less.
+Example 1. Net nonfarm profit less than $7,493
+and less than 72.189% of gross nonfarm income. You
+run a craft business. Your actual net earnings from
+self-employment were $800 in 2022 and $900 in 2023.
+You meet the test for being self-employed on a regular basis. You have used the nonfarm optional method less than
+5 years. Your gross income and net profit in 2024 are as
+follows.
+Gross nonfarm income . . . . . . . . . . . . . . . . . . . . . . $5,400
+Net nonfarm profit . . . . . . . . . . . . . . . . . . . . . . . . . $1,200
+Your actual net earnings for 2024 are $1,108 ($1,200 ×
+0.9235). Because your net profit is less than $7,493 and
+less than 72.189% of your gross income, you can use the
+nonfarm optional method to figure net earnings of $3,600
+(2/3 × $5,400). Because these net earnings are higher than
+your actual net earnings, you can report net earnings of
+$3,600 for 2024.
+Example 2. Net nonfarm profit less than $7,493 but
+not less than 72.189% of gross nonfarm income. Assume that in Example 1 your gross income is $1,200 and
+your net profit is $900. You must use the regular method to
+figure your net earnings. You cannot use the nonfarm optional method because your net profit is not less than
+72.189% of your gross income.
+Example 3. Net loss from a nonfarm business. Assume that in Example 1 you have a net loss of $700. You
+can use the nonfarm optional method and report $3,600
+(2/3 × $5,400) as your net earnings.
+Example 4. Nonfarm net earnings less than $400.
+Assume that in Example 1 you have gross income of $525
+and a net profit of $175. In this situation, you would not
+pay any SE tax under either the regular method or the
+nonfarm optional method because your net earnings under both methods are less than $400.
+Gross nonfarm income of more than $10,380. The following examples illustrate how to figure net earnings when
+gross nonfarm income is more than $10,380.
+Example 1. Net nonfarm profit less than $7,493
+and less than 72.189% of gross nonfarm income. You
+run an appliance repair shop. Your actual net earnings
+from self-employment were $10,500 in 2022 and $9,500 in
+2023. You meet the test for being self-employed on a regular basis. You have used the nonfarm optional method
+less than 5 years. Your gross income and net profit in 2024
+are as follows.

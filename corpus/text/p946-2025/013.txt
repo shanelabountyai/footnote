@@ -1,0 +1,74 @@
+Use Form 4562 to figure your deduction for depreciation
+and amortization. Attach Form 4562 to your tax return for
+the current tax year if you are claiming any of the following
+items.
+• A section 179 deduction for the current year or a section 179 carryover from a prior year. See chapter 2 for
+information on the section 179 deduction.
+• Depreciation for property placed in service during the
+current year.
+• Depreciation on any vehicle or other listed property,
+regardless of when it was placed in service. See chapter 5 for information on listed property.
+• A deduction for any vehicle if the deduction is reported
+on a form other than Schedule C (Form 1040).
+• Amortization of costs if the current year is the first year
+of the amortization period.
+• Depreciation or amortization on any asset on a corporate income tax return (other than Form 1120-S, U.S.
+Income Tax Return for an S Corporation) regardless of
+when it was placed in service.
+Caution: You must submit a separate Form 4562 for
+each business or activity on your return for which a Form
+4562 is required.
+Table 1-1 presents an overview of the purpose of the
+various parts of Form 4562.
+Employee. Do not use Form 4562 if you are an employee
+and you deduct job-related vehicle expenses using either
+actual expenses (including depreciation) or the standard
+mileage rate. Instead, use Form 2106. See the Instructions for Form 2106 for more information.
+How Do You Correct
+Depreciation Deductions?
+If you deducted an incorrect amount of depreciation in any
+year, you may be able to make a correction by filing an
+amended return for that year. See Filing an Amended Return next. If you are not allowed to make the correction on
+an amended return, you may be able to change your accounting method to claim the correct amount of depreciation. See Changing Your Accounting Method, later.
+Filing an Amended Return
+You can file an amended return to correct the amount of
+depreciation claimed for any property in any of the following situations.
+• You claimed the incorrect amount because of a mathematical error made in any year.
+• You claimed the incorrect amount because of a posting error made in any year.
+• You have not adopted a method of accounting for
+property placed in service by you in tax years ending
+after December 29, 2003.
+• You claimed the incorrect amount on property placed
+in service by you in tax years ending before December
+30, 2003.
+Adoption of accounting method defined. Generally,
+you adopt a method of accounting for depreciation by using a permissible method of determining depreciation
+when you file your first tax return, or by using the same impermissible method of determining depreciation in two or
+more consecutively filed tax returns.
+For an exception to the 2-year rule, see sections
+6.01(1)(b) of Revenue Procedure 2025-23 on page 1476
+of Internal Revenue Bulletin 2025-24, available at
+IRS.gov/irb/2025-24_IRB#REV-PROC-2025-23; or any
+successor.
+When to file. If an amended return is allowed, you must
+file it by the later of the following.
+• 3 years from the date you filed your original return for
+the year in which you did not deduct the correct
+amount. A return filed before an unextended due date
+is considered filed on that due date.
+• 2 years from the time you paid your tax for that year.
+Changing Your Accounting Method
+Generally, you must get IRS approval to change your
+method of accounting. You must generally file Form 3115
+to request a change in your method of accounting for depreciation.
+The following are examples of a change in method of
+accounting for depreciation.
+• A change from an impermissible method of determining depreciation for depreciable property if the impermissible method was used in two or more consecutively filed tax returns.
+• A change in the treatment of an asset from nondepreciable to depreciable or vice versa.
+• A change in the depreciation method, period of recovery, or convention of a depreciable asset.
+• A change from not claiming to claiming the special depreciation allowance if you did not make the election
+to not claim any special allowance.
+• A change from claiming a 50% special depreciation allowance to claiming a 100% special depreciation allowance for qualified property acquired and placed in
+service by you after September 27, 2017 (if you did
+not make the election under section 168(k)(10) to
+claim a 50% special depreciation allowance).

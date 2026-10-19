@@ -1,0 +1,101 @@
+Date 32
+Rule 6
+Property:
+Classes 29
+Depreciable 3
+Idle 7
+Improvements 12
+Leased 3, 17
+Listed 52
+Personal 8
+Real 8
+Retired from service 7
+Tangible personal 16
+Term interest 6
+Publications (See Tax help)
+Q
+Qualified leasehold improvement property,
+defined 31
+Qualified production property 27
+Qualified property, special depreciation
+allowance 23
+R
+Real property 8
+Recapture:
+Clean-fuel vehicle deduction or credit 37
+General asset account, abusive
+transaction 49
+Listed property 56
+MACRS depreciation 51
+Section 179 deduction 22
+Special depreciation allowance 26
+Recordkeeping:
+Listed property 63
+Section 179 21
+Recovery periods:
+ADS 33
+GDS 32
+Related persons 6, 8, 16, 56
+Rent-to-own property, defined 30
+Rental home (See Residential rental property)
+Rented property, improvements 12
+Repairs 12
+Residential rental property 30
+Retail motor fuels outlet 31
+Revoking:
+ADS election 29
+General asset account election 51
+Section 179 election 22
+S
+Sale of property 39
+Section 179 deduction:
+Business use required 16
+Carryover 20
+Dispositions 22
+Electing 21
+Limits:
+Business (taxable) income 19
+Business-use, recapture 22
+Dollar 18
+Partial business use 16
+Married filing separate returns 18
+Partnership rules 20
+Property:
+Eligible 15
+Excepted 17
+Purchase required 16
+Recapture 22
+Recordkeeping 21
+S corporation rules 21
+Settlement fees 11
+Short tax year:
+Figuring depreciation 45
+Figuring placed-in-service date 44
+Software, computer 9, 16
+Sound recording 10
+Special depreciation allowance:
+Election not to claim 26
+Qualified property 23
+Recapture 26
+Stock, constructive ownership of 9
+Straight line method 9, 40
+Created intangibles 10
+T
+Tangible personal property 16
+Tax help 65
+Term interest 6
+Trade-in of property 17
+Trucks 61
+U
+Unadjusted basis 37
+Useful life 5
+V
+Vans 61
+Video tape 10
+Video-recording equipment (See Listed
+property)
+W
+When to use ADS 28
+Worksheet:
+Leased listed property 57
+MACRS 37

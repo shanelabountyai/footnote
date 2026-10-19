@@ -1,0 +1,71 @@
+Appendix A-4. Inclusion Amounts for Passenger Automobiles First Leased in 2021
+Fair Market Value Tax Year of Lease1
+Over Not Over 1st 2nd 3rd 4th 5th and Later
+.
+.
+.
+.
+.
+.
+.
+$51,000 $52,000 $0 $0 $1 $0 $1
+52,000 53,000 1 1 1 2 2
+53,000 54,000 1 2 2 3 4
+54,000 55,000 1 3 3 5 5
+55,000 56,000 2 3 5 6 6
+56,000 57,000 2 4 6 7 8
+57,000 58,000 2 5 7 8 10
+58,000 59,000 3 5 8 10 11
+59,000 60,000 3 6 9 11 13
+60,000 62,000 3 7 11 13 15
+62,000 64,000 4 9 13 15 18
+64,000 66,000 5 10 15 18 21
+66,000 68,000 5 12 17 21 24
+68,000 70,000 6 13 20 23 27
+70,000 72,000 7 14 22 26 30
+72,000 74,000 7 16 24 29 33
+74,000 76,000 8 18 26 31 36
+76,000 78,000 9 19 28 34 39
+78,000 80,000 9 21 30 37 42
+80,000 85,000 11 23 34 41 48
+85,000 90,000 12 27 40 47 55
+90,000 95,000 14 30 45 55 62
+95,000 100,0002
+16 34 50 61 70
+1
+For the last tax year of the lease, use the dollar amount for the preceding year.
+2
+If the fair market value of the vehicle is more than $100,000, see Revenue Procedure 2021-31 (2021-34 I.R.B. 324), available at IRS.gov/pub/irs-drop/rp-21-31.pdf.
+Appendix A-5. Inclusion Amounts for Passenger Automobiles First Leased in 2022
+Fair Market Value Tax Year of Lease1
+Over Not Over 1st 2nd 3rd 4th 5th and Later
+.
+.
+.
+.
+.
+.
+.
+$56,000 $57,000 $1 $1 $1 $2 $2
+57,000 58,000 2 4 5 7 7
+58,000 59,000 3 7 9 11 13
+59,000 60,000 4 9 14 16 19
+60,000 62,000 6 13 20 23 28
+62,000 64,000 9 19 27 34 38
+64,000 66,000 11 24 36 43 50
+66,000 68,000 14 30 43 53 61
+68,000 70,000 16 35 52 63 72
+70,000 72,000 19 40 61 72 83
+72,000 74,000 21 46 68 82 95
+74,000 76,000 24 51 77 91 106
+76,000 78,000 26 57 85 101 117
+78,000 80,000 29 62 93 111 128
+80,000 85,000 33 72 107 128 148
+85,000 90,000 39 86 127 152 176
+90,000 95,000 45 100 147 177 204
+95,000 100,0002
+52 113 167 201 233
+1
+For the last tax year of the lease, use the dollar amount for the preceding year.
+2
+If the fair market value of the vehicle is more than $100,000, see Revenue Procedure 2022-17 (2022-13 I.R.B. 930), available at IRS.gov/pub/irs-drop/rp-22-17.pdf.

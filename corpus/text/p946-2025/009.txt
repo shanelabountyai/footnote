@@ -1,0 +1,80 @@
+10% of the value of the outstanding stock of each corporation.
+9. A corporation and a partnership if the same persons
+own both of the following.
+a. More than 10% of the value of the outstanding
+stock of the corporation.
+b. More than 10% of the capital or profits interest in
+the partnership.
+10. The executor and beneficiary of any estate.
+11. A partnership and a person who directly or indirectly
+owns more than 10% of the capital or profits interest
+in the partnership.
+12. Two partnerships, if the same persons directly or indirectly own more than 10% of the capital or profits interest in each.
+13. The related person and a person who is engaged in
+trades or businesses under common control. See
+sections 52(a) and 52(b) of the Internal Revenue
+Code.
+When to determine relationship. You must determine whether you are related to another person at the
+time you acquire the property.
+A partnership acquiring property from a terminating
+partnership must determine whether it is related to the terminating partnership immediately before the event causing the termination.
+Constructive ownership of stock or partnership interest. To determine whether a person directly or indirectly owns any of the outstanding stock of a corporation
+or an interest in a partnership, apply the following rules.
+1. Stock or a partnership interest directly or indirectly
+owned by or for a corporation, partnership, estate, or
+trust is considered owned proportionately by or for its
+shareholders, partners, or beneficiaries. However, for
+a partnership interest owned by or for a C corporation,
+this applies only to shareholders who directly or indirectly own 5% or more of the value of the stock of the
+corporation.
+2. An individual is considered to own the stock or partnership interest directly or indirectly owned by or for
+the individual’s family.
+3. An individual who owns, except by applying rule (2),
+any stock in a corporation is considered to own the
+stock directly or indirectly owned by or for the individual’s partner.
+4. For purposes of rule (1), (2), or (3), stock or a partnership interest considered to be owned by a person under rule (1) is treated as actually owned by that person. However, stock or a partnership interest
+considered to be owned by an individual under rule
+(2) or (3) is not treated as owned by that individual for
+reapplying either rule (2) or (3) to make another person considered to be the owner of the same stock or
+partnership interest.
+Intangible Property
+Generally, if you can depreciate intangible property, you
+usually use the straight line method of depreciation. However, you can choose to depreciate certain intangible
+property under the income forecast method (discussed
+later).
+Caution: You cannot depreciate intangible property
+that is a section 197 intangible or that does not otherwise
+meet all the requirements discussed earlier under What
+Property Can Be Depreciated.
+Straight Line Method
+This method lets you deduct the same amount of depreciation each year over the useful life of the property. To figure your deduction, first determine the adjusted basis, salvage value, and estimated useful life of your property.
+Subtract the salvage value, if any, from the adjusted basis.
+The balance is the total depreciation you can take over the
+useful life of the property.
+Divide the balance by the number of years in the useful
+life. This gives you your yearly depreciation deduction. Unless there is a big change in adjusted basis or useful life,
+this amount will stay the same throughout the time you depreciate the property. If, in the first year, you use the property for less than a full year, you must prorate your depreciation deduction for the number of months in use.
+Example. In April, you bought a patent for $5,100 that
+is not a section 197 intangible. You depreciate the patent
+under the straight line method, using a 17-year useful life
+and no salvage value. You divide the $5,100 basis by 17
+years to get your $300 yearly depreciation deduction. You
+only used the patent for 9 months during the first year, so
+you multiply $300 by 9/12 to get your deduction of $225 for
+the first year. Next year, you can deduct $300 for the full
+year.
+Patents and copyrights. If you can depreciate the cost
+of a patent or copyright, use the straight line method over
+the useful life. The useful life of a patent or copyright is the
+lesser of the life granted to it by the government or the remaining life when you acquire it. However, if the patent or
+copyright becomes valueless before the end of its useful
+life, you can deduct in that year any of its remaining cost or
+other basis.
+Computer software. Computer software is generally a
+section 197 intangible and cannot be depreciated if you
+acquired it in connection with the acquisition of assets
+constituting a business or a substantial part of a business.
+However, computer software is not a section 197 intangible and can be depreciated, even if acquired in connection with the acquisition of a business, if it meets all of the
+following tests.
+• It is readily available for purchase by the general public.
+• It is subject to a nonexclusive license.

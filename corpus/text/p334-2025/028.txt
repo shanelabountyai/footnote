@@ -1,0 +1,80 @@
+gain or loss from the disposition of securities or commodities is not reported on Schedule C (Form 1040). For more
+information about traders in securities or commodities,
+see Pub. 550, Investment Income and Expenses, and
+Topic No. 429, Traders in Securities.
+Accounting for Your Income
+Accounting for your income for income tax purposes differs at times from accounting for financial purposes. This
+section discusses some of the more common differences
+that may affect business transactions.
+Figure your business income on the basis of a tax year
+and according to your regular method of accounting (see
+chapter 2). If the sale of a product is an income-producing
+factor in your business, you usually have to use inventories to clearly show your income. Dealers in real estate are
+not allowed to use inventories. For more information on inventories, see chapter 2.
+Income paid to a third party. All income you earn is taxable to you. You cannot avoid tax by having the income
+paid to a third party.
+Example. You rent out your property and the rental
+agreement directs the lessee to pay the rent to your son.
+The amount paid to your son is gross income to you.
+Cash discounts. These are amounts the seller permits
+you to deduct from the invoice price for prompt payment.
+For income tax purposes, you can use either of the following two methods to account for cash discounts.
+1. Deduct the cash discount from purchases (see
+Line 36—Purchases Less Cost of Items Withdrawn for
+Personal Use in chapter 6).
+2. Credit the cash discount to a discount income account.
+You must use the chosen method every year for all your
+purchase discounts.
+If you use the second method, the credit balance in the
+account at the end of your tax year is business income.
+Under this method, you don’t reduce the cost of goods
+sold by the cash discounts you received. When valuing
+your closing inventory, you can’t reduce the invoice price
+of merchandise on hand at the close of the tax year by the
+average or estimated discounts received on the merchandise.
+Trade discounts. These are reductions from list or catalog prices and are usually not written into the invoice or
+charged to the customer. Do not enter these discounts on
+your books of account. Instead, use only the net amount
+as the cost of the merchandise purchased. For more information, see Trade discounts in chapter 6.
+Payment placed in escrow. If the buyer of your property
+places part or all of the purchase price in escrow, you do
+not include any part of it in gross sales until you actually or
+constructively receive it. However, upon completion of the
+terms of the contract and the escrow agreement, you will
+have taxable income, even if you don’t accept the money
+until the next year.
+Sales returns and allowances. Credits you allow customers for returned merchandise and any other allowances you make on sales are deductions from gross sales in
+figuring net sales.
+Advance payments. Special rules dealing with an accrual method of accounting for payments received in advance are discussed in chapter 2 under Accrual Method.
+Insurance proceeds. If you receive insurance or another
+type of reimbursement for a casualty or theft loss, you
+must subtract it from the loss when you figure your deduction. You can’t deduct the reimbursed part of a casualty or
+theft loss.
+For information on casualty or theft losses, see Pub.
+547.
+6.
+How To Figure Cost of
+Goods Sold
+Introduction
+If you make or buy goods to sell, you can deduct the cost
+of goods sold from your gross receipts on Schedule C
+(Form 1040). However, to determine these costs, you
+must value your inventory at the beginning and end of
+each tax year.
+This chapter applies to you if you are a manufacturer,
+wholesaler, or retailer or if you are engaged in any business that makes, buys, or sells goods to produce income.
+This chapter does not apply to a personal service business, such as the business of a doctor, lawyer, carpenter,
+or painter. However, if you work in a personal service business and also sell or charge for the materials and supplies
+normally used in your business, this chapter applies to
+you.
+There are exceptions for small business taxpayers
+that may change how you figure cost of goods
+sold for your business. For more information, see
+chapter 2.
+Figuring Cost of Goods Sold
+on Schedule C, Lines 35
+Through 42
+Figure your cost of goods sold by filling out lines 35
+through 42 of Schedule C (Form 1040). These lines are
+CAUTION
+!

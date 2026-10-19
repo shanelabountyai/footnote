@@ -1,0 +1,84 @@
+Section 179 Deduction
+You can claim the section 179 deduction for the cost of
+depreciable tangible personal property bought for use in
+your trade or business. You can choose how much (subject to the limit) of the cost you want to deduct under section 179 and how much you want to depreciate. You can
+spread the section 179 deduction over several items of
+property in any way you choose as long as the total does
+not exceed the maximum allowable. You cannot take a
+section 179 deduction for the basis of the business part of
+your home.
+You elect the section 179 deduction by completing Part
+I of Form 4562.
+More information. For more information on the section
+179 deduction, qualifying property, the dollar limit, and the
+business income limit, see Pub. 946 and the Instructions
+for Form 4562.
+Depreciation
+Use Parts II and III of Form 4562 to claim your deduction
+for depreciation on property placed in service during the
+year. Do not include any costs deducted in Part I (section
+179 deduction).
+Most business property normally used in a home office
+is either 5-year or 7-year property under MACRS.
+• 5-year property includes computers and peripheral
+equipment, typewriters, calculators, adding machines,
+and copiers.
+• 7-year property includes office furniture and fixtures
+such as desks, files, and safes.
+Under MACRS, you generally use the half-year convention, which allows you to deduct a half-year of depreciation in the first year you use the property in your business.
+If you place more than 40% of your depreciable property
+in service during the last 3 months of your tax year, you
+must use the mid-quarter convention instead of the
+half-year convention.
+After you have determined the cost of the depreciable
+property (minus any section 179 deduction and special
+depreciation allowance taken on the property) and
+whether it is 5-year or 7-year property, use the table,
+shown next, to figure your depreciation if the half-year
+convention applies.
+MACRS Percentage Table for 5- and
+7-Year Property Using Half-Year
+Convention
+Table 4.
+Recovery Year 5-Year Property 7-Year Property
+1 20.00% 14.29%
+2 32.00% 24.49%
+3 19.20% 17.49%
+4 11.52% 12.49%
+5 11.52% 8.93%
+6 5.76% 8.92%
+7 8.93%
+8 4.46%
+See Pub. 946 for a discussion of the mid-quarter convention and for complete MACRS percentage tables.
+Example. In June 2025, Kerry bought a desk and
+three chairs for office use. The total bill for the furniture
+was $1,975. The taxable business income for the year
+was $3,000 without any deduction for the office furniture.
+Kerry can elect to do one of the following.
+• Take a section 179 deduction for the full cost of the office furniture.
+• Take part of the cost of the furniture as a section 179
+deduction and depreciate the balance.
+• Not take the section 179 deduction and depreciate the
+office furniture using its full cost.
+The furniture is 7-year property under MACRS. Kerry
+does not take a section 179 deduction. Kerry multiplies
+$1,975 by 14.29% (0.1429) to get the MACRS depreciation deduction of $282.23.
+Personal Property Converted to
+Business Use
+If you use property in your home office that was used previously for personal purposes, you cannot take a section
+179 deduction for the property.
+If you began using the property for personal purposes
+after 1980 and before 1987 and change it to business use
+in 2025, you cannot take a special depreciation allowance
+for the property. However, you can depreciate it. You generally depreciate the property under the accelerated cost
+recovery system (ACRS). However, if the depreciation under ACRS is greater in the first year than the depreciation
+under MACRS, you must depreciate it under MACRS. For
+information on ACRS, see Pub. 534, Depreciating Property Placed in Service Before 1987.
+If you began using the property for personal purposes
+after 1986 and change it to business use in 2025, you may
+be able to take a special depreciation allowance for the
+property. You generally depreciate the property under
+MACRS. The basis for depreciation of property changed
+from personal to business use is the lesser of the following.
+• The adjusted basis of the property on the date of
+change.

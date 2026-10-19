@@ -1,0 +1,82 @@
+Cost Method
+To properly value your inventory at cost, you must include
+all direct and indirect costs associated with it. The following rules apply.
+• For merchandise on hand at the beginning of the tax
+year, cost means the ending inventory price of the
+goods.
+• For merchandise purchased during the year, cost
+means the invoice price minus appropriate discounts
+plus transportation or other charges incurred in acquiring the goods. It can also include other costs that have
+to be capitalized under the uniform capitalization rules
+of section 263A of the Internal Revenue Code.
+• For merchandise produced during the year, cost
+means all direct and indirect costs that have to be
+capitalized under the uniform capitalization rules.
+Discounts. A trade discount is a discount allowed regardless of when the payment is made. Generally, it is for
+volume or quantity purchases. You must reduce the cost
+of inventory by a trade (or quantity) discount.
+A cash discount is a reduction in the invoice or purchase price for paying within a prescribed time period.
+You can choose either to deduct cash discounts or include them in income, but you must treat them consistently from year to year.
+Lower of Cost or Market Method
+Under the lower of cost or market method, compare the
+market value of each item on hand on the inventory date
+with its cost and use the lower of the two as its inventory
+value.
+This method applies to the following.
+• Goods purchased and on hand.
+• The basic elements of cost (direct materials, direct labor, and certain indirect costs) of goods being manufactured and finished goods on hand.
+This method does not apply to the following. They must
+be inventoried at cost.
+• Goods on hand or being manufactured for delivery at
+a fixed price on a firm sales contract (that is, not legally subject to cancellation by either you or the
+buyer).
+• Goods accounted for under the LIFO method.
+Example. Under the lower of cost or market method,
+the following items would be valued at $600 in closing inventory.
+Item Cost Market Lower
+R . . . . . . . . . . . . . . . . . . $300 $500 $300
+S . . . . . . . . . . . . . . . . . . 200 100 100
+T . . . . . . . . . . . . . . . . . . 450 200 200
+Total . . . . . . . . . . . . . . . . $950 $800 $600
+You must value each item in the inventory separately.
+You cannot value the entire inventory at cost ($950) and
+at market ($800) and then use the lower of the two figures.
+Market value. Under ordinary circumstances for normal
+goods, market value means the usual bid price on the
+date of inventory. This price is based on the volume of
+merchandise you usually buy. For example, if you buy
+items in small lots at $10 an item and a competitor buys
+identical items in larger lots at $8.50 an item, your usual
+market price will be higher than your competitor's.
+Lower than market. When you offer merchandise for
+sale at a price lower than market in the normal course of
+business, you can value the inventory at the lower price,
+minus the direct cost of disposition. Determine these prices from the actual sales for a reasonable period before
+and after the date of your inventory. Prices that vary materially from the actual prices will not be accepted as reflecting the market.
+No market exists. If no market exists, or if quotations
+are nominal because of an inactive market, you must use
+the best available evidence of fair market price on the
+date or dates nearest your inventory date. This evidence
+could include the following items.
+• Specific purchases or sales you or others made in
+reasonable volume and in good faith.
+• Compensation amounts paid for cancellation of contracts for purchase commitments.
+Retail Method
+Under the retail method, the total retail selling price of
+goods on hand at the end of the tax year in each department or of each class of goods is reduced to approximate
+cost by using an average markup expressed as a percentage of the total retail selling price.
+To figure the average markup, apply the following steps
+in order.
+1. Add the total of the retail selling prices of the goods in
+the opening inventory and the retail selling prices of
+the goods you bought during the year (adjusted for all
+markups and markdowns).
+2. Subtract from the total in (1) the cost of goods included in the opening inventory plus the cost of goods
+you bought during the year.
+3. Divide the balance in (2) by the total selling price in
+(1). The result is the average markup percentage.
+Then determine the approximate cost in three steps.
+1. Subtract the sales at retail from the total retail selling
+price. The result is the closing inventory at retail.
+2. Multiply the closing inventory at retail by the average
+markup percentage. The result is the markup in closing inventory.

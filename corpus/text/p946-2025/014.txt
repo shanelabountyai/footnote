@@ -1,0 +1,81 @@
+Changes in depreciation that are not a change in
+method of accounting (and may only be made on an
+amended return) include the following.
+• An adjustment in the useful life of a depreciable asset
+for which depreciation is determined under section
+167.
+• A change in use of an asset in the hands of the same
+taxpayer.
+• Making a late depreciation election or revoking a
+timely valid depreciation election (including the election not to deduct the special depreciation allowance).
+If you elected not to claim any special depreciation allowance, a change from not claiming to claiming the
+special depreciation allowance is a revocation of the
+election and is not an accounting method change.
+Generally, you must get IRS approval to make a late
+depreciation election or revoke a depreciation election. You must submit a request for a letter ruling to
+make a late election or revoke an election.
+• Any change in the placed in service date of a depreciable asset.
+See sections 1.446-1(e)(2)(ii)(d) and 1.446-1(e)(2)(iii)
+of the regulations for more information and examples.
+IRS approval. If your change in method of accounting for
+depreciation is described in Revenue Procedure 2025-23,
+on page 1476 of Internal Revenue Bulletin 2025-24; or
+Revenue Procedure 2019-43, on page 1107 of Internal
+Revenue Bulletin 2019-48, as modified, amplified, and superseded by Revenue Procedure 2022-14, on page 502 of
+Internal Revenue Bulletin 2022-7, as modified, amplified,
+and superseded by Revenue Procedure 2023-34, on
+page 1207 of Internal Revenue Bulletin 2023-28, you may
+be able to get approval from the IRS to make that change
+under the automatic change request procedures generally
+covered in Revenue Procedure 2015-13 on page 419 of
+Internal Revenue Bulletin 2015-5. If you do not qualify to
+use the automatic procedures to get approval, you must
+use the advance consent request procedures generally
+covered in Revenue Procedure 2015-13. Also, see the Instructions for Form 3115 for more information on getting
+approval, including lists of scope limitations and automatic
+accounting method changes.
+Additional guidance. For additional guidance and
+special procedures for changing your accounting method,
+automatic change procedures, amending your return, and
+filing Form 3115, see Revenue Procedure 2015-13 on
+page 419 of Internal Revenue Bulletin 2015-5, available at
+IRS.gov/irb/2015-05_IRB#RP-2015-13; Revenue Procedure 2019-43 on page 1107 of Internal Revenue Bulletin
+2019-48, available at IRS.gov/irb/2019-48_IRB#REV-
+PROC-2019-43; Revenue Procedure 2022-14 on
+page 502 of Internal Revenue Bulletin 2022-7, available at
+IRS.gov/irb/2022-7_IRB#REV-PROC-2022-14; Revenue
+Procedure 2023-34 on page 1207 of Internal Revenue
+Bulletin 2023-28, available at IRS.gov/irb/
+2023-28_IRB#REV-PROC-2023-24; and Revenue Procedure 2025-23 on page 1476 of Internal Revenue Bulletin
+2025-24, available at IRS.gov/irb/2025-24_IRB#REV-
+PROC-2025-23.
+Section 481(a) adjustment. If you file Form 3115 and
+change from an impermissible method to a permissible
+method of accounting for depreciation, you can make a
+section 481(a) adjustment for any unclaimed or excess
+amount of allowable depreciation. The adjustment is the
+difference between the total depreciation actually deducted for the property and the total amount allowable prior to
+the year of change. If no depreciation was deducted, the
+adjustment is the total depreciation allowable prior to the
+year of change. A negative section 481(a) adjustment results in a decrease in taxable income. It is taken into account in the year of change and is reported on your business tax returns as “other expenses.” A positive section
+481(a) adjustment results in an increase in taxable income. It is generally taken into account over 4 tax years
+and is reported on your business tax returns as “other income.” However, you can elect to use a 1-year adjustment
+period and report the adjustment in the year of change if
+the total adjustment is less than $50,000. Make the election by completing the appropriate line on Form 3115.
+If you file a Form 3115 and change from one permissible method to another permissible method, the section
+481(a) adjustment is zero.
+2.
+Electing the Section 179
+Deduction
+Introduction
+You can elect to recover all or part of the cost of certain
+qualifying property, up to a limit, by deducting it in the year
+you place the property in service. This is the section 179
+deduction. You can elect the section 179 deduction instead of recovering the cost by taking depreciation deductions.
+Caution: Estates and trusts cannot elect the section
+179 deduction.
+This chapter explains what property does and does not
+qualify for the section 179 deduction, what limits apply to
+the deduction (including special rules for partnerships and
+corporations), and how to elect it. It also explains when
+and how to recapture the deduction.

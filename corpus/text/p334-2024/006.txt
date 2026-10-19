@@ -1,0 +1,88 @@
+800-772-1213. It is also available from the SSA website at
+SSA.gov/forms/ss-5.
+Individual taxpayer identification number (ITIN). The
+IRS will issue an ITIN if you are a nonresident or resident
+alien and you do not have and are not eligible to get an
+SSN. The ITIN will expire for any taxpayer who does not
+file a federal income tax return (or who is not included as a
+dependent on the return of another taxpayer) for 3 consecutive years. In general, if you need to obtain an ITIN,
+you must attach Form W-7, Application for IRS Individual
+Taxpayer Identification Number, with your signed, original,
+completed tax return and any other required documentation and mail them to the address in the Instructions for
+Form W-7. Exceptions are covered in the instructions. If
+you must include another person's SSN on your return
+and that person does not have and cannot get an SSN,
+enter that person's ITIN. The application is also available
+in Spanish. The form is available at IRS.gov/FormW7.
+An ITIN is for tax use only. It does not entitle the
+holder to social security benefits or change the
+holder's employment or immigration status.
+Employer identification number (EIN). You must also
+have an EIN to use as a TIN if you do either of the following.
+• Pay wages to one or more employees.
+• File pension or excise tax returns.
+If you must have an EIN, include it along with your SSN
+on your Schedule C as instructed.
+You can apply for an EIN:
+• Online by clicking on the Employer ID Numbers (EINs)
+link at IRS.gov/businesses/small as long as the principal business location is in the United States or U.S.
+territories—the EIN is issued immediately once the
+application information is validated;
+• By telephone at 267-941-1099 (not a toll-free number)
+only if the principal business is located outside the
+United States or U.S. territories; or
+• By mailing or faxing Form SS-4, Application for Employer Identification Number.
+New EIN. You may need to get a new EIN if either the
+form or the ownership of your business changes. For more
+information, see Pub. 1635, Understanding Your EIN.
+When you need identification numbers of other persons. In operating your business, you will probably make
+certain payments you must report on information returns.
+These payments are discussed under Information Returns, later in this chapter. You must give the recipient of
+these payments (the payee) a statement showing the total
+amount paid during the year. You must include the payee's
+identification number and your identification number on
+the returns and statements.
+Employee. If you have employees, you must get an
+SSN from each of them. Record the name and SSN of
+each employee exactly as they are shown on the
+employee's social security card. If the employee's name is
+CAUTION
+!
+not correct as shown on the card, the employee should request a new card from the SSA. This may occur if the employee's name was changed due to marriage or divorce.
+Form W-4, Employee's Withholding Allowance Certificate, is completed by each employee so the correct federal income tax can be withheld from their pay.
+If your employee does not have an SSN, they should
+file Form SS-5 with the SSA.
+Other payee. If you make payments to someone who
+is not your employee and you must report the payments
+on an information return, get that person's SSN. If you
+must report payments to an organization, such as a corporation or partnership, you must get its EIN.
+To get the payee's SSN or EIN, use Form W-9, Request for Taxpayer Identification Number and Certification.
+A payee who does not provide you with an identification
+number may be subject to backup withholding. For information on backup withholding, see the Instructions for the
+Requester of Form W-9 and the General Instructions for
+Certain Information Returns.
+Income Tax
+This part explains whether you have to file an income tax
+return and when you file it. It also explains how you pay
+the tax.
+Do I Have To File an Income Tax
+Return?
+You have to file an income tax return for 2024 if your net
+earnings from self-employment were $400 or more. If your
+net earnings from self-employment were less than $400,
+you still have to file an income tax return if you meet any
+other filing requirement listed in the Instructions for Form
+1040.
+How Do I File?
+File your income tax return on Form 1040 or 1040-SR
+and attach Schedule C. Enter the net profit or loss from
+Schedule C on Schedule 1 (Form 1040). Use Schedule C
+to figure your net profit or loss from your business. If you
+operated more than one business as a sole proprietorship,
+you must attach a separate Schedule C for each business.
+IRS e-file (Electronic Filing)
+You may be able to file your tax returns electronically using
+an IRS e-file option. Table 1-1 lists the benefits of IRS
+e-file. IRS e-file uses automation to replace most of the
+manual steps needed to process paper returns. As a result, the processing of IRS e-file returns is faster and more
+accurate than the processing of paper returns. As with a

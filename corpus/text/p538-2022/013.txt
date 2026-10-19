@@ -1,0 +1,83 @@
+Related Persons
+Business expenses and interest owed to a related person
+who uses the cash method of accounting are not deductible until you make the payment and the corresponding
+amount is includible in the related person's gross income.
+Determine the relationship for this rule as of the end of the
+tax year for which the expense or interest would otherwise
+be deductible. See section 267 of the Internal Revenue
+Code for the definition of related person.
+Inventories
+An inventory is necessary to clearly show income when
+the production, purchase, or sale of merchandise is an income-producing factor. If you must account for an inventory in your business, you must use an accrual method of
+accounting for your purchases and sales. However, see
+Exception for Small Business Taxpayers, below. Also, see
+Accrual Method, earlier.
+To figure taxable income, you must value your inventory at the beginning and end of each tax year. To determine the value, you need a method for identifying the
+items in your inventory and a method for valuing these
+items. See Identifying Cost and Valuing Inventory, later.
+The rules for valuing inventory are not the same for all
+businesses. The method you use must conform to generally accepted accounting principles for similar businesses
+and must clearly reflect income. Your inventory practices
+must be consistent from year to year.
+The rules discussed here apply only if they do not
+conflict with the uniform capitalization rules of
+section 263A and the mark-to-market rules of section 475.
+Exception for Small Business Taxpayers
+If you are a small business taxpayer (defined below), you
+can choose not to keep an inventory, but you must still
+use a method of accounting for inventory that clearly reflects income. A small business taxpayer can account for
+inventory by (a) treating the inventory as non-incidental
+materials and supplies, or (b) conforming to its treatment
+of inventory in an applicable financial statement (as defined in section 451(b)(3)). If it does not have an applicable financial statement, it can use the method of accounting used in its books and records prepared according to
+its accounting procedures. See Regulations section
+1.471-1(b). If, however, you choose to keep an inventory,
+you generally must use an accrual method of accounting
+and value the inventory each year to determine your cost
+of goods sold.
+Small business taxpayer. You qualify as a small business taxpayer if you:
+• Have average annual gross receipts of $26 million or
+less (indexed for inflation) for the 3 prior tax years, and
+• Are not a tax shelter (as defined in section 448(d)(3)).
+CAUTION
+!
+If your business has not been in existence for all of the
+3 tax-year period used in figuring average gross receipts,
+base your average on the period it has existed. If your
+business has a predecessor entity, include the gross receipts of the predecessor entity from the 3 tax-year period
+when figuring average gross receipts. If your business (or
+predecessor entity) had short tax years for any of the 3
+tax-year period, annualize your business’s gross receipts
+for the short tax years that are part of the 3 tax-year period.
+Changing your method of accounting for inventory.
+If you want to change your method of accounting for inventory, you must file Form 3115. See the Instructions for
+Form 3115.
+Items Included in Inventory
+Your inventory should include all of the following.
+• Merchandise or stock in trade.
+• Raw materials.
+• Work in process.
+• Finished products.
+• Supplies that physically become a part of the item intended for sale.
+Merchandise. Include the following merchandise in inventory.
+• Purchased merchandise if title has passed to you,
+even if the merchandise is in transit or you do not have
+physical possession for another reason.
+• Goods under contract for sale that you have not yet
+segregated and applied to the contract.
+• Goods out on consignment.
+• Goods held for sale in display rooms, merchandise
+mart rooms, or booths located away from your place
+of business.
+C.O.D. mail sales. If you sell merchandise by mail
+and intend payment and delivery to happen at the same
+time, title passes when payment is made. Include the merchandise in your closing inventory until the buyer pays for
+it.
+Containers. Containers such as kegs, bottles, and
+cases, regardless of whether they are on hand or returnable, should be included in inventory if title has not passed
+to the buyer of the contents. If title has passed to the
+buyer, exclude the containers from inventory. Under certain circumstances, some containers can be depreciated.
+See Pub. 946.
+Merchandise not included. Do not include the following merchandise in inventory.
+• Goods you have sold, but only if title has passed to
+the buyer.
+• Goods consigned to you.

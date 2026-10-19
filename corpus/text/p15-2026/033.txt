@@ -1,0 +1,84 @@
+Monthly Deposit Schedule
+For Form 941 filers, you’re a monthly schedule depositor
+for a calendar year if the total taxes on Forms 941, line 12,
+for the 4 quarters in your lookback period were $50,000 or
+less. For Form 943, Form 944, or Form 945 filers, you’re a
+monthly schedule depositor for a calendar year if the total
+taxes on Form 943, line 13; Form 944, line 9; or Form 945,
+line 3, during your lookback period were $50,000 or less.
+Under the monthly deposit schedule, deposit employment
+taxes on payments made during a month by the 15th day
+of the following month. See also Deposits Due on Business Days Only and $100,000 Next-Day Deposit Rule,
+later in this section. Monthly schedule depositors
+shouldn’t file Form 941, Form 943, Form 944, or Form 945
+on a monthly basis.
+New employers. For Form 941 filers, your tax liability for
+any quarter in the lookback period before you started or
+acquired your business is considered to be zero. Therefore, you’re a monthly schedule depositor for the first calendar year of your business. For Form 943, Form 944, or
+Form 945 filers, your tax liability in the lookback period before you started or acquired your business is considered
+to be zero. Therefore, you’re a monthly schedule depositor
+for the first and second calendar years of your business.
+However, see $100,000 Next-Day Deposit Rule, later in
+this section.
+Semiweekly Deposit Schedule
+For Form 941 filers, you’re a semiweekly schedule depositor for a calendar year if the total taxes on Forms 941,
+line 12, during your lookback period were more than
+$50,000. For Form 943, Form 944, or Form 945 filers,
+you’re a semiweekly schedule depositor for a calendar
+year if the total taxes on Form 943, line 13; Form 944,
+line 9; or Form 945, line 3, during your lookback period
+were more than $50,000. Under the semiweekly deposit
+schedule, deposit employment taxes for payments made
+on Wednesday, Thursday, and/or Friday by the following
+Wednesday. Deposit taxes for payments made on Saturday, Sunday, Monday, and/or Tuesday by the following Friday. See also Deposits Due on Business Days Only, later
+in this section.
+Caution: Semiweekly schedule depositors must complete Schedule B (Form 941), Report of Tax Liability for
+Semiweekly Schedule Depositors, and submit it with Form
+941. If you file Form 943 and are a semiweekly schedule
+depositor, complete Form 943-A, Agricultural Employer’s
+Record of Federal Tax Liability, and submit it with Form
+943. If you file Form 944 or Form 945 and are a semiweekly schedule depositor, complete Form 945-A, Annual
+Record of Federal Tax Liability, and submit it with your return.
+Table 2. Semiweekly Deposit Schedule
+IF the payday falls on a... THEN deposit taxes by the
+following...
+Wednesday, Thursday, and/or
+Friday
+Wednesday.
+Saturday, Sunday, Monday, and/or
+Tuesday
+Friday.
+Semiweekly deposit period spanning 2 quarters
+(Form 941 filers). If you have more than 1 pay date during a semiweekly period and the pay dates fall in different
+calendar quarters, you’ll need to make separate deposits for the separate liabilities.
+Example. If you have a pay date on Wednesday, September 30, 2026 (third quarter), and another pay date on
+Friday, October 2, 2026 (fourth quarter), two separate deposits would be required even though the pay dates fall
+within the same semiweekly period. Both deposits would
+be due on Wednesday, October 7, 2026.
+Semiweekly deposit period spanning 2 return periods (Form 943, Form 944, or Form 945 filers). The period covered by a return is the return period. The return
+period for annual Form 943, Form 944, and Form 945 is a
+calendar year. If you have more than 1 pay date during a
+semiweekly period and the pay dates fall in different return
+periods, you’ll need to make separate deposits for the
+separate liabilities. For example, if a return period ends on
+Thursday, taxes accumulated on Wednesday and Thursday are subject to one deposit obligation, and taxes accumulated on Friday are subject to a separate obligation.
+Separate deposits are required because 2 different return
+periods are affected.
+Summary of Steps To Determine Your Deposit Schedule
+1. Identify your lookback period (see Lookback period, earlier in
+this section).
+2. Add the total taxes you reported on Forms 941, line 12; Form
+943, line 13; Form 944, line 9; or Form 945, line 3, during the
+lookback period.
+3. Determine if you’re a monthly or semiweekly schedule
+depositor:
+IF the total taxes you
+reported in the lookback
+period were...
+THEN you’re a...
+$50,000 or less monthly schedule depositor.
+more than $50,000 semiweekly schedule
+depositor.
+Example of Monthly and Semiweekly
+Schedules
+Rose Co. reported Form 941 taxes as follows.

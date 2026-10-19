@@ -15,3 +15,6 @@ uploads/
 next-env.d.ts
 .DS_Store
 spikes/**/generated/
+
+# Footnote: raw PDFs are archived locally only; the manifest pins their sha256 and corpus/text/ is committed
+corpus/raw/

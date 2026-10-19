@@ -1,0 +1,85 @@
+the following factors may also establish that the program
+isn’t a bona fide product-testing program.
+• The program is in essence a leasing program under
+which employees lease the consumer goods from you
+for a fee.
+• The nature of the product and other considerations
+are insufficient to justify the testing program.
+• The expense of the program outweighs the benefits to
+be gained from testing and evaluation.
+The program must also not be limited to only certain
+classes of employees (such as highly compensated employees), unless you can show a business reason for providing the products only to specific employees. For example, an automobile manufacturer may limit providing
+automobiles for testing and evaluation to only their design
+engineers and supervisory mechanics, as they can properly evaluate the automobiles.
+Exclusion from wages. You can generally exclude the
+value of a working condition benefit you provide to an employee from the employee’s wages.
+Exception for independent contractors who perform services for you. You can’t exclude the use of
+consumer goods you provide in a product-testing program
+from the compensation you pay to an independent contractor. You can’t exclude the value of parking as a working
+condition benefit, but you may be able to exclude it as a
+de minimis fringe benefit. Transit passes provided to independent contractors may be excluded as a working condition benefit if they meet the requirements of a working
+condition benefit described earlier. However, personal
+commuting expenses aren’t deductible as a business expense. Transit passes may also be excluded as a de minimis fringe benefit. For more information on de minimis
+transportation benefits, see De Minimis Transportation
+Benefits, earlier in this section.
+Exception for company directors. You can’t exclude
+the value of the use of consumer goods you provide in a
+product-testing program from the compensation you pay
+to a director.
+3. Fringe Benefit Valuation
+Rules
+This section discusses the rules you must use to determine the value of a fringe benefit you provide to an employee. You must determine the value of any benefit you
+can’t exclude under the rules in section 2 or for which the
+amount you can exclude is limited. See Including taxable
+benefits in pay in section 1.
+In most cases, you must use the general valuation rule
+to value a fringe benefit. However, you may be able to use
+a special valuation rule to determine the value of certain
+benefits.
+This section doesn’t discuss the special valuation rule
+used to value meals provided at an employer-operated
+eating facility for employees. For that rule, see Regulations
+section 1.61-21(j).
+General Valuation Rule
+You must use the general valuation rule to determine the
+value of most fringe benefits. Under this rule, the value of
+a fringe benefit is its FMV.
+FMV. The FMV of a fringe benefit is the amount an employee would have to pay a third party in an arm’s-length
+transaction to buy or lease the benefit. Determine this
+amount on the basis of all the facts and circumstances.
+Neither the amount the employee considers to be the
+value of the fringe benefit nor the cost you incur to provide
+the benefit determines its FMV.
+Business aircraft. Personal use of a company aircraft
+by an employee or their guests is a taxable fringe benefit.
+The term “employee” includes any person performing
+services in connection with which the fringe benefit flight
+was provided, and may include, for example, a partner, director, or independent contractor. The employee, not the
+guest, will be subject to a non-cash fringe benefit inclusion, typically as part of their W-2 wages for an employee,
+a guaranteed payment on Schedule K-1 (Form 1065) for a
+partner in a partnership, or Form 1099-NEC for any other
+nonemployee arrangement.
+There are two methods for valuing personal flights on
+company aircraft.
+1. Fair Charter Value (FCV)—This is the hourly rate that
+would be paid to charter a similar piloted aircraft from
+an unrelated party.
+2. Standard Industry Fare Level (SIFL)—SIFL rates are
+calculated using a formula published in Regulations
+section 1.61-21(g). SIFL may only be used on an originally filed return. The Department of Transportation
+publishes the SIFL rates biannually.
+Employer-provided vehicles. In general, the FMV of an
+employer-provided vehicle is the amount the employee
+would have to pay a third party to lease the same or similar vehicle on the same or comparable terms in the geographic area where the employee uses the vehicle. A
+comparable lease term would be the amount of time the
+vehicle is available for the employee’s use, such as a
+1-year period.
+Don’t determine the FMV by multiplying a
+cents-per-mile rate times the number of miles driven unless the employee can prove the vehicle could have been
+leased on a cents-per-mile basis.
+Cents-per-Mile Rule
+Under this rule, you determine the value of a vehicle you
+provide to an employee for personal use by multiplying the
+standard mileage rate by the total miles the employee
+drives the vehicle for personal purposes. Personal use is
+any use of the vehicle other than use in your trade or business. This amount must be included in the employee’s

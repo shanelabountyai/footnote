@@ -1,0 +1,84 @@
+the unadjusted depreciable basis of the property you
+remove from a GAA.
+2. Reduce the depreciation reserve account by the depreciation allowed or allowable for the property (computed in the same way as computed for the GAA) as
+of the end of the tax year immediately preceding the
+year in which the disposition, change in use, or recapture event occurs.
+These adjustments have no effect on the recognition and
+character of prior dispositions subject to the rules discussed earlier under Disposing of GAA Property.
+Nonrecognition transactions. If you dispose of GAA
+property in a nonrecognition transaction, you must remove
+it from the GAA. The following are nonrecognition transactions.
+• The receipt by one corporation of property distributed
+in complete liquidation of another corporation.
+• The transfer of property to a corporation solely in exchange for stock in that corporation if the transferor is
+in control of the corporation immediately after the exchange.
+• The transfer of property by a corporation that is a party
+to a reorganization in exchange solely for stock and
+securities in another corporation that is also a party to
+the reorganization.
+• The contribution of property to a partnership in exchange for an interest in the partnership.
+• The distribution of property (including money) from a
+partnership to a partner.
+• Any transaction between members of the same affiliated group during any year for which the group makes
+a consolidated return.
+Rules for recipient (transferee). The recipient of the
+property (the person to whom it is transferred) must include your (the transferor’s) adjusted basis in the property
+in a GAA. If you transferred either all of the property, the
+last item of property, or the remaining portion of the last
+item of property, in a GAA, the recipient’s basis in the
+property is the result of the following.
+• The adjusted depreciable basis of the GAA as of the
+beginning of your tax year in which the transaction
+takes place, minus
+• The depreciation allowable to you for the year of the
+transfer.
+For this purpose, the adjusted depreciable basis of a
+GAA is the unadjusted depreciable basis of the GAA minus any depreciation allowed or allowable for the GAA.
+Abusive transactions. If you dispose of GAA property in
+an abusive transaction, you must remove it from the GAA.
+A disposition is an abusive transaction if it is not a nonrecognition transaction (described earlier) or a like-kind exchange or involuntary conversion and a main purpose for
+the disposition is to get a tax benefit or a result that would
+not be available without the use of a GAA. Examples of
+abusive transactions include the following.
+1. A transaction with a main purpose of shifting income
+or deductions among taxpayers in a way that would
+not be possible without choosing to use a GAA to take
+advantage of differing effective tax rates.
+2. A choice to use a GAA with a main purpose of disposing of property from the GAA so that you can use an
+expiring net operating loss or credit. For example, if
+you have a net operating loss carryover or a credit
+carryover, the following transactions will be considered abusive transactions unless there is strong evidence to the contrary.
+a. A transfer of GAA property to a related person.
+b. A transfer of GAA property under an agreement
+where the property continues to be used, or is
+available for use, by you.
+Figuring gain or loss. You must determine the gain,
+loss, or other deduction due to an abusive transaction by
+taking into account the property’s adjusted basis. The adjusted basis of the property at the time of the disposition is
+the result of the following.
+• The unadjusted depreciable basis of the property, minus
+• The depreciation allowed or allowable for the property
+figured by using the depreciation method, recovery
+period, and convention that applied to the GAA in
+which the property was included.
+If there is a gain, the amount subject to recapture as ordinary income is the smaller of the following.
+1. The depreciation allowed or allowable for the property,
+including any expensed cost (such as section 179 deductions) or the special depreciation allowance for the
+property.
+2. The result of the following.
+a. The original unadjusted depreciable basis of the
+GAA (plus, for section 1245 property originally included in the GAA, any expensed cost), minus
+b. The total gain previously recognized as ordinary
+income on the disposition of property from the
+GAA.
+Qualifying dispositions. If you dispose of GAA property
+in a qualifying disposition, you can choose to remove the
+property from the GAA. A qualifying disposition is one that
+does not involve all the property, or the last item of property, remaining in a GAA and that is described by any of
+the following.
+1. A disposition that is a direct result of fire, storm, shipwreck, other casualty, or theft.
+2. A charitable contribution for which a deduction is allowed.
+3. A disposition that is a direct result of a cessation, termination, or disposition of a business, manufacturing
+or other income-producing process, operation, facility,
+plant, or other unit (other than by transfer to a
+supplies, scrap, or similar account).

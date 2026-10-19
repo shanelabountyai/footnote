@@ -1,0 +1,91 @@
+expenses based on the location of your work and your
+home.
+Example 1. You regularly work in an office in the city
+where you live. Your employer sends you to a 1-week
+training session at a different office in the same city. You
+travel directly from your home to the training location and
+return each day. You can deduct the cost of your daily
+round-trip transportation between your home and the
+training location.
+Example 2. Your principal place of business is in your
+home. You can deduct the cost of round-trip transportation
+between your qualifying home office and your client’s or
+customer’s place of business.
+Example 3. You have no regular office, and you don’t
+have an office in your home. In this case, the location of
+your first business contact inside the metropolitan area is
+considered your office. Transportation expenses between
+your home and this first contact are nondeductible commuting expenses. Transportation expenses between your
+last business contact and your home are also nondeductible commuting expenses. While you can’t deduct the
+costs of these trips, you can deduct the costs of going
+from one client or customer to another.
+Car Expenses
+If you use your car for business purposes, you may be
+able to deduct car expenses. You can generally use one of
+the two following methods to figure your deductible expenses.
+• Standard mileage rate.
+• Actual car expenses.
+If you qualify to use both methods, you may want
+to figure your deduction both ways to see which
+gives you a larger deduction.
+The cost of using your car as an employee, whether
+measured using actual expenses or the standard mileage
+rate, will no longer be allowed to be claimed as an unreimbursed employee travel expense as a miscellaneous itemized deduction due to the suspension of miscellaneous
+itemized deductions that are subject to the 2% floor under
+section 67(a). The suspension applies to tax years beginning after December 2017 and before January 2026. Deductions for expenses that are deductible in determining
+adjusted gross income aren’t suspended. For example,
+Armed Forces reservists, qualified performing artists, and
+fee-basis state or local government officials are allowed to
+deduct unreimbursed employee travel expenses as an adjustment to total income on Schedule 1 (Form 1040),
+line 12.
+If you use actual expenses to figure your deduction for
+a car you lease, there are rules that affect the amount of
+your lease payments you can deduct. See Leasing a Car,
+later.
+TIP
+In this publication, “car” includes a van, pickup, or panel
+truck. For the definition of “car” for depreciation purposes,
+see Car defined under Actual Car Expenses, later.
+Standard Mileage Rate
+For 2024, the standard mileage rate for the cost of operating your car for business use is 67 cents ($0.67) per mile.
+If you use the standard mileage rate for a year,
+you can’t deduct your actual car expenses for that
+year. You can’t deduct depreciation, lease payments, maintenance and repairs, gasoline (including gasoline taxes), oil, insurance, or vehicle registration fees.
+See Choosing the standard mileage rate and Standard
+mileage rate not allowed, later.
+You can generally use the standard mileage rate
+whether or not you are reimbursed and whether or not any
+reimbursement is more or less than the amount figured
+using the standard mileage rate. See chapter 6 for more
+information on reimbursements.
+Choosing the standard mileage rate. If you want to
+use the standard mileage rate for a car you own, you must
+choose to use it in the first year the car is available for use
+in your business. Then, in later years, you can choose to
+use either the standard mileage rate or actual expenses.
+If you want to use the standard mileage rate for a car
+you lease, you must use it for the entire lease period. For
+leases that began on or before December 31, 1997, the
+standard mileage rate must be used for the entire portion
+of the lease period (including renewals) that is after 1997.
+You must make the choice to use the standard mileage
+rate by the due date (including extensions) of your return.
+You can’t revoke the choice. However, in later years, you
+can switch from the standard mileage rate to the actual expenses method. If you change to the actual expenses
+method in a later year, but before your car is fully depreciated, you have to estimate the remaining useful life of the
+car and use straight line depreciation for the car’s remaining estimated useful life, subject to depreciation limits (discussed later).
+For more information about depreciation included in the
+standard mileage rate, see Exception under Methods of
+depreciation, later.
+Standard mileage rate not allowed. You can’t use the
+standard mileage rate if you:
+• Use five or more cars at the same time (such as in
+fleet operations);
+• Claimed a depreciation deduction for the car using
+any method other than straight line for the car’s estimated useful life;
+• Used the Modified Accelerated Cost Recovery System (MACRS) (as discussed later under Depreciation
+Deduction);
+• Claimed a section 179 deduction (discussed later) on
+the car;
+CAUTION
+!

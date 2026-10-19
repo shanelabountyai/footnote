@@ -1,0 +1,30 @@
+3. Check Disbursements Journal (Continued)
+State
+Withheld
+Income Tax
+Employer's
+FICA
+Tax Electric Interest Rent Telephone
+Truck/
+Auto Drawing General Accounts
+Advertising 85.00
+License 35.00
+(6.00)
+250.00
+Holiday Party 36.00
+45.00
+225.00
+27.00
+39.78
+18.09 Loan 72.00
+275.00
+(6.00)
+175.30
+Postage 2.00
+225.00
+300.00
+12.00
+Sales Tax 65.00
+-0- 39.78 175.30 18.09 300.00 27.00 45.00 975.00 295.00
+10.00
+-0- 39.78 175.30 18.09 300.00 27.00 45.00 975.00 305.00

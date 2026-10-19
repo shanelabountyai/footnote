@@ -1,0 +1,83 @@
+depreciation deduction for the year you place your property in service and for the year you dispose of it. It determines how much of the recovery period remains at the beginning of each year, so it also affects the depreciation
+rate for property you depreciate under the straight line
+method. See Straight line rate in the previous discussion.
+Use the applicable convention, as explained in the following discussions.
+Half-year convention. If this convention applies, you deduct a half-year of depreciation for the first year and the
+last year that you depreciate the property. You deduct a
+full year of depreciation for any other year during the recovery period.
+Figure your depreciation deduction for the year you
+place the property in service by dividing the depreciation
+for a full year by 2. If you dispose of the property before
+the end of the recovery period, figure your depreciation
+deduction for the year of the disposition the same way. If
+you hold the property for the entire recovery period, your
+depreciation deduction for the year that includes the final
+6 months of the recovery period is the amount of your unrecovered basis in the property.
+Mid-quarter convention. If this convention applies, the
+depreciation you can deduct for the first year you depreciate the property depends on the quarter in which you
+place the property in service.
+A quarter of a full 12-month tax year is a period of 3
+months. The first quarter in a year begins on the first day
+of the tax year. The second quarter begins on the first day
+of the fourth month of the tax year. The third quarter begins on the first day of the seventh month of the tax year.
+The fourth quarter begins on the first day of the tenth
+month of the tax year. A calendar year is divided into the
+following quarters.
+Quarter Months
+First . . . . . . . . . . . . . . January, February, March
+Second . . . . . . . . . . . . April, May, June
+Third . . . . . . . . . . . . . . July, August, September
+Fourth . . . . . . . . . . . . . October, November, December
+Figure your depreciation deduction for the year you
+place the property in service by multiplying the depreciation for a full year by the percentage listed below for the
+quarter you place the property in service.
+Quarter Percentage
+First . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 87.5%
+Second . . . . . . . . . . . . . . . . . . . . . . . . . . . 62.5
+Third . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37.5
+Fourth . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12.5
+If you dispose of the property before the end of the recovery period, figure your depreciation deduction for the
+year of the disposition by multiplying a full year of depreciation by the percentage listed below for the quarter you
+dispose of the property.
+Quarter Percentage
+First . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12.5%
+Second . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37.5
+Third . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 62.5
+Fourth . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 87.5
+If you hold the property for the entire recovery period,
+your depreciation deduction for the year that includes the
+final quarter of the recovery period is the amount of your
+unrecovered basis in the property.
+Mid-month convention. If this convention applies, the
+depreciation you can deduct for the first year that you depreciate the property depends on the month in which you
+place the property in service. Figure your depreciation deduction for the year you place the property in service by
+multiplying the depreciation for a full year by a fraction.
+The numerator of the fraction is the number of full months
+in the year that the property is in service plus 1/2 (or 0.5).
+The denominator is 12.
+If you dispose of the property before the end of the recovery period, figure your depreciation deduction for the
+year of the disposition the same way. If you hold the property for the entire recovery period, your depreciation deduction for the year that includes the final month of the recovery period is the amount of your unrecovered basis in
+the property.
+Example. You use the calendar year and place nonresidential real property in service in August. The property
+is in service 4 full months (September, October, November, and December). Your numerator is 4.5 (4 full months
+plus 0.5). You multiply the depreciation for a full year by
+4.5/12, or 0.375.
+Examples
+The following examples show how to figure depreciation
+under MACRS without using the percentage tables. Figures are rounded for purposes of the examples. Assume
+for all the examples that you use a calendar year as your
+tax year.
+Example 1—200% DB method and half-year convention. In February, you placed in service depreciable
+property with a 5-year recovery period and a basis of
+$1,000. You do not elect to take the section 179 deduction
+and the property does not qualify for a special depreciation allowance. You use GDS and the 200% DB method to
+figure your depreciation. When the SL method results in
+an equal or larger deduction, you switch to the SL method.
+You did not place any property in service in the last 3
+months of the year, so you must use the half-year convention.
+First year. You figure the depreciation rate under the
+200% DB method by dividing 2 (200%) by 5 (the number
+of years in the recovery period). The result is 40%. You
+multiply the adjusted basis of the property ($1,000) by the
+40% DB rate. You apply the half-year convention by dividing the result ($400) by 2. Depreciation for the first year
+under the 200% DB method is $200.

@@ -1,0 +1,84 @@
+business use. There is also a 25% test for business aircraft (discussed earlier). If this requirement is not met, the
+following rules apply.
+• Property not used predominantly for qualified business use during the year it is placed in service does
+not qualify for the section 179 deduction.
+• Property not used predominantly for qualified business use during the year it is placed in service does
+not qualify for a special depreciation allowance.
+• Any depreciation deduction under MACRS for property not used predominantly for qualified business use
+during any year must be figured using the straight line
+method over the ADS recovery period. This rule applies each year of the recovery period.
+• Excess depreciation on property previously used predominantly for qualified business use must be recaptured (included in income) in the first year in which it is
+no longer used predominantly for qualified business
+use.
+• A lessee must add an inclusion amount to income in
+the first year in which the leased property is not used
+predominantly for qualified business use.
+Caution: Being required to use the straight line
+method for an item of listed property not used predominantly for qualified business use is not the same as electing the straight line method. It does not mean that you
+have to use the straight line method for other property in
+the same class as the item of listed property.
+Exception for leased property. The business-use requirement generally does not apply to any listed property
+leased or held for leasing by anyone regularly engaged in
+the business of leasing listed property.
+You are considered regularly engaged in the business
+of leasing listed property only if you enter into contracts for
+the leasing of listed property with some frequency over a
+continuous period of time. This determination is made on
+the basis of the facts and circumstances in each case and
+takes into account the nature of your business in its entirety. Occasional or incidental leasing activity is insufficient. For example, if you lease only one passenger automobile during a tax year, you are not regularly engaged in
+the business of leasing automobiles. An employer who allows an employee to use the employer’s property for personal purposes and charges the employee for the use is
+not regularly engaged in the business of leasing the property used by the employee.
+How To Allocate Use
+To determine whether the business-use requirement is
+met, you must allocate the use of any item of listed property used for more than one purpose during the year
+among its various uses.
+For passenger automobiles and other means of transportation, allocate the property’s use on the basis of mileage. You determine the percentage of qualified business
+use by dividing the number of miles you drove the vehicle
+for business purposes during the year by the total number
+of miles you drove the vehicle for all purposes (including
+business miles) during the year.
+For other listed property, allocate the property’s use on
+the basis of the most appropriate unit of time the property
+is actually used (rather than merely being available for
+use). For example, you can determine the percentage of
+business use of an item of listed property by dividing the
+number of hours you used the item of listed property for
+business purposes during the year by the total number of
+hours you used the item of listed property for all purposes
+(including business use) during the year.
+Entertainment use. Treat the use of listed property for
+entertainment, recreation, or amusement purposes as a
+business use only to the extent you can deduct expenses
+(other than interest and property tax expenses) due to its
+use as an ordinary and necessary business expense.
+Commuting use. The use of an automobile for commuting is not business use, regardless of whether work is performed during the trip. For example, a business telephone
+call made on a car telephone while commuting to work
+does not change the character of the trip from commuting
+to business. This is also true for a business meeting held
+in a car while commuting to work. Similarly, a business call
+made on an otherwise personal trip does not change the
+character of a trip from personal to business. The fact that
+an automobile is used to display material that advertises
+the owner’s or user’s trade or business does not convert
+an otherwise personal use into business use.
+Use of your automobile by another person. If someone else uses your automobile, do not treat that use as
+business use unless one of the following conditions applies.
+1. That use is directly connected with your business.
+2. You properly report the value of the use as income to
+the other person and withhold tax on the income
+where required.
+3. You are paid a fair market rent.
+Treat any payment to you for the use of the automobile as
+a rent payment for purposes of item (3).
+Employee deductions. If you are an employee, do not
+treat your use of listed property as business use unless it
+is for your employer’s convenience and is required as a
+condition of your employment. See Can Employees Claim
+a Deduction, earlier.
+Qualified Business Use
+Qualified business use of listed property is any use of the
+property in your trade or business. However, it does not include the following uses.
+• The leasing of property to any 5% owner or related
+person (to the extent the property is used by a 5%
+owner or person related to the owner or lessee of the
+property).

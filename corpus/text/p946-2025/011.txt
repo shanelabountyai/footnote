@@ -1,0 +1,81 @@
+• A contribution of property to a partnership in exchange
+for a partnership interest.
+• A partnership distribution of property to a partner.
+Election To Exclude Property From
+MACRS
+If you can properly depreciate any property under a
+method not based on a term of years, such as the
+unit-of-production method, you can elect to exclude that
+property from MACRS. You make the election by reporting
+your depreciation for the property on line 15 in Part II of
+Form 4562 and attaching a statement, as described in the
+Instructions for Form 4562. You must make this election by
+the return due date (including extensions) for the tax year
+you place your property in service. However, if you timely
+filed your return for the year without making the election,
+you can still make the election by filing an amended return
+within 6 months of the due date of the return (excluding
+extensions). Attach the election to the amended return
+and write “Filed pursuant to section 301.9100-2” on the
+election statement. File the amended return at the same
+address you filed the original return.
+Use of standard mileage rate. If you use the standard
+mileage rate to figure your tax deduction for your business
+automobile, you are treated as having made an election to
+exclude the automobile from MACRS. See Pub. 463 for a
+discussion of the standard mileage rate.
+What Is the Basis of Your
+Depreciable Property?
+Terms you may need to know
+(see Glossary):
+Abstract fees
+Adjusted basis
+Basis
+Exchange
+Fair market value (FMV)
+To figure your depreciation deduction, you must determine
+the basis of your property. To determine basis, you need to
+know the cost or other basis of your property.
+Cost as Basis
+The basis of property you buy is its cost plus amounts you
+paid for items such as sales tax (see Exception, later),
+freight charges, and installation and testing fees. The cost
+includes the amount you pay in cash, debt obligations,
+other property, or services.
+Exception. You can elect to deduct state and local
+general sales taxes instead of state and local income
+taxes as an itemized deduction on Schedule A (Form
+1040). If you make that choice, you cannot include those
+sales taxes as part of your cost basis.
+Assumed debt. If you buy property and assume (or buy
+subject to) an existing mortgage or other debt on the property, your basis includes the amount you pay for the property plus the amount of the assumed debt.
+Example. You make a $20,000 down payment on
+property and assume the seller’s mortgage of $120,000.
+Your total cost is $140,000, the cash you paid plus the
+mortgage you assumed.
+Settlement costs. The basis of real property also includes certain fees and charges you pay in addition to the
+purchase price. These are generally shown on your settlement statement and include the following.
+• Legal and recording fees.
+• Abstract fees.
+• Survey charges.
+• Owner’s title insurance.
+• Amounts the seller owes that you agree to pay, such
+as back taxes or interest, recording or mortgage fees,
+charges for improvements or repairs, and sales commissions.
+For fees and charges you cannot include in the basis of
+property, see Real Property in Pub. 551.
+Property you construct or build. If you construct, build,
+or otherwise produce property for use in your business,
+you may have to use the uniform capitalization rules to determine the basis of your property. For information about
+the uniform capitalization rules, see Pub. 551 and the regulations under section 263A of the Internal Revenue
+Code.
+Other Basis
+Other basis usually refers to basis that is determined by
+the way you received the property. For example, your basis is other than cost if you acquired the property in exchange for other property, as payment for services you
+performed, as a gift, or as an inheritance. If you acquired
+property in this or some other way, see Pub. 551 to determine your basis.
+Property changed from personal use. If you held property for personal use and later use it in your business or income-producing activity, your depreciable basis is the
+lesser of the following.
+1. The FMV of the property on the date of the change in
+use.
+2. Your original cost or other basis adjusted as follows.

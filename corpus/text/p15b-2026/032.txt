@@ -1,0 +1,87 @@
+you deposited on the employee’s behalf and included on
+the employee’s Form W-2. However, you must recover the
+income taxes before April 1 of the following year.
+Paying your employee’s share of social security and
+Medicare taxes. If you choose to pay your employee’s
+social security and Medicare taxes on taxable fringe benefits without deducting them from the employee’s pay, you
+must include the amount of the payments in the employee’s wages. Also, if your employee leaves your employment and you have unpaid and uncollected taxes for noncash benefits, you’re still liable for those taxes. You must
+add the uncollected employee share of social security and
+Medicare taxes to the employee’s wages. Follow the procedure discussed under Employee’s Portion of Taxes Paid
+by Employer in section 7 of Pub. 15-A. Don’t use withheld
+federal income tax to pay the social security and Medicare
+taxes.
+Special accounting rule. You can treat the value of taxable noncash benefits as paid on a pay period, quarter,
+semiannual, annual, or other basis, provided that the benefits are treated as paid no less frequently than annually.
+You can treat the value of taxable noncash fringe benefits
+provided during the last 2 months of the calendar year, or
+any shorter period within the last 2 months, as paid in the
+next year. Thus, the value of taxable noncash benefits actually provided in the last 2 months of 2025 could be treated as provided in 2026 together with the value of benefits
+provided in the first 10 months of 2026. This doesn’t mean
+that all benefits treated as paid during the last 2 months of
+a calendar year can be deferred until the next year. Only
+the value of benefits actually provided during the last 2
+months of the calendar year can be treated as paid in the
+next calendar year.
+Limitation. The special accounting rule can’t be
+used, however, for a fringe benefit that is a transfer of tangible or intangible personal property of a kind normally
+held for investment or a transfer of real property.
+Conformity rules. Use of the special accounting rule
+is optional. You can use the rule for some fringe benefits
+but not others. The period of use doesn’t need to be the
+same for each fringe benefit. However, if you use the rule
+for a particular fringe benefit, you must use it for all employees who receive that benefit.
+If you use the special accounting rule, your employee
+must also use it for the same period you use it. But your
+employee can’t use the special accounting rule unless you
+do.
+You don’t have to notify the IRS if you use the special
+accounting rule. You may also, for appropriate administrative reasons, change the period for which you use the rule
+without notifying the IRS. But you must report the income
+and deposit the withheld taxes as required for the
+changed period.
+Special rules for highway motor vehicles. If an employee uses the employer’s vehicle for personal purposes,
+the value of that use must be determined by the employer
+and included in the employee’s wages. The value of the
+personal use must be based on the FMV or determined by
+using one of the following three special valuation rules
+previously discussed in section 3.
+• The cents-per-mile rule.
+• The commuting rule (for commuting use only).
+• The lease value rule.
+Election not to withhold income tax. You can
+choose not to withhold income tax on the value of an employee’s personal use of a highway motor vehicle you provided. You don’t have to make this choice for all employees. You can withhold income tax from the wages of some
+employees but not others. You must, however, withhold
+the applicable social security and Medicare taxes on such
+benefits.
+You can choose not to withhold income tax on an employee’s personal use of a highway motor vehicle by:
+• Notifying the employee (as described below) that you
+choose not to withhold; and
+• Including the value of the benefits in boxes 1, 3, 5, and
+14 on a timely furnished Form W-2. For use of a separate statement in lieu of using box 14, see the General
+Instructions for Forms W-2 and W-3.
+The notice must be in writing and must be provided to
+the employee by January 31 of the election year or within
+30 days after a vehicle is first provided to the employee,
+whichever is later. This notice must be provided in a manner reasonably expected to come to the attention of the affected employee. For example, the notice may be mailed
+to the employee, included with a paycheck, or posted
+where the employee could reasonably be expected to see
+it. You can also change your election not to withhold at any
+time by notifying the employee in the same manner.
+Amount to report on Form 941 (or Form 943, 944, or
+CT-1) and Form W-2. The actual value of fringe benefits
+provided during a calendar year (or other period as explained under Special accounting rule, earlier in this section) must be determined by January 31 of the following
+year. You must report the actual value on Form 941 (or
+Form 943, 944, or CT-1) and Form W-2. If you choose,
+you can use a separate Form W-2 for fringe benefits and
+any other benefit information.
+Include the value of the fringe benefit in box 1 of Form
+W-2. Also include it in boxes 3 and 5, if applicable. You
+may show the total value of the fringe benefits provided in
+the calendar year or other period in box 14 of Form W-2.
+For additional information about reporting of fringe benefits on Form W-2, see the General Instructions for Forms
+W-2 and W-3.
+If you use the special accounting rule, you must notify
+the affected employees of the period in which you used it.
+You must give this notice on or near the date you give the
+Form W-2, but not earlier than with the employee’s last
+paycheck of the calendar year.

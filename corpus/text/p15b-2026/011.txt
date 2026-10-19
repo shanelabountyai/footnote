@@ -1,0 +1,82 @@
+However, the exclusion can’t be more than the smaller
+of the earned income of either the employee or employee’s spouse. Special rules apply to determine the earned
+income of a spouse who is either a student or not able to
+care for themselves. For more information on the earned
+income limit, see Pub. 503.
+Exception for highly compensated employees.
+You can’t exclude dependent care assistance from the wages of a highly compensated employee unless the benefits provided under the program don’t favor highly compensated employees and the program meets the
+requirements described in section 129(d) of the Internal
+Revenue Code.
+For this exclusion, a highly compensated employee for
+2026 is an employee who meets either of the following
+tests.
+1. The employee was a 5% owner at any time during the
+year or the preceding year.
+2. The employee received more than $160,000 in pay for
+the preceding year.
+You can choose to ignore test (2) if the employee wasn’t
+also in the top 20% of employees when ranked by pay for
+the preceding year.
+Form W-2. Report the value of all dependent care assistance you provide to an employee under a DCAP in
+box 10 of the employee’s Form W-2. Include any amounts
+you can’t exclude from the employee’s wages in boxes 1,
+3, and 5. Report in box 10 both the nontaxable portion of
+assistance (up to $7,500) and any assistance above that
+amount that is taxable to the employee.
+Example. Oak Co. provides a dependent care assistance FSA to its employees through a cafeteria plan. In
+addition, it provides occasional on-site dependent care to
+its employees at no cost. Emily, an employee of Oak Co.,
+had $7,000 deducted from her pay for the dependent care
+FSA. In addition, Emily used the on-site dependent care
+several times. The FMV of the on-site care was $700. Emily’s Form W-2 should report $7,700 of dependent care assistance in box 10 ($7,000 FSA plus $700 on-site dependent care). Boxes 1, 3, and 5 should include $200 (the
+amount in excess of the nontaxable assistance), and applicable taxes should be withheld on that amount.
+Educational Assistance
+This exclusion applies to educational assistance you provide to employees under an educational assistance program. The exclusion also applies to graduate-level courses.
+“Educational assistance” means amounts you pay or incur for your employees’ education expenses. These expenses generally include the cost of books, equipment,
+fees, supplies, and tuition. However, these expenses don’t
+include the cost of a course or other education involving
+sports, games, or hobbies, unless the education:
+• Has a reasonable relationship to your business, or
+• Is required as part of a degree program.
+Education expenses don’t include the cost of tools or
+supplies (other than textbooks) your employee is allowed
+to keep at the end of the course. Nor do they include the
+cost of lodging, meals, or transportation. Your employee
+must be able to provide substantiation to you that the educational assistance provided was used for qualifying education expenses.
+Exclusion for employer payments of student loans.
+Employer-provided educational assistance benefits include payments made after March 27, 2020, whether paid
+to the employee or to a lender, of principal or interest on
+any qualified education loan incurred by the employee for
+education of the employee. Qualified education loans are
+defined in chapter 10 of Pub. 970.
+Educational assistance program. An educational assistance program is a separate written plan that provides
+educational assistance only to your employees. The program qualifies only if all of the following tests are met.
+• The program benefits employees who qualify under
+rules set up by you that don’t favor highly compensated employees. To determine whether your program
+meets this test, don’t consider employees excluded
+from your program who are covered by a collective
+bargaining agreement if there is evidence that educational assistance was a subject of good-faith bargaining.
+• The program doesn’t provide more than 5% of its benefits during the year for shareholders or owners (or
+their spouses or dependents). A shareholder or owner
+is someone who owns (on any day of the tax year)
+more than 5% of the stock or of the capital or profits
+interest of your business.
+• The program doesn’t allow employees to choose to receive cash or other benefits that must be included in
+gross income instead of educational assistance.
+• You give reasonable notice of the program to eligible
+employees.
+Your program can cover former employees if their employment is the reason for the coverage.
+For this exclusion, a highly compensated employee for
+2026 is an employee who meets either of the following
+tests.
+1. The employee was a 5% owner at any time during the
+year or the preceding year.
+2. The employee received more than $160,000 in pay for
+the preceding year.
+You can choose to ignore test (2) if the employee wasn’t
+also in the top 20% of employees when ranked by pay for
+the preceding year.
+Employee. For this exclusion, treat the following individuals as employees.
+• A current employee.
+• A former employee who retired, left on disability, or
+was laid off.

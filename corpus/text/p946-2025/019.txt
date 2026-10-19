@@ -1,0 +1,89 @@
+a joint return after the due date for filing your return, the
+dollar limit on the joint return is the lesser of the following
+amounts.
+• The dollar limit (after reduction for any cost of section
+179 property over $4,000,000).
+• The total cost of section 179 property you and your
+spouse elected to expense on your separate returns.
+Example. The facts are the same as in the previous
+example, except that you elected to deduct $900,000 of
+the cost of section 179 property on your separate return
+and your spouse elected to deduct $100,000. After the
+due date of your returns, you and your spouse file a joint
+return. The dollar limit for the section 179 deduction is
+$1,000,000. This is the lesser of the following amounts.
+• $2,200,000—The dollar limit less the cost of section
+179 property over $4,000,000.
+• $1,000,000—The total you and your spouse elected to
+expense on your separate returns.
+Business Income Limit
+The total cost you can deduct each year after you apply
+the dollar limit is limited to the taxable income from the active conduct of any trade or business during the year.
+Generally, you are considered to actively conduct a trade
+or business if you meaningfully participate in the management or operations of the trade or business.
+Any cost not deductible in 1 year under section 179 because of this limit can be carried to the next year. Special
+rules apply to a deduction of qualified section 179 real
+property that is placed in service by you in tax years beginning before 2016 and disallowed because of the business income limit. See Special rules for qualified section
+179 real property under Carryover of disallowed deduction, later.
+Taxable income. In general, figure taxable income for
+this purpose by totaling the net income and losses from all
+trades and businesses you actively conducted during the
+year. Net income or loss from a trade or business includes
+the following items.
+• Section 1231 gains (or losses).
+• Interest from working capital of your trade or business.
+• Wages, salaries, tips, or other pay earned as an employee.
+For information about section 1231 gains and losses, see
+chapter 3 of Pub. 544.
+In addition, figure taxable income without regard to any
+of the following.
+• The section 179 deduction.
+• The self-employment tax deduction.
+• Any net operating loss carryback or carryforward.
+• Any unreimbursed employee business expenses.
+Two different taxable income limits. In addition to the
+business income limit for your section 179 deduction, you
+may have a taxable income limit for some other deduction.
+You may have to figure the limit for this other deduction
+taking into account the section 179 deduction. If so, complete the following steps.
+Step Action
+1 Figure taxable income without the section 179
+deduction or the other deduction.
+2 Figure a hypothetical section 179 deduction
+using the taxable income figured in Step 1.
+3 Subtract the hypothetical section 179 deduction
+figured in Step 2 from the taxable income
+figured in Step 1.
+4 Figure a hypothetical amount for the other
+deduction using the amount figured in Step 3
+as taxable income.
+5 Subtract the hypothetical other deduction
+figured in Step 4 from the taxable income
+figured in Step 1.
+6 Figure your actual section 179 deduction using
+the taxable income figured in Step 5.
+7 Subtract your actual section 179 deduction
+figured in Step 6 from the taxable income
+figured in Step 1.
+8 Figure your actual other deduction using the
+taxable income figured in Step 7.
+Example. On February 1, 2025, the XYZ Corporation
+purchased and placed in service qualifying section 179
+property that cost $2,500,000. It elects to expense the entire $2,500,000 cost under section 179. In June, the corporation gave a charitable contribution of $10,000. A corporation’s limit on charitable contributions is figured after
+subtracting any section 179 deduction. The business income limit for the section 179 deduction is figured after
+subtracting any allowable charitable contributions. XYZ’s
+taxable income figured without the section 179 deduction
+or the deduction for charitable contributions is $2,520,000.
+XYZ figures its section 179 deduction and its deduction for
+charitable contributions as follows.
+Step 1—Taxable income figured without either deduction is $2,500,000.
+Step 2—Using $2,520,000 as taxable income, XYZ’s
+hypothetical section 179 deduction is $2,500,000.
+Step 3—$20,000 ($2,520,000 − $2,500,000).
+Step 4—Using $20,000 (from Step 3) as taxable income, XYZ’s hypothetical charitable contribution (limited to 10% of taxable income) is $2,000.
+Step 5—$2,518,000 ($2,520,000 − $2,000).
+Step 6—Using $2,518,000 (from Step 5) as taxable
+income, XYZ figures the actual section 179 deduction.
+Because the taxable income is at least $2,500,000,
+XYZ can take a $2,500,000 section 179 deduction.
+Step 7—$20,000 ($2,520,000 − $2,500,000).

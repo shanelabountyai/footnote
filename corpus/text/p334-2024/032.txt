@@ -1,0 +1,87 @@
+• You have a legal duty to pay the debt.
+• You made the guarantee before the debt became
+worthless. You meet this requirement if you reasonably expected you wouldn’t have to pay the debt without full reimbursement from the borrower.
+• You received reasonable consideration for making the
+guarantee. You meet this requirement if you made the
+guarantee according to normal business practice or
+for a good faith business purpose.
+Example Jane Zayne owns the Zayne Dress Company. She guaranteed payment of a $20,000 note for Elegant Fashions, a dress outlet. Elegant Fashions is one of
+Zayne's largest clients. Elegant Fashions later defaulted
+on the loan. As a result, Ms. Zayne paid the remaining balance of the loan in full to the bank.
+She can claim a business bad debt deduction only for
+the amount she paid because her guarantee was made in
+the course of her trade or business for a good faith business purpose. She was motivated by the desire to retain
+one of her better clients and keep a sales outlet.
+Deductible in the year paid. If you make a payment
+on a loan you guaranteed, you can deduct it in the year
+paid, unless you have rights against the borrower.
+Rights against a borrower. When you make payment on a loan you guaranteed, you may have the right to
+take the place of the lender. The debt is then owed to you.
+If you have this right, or some other right to demand payment from the borrower, you can’t claim a bad debt deduction until these rights become partly or totally worthless.
+Joint debtor. If two or more debtors jointly owe you
+money, your inability to collect from one doesn’t enable
+you to deduct a proportionate amount as a bad debt.
+Sale of mortgaged property. If mortgaged or pledged
+property is sold for less than the debt, the unpaid, uncollectible balance of the debt is a bad debt.
+When a Debt Becomes Worthless
+A debt becomes worthless when there is no longer any
+chance the amount owed will be paid. This may occur on
+the date the debt is due or prior to that date.
+To demonstrate worthlessness, you must only show
+that you have taken reasonable steps to collect the debt
+but were unable to do so.
+Property received for debt. If you receive property in
+partial settlement of a debt, reduce the debt by the property's FMV, which becomes the property's basis. You can
+deduct the remaining debt as a bad debt if and when it becomes worthless.
+If you later sell the property for more than its basis, any
+gain on the sale is due to the appreciation of the property.
+It isn’t a recovery of a bad debt. For information on the
+sale of an asset, see Pub. 544.
+How To Claim a Business Bad Debt
+There are two methods to claim a business bad debt.
+• The specific charge-off method.
+• The nonaccrual-experience method.
+Generally, you must use the specific charge-off method.
+However, you may use the nonaccrual-experience method
+if you meet the requirements discussed later under Nonaccrual-Experience Method.
+Specific Charge-Off Method. If you use the specific
+charge-off method, you can deduct specific business bad
+debts that become either partly or totally worthless during
+the tax year. However, with respect to partly worthless bad
+debts, your deduction is limited to the amount you
+charged off on your books during the year.
+Partly worthless debts. You can deduct specific bad
+debts that become partly uncollectible during the tax year.
+Your tax deduction is limited to the amount you charge off
+on your books during the year. You don’t have to charge
+off and deduct your partly worthless debts annually. You
+can delay the charge-off until a later year. However, you
+can’t deduct any part of a debt after the year it becomes
+totally worthless.
+There are two rules regarding charge-off debts to consider:
+• Significantly modified debt. An exception to the
+charge-off rule exists for debt that has been significantly modified and on which the holder recognized
+gain. For more information, see Regulations section
+1.166-3(a)(3)
+• Deduction disallowed. Generally, you can claim a
+partial bad debt deduction only in the year you make
+the charge-off on your books. If, under audit, the IRS
+doesn’t allow your deduction and the debt becomes
+partly worthless in a later tax year, you can deduct the
+amount you charged off in that year plus the disallowed amount charged off in the earlier year. The
+charge-off in the earlier year, unless reversed on your
+books, fulfills the charge-off requirement for the later
+year.
+Totally worthless debts. If a debt becomes totally
+worthless in the current tax year, you can deduct the entire
+amount minus any amount deducted in an earlier tax year
+when the debt was only partly worthless.
+You don’t have to make an actual charge-off on your
+books to claim a bad debt deduction for a totally worthless
+debt. However, you may want to do so. If you don’t and the
+IRS later rules the debt is only partly worthless, you will
+not be allowed a deduction for the debt in that tax year because a deduction of a partly worthless bad debt is limited
+to the amount actually charged off. See Partly worthless
+debts, earlier.
+Filing a claim for refund. If you didn’t deduct a bad
+debt on your original return for the year it became worthless, you can file a claim for a credit or refund. If the bad

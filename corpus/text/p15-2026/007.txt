@@ -1,0 +1,96 @@
+preparation software or through a tax professional. However, don’t use EFW to make federal tax deposits. For
+more information on paying your taxes using EFW, go to
+IRS.gov/EFW.
+Credit or debit card payments. You can pay the balance due shown on your employment tax return by credit
+or debit card. Your payment will be processed by a payment processor who will charge a processing fee. Don’t
+use a credit or debit card to make federal tax deposits. For
+more information on paying your taxes with a credit or
+debit card, go to IRS.gov/PayByCard.
+Online payment agreement. You may be eligible to apply for an installment agreement online if you can’t pay the
+full amount of tax you owe when you file your employment
+tax return. For more information, see the instructions for
+your employment tax return or go to IRS.gov/OPA.
+Forms in Spanish
+Many forms and instructions discussed in this publication
+have Spanish-language versions available for employers
+and employees. Some examples include Form 941 (sp),
+Form 944 (sp), Form SS-4 (sp), Form W-4 (sp), and Form
+W-9 (sp). Although this publication doesn’t reference
+Spanish-language forms and instructions in each instance
+that one is available, you can see Pub. 15 (sp) and go to
+IRS.gov/SpanishForms to determine if a
+Spanish-language version is available.
+Hiring New Employees
+Eligibility for employment. You must verify that each
+new employee is legally eligible to work in the United
+States, including American Samoa, Guam, the CNMI, the
+U.S. Virgin Islands (USVI), and Puerto Rico. This includes
+completing the U.S. Citizenship and Immigration Services
+(USCIS) Form I-9, Employment Eligibility Verification. You
+can get Form I-9 at USCIS.gov/Forms. For more information, go to USCIS.gov/I-9-Central or call 800-375-5283 or
+800-767-1833 (TTY).
+You may use the Social Security Number Verification
+Service (SSNVS) at SSA.gov/employer/ssnv.htm to verify
+that an employee name matches a social security number
+(SSN). A person may have a valid SSN but not be authorized to work in the United States. You may use E-Verify at
+E-Verify.gov to confirm the employment eligibility of newly
+hired employees.
+New hire reporting. All 50 states, and most of the territories, have a new hire registry. You’re required to report any
+new employee to a designated state new hire registry. A
+new employee is an employee who hasn’t previously been
+employed by you or was previously employed by you but
+has been separated from such prior employment for at
+least 60 consecutive days.
+Many states accept a copy of Form W-4 with employer
+information added. Go to the Office of Child Support Enforcement website at acf.gov/css/employers for more
+information. Employers in American Samoa, Guam, the
+CNMI, the USVI, and Puerto Rico should contact their local government for information on their new hire registry.
+W-4 request. Ask each new employee to complete the
+2026 Form W-4. See section 9.
+Name and SSN. Record each new employee’s name and
+SSN from their social security card if it is available. If an
+employee can’t provide their social security card, you
+should verify their SSN and their eligibility for employment
+as discussed under Verification of SSNs in section 4. Any
+employee without a social security card should apply for
+one. See section 4.
+Information Returns
+You must file Forms W-2 to report wages paid to
+employees. You may also be required to file information
+returns to report certain types of payments made during
+the year. For example, you must file Form 1099-NEC,
+Nonemployee Compensation, to report payments of $600
+or more made in 2025 ($2,000 or more for payments
+made in 2026) to persons not treated as employees (for
+example, independent contractors) for services performed
+for your trade or business. For details about filing Forms
+1099 for payments made in 2025 and for information
+about required electronic filing, see the General
+Instructions for Certain Information Returns for general
+information (these general instructions will be replaced by
+new Pub. 1099 for payments made after 2025), and the
+separate, specific instructions for each information return
+you file (for example, the Instructions for Forms
+1099-MISC and 1099-NEC). Generally, don’t use Forms
+1099 to report wages and other compensation you paid to
+employees; report these on Form W-2. See the General
+Instructions for Forms W-2 and W-3 for details about filing
+Form W-2 and for information about required electronic
+filing.
+Technical Services Operation (TSO). The IRS operates the TSO to answer questions about reporting on
+Forms W-2, W-3, and 1099, and other information returns.
+If you have questions related to reporting on information
+returns, call 866-455-7438 (toll free), 304-263-8700 (toll
+call), or 304-579-4827 (TDD). The center can also be
+reached by email at mccirp@irs.gov. Don’t include taxpayer identification numbers (TINs) or attachments in
+email because email isn’t secure.
+Federal Income Tax
+Withholding
+Caution: References to federal income tax withholding
+don’t apply to employers in American Samoa, Guam, the
+CNMI, the USVI, and Puerto Rico, unless you have
+employees who are subject to U.S. income tax
+withholding. Contact your local tax department for
+information about income tax withholding.
+Withhold federal income tax from each wage payment
+or supplemental unemployment compensation plan

@@ -1,0 +1,82 @@
+Lodging on Your Business Premises
+You can exclude the value of lodging you furnish to an employee from the employee’s wages if it meets the following
+tests.
+• It is furnished on your business premises.
+• It is furnished for your convenience.
+• The employee must accept it as a condition of employment.
+Different tests may apply to lodging furnished by educational institutions. See section 119(d) of the Internal Revenue Code for details.
+If you allow your employee to choose to receive additional pay instead of lodging, then the lodging, if chosen,
+isn’t excluded. The exclusion also doesn’t apply to cash
+allowances for lodging.
+On your business premises. For this exclusion, your
+business premises is generally your employee’s place of
+work. For example, if you’re a household employer, then
+lodging furnished in your home to a household employee
+would be considered lodging furnished on your business
+premises. For special rules that apply to lodging furnished
+in a camp located in a foreign country, see section 119(c)
+of the Internal Revenue Code and its regulations.
+For your convenience. Whether or not you furnish lodging for your convenience as an employer depends on all
+the facts and circumstances. You furnish the lodging to
+your employee for your convenience if you do this for a
+substantial business reason other than to provide the employee with additional pay. This is true even if a law or an
+employment contract provides that the lodging is furnished as pay. However, a written statement that the lodging is furnished for your convenience isn’t sufficient.
+Condition of employment. Lodging meets this test if
+you require your employees to accept the lodging because they need to live on your business premises to be
+able to properly perform their duties. Examples include
+employees who must be available at all times and employees who couldn’t perform their required duties without being furnished the lodging.
+It doesn’t matter whether you must furnish the lodging
+as pay under the terms of an employment contract or a
+law fixing the terms of employment.
+Example of qualifying lodging. You employ Sam at
+a construction project at a remote job site in Alaska. Due
+to the inaccessibility of facilities for the employees who are
+working at the job site to obtain lodging and the prevailing
+weather conditions, you furnish lodging to your employees
+at the construction site in order to carry on the construction project. You require that your employees accept the
+lodging as a condition of their employment. You may exclude the lodging that you provide from Sam’s wages. Additionally, because sufficient eating facilities aren’t available near your place of employment, you may also exclude
+meals you provide to Sam from his wages, as discussed in
+Proper meals not otherwise available under Meals on Your
+Business Premises, later in this section.
+Example of nonqualifying lodging. A hospital gives
+Joan, an employee of the hospital, the choice of living at
+the hospital free of charge or living elsewhere and receiving a cash allowance in addition to Joan’s regular salary. If
+Joan chooses to live at the hospital, the hospital can’t exclude the value of the lodging from her wages because
+she isn’t required to live at the hospital to properly perform
+the duties of her employment.
+S corporation shareholders. For this exclusion, don’t
+treat a 2% shareholder of an S corporation as an employee of the corporation. A 2% shareholder is someone
+who directly or indirectly owns (for any day during the tax
+year) more than 2% of the corporation’s stock or stock
+with more than 2% of the voting power. Treat a 2% shareholder as you would a partner in a partnership for fringe
+benefit purposes, but don’t treat the benefit as a reduction
+in distributions to the 2% shareholder. For more information, see Revenue Ruling 91-26, 1991-1 C.B. 184.
+Meals
+This section discusses the exclusion rules that apply to de
+minimis meals and meals on your business premises.
+De Minimis Meals
+You can exclude any occasional meal you provide to an
+employee if it has so little value (taking into account how
+frequently you provide meals to your employees) that accounting for it would be unreasonable or administratively
+impracticable. The exclusion applies, for example, to the
+following items.
+• Coffee, doughnuts, or soft drinks.
+• Occasional meals or meal money provided to enable
+an employee to work overtime. However, the exclusion
+doesn’t apply to meal money figured on the basis of
+hours worked (for example, $2.00 per hour for each
+hour over 8 hours), or meals or meal money provided
+on a regular or routine basis.
+• Occasional parties or picnics for employees and their
+guests.
+Employee. For this exclusion, treat any recipient of a de
+minimis meal as an employee.
+Employer-operated eating facility for employees. The
+de minimis meals exclusion also applies to meals you provide at an employer-operated eating facility for employees
+if the annual revenue from the facility equals or exceeds
+the direct operating costs of the facility. Direct operating
+costs include the cost of food and beverages, and labor
+costs (including employment taxes) of employees whose
+services relating to the facility are performed primarily on
+the premises of the eating facility. Therefore, for example,
+the labor costs attributable to cooks and waitstaff are included in direct operating costs, but the labor cost attributable to a manager of an eating facility whose services

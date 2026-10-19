@@ -1,0 +1,85 @@
+Including taxable benefits in pay. You must include in
+a recipient’s pay the amount by which the value of a fringe
+benefit is more than the sum of the following amounts.
+• Any amount the law excludes from pay.
+• Any amount the recipient paid for the benefit.
+The rules used to determine the value of a fringe benefit
+are discussed in section 3.
+If the recipient of a taxable fringe benefit is your employee, the benefit is generally subject to employment
+taxes and must be reported on Form W-2, Wage and Tax
+Statement. However, you can use special rules to withhold, deposit, and report the employment taxes. These
+rules are discussed in section 4.
+If the recipient of a taxable fringe benefit isn’t your employee, the benefit isn’t subject to employment taxes.
+However, you may have to report the benefit on one of the
+following information returns.
+IF the recipient
+receives the benefit
+as... THEN use...
+an independent
+contractor
+Form 1099-NEC.
+a partner Schedule K-1 (Form 1065), Partner’s
+Share of Income, Deductions, Credits,
+etc.
+For more information, see the instructions for the forms listed above.
+Cafeteria Plans
+A cafeteria plan, including an FSA, provides participants
+an opportunity to receive qualified benefits on a pre-tax
+basis. It is a written plan that allows your employees to
+choose between receiving cash or taxable benefits, instead of certain qualified benefits for which the law provides an exclusion from wages. If an employee chooses to
+receive a qualified benefit under the plan, the fact that the
+employee could have received cash or a taxable benefit
+instead won’t make the qualified benefit taxable.
+Generally, a cafeteria plan doesn’t include any plan that
+offers a benefit that defers pay. However, a cafeteria plan
+can include a qualified 401(k) plan as a benefit. Also, certain life insurance plans maintained by educational institutions can be offered as a benefit even though they defer
+pay.
+Qualified benefits. A cafeteria plan can include the following benefits discussed in section 2.
+• Accident and health benefits (but not Archer medical
+savings accounts (Archer MSAs) or long-term care insurance).
+• Adoption assistance.
+• Dependent care assistance.
+• Group-term life insurance coverage (including costs
+that can’t be excluded from wages).
+• HSAs. Distributions from an HSA may be used to pay
+eligible long-term care insurance premiums or to pay
+for qualified long-term care services.
+Benefits not allowed. A cafeteria plan can’t include the
+following benefits discussed in section 2.
+• Archer MSAs. See Accident and Health Benefits in
+section 2.
+• Athletic facilities.
+• De minimis (minimal) benefits.
+• Educational assistance.
+• Employee discounts.
+• Employer-provided cell phones.
+• Lodging on your business premises.
+• Meals.
+• No-additional-cost services.
+• Retirement planning services.
+• Transportation (commuting) benefits.
+• Tuition reduction.
+• Working condition benefits.
+It also can’t include scholarships or fellowships (discussed in Pub. 970).
+Contribution limit on a health FSA. For plan years beginning in 2026, a cafeteria plan may not allow an employee to request salary reduction contributions for a
+health FSA in excess of $3,400.
+A cafeteria plan that doesn’t limit health FSA contributions to the dollar limit isn’t a cafeteria plan and all benefits
+offered under the plan are includible in the employee’s
+gross income.
+For more information, see Notice 2012-40, 2012-26
+I.R.B. 1046, available at IRS.gov/irb/
+2012-26_IRB#NOT-2012-40.
+“Use-or-lose” rule for health FSAs. Instead of a grace
+period, you may, at your option, amend your cafeteria plan
+to allow an employee’s unused contributions to carry over
+to the immediately following plan year. For more information, see Notice 2013-71, 2013-47 I.R.B. 532, available at
+IRS.gov/irb/2013-47_IRB#NOT-2013-71; and Notice
+2020-33, 2020-22 I.R.B. 868, available at IRS.gov/irb/
+2020-22_IRB#NOT-2020-33.
+Employee. For these plans, treat the following individuals as employees.
+• A current common-law employee. See section 2 in
+Pub. 15.
+• A full-time life insurance agent who is a current statutory employee.
+• A leased employee who has provided services to you
+on a substantially full-time basis for at least a year if
+the services are performed under your primary direction or control.

@@ -1,0 +1,74 @@
+improvements destroyed, damaged, removed, or disconnected by the lessee.
+Personal Property Rents
+If you are in the business of renting personal property
+(equipment, vehicles, formal wear, etc.), include the rental
+amount you receive in your gross receipts on Schedule C.
+Prepaid rent and other payments described under Real
+Estate Rents, earlier, can also be received for renting personal property. If you receive any of those payments, include them in your gross receipts as explained in that discussion.
+Interest and Dividend Income
+Interest and dividends may be considered business income.
+Interest. Interest received on notes receivable that you
+have accepted in the ordinary course of business is business income. Interest received on loans is business income if you are in the business of lending money.
+Uncollectible loans. If a loan payable to you becomes uncollectible during the tax year and you use an
+accrual method of accounting, you generally must include
+in gross income qualified stated interest accrued up to the
+time the loan became uncollectible. If the accrued interest
+that you previously included later becomes uncollectible,
+you may be able to take a bad debt deduction. See Bad
+Debts in chapter 8.
+Unstated interest and Original Issue Discount
+(OID). If little or no interest is charged on an installment
+sale contract, you may have to treat a part of each payment as unstated interest. See Unstated Interest and
+Original Issue Discount (OID) in Pub. 537.
+Dividends. Generally, dividends are business income to
+dealers in securities. For most sole proprietors and statutory employees, however, dividends are nonbusiness income. If you hold stock as a personal investment separately from your business activity, the dividends from the
+stock are nonbusiness income.
+If you receive dividends from business insurance premiums you deducted in an earlier year, you must report all
+or part of the dividend as business income on your return.
+To find out how much you have to report, see Recovery of
+items previously deducted under Other Income, later.
+Canceled Debt
+The following explain the general rule for including canceled debt in income and the exceptions to the general
+rule.
+General Rule
+Generally, if your debt is canceled or forgiven, other than
+as a gift or bequest to you, you must include the canceled
+amount in your gross income for tax purposes. Report the
+canceled amount on line 6 of Schedule C if you incurred
+the debt in your business. If the debt is a nonbusiness
+debt, report the canceled amount on line 8c of Schedule 1
+(Form 1040).
+Exceptions
+The following discussion covers some exceptions to the
+general rule for canceled debt.
+Price reduced after purchase. If you owe a debt to the
+seller for property you bought and the seller reduces the
+amount you owe, you generally do not have income from
+the reduction. Unless you are bankrupt or insolvent, treat
+the amount of the reduction as a purchase price adjustment and reduce your basis in the property.
+Deductible debt. You do not realize income from a canceled debt to the extent the payment of the debt would
+have led to a deduction.
+Example. You get accounting services for your business on credit. Later, you have trouble paying your business debts, but you are not bankrupt or insolvent. Your accountant forgives part of the amount you owe for the
+accounting services. How you treat the canceled debt depends on your method of accounting.
+• Cash method—You do not include the canceled debt
+in income because payment of the debt would have
+been deductible as a business expense.
+• Accrual method—You include the canceled debt in income because the expense was deductible when you
+incurred the debt.
+For information on the cash and accrual methods of accounting, see chapter 2.
+Exclusions
+Do not include canceled debt in income in the following
+situations. However, you may be required to file Form
+982, Reduction of Tax Attributes Due to Discharge of Indebtedness. For more information, see Form 982.
+1. The cancellation takes place in a bankruptcy case under title 11 of the U.S. Code (relating to bankruptcy).
+See Pub. 908, Bankruptcy Tax Guide.
+2. The cancellation takes place when you are insolvent.
+You can exclude the canceled debt to the extent you
+are insolvent. See Pub. 4681, Canceled Debts, Foreclosures, Repossessions, and Abandonments.
+3. The canceled debt is a qualified farm debt owed to a
+qualified person. See chapter 3 of Pub. 225, Farmer's
+Tax Guide.
+4. The canceled debt is a qualified real property business debt. This situation is explained later.
+5. The canceled debt is qualified principal residence indebtedness which is discharged after 2006. See the
+Instructions for Form 982 for more information about
+this exclusion.

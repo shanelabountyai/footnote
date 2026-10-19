@@ -1,0 +1,75 @@
+a. Increased by the cost of any permanent improvements or additions and other costs that must be
+added to basis.
+b. Decreased by any deductions you claimed for
+casualty and theft losses and other items that reduced your basis.
+Example. Several years ago, Nia paid $160,000 to
+have a home built on a lot that cost $25,000. Before
+changing the property to rental use last year, Nia paid
+$20,000 for permanent improvements to the house and
+claimed a $2,000 casualty loss deduction for damage to
+the house. Land is not depreciable, so Nia includes only
+the cost of the house when figuring the basis for depreciation.
+The adjusted basis in the house when Nia changed its
+use was $178,000 ($160,000 + $20,000 − $2,000). On the
+same date, the property had an FMV of $180,000, of
+which $15,000 was for the land and $165,000 was for the
+house. The basis for depreciation on the house is the FMV
+on the date of change ($165,000) because it is less than
+Nia’s adjusted basis ($178,000).
+Property acquired in a nontaxable transaction. Generally, if you receive property in a nontaxable exchange,
+the basis of the property you receive is the same as the
+adjusted basis of the property you gave up. This is referred to as the “carryover basis.” Special rules apply in determining the basis and figuring the MACRS depreciation
+deduction and special depreciation allowance for property
+acquired in a like-kind exchange or an involuntary conversion. See Like-kind exchanges and involuntary conversions under How Much Can You Deduct? in chapter 3,
+and Figuring the Deduction for Property Acquired in a
+Nontaxable Exchange in chapter 4.
+There are also special rules for determining the basis of
+MACRS property involved in a like-kind exchange or an involuntary conversion when the property is contained in a
+general asset account. See How Do You Use General Asset Accounts? in chapter 4.
+Adjusted Basis
+To find your property’s basis for depreciation, you may
+have to make certain adjustments (increases and decreases) to the basis of the property for events occurring between the time you acquired the property and the time you
+placed it in service. These events could include the following.
+• Installing utility lines.
+• Paying legal fees for perfecting the title.
+• Settling zoning issues.
+• Receiving rebates.
+• Incurring a casualty or theft loss.
+For a discussion of adjustments to the basis of your property, see Adjusted Basis in Pub. 551.
+If you depreciate your property under MACRS, you may
+also have to reduce your basis by certain deductions and
+credits with respect to the property. For more information,
+see What Is the Basis for Depreciation? in chapter 4.
+Basis adjustment for depreciation allowed or allowable. You must reduce the basis of property by the depreciation allowed or allowable, whichever is greater. Depreciation allowed is depreciation you actually deducted
+(from which you received a tax benefit). Depreciation allowable is depreciation you are entitled to deduct.
+If you do not claim depreciation you are entitled to deduct, you must still reduce the basis of the property by the
+full amount of depreciation allowable.
+If you deduct more depreciation than you should, you
+must reduce your basis by any amount deducted from
+which you received a tax benefit (the depreciation allowed).
+How Do You Treat Repairs and
+Improvements?
+If you improve depreciable property, you must treat the improvement as separate depreciable property. Improvement means an addition to or partial replacement of property that is a betterment to the property, restores the
+property, or adapts it to a new or different use. See section
+1.263(a)-3 of the regulations.
+You generally deduct the cost of repairing business
+property in the same way as any other business expense.
+However, if the cost is for a betterment to the property, to
+restore the property, or to adapt the property to a new or
+different use, you must treat it as an improvement and depreciate it.
+Example. You repair a small section on one corner of
+the roof of a rental house. You deduct the cost of the repair
+as a rental expense. However, if you completely replace
+the roof, the new roof is an improvement because it is a restoration of the building. You depreciate the cost of the
+new roof.
+Improvements to rented property. You can depreciate
+permanent improvements you make to business property
+you rent from someone else.
+Do You Have To File Form
+4562?
+Terms you may need to know
+(see Glossary):
+Amortization
+Listed property
+Placed in service
+Standard mileage rate

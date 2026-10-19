@@ -1,0 +1,181 @@
+Employer identification number
+(EIN) 6
+Employment taxes:
+About 10
+Deduction for 38
+Empowerment zone employment
+credit 19
+Energy efficient home credit 19
+Entertainment expenses
+(See Travel expenses)
+Escrow, payments placed in 27
+Estimated tax 8
+Examinations (audits) 46
+Excise taxes:
+About 10
+Deduction for 38
+Executor 25
+Expenses 30
+Bad debts 31
+Car 33
+Depreciation 34
+Employees' pay 35
+Entertainment 39
+Home, business use 39
+Insurance 36
+Interest 37
+Legal and professional fees 37
+Meals 39
+Nondeductible 41
+Other 40
+Pension plans 37
+Rent 38
+Taxes 38
+Travel 39
+Truck 33
+F
+Fair market value 18
+Filing business taxes 5
+Fishing crew member 25, 42
+Form:
+1040 (tax return) 6, 10
+1040-ES (estimated tax) 8, 10
+1040-SR (tax return) 6, 10
+1040-V (voucher) 7
+1099-B (barter) 21
+1099-MISC (miscellaneous) 11
+1099-NEC (nonemployee
+compensation) 11
+1128 (change tax year) 13
+2210 (underpayment of estimated
+tax) 8
+2290 (excise tax for heavy
+trucks) 11
+3115 (change accounting
+method) 16
+3468 (investment credit) 19
+3800 (general business credit) 18
+4562 (depreciation) 35
+4684 (casualty and theft) 18
+4797 (sale of business
+property) 18, 24
+4868 (extension) 8
+6251 (alternative minimum tax) 18
+6252 (installment sale) 18
+720 (excise tax return) 11
+8300 (cash payments over
+$10,000) 11
+8586 (low-income housing) 19
+8594 (asset acquisition) 17
+8820 (orphan drug credit) 19
+8824 (like-kind exchange) 17, 18
+8826 (disabled access credit) 19
+8829 (business in home) 40
+8835 (renewable electricity, coal
+credit) 19
+8846 (credit for social security on
+tip income) 19
+8857 (innocent spouse) 47
+8874 (new markets credit) 19
+8879 (self-selected PIN) 7
+8881 (pension plan startup costs
+credit) 19
+8882 (employer-provided childcare
+credit) 19
+8886 (transaction statement) 4
+8896 (low sulfur diesel fuel
+production credit) 19
+8906 (distilled spirits credit) 19
+8911 (alternative fuel vehicle
+refueling property credit) 18
+8933 (carbon oxide sequestration
+credit) 19
+8936 (clean vehicle credit) 19
+8941 (small employer health
+insurance premiums) 19
+8994 (employer credit for paid
+family and medical leave) 19
+940 (unemployment tax) 10
+941 (quarterly employment tax) 10
+944 (annual employment tax) 10
+982 (discharge of
+indebtedness) 22
+Final 12
+Information returns 10
+Schedule C (sole proprietor) 10
+Schedule SE (self-employment
+tax) 9, 10
+SS-4 (application for EIN) 6
+SS-5 (application for SSN) 6
+W-2 (report wages) 10, 11
+W-3 (transmittal of W-2) 10
+W-4 (employee withholding) 6
+W-7 (application for ITIN) 6
+W-9 (request for TIN) 6
+When to file 10
+Which to file 10
+Fringe benefits 36
+Fuel taxes 38
+G
+Gains and losses 23
+General business credits 18
+Gross profit:
+Accuracy 30
+Additions to 30
+Guidelines for selected
+occupations 25
+(See also Occupations, selected)
+H
+Home, business use of 39
+Hotels, boarding houses, and
+apartments 21
+Husband and wife business 3
+I
+Identification numbers 5
+Income 24
+(See also Not income)
+Accounting for your 26
+Barter 20
+Business 20
+Damages 23
+Gains and losses 23
+Kickbacks 24
+Kinds of income 20
+Lost income payments 23
+Other 23
+Paid to a third party 26
+Personal property rent 22
+Promissory notes 23
+Recapture of depreciation 24
+Recovery of items previously
+deducted 24
+Rental 21, 22
+Restricted property 23
+Income tax:
+About 6
+Deduction for 38
+How to pay 8
+Underpayment penalty 8
+Income tax return, who must file 6
+Independent contractor 3, 10, 42
+Individual taxpayer identification
+number (ITIN) 6
+Information returns 11
+Information, How to get more 47
+Innocent spouse relief 47
+Installment sales 17
+Insurance:
+Expense 36
+Nondeductible premiums 36
+Prepayment 37
+Proceeds 27
+Insurance agent:
+Former 25
+Retired 26
+Interest:
+Expenses 37
+Income 22
+Inventories 15
+Investment credit 19
+K
+Kickbacks 24, 41

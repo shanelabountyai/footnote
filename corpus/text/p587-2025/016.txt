@@ -1,0 +1,82 @@
+Reporting the Sale
+Do not report the 2025 sale of your main home on your tax
+return unless:
+• You received a Form 1099-S, Proceeds From Real Estate Transactions, for the sale or exchange;
+• You have a gain and you do not qualify to exclude all
+of it;
+• You have a gain and choose not to exclude it; or
+• You have a loss from the sale that is deductible.
+Caution: A loss from the sale of your home, or the personal part of your home if it was also used for business or
+to produce rental income, is not deductible.
+If any of these conditions apply, report the gain or loss
+as explained in the Instructions for Schedule D.
+If you used the home for business, you may have to use
+Form 4797 to report the sale of the business part. See the
+Instructions for Form 4797.
+More Information
+This section covers only the basic rules for the sale or exchange of your home. For more information, see Pub. 523.
+Business Furniture and
+Equipment
+This section discusses the depreciation and section 179
+deductions you may be entitled to take for furniture and
+equipment you use in your home for business. These deductions are available whether or not you qualify to deduct
+expenses for the business use of your home.
+This section explains the different rules for each of the
+following.
+• Listed property.
+• Property bought for business use.
+• Personal property converted to business use.
+Listed Property
+If you use certain types of property, called listed property,
+in your home, special rules apply. Listed property includes
+any property of a type generally used for entertainment,
+recreation, and amusement (including photographic, phonographic, and video recording equipment).
+More-than-50%-use test. If you bought listed property
+and placed it in service during the year, you must use it
+more than 50% for business to claim a section 179 deduction or an accelerated depreciation deduction.
+If your business use of listed property is 50% or less,
+you cannot take a section 179 deduction and you must depreciate the property using the Alternative Depreciation
+System (ADS) (straight line method). For more information
+on ADS, see Pub. 946.
+Listed property meets the more-than-50%-use test for
+any year if its qualified business use is more than 50% of
+its total use. You must allocate the use of any item of listed
+property used for more than one purpose during the year
+among its various uses. You cannot use the percentage of
+investment use as part of the percentage of qualified business use to meet the more-than-50%-use test. However,
+you do use the combined total of business and investment
+use to figure your depreciation deduction for the property.
+Years following the year placed in service. If, in a year
+after you place an item of listed property in service, you
+fail to meet the more-than-50%-use test for that item of
+property, you may be required to do the following.
+1. Figure depreciation, beginning with the year you no
+longer use the property more than 50% for business,
+using the straight line method (ADS).
+2. Figure any excess depreciation (include any section
+179 deduction on the property in figuring excess depreciation) and add it to:
+a. Your gross income, and
+b. The adjusted basis of your property.
+For more information, see Pub. 946.
+Reporting and recordkeeping requirements. If you
+use listed property in your business, you must file Form
+4562 to claim a depreciation or section 179 deduction.
+Begin with Part V, Section A, of that form.
+You cannot take any depreciation or section 179
+deduction for the use of listed property unless you
+can prove your business/investment use with adequate records or sufficient evidence to support your own
+statements.
+To meet the adequate records requirement, you must
+maintain an account book, diary, log, statement of expense, trip sheet, or similar record or other documentary
+evidence that is sufficient to establish business/investment use. For more information on what records to keep,
+see Pub. 946.
+Property Bought for Business Use
+If you bought certain property during 2025 to use in your
+business, you can do any one of the following (subject to
+the limits discussed later).
+• Elect a section 179 deduction for the full cost of the
+property.
+• Depreciate the cost of the property.
+• Take part of the cost as a section 179 deduction and
+depreciate the balance.
+RECORDS

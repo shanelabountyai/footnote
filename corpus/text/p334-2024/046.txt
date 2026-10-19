@@ -1,0 +1,83 @@
+Reporting SE Tax
+Use Schedule SE (Form 1040) to figure and report your
+SE tax. If you file Form 1040 or 1040-SR, enter the SE tax
+on line 4 of Schedule 2 and attach Schedule SE to your
+form. If you file Form 1040-SS, enter the SE tax on line 3,
+and attach Schedule SE to your form.
+If you need to pay SE tax, you must file Form
+1040, 1040-SR, or 1040-SS, as applicable (with
+Schedule SE attached) even if you do not otherwise have to file a federal income tax return.
+Joint return. Even if you file a joint return, you cannot file
+a joint Schedule SE. This is true whether one spouse or
+both spouses have earnings subject to SE tax. If both of
+you have earnings subject to SE tax, each of you must
+complete a separate Schedule SE. Attach both schedules
+to the joint return.
+More than one business. If you have more than one
+trade or business, you must combine the net profit (or
+loss) from each business to figure your SE tax. A loss from
+one business will reduce your profit from another business. File one Schedule SE showing the earnings from
+self-employment, but file a separate Schedule C or F for
+each business.
+Example. You are the sole proprietor of two separate
+businesses. You operate a restaurant that made a net
+profit of $25,000. You also have a cabinetmaking business
+that had a net loss of $500. You must file a Schedule C for
+the restaurant showing your net profit of $25,000 and another Schedule C for the cabinetmaking business showing
+your net loss of $500. You file one Schedule SE showing
+total earnings subject to SE tax of $24,500.
+11.
+Your Rights as a
+Taxpayer
+This chapter explains the examination, appeal, collection,
+and refund processes.
+Examinations, Appeals,
+Collections, and Refunds
+Examinations (audits). We accept most taxpayers' returns as filed. If we inquire about your return or select it for
+examination, it does not suggest that you are dishonest.
+The inquiry or examination may or may not result in more
+CAUTION
+!
+tax. We may close your case without change or you may
+receive a refund.
+The process of selecting a return for examination usually begins in one of two ways. One way is to use computer programs to identify returns that may have incorrect
+amounts. These programs may be based on information
+returns, such as Forms 1099 and W-2; on studies of past
+examinations; or on certain issues identified by other special projects. Another way is to use information from compliance projects that indicates that a return may have incorrect amounts. These sources may include
+newspapers, public records, and individuals. If we determine that the information is accurate and reliable, we may
+use it to select a return for examination.
+Pub. 556, Examination of Returns, Appeal Rights, and
+Claims for Refund, explains the rules and procedures that
+we follow in examinations. The following sections give an
+overview of how we conduct examinations.
+By mail. We handle many examinations and inquiries
+by mail. We will send you a letter with either a request for
+more information or a reason why we believe a change to
+your return may be needed. You can respond by mail or
+you can request a personal interview with an examiner. If
+you mail us the requested information or provide an explanation, we may or may not agree with you, and we will
+explain the reasons for any changes. Do not hesitate to
+write to us about anything you do not understand.
+By interview. If we notify you that we will conduct your
+examination through a personal interview, or you request
+such an interview, you have the right to ask that the examination take place at a reasonable time and place that is
+convenient for both you and the IRS. If our examiner proposes any changes to your return, they will explain the
+reasons for the changes. If you do not agree with these
+changes, you can meet with the examiner's supervisor.
+Repeat examinations. If we examined your return for
+the same items in either of the 2 previous years and proposed no change to your tax liability, contact us as soon
+as possible so we can see if we should discontinue the examination.
+Appeals. If you do not agree with the examiner's proposed changes, you can appeal them to the IRS Independent Office of Appeals. Most differences can be settled without expensive and time-consuming court trials.
+Your appeal rights are explained in detail in both Pub. 5,
+Your Appeal Rights and How to Prepare a Protest if You
+Disagree, and Pub. 556.
+If you do not wish to use the Appeals Office or disagree
+with its findings, you may be able to take your case to the
+U.S. Tax Court, U.S. Court of Federal Claims, or the U.S.
+District Court where you live. If you take your case to
+court, the IRS will have the burden of proving certain facts
+if you kept adequate records to show your tax liability, cooperated with the IRS, and meet certain other conditions.
+If the court agrees with you on most issues in your case
+and finds that our position was largely unjustified, you may
+be able to recover some of your administrative and litigation costs. You will not be eligible to recover these costs
+unless you tried to resolve your case administratively,

@@ -1,0 +1,84 @@
+• It has not been substantially modified.
+If the software meets the tests above, it may also qualify
+for the section 179 deduction and the special depreciation
+allowance, discussed later in chapters 2 and 3. If you can
+depreciate the cost of computer software, use the straight
+line method over a useful life of 36 months.
+Tax-exempt use property subject to a lease. The
+useful life of computer software leased under a lease
+agreement entered into after March 12, 2004, to a tax-exempt organization, governmental unit, or foreign person or
+entity (other than a partnership) cannot be less than 125%
+of the lease term.
+Certain created intangibles. You can amortize certain
+intangibles created on or after December 31, 2003, over a
+15-year period using the straight line method and no salvage value, even though they have a useful life that cannot
+be estimated with reasonable accuracy. For example,
+amounts paid to acquire memberships or privileges of indefinite duration, such as a trade association membership, are eligible costs.
+The following are not eligible.
+• Any intangible asset acquired from another person.
+• Created financial interests.
+• Any intangible asset that has a useful life that can be
+estimated with reasonable accuracy.
+• Any intangible asset that has an amortization period or
+limited useful life that is specifically prescribed or prohibited by the Internal Revenue Code, regulations, or
+other published IRS guidance.
+• Any amount paid to facilitate an acquisition of a trade
+or business, a change in the capital structure of a
+business entity, and certain other transactions.
+You must also increase the 15-year safe harbor amortization period to a 25-year period for certain intangibles related to benefits arising from the provision, production, or
+improvement of real property. For this purpose, real property includes property that will remain attached to the real
+property for an indefinite period of time, such as roads,
+bridges, tunnels, pavements, and pollution control facilities.
+Income Forecast Method
+You can choose to use the income forecast method instead of the straight line method to depreciate the following depreciable intangibles.
+• Motion picture films or videotapes.
+• Sound recordings.
+• Copyrights.
+• Books.
+• Patents.
+Under the income forecast method, each year’s depreciation deduction is equal to the cost of the property, multiplied by a fraction. The numerator of the fraction is the
+current year’s net income from the property, and the denominator is the total income anticipated from the property
+through the end of the 10th tax year following the tax year
+the property is placed in service. For more information,
+see section 167(g) of the Internal Revenue Code.
+Films, videotapes, and recordings. You cannot use
+MACRS for motion picture films, videotapes, and sound
+recordings. For this purpose, sound recordings are discs,
+tapes, or other phonorecordings resulting from the fixation
+of a series of sounds. You can depreciate this property using either the straight line method or the income forecast
+method.
+Participations and residuals. You can include participations and residuals in the adjusted basis of the property
+for purposes of computing your depreciation deduction
+under the income forecast method. The participations and
+residuals must relate to income to be derived from the
+property before the end of the 10th tax year after the property is placed in service. For this purpose, participations
+and residuals are defined as costs, which by contract vary
+with the amount of income earned in connection with the
+property.
+Instead of including these amounts in the adjusted basis of the property, you can deduct the costs in the tax
+year that they are paid. To elect a method for the treatment
+of participations and residuals, attach a statement to the
+timely filed (including extensions) return for the tax year
+the income forecast property is placed in service providing
+a description of the property to which the participations
+and residuals relate, the date the property was placed in
+service, and how you elect to treat the participations and
+residuals for that property.
+Videocassettes. If you are in the business of renting
+videocassettes, you can depreciate only those videocassettes bought for rental. If the videocassette has a useful
+life of 1 year or less, you can currently deduct the cost as a
+business expense.
+Corporate or Partnership Property
+Acquired in a Nontaxable Transfer
+MACRS does not apply to property used before 1987 and
+transferred after 1986 to a corporation or partnership (except property the transferor placed in service after July 31,
+1986, if MACRS was elected) to the extent its basis is carried over from the property’s adjusted basis in the transferor’s hands. You must continue to use the same depreciation method as the transferor and figure depreciation as if
+the transfer had not occurred. However, if MACRS would
+otherwise apply, you can use it to depreciate the part of
+the property’s basis that exceeds the carried-over basis.
+The nontaxable transfers covered by this rule include
+the following.
+• A distribution in complete liquidation of a subsidiary.
+• A transfer to a corporation controlled by the transferor.
+• An exchange of property solely for corporate stock or
+securities in a reorganization.

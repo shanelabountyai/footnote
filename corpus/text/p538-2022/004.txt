@@ -1,0 +1,85 @@
+procedure, explained later, and claim a refund of part of
+the tax you paid.
+General rule. Income tax for a short tax year must be
+annualized. However, self-employment tax is figured on
+the actual self-employment income for the short period.
+Individuals. An individual must figure income tax for
+the short tax year as follows.
+1. Determine your adjusted gross income (AGI) for the
+short tax year and then subtract your actual itemized
+deductions for the short tax year. You must itemize
+deductions when you file a short period tax return.
+2. Multiply the dollar amount of your exemptions by the
+number of months in the short tax year and divide the
+result by 12. Note. For tax years beginning after 2017
+and before 2026, the dollar amount of your exemption
+is zero (-0-).
+3. Subtract the amount in (2) from the amount in (1). The
+result is your modified taxable income.
+4. Multiply the modified taxable income in (3) by 12, then
+divide the result by the number of months in the short
+tax year. The result is your annualized income.
+5. Figure the total tax on your annualized income using
+the appropriate tax rate schedule.
+6. Multiply the total tax by the number of months in the
+short tax year and divide the result by 12. The result is
+your tax for the short tax year.
+Relief procedure. You can use a relief procedure to figure the tax for the short tax year. It may result in less tax.
+Under this procedure, the tax is figured by two separate
+methods. If the tax figured under both methods is less
+than the tax figured under the general rule, you can file a
+claim for a refund of part of the tax you paid. For more information, see section 443(b)(2) of the Internal Revenue
+Code and the related Treasury Regulation.
+Alternative minimum tax. Individuals, to figure the alternative minimum tax (AMT) due for a short tax year:
+1. Figure the annualized alternative minimum taxable income (AMTI) for the short tax period by completing
+the following steps.
+a. Multiply the AMTI by 12.
+b. Divide the result by the number of months in the
+short tax year.
+2. Multiply the annualized AMTI by the appropriate rate
+of tax under section 55(b)(1) of the Internal Revenue
+Code. The result is the annualized AMT.
+3. Multiply the annualized AMT by the number of months
+in the short tax year and divide the result by 12.
+For information on the AMT for individuals, see the Instructions for Form 6251, Alternative Minimum Tax–Individuals.
+Tax withheld from wages. You can claim a credit
+against your income tax liability for federal income tax
+withheld from your wages. Federal income tax is withheld
+on a calendar year basis. The amount of tax withheld in
+any calendar year is allowed as a credit for the tax year
+beginning in the calendar year.
+Improper Tax Year
+Taxpayers that have adopted an improper tax year must
+change to a proper tax year. For example, if a taxpayer
+began business on March 15 and adopted a tax year ending on March 14 (a period of exactly 12 months), this
+would be an improper tax year. See Accounting Periods,
+earlier, for a description of permissible tax years.
+To change to a proper tax year, you must do one of the
+following.
+• If you are requesting a change to a calendar tax year,
+file an amended income tax return based on a calendar tax year that corrects the most recently filed tax return that was filed on the basis of an improper tax
+year. Attach a completed Form 1128 to the amended
+tax return. Write “FILED UNDER REV. PROC. 85-15”
+at the top of Form 1128 and file the forms with the Internal Revenue Service Center where you filed your
+original return.
+• If you are requesting a change to a fiscal tax year, file
+Form 1128 in accordance with the form instructions to
+request IRS approval for the change.
+Change in Tax Year
+Generally, you must file Form 1128 to request IRS approval to change your tax year. See the Instructions for Form
+1128 for exceptions. If you qualify for an automatic approval request, a user fee is not required.
+Individuals
+Generally, individuals must adopt the calendar year as
+their tax year. An individual can adopt a fiscal year if the
+individual maintains his or her books and records on the
+basis of the adopted fiscal year.
+Partnerships,
+S Corporations,
+and Personal Service Corporations
+(PSCs)
+Generally, partnerships, S corporations (including electing
+S corporations), and PSCs must use a required tax year.
+A required tax year is a tax year that is required under the
+Internal Revenue Code and Treasury Regulations. The
+entity does not have to use the required tax year if it receives IRS approval to use another permitted tax year or
+makes an election under section 444 of the Internal Revenue Code (discussed later).

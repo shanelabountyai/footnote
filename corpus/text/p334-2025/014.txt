@@ -1,0 +1,83 @@
+If you filed your first income tax return using the calendar-tax year and you later begin business as a sole proprietor, you must continue to use the calendar-tax year unless you get IRS approval to change it or are otherwise
+allowed to change it without IRS approval. For more information, see Change in tax year, later.
+If you adopt the calendar-tax year, you must maintain
+your books and records and report your income and expenses for the period from January 1 through December
+31 of each year.
+Fiscal tax year. A fiscal-tax year is 12 consecutive
+months ending on the last day of any month except December. A 52-53-week tax year is a fiscal-tax year that
+varies from 52 to 53 weeks but does not have to end on
+the last day of a month.
+If you adopt a fiscal-tax year, you must maintain your
+books and records and report your income and expenses
+using the same tax year.
+For more information on a fiscal-tax year, including a
+52-53-week tax year, see Pub. 538.
+Change in tax year. Generally, you must file Form 1128,
+Application To Adopt, Change, or Retain a Tax Year, to request IRS approval to change your tax year. See the Instructions for Form 1128 for exceptions. If you qualify for
+an automatic approval request, a user fee is not required.
+If you do not qualify for automatic approval, a ruling must
+be requested. See the Instructions for Form 1128 for information about user fees if you are requesting a ruling.
+Accounting Methods
+An accounting method is a set of rules used to determine
+when and how income and expenses are reported. Your
+accounting method includes not only the overall method of
+accounting you use, but also the accounting treatment you
+use for any material item.
+You choose an accounting method for your business
+when you file your first income tax return that includes a
+Schedule C (Form 1040) for the business. After that, if you
+want to change your accounting method, you must generally get IRS approval. See Change in Accounting Method,
+later.
+Kinds of methods. Generally, you can use any of the following accounting methods.
+• Cash method.
+• An accrual method.
+• Special methods of accounting for certain items of income and expenses.
+• Combination method using elements of two or more of
+the above.
+You must use the same accounting method to figure
+your taxable income and to keep your books. Also, you
+must use an accounting method that clearly shows your
+income.
+Business and personal items. You can account for
+business and personal items under different accounting
+methods. For example, you can figure your business income under an accrual method, even if you use the cash
+method to figure personal items.
+Two or more businesses. If you have two or more separate and distinct businesses, you can use a different accounting method for each if the method clearly reflects the
+income of each business. They are separate and distinct
+only if you maintain complete and separate books and records for each business.
+Cash Method
+Most individuals and many sole proprietors with no inventory use the cash method because they find it easier to
+keep cash method records. However, if an inventory is
+necessary to account for your income, you must generally
+use an accrual method of accounting for sales and purchases, unless you are a small business taxpayer (defined
+later in this chapter). For more information, see Inventories, later.
+Income
+Under the cash method, include in your gross income all
+items of income you actually or constructively receive during your tax year. If you receive property or services, you
+must include their fair market value in income.
+Example. On December 30, 2024, a client sent you a
+check for interior decorating services you provided. You
+received the check on January 4, 2025. You must include
+the amount of the check in income for 2025.
+Constructive receipt. You have constructive receipt of
+income when an amount is credited to your account or
+made available to you without restriction. You do not need
+to have possession of it. If you authorize someone to be
+your agent and receive income for you, you are treated as
+having received it when your agent received it.
+Example. Interest is credited to your bank account in
+December 2025. You do not withdraw it or enter it into
+your passbook until 2026. You must include it in your
+gross income for 2025.
+Delaying receipt of income. You can’t hold checks or
+postpone taking possession of similar property from one
+tax year to another to avoid paying tax on the income. You
+must report the income in the year the property is received
+or made available to you without restriction.
+Example. A service contractor was entitled to receive
+a $10,000 payment on a contract in December 2025. They
+were told in December that their payment was available.
+At their request, they were not paid until January 2026.
+They must include this payment in their 2025 income because it was constructively received in 2025.
+Checks. Receipt of a valid check by the end of the tax
+year is constructive receipt of income in that year, even if

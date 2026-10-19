@@ -1,0 +1,47 @@
+Small employer health insurance
+premiums credit 20
+Social security coverage 9
+Social security number (SSN) 6
+Sole proprietor 3, 43
+Sport utility vehicle 36
+Standard mileage rate 35
+Statutory employee 3
+SUV 36
+T
+Tax help 49
+Tax home 35, 40
+Tax preparation fees 39
+Tax refund:
+Claim for 49
+Offset against debts 7
+Tax return:
+How to file 7
+Who must file 7
+Tax year 13
+Calendar 13
+Change in 14
+Fiscal 14
+Taxes:
+Deduction for 40
+Employment 11, 40
+Excise 11, 40
+Fuel 40
+Income 7, 40
+Paid on certain employee tips 20
+Personal property 40
+Real estate 40
+Sales 40
+Self-employment 9, 40
+Third parties, Payments to 22
+Tolls 35
+Trade discount 28, 29
+Trade or business 2
+Trailer park owner 22
+Transportation expenses 34
+Travel expenses 40
+U
+Underpayment of tax penalty 9
+Uniform capitalization rules 17
+W
+Wages 37
+Work opportunity credit 20

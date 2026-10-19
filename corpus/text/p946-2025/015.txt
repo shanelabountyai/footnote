@@ -1,0 +1,71 @@
+Useful Items
+You may want to see:
+Publication
+537 Installment Sales
+544 Sales and Other Dispositions of Assets
+Form (and Instructions)
+4562 Depreciation and Amortization
+4797 Sales of Business Property
+See How To Get Tax Help at the end of this publication for
+information about getting publications and forms.
+What Property Qualifies?
+Terms you may need to know
+(see Glossary):
+Adjusted basis
+Basis
+Class life
+Structural components
+Tangible property
+To qualify for the section 179 deduction, your property
+must meet all the following requirements.
+• It must be eligible property.
+• It must be acquired for business use.
+• It must have been acquired by purchase.
+537
+544
+4562
+4797
+• It must not be property described later under What
+Property Does Not Qualify.
+The following discussions provide information about
+these requirements and exceptions.
+Eligible Property
+To qualify for the section 179 deduction, your property
+must be one of the following types of depreciable property.
+1. Tangible personal property.
+2. Other tangible property (except buildings and their
+structural components) used as:
+a. An integral part of manufacturing, production, or
+extraction, or of furnishing transportation, communications, electricity, gas, water, or sewage disposal services;
+b. A research facility used in connection with any of
+the activities in (a) above; or
+c. A facility used in connection with any of the activities in (a) for the bulk storage of fungible commodities.
+3. Single-purpose agricultural (livestock) or horticultural
+structures. See chapter 7 of Pub. 225 for definitions
+and information regarding the use requirements that
+apply to these structures.
+4. Storage facilities (except buildings and their structural
+components) used in connection with distributing petroleum or any primary product of petroleum.
+5. Off-the-shelf computer software.
+6. Qualified section 179 real property (described below).
+Purpose of Form 4562
+This table describes the purpose of the various parts of Form 4562. For more information, see Form 4562
+and its instructions.
+Part Purpose
+I • Electing the section 179 deduction
+• Figuring the maximum section 179 deduction for the current year
+• Figuring any section 179 deduction carryover to the next year
+II • Reporting the special depreciation allowance for property (other than listed property) placed in
+service during the tax year
+• Reporting depreciation deductions on property being depreciated under any method other than
+MACRS
+III • Reporting MACRS depreciation deductions for property placed in service before this year
+• Reporting MACRS depreciation deductions for property (other than listed property) placed in
+service during the current year
+IV • Summarizing other parts
+V • Reporting the special depreciation allowance for automobiles and other listed property
+• Reporting MACRS depreciation on automobiles and other listed property
+• Reporting the section 179 cost elected for automobiles and other listed property
+• Reporting information on the use of automobiles and other transportation vehicles
+VI • Reporting amortization deductions
+Table 1-1.

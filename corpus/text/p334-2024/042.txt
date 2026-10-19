@@ -1,0 +1,83 @@
+Not-for-Profit Activities
+If you do not carry on your business to make a profit, there
+is a limit on the deductions you can take. You cannot use a
+loss from the activity to offset other income. Activities you
+do as a hobby, or mainly for sport or recreation, come under this limit.
+For details about not-for-profit activities, see Hobby or
+business: here’s what to know about that side hustle.
+10.
+Self-Employment (SE) Tax
+The SE tax rules apply no matter how old you are
+and even if you are already receiving social security and Medicare benefits.
+Who Must Pay SE Tax?
+Generally, you must pay SE tax and file Schedule SE
+(Form 1040) if your net earnings from self-employment
+were $400 or more. Use Schedule SE to figure net earnings from self-employment.
+Sole proprietor or independent contractor. If you are
+self-employed as a sole proprietor or independent contractor, you generally use Schedule C (Form 1040) to figure your earnings subject to SE tax.
+SE tax rate. The 2024 SE tax rate on net earnings is
+15.3% (12.4% social security tax plus 2.9% Medicare tax).
+Maximum earnings subject to SE tax. Only the first
+$168,600 of your combined wages, tips, and net earnings
+in 2024 is subject to any combination of the 12.4% social
+security part of SE tax, social security tax, or the Tier 1
+part of railroad retirement tax.
+All of your combined wages, tips, and net earnings in
+2024 are subject to any combination of the 2.9% Medicare
+part of SE tax, Medicare tax, or Medicare part of railroad
+retirement tax.
+If your wages and tips are subject to either social security tax or the Tier 1 part of railroad retirement tax, or both,
+and total at least $168,600, do not pay the 12.4% social
+security part of the SE tax on any of your net earnings.
+However, you must pay the 2.9% Medicare part of the SE
+tax on all your net earnings.
+Additional Medicare Tax. A 0.9% Additional Medicare
+Tax may apply to you if your net earnings from self-employment exceed a threshold amount (based on your filing
+status). For more information, see Self-Employment (SE)
+Tax in chapter 1, and Form 8959 and its instructions.
+CAUTION
+!
+Special Rules and Exceptions
+Aliens. Generally, resident aliens must pay SE tax under
+the same rules that apply to U.S. citizens. Nonresident aliens are not subject to SE tax unless an international social
+security agreement (also known as a totalization agreement) in effect determines that they are covered under the
+U.S. social security system. However, residents of the U.S.
+Virgin Islands, Puerto Rico, Guam, the Commonwealth of
+the Northern Mariana Islands, or American Samoa are
+subject to SE tax, as they are considered U.S. residents
+for SE tax purposes. For more information on aliens, see
+Pub. 519, U.S. Tax Guide for Aliens.
+Child employed by parent. You are not subject to SE
+tax if you are under age 18 and you are working for your
+father or mother.
+Church employee. If you work for a church or a qualified
+church-controlled organization (other than as a minister,
+member of a religious order, or Christian Science practitioner) that elected an exemption from social security and
+Medicare taxes, you are subject to SE tax if you receive
+$108.28 or more in wages from the church or organization.
+For more information, see Pub. 517, Social Security and
+Other Information for Members of the Clergy and Religious Workers.
+Fishing crew member. If you are a member of the crew
+on a boat that catches fish or other aquatic life, your earnings are subject to SE tax if all the following conditions apply.
+1. You do not get any pay for the work except your share
+of the catch or a share of the proceeds from the sale
+of the catch, unless the pay meets all the following
+conditions.
+a. The pay is not more than $100 per trip.
+b. The pay is received only if there is a minimum
+catch.
+c. The pay is solely for additional duties (such as
+mate, engineer, or cook) for which additional cash
+pay is traditional in the fishing industry.
+2. You get a share of the catch or a share of the proceeds from the sale of the catch.
+3. Your share depends on the amount of the catch.
+4. The boat's operating crew normally numbers fewer
+than 10 individuals. (An operating crew is considered
+as normally made up of fewer than 10 if the average
+size of the crew on trips made during the last 4 calendar quarters is fewer than 10.)
+Notary public. Fees you receive for services you perform
+as a notary public are reported on Schedule C but are not
+subject to SE tax (see the Instructions for Schedule SE
+(Form 1040)).
+State or local government employee. You are subject
+to SE tax if you are an employee of a state or local

@@ -1,0 +1,79 @@
+targeted groups that have a particularly high unemployment rate or other special employment needs. For more
+information, see Form 5884.
+How To Claim the Credit
+To claim a general business credit, you will first have to get
+the forms you need to claim your current-year business
+credits.
+In addition to the credit form, you also need to file Form
+3800.
+5.
+Business Income
+Introduction
+This chapter primarily explains business income, how to
+account for it on your tax return, and what items are not
+considered income, and provides guidelines for selected
+occupations.
+If there is a connection between any income you receive and your business, the income is business income.
+A connection exists if it is clear that the payment of income would not have been made if you did not have the
+business.
+You can have business income even if you are not involved in the activity on a regular full-time basis. Income
+from work you do on the side in addition to your regular
+job can be business income. For example, you may be in
+the business of providing services for a ride-sharing business as a second job.
+You report most business income, such as income from
+selling your products or services, on Schedule C (Form
+1040). But you report the income from the sale of business assets, such as land and office buildings, on other
+forms instead of Schedule C (Form 1040). For information
+on selling business assets, see chapter 3.
+Nonemployee compensation. Business income includes amounts you received in your business that were
+properly shown on Forms 1099-NEC. This includes
+amounts reported as nonemployee compensation in box 1
+of the form. You can find more information in the instructions on the back of the Form 1099-NEC you received.
+Name, Image, Likeness (NIL). NIL opportunities can be
+classified as self-employment income. If your NIL income
+is greater than $600 from any source, including non-cash
+income, you should receive Form 1099-NEC or Form
+1099-MISC from that source showing the amount of income you must report on your tax return.
+Payment card and third-party network transactions.
+If you are in a business, you may receive a Form 1099-K
+representing the total dollar amount of total reportable
+payment transactions. This may not be the amount you
+should report as income, as it may not include all the receipts and it may include items that are not included in
+your receipts (such as sales tax).
+Business income deduction. Income you report on
+Schedule C (Form 1040) may be qualified business income and entitle you to a deduction on Form 1040 or
+1040-SR, line 13a. See Form 8995-A or Form 8995 to figure your deduction, if any.
+Kinds of Income
+You must report on your tax return all income you receive
+from your business, including income not reported to you
+on a Form 1099 filed by the payor, unless it is excluded by
+law. In most cases, your business income will be in the
+form of cash, checks, and credit card charges. But business income can be in other forms, such as property or
+services. These and other types of income are explained
+next.
+If you are a U.S. citizen who has business income
+from sources outside the United States (foreign
+income), you must report that income on your tax
+return unless it is exempt from tax under U.S. law. If you
+live outside the United States, you may be able to exclude
+part or all of your foreign-source business income. For details, see Pub. 54, Tax Guide for U.S. Citizens and Resident Aliens Abroad.
+Bartering for Property or Services
+Bartering is an exchange of property or services. You must
+include in your gross receipts, at the time received, the fair
+market value of property or services you receive in exchange for something else. If you exchange services with
+another person and you both have agreed ahead of time
+on the value of the services, that value will be accepted as
+the fair market value unless the value can be shown to be
+otherwise.
+Example 1. You are a self-employed lawyer. You perform legal services for a client, a small corporation. In payment for your services, you receive shares of stock in the
+corporation. You must include the fair market value of the
+shares in income.
+Example 2. You are an artist and create a work of art
+to compensate your landlord for the rent-free use of your
+apartment. You must include the fair rental value of the
+apartment in your gross receipts. Your landlord must include the fair market value of the work of art as rental income.
+Example 3. You are a self-employed accountant. Both
+you and a house painter are members of a barter club, an
+organization that each year gives its members a directory
+CAUTION
+!

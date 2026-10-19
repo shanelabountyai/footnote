@@ -1,0 +1,76 @@
+Instead of making the computation yourself, you can
+use column (c) of Table 4-1 to find the percentage to use.
+Example. In May 2024, you bought and placed in
+service a car for $17,500. You used it 40% for your consulting business. Because you didn’t use the car more
+than 50% for business, you can’t take any section 179 deduction or special depreciation allowance, and you must
+use the straight line method over a 5-year recovery period
+to recover the cost of your car.
+You deduct $700 in 2024. This is the lesser of:
+1. $700 (($17,500 cost × 40% (0.40) business use) ×
+10% (0.10) recovery percentage (from column (c) of
+Table 4-1)), or
+2. $4,960 ($12,400 maximum limit × 40% (0.40) business use).
+Qualified business use 50% or less in a later year. If
+you use your car more than 50% in qualified business use
+in the tax year it is placed in service but the business use
+drops to 50% or less in a later year, you can no longer use
+an accelerated depreciation method for that car.
+For the year the business use drops to 50% or less and
+all later years in the recovery period, you must use the
+straight line depreciation method over a 5-year recovery
+period. In addition, for the year your business use drops to
+50% or less, you must recapture (include in your gross income) any excess depreciation (discussed later). You also
+increase the adjusted basis of your car by the same
+amount.
+Table 4-1. 2024 MACRS Depreciation Chart (Use To Figure Depreciation for 2024)
+If you claim actual expenses for your car, use the chart below to find the
+depreciation method and percentage to use for your 2024 return for cars
+placed in service in 2024.
+For cars placed in service before 2024, you must use the same
+method you used on last year’s return unless a decline in your
+business use requires you to change to the straight line method. Refer
+back to the MACRS Depreciation Chart for the year you placed the car
+in service. (See Car Used 50% or Less for Business, earlier.)
+First, using the left column, find the date you first placed the car in service in
+2024. Then select the depreciation method and percentage from column
+(a), (b), or (c) following the rules explained in this chapter.
+Multiply the unadjusted basis of your car by your business-use
+percentage. Multiply the result by the percentage you found in the
+chart to find the amount of your depreciation deduction for 2024. (Also
+see Depreciation Limits, earlier.)
+CAUTION
+!
+If you placed your car in service after September of any year and you placed other business property in service during the same
+year, you may have to use the Jan. 1–Sept. 30 percentage instead of the Oct. 1–Dec. 31 percentage for your car. To find out if this
+applies to you, determine: 1) the basis of all business property (including other cars) you placed in service after September of that
+year, and 2) the basis of all business property you placed in service during that entire year. If the basis of the property placed in
+service after September isn’t more than 40% of the basis of all property (certain property is excluded) placed in service for the entire
+year, use the percentage for Jan. 1–Sept. 30 for figuring depreciation for your car. See Which Convention Applies? in chapter 4 of
+Pub. 946 for more details.
+Example. You buy machinery (basis of $32,000) in May 2024 and a new van (basis of $20,000) in October 2024, both used 100% in your business.
+You use the percentage for Jan. 1–Sept. 30, 2024, to figure the depreciation for your van. This is because the $20,000 basis of the property (van)
+placed in service after September isn’t more than 40% of the basis of all property placed in service during the year (40% (0.40) × ($32,000 + 20,000)
+= $20,800).
+(a) (b) (c)
+200% Declining Balance 150% Declining Balance
+Date Placed in Service (200% DB)1
+(150% DB)1
+Straight Line (SL)
+Oct. 1–Dec. 31, 2024 200 DB 5.0% 150 DB 3.75% SL 2.5%
+Jan. 1–Sept. 30, 2024 200 DB 20.0 150 DB 15.0 SL 10.0
+Oct. 1–Dec. 31, 2023 200 DB 38.0 150 DB 28.88 SL 20.0
+Jan. 1–Sept. 30, 2023 200 DB 32.0 150 DB 25.5 SL 20.0
+Oct. 1–Dec. 31, 2022 200 DB 22.8 150 DB 20.21 SL 20.0
+Jan. 1–Sept. 30, 2022 200 DB 19.2 150 DB 17.85 SL 20.0
+Oct. 1–Dec. 31, 2021 200 DB 13.68 150 DB 16.4 SL 20.0
+Jan. 1–Sept. 30, 2021 200 DB 11.52 150 DB 16.66 SL 20.0
+Oct. 1–Dec. 31, 2020 200 DB 10.94 150 DB 16.41 SL 20.0
+Jan. 1–Sept. 30, 2020 200 DB 11.52 150 DB 16.66 SL 20.0
+Oct. 1–Dec. 31, 2019 200 DB 9.58 150 DB 14.35 SL 17.5
+Jan. 1–Sept. 30, 2019 200 DB 5.76 150 DB 8.33 SL 10.0
+Prior to 20192
+1
+You can use this column only if the business use of your car is more than 50%.
+2
+If your car was subject to the maximum limits for depreciation and you have unrecovered basis in the car, you can continue to claim depreciation. See Deductions in
+years after the recovery period under Depreciation Limits, earlier.

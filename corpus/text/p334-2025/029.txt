@@ -1,0 +1,85 @@
+reproduced below and are explained in the discussion that
+follows.
+35 Inventory at beginning of year. If different from last
+year’s closing inventory, attach explanation . . . . . . .
+36 Purchases less cost of items withdrawn for personal
+use . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+37 Cost of labor. Do not include any amounts paid to
+yourself . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+38 Materials and supplies . . . . . . . . . . . . . . . . . . . .
+39 Other costs . . . . . . . . . . . . . . . . . . . . . . . . . . .
+40 Add lines 35 through 39 . . . . . . . . . . . . . . . . . . .
+41 Inventory at end of year . . . . . . . . . . . . . . . . . . .
+42 Cost of goods sold. Subtract line 41 from line 40.
+Enter the result here and on line 4 . . . . . . . . . . . . .
+Line 35—Inventory at Beginning of
+Year
+If you are a merchant, beginning inventory is the cost of
+merchandise on hand at the beginning of the year that you
+will sell to customers. If you are a manufacturer or producer, it includes the total cost of raw materials, work in
+process, finished goods, and materials and supplies used
+in manufacturing the goods (see Inventories in chapter 2).
+Opening inventory will usually be identical to the closing inventory of the year before. You must explain any difference in a schedule attached to your return.
+Donation of inventory. If you contribute inventory (property that you sell in the course of your business), the
+amount you can claim as a contribution deduction is the
+smaller of its fair market value on the day you contributed
+it or its basis. The basis of donated inventory is any cost
+incurred for the inventory in an earlier year that you would
+otherwise include in your opening inventory for the year of
+the contribution. You must remove the amount of your contribution deduction from your opening inventory. It is not
+part of the cost of goods sold.
+If the cost of donated inventory is not included in your
+opening inventory, the inventory’s basis is zero and you
+can’t claim a charitable contribution deduction. Treat the
+inventory’s cost as you would ordinarily treat it under your
+method of accounting. For example, include the purchase
+price of inventory bought and donated in the same year in
+the cost of goods sold for that year.
+A special rule may apply to certain donations of food inventory. See Pub. 526, Charitable Contributions.
+Example 1. You are a calendar-year taxpayer who
+uses an accrual method of accounting. In 2025, you contributed property from inventory to a church. It had a fair
+market value of $600. The closing inventory at the end of
+2024 properly included $400 of costs due to the acquisition of the property, and in 2024, you properly deducted
+$50 of administrative and other expenses attributable to
+the property as business expenses. The charitable contribution allowed for 2025 is $400 ($600 − $200). The $200
+is the amount that would be ordinary income if you had
+sold the contributed inventory at fair market value on the
+date of the gift. The cost of goods sold you use in determining gross income for 2025 must not include the $400.
+You remove that amount from opening inventory for 2025.
+Example 2. If, in Example 1, you acquired the contributed property in 2025 at a cost of $400, you would include
+the $400 cost of the property in figuring the cost of goods
+sold for 2025, an equivalent exclusion of income, and deduct the $50 of administrative and other expenses attributable to the property for that year. You would not be allowed any charitable contribution deduction for the
+contributed property.
+Line 36—Purchases Less Cost of
+Items Withdrawn for Personal Use
+If you are a merchant, use the cost of all merchandise you
+bought for sale. If you are a manufacturer or producer, this
+includes the cost of all raw materials or parts purchased
+for manufacture into a finished product.
+Trade discounts. The differences between the stated
+prices of articles and the actual prices you pay for them
+are called trade discounts. You must use the prices you
+pay (not the stated prices) in figuring your cost of purchases. Do not show the discount amount separately as an
+item in gross income.
+An automobile dealer must record the cost of a car in
+inventory reduced by any manufacturer’s rebate that represents a trade discount.
+Cash discounts. Cash discounts are amounts your suppliers let you deduct from your purchase invoices for
+prompt payments. There are two methods of accounting
+for cash discounts. You can either credit them to a separate discount account or deduct them from total purchases
+for the year. Whichever method you use, you must be consistent. If you want to change your method of figuring inventory cost, you must file Form 3115. For more information, see Change in Accounting Method in chapter 2.
+If you credit cash discounts to a separate account, you
+must include this credit balance in your business income
+at the end of the tax year. If you use this method, do not
+reduce your cost of goods sold by the cash discounts.
+Purchase returns and allowances. You must deduct all
+returns and allowances from your total purchases during
+the year.
+Merchandise withdrawn from sale. If you withdraw
+merchandise for your personal or family use, you must exclude this cost from the total amount of merchandise you
+bought for sale. Do this by crediting the purchases or
+sales account with the cost of merchandise you withdraw
+for personal use. You must also charge the amount to your
+drawing account.
+A drawing account is a separate account you should
+keep to record the business income you withdraw to pay
+for personal and family expenses. As stated above, you

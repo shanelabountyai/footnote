@@ -1,0 +1,86 @@
+If you provide any service other than maintenance and
+insurance for an automobile, you must add the FMV of
+that service to the annual lease value of the automobile to
+figure the value of the benefit.
+Four-year lease term. The annual lease values in the
+table are based on a 4-year lease term. These values will
+generally stay the same for the period that begins with the
+first date you use this rule for the automobile and ends on
+December 31 of the fourth full calendar year following that
+date.
+Figure the annual lease value for each later 4-year period by determining the FMV of the automobile on January
+1 of the first year of the later 4-year period and selecting
+the amount in column (2) of the table that corresponds to
+the appropriate dollar range in column (1).
+Using the special accounting rule. If you use the
+special accounting rule for fringe benefits discussed in
+section 4, you can figure the annual lease value for each
+later 4-year period at the beginning of the special accounting period that starts immediately before the January 1
+date described in the previous paragraph.
+For example, assume that you use the special accounting rule and that, beginning on November 1, 2025, the
+special accounting period is November 1 to October 31.
+You elected to use the lease value rule as of January 1,
+2026. You can refigure the annual lease value on November 1, 2029, rather than on January 1, 2030.
+Transferring an automobile from one employee to another. Unless the primary purpose of the transfer is to reduce federal taxes, you can refigure the annual lease
+value based on the FMV of the automobile on January 1
+of the calendar year of transfer.
+However, if you use the special accounting rule for
+fringe benefits discussed in section 4, you can refigure the
+annual lease value (based on the FMV of the automobile)
+at the beginning of the special accounting period in which
+the transfer occurs.
+Prorated Annual Lease Value
+If you provide an automobile to an employee for a continuous period of 30 or more days but less than an entire calendar year, you can prorate the annual lease value. Figure
+the prorated annual lease value by multiplying the annual
+lease value by a fraction, using the number of days of
+availability as the numerator and 365 as the denominator.
+If you provide an automobile continuously for at least 30
+days, but the period covers 2 calendar years (or 2 special
+accounting periods if you’re using the special accounting
+rule for fringe benefits discussed in section 4), you can
+use the prorated annual lease value or the daily lease
+value.
+If you have 20 or more automobiles, see Regulations
+section 1.61-21(d)(6).
+If an automobile is unavailable to the employee because of the employee’s personal reasons (for example, if
+the employee is on vacation), you can’t take into account
+the periods of unavailability when you use a prorated annual lease value.
+Caution: You can’t use a prorated annual lease value if
+the reduction of federal tax is the main reason the automobile is unavailable.
+Daily Lease Value
+If you provide an automobile to an employee for a continuous period of less than 30 days, use the daily lease value
+to figure its value. Figure the daily lease value by multiplying the annual lease value by a fraction, using four times
+the number of days of availability as the numerator and
+365 as the denominator.
+However, you can apply a prorated annual lease value
+for a period of continuous availability of less than 30 days
+by treating the automobile as if it had been available for 30
+days. Use a prorated annual lease value if it would result
+in a lower valuation than applying the daily lease value to
+the shorter period of availability.
+Unsafe Conditions Commuting Rule
+Under this rule, the value of commuting transportation you
+provide to a qualified employee solely because of unsafe
+conditions is $1.50 for a one-way commute (that is, from
+home to work or from work to home). If more than one employee commutes in the vehicle, this value applies to each
+employee. This amount must be included in the employee’s wages or reimbursed by the employee.
+You can use the unsafe conditions commuting rule for
+qualified employees if all of the following requirements are
+met.
+• The employee would ordinarily walk or use public
+transportation for commuting.
+• You have a written policy under which you don’t provide the transportation for personal purposes other
+than commuting because of unsafe conditions.
+• The employee doesn’t use the transportation for personal purposes other than commuting because of unsafe conditions.
+These requirements must be met on a trip-by-trip basis.
+Commuting transportation. This is transportation to or
+from work using any motorized wheeled vehicle (including
+an automobile) manufactured for use on public streets,
+roads, and highways. You or the employee must buy the
+transportation from a party that isn’t related to you. If the
+employee buys it, you must reimburse the employee for its
+cost (for example, cab fare) under a bona fide reimbursement arrangement.
+Qualified employee. A qualified employee for 2026 is
+one who:
+• Performs services during the year;
+• Is paid on an hourly basis;

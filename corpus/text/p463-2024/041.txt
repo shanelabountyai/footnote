@@ -1,0 +1,85 @@
+6.
+How To Report
+This chapter explains where and how to report the expenses discussed in this publication. It discusses reimbursements and how to treat them under accountable and nonaccountable plans. It also explains rules for independent
+contractors and clients, fee-basis officials, certain performing artists, Armed Forces reservists, and certain disabled employees. The chapter ends with illustrations of
+how to report travel, gift, and car expenses on Forms
+2106.
+Where To Report
+This section provides general information on where to report the expenses discussed in this publication.
+Self-employed. You must report your income and expenses on Schedule C (Form 1040) if you are a sole proprietor, or on Schedule F (Form 1040) if you are a farmer. You
+don’t use Form 2106.
+If you claim car or truck expenses, you must provide
+certain information on the use of your vehicle. You provide
+this information on Schedule C (Form 1040) or Form 4562.
+If you file Schedule C (Form 1040):
+• Report your travel expenses, except meals, on
+line 24a;
+• Report your deductible non-entertainment-related
+meals (actual cost or standard meal allowance) on
+line 24b;
+• Report your gift expenses and transportation expenses, other than car expenses, on line 27a; and
+• Report your car expenses on line 9. Complete Part IV
+of the form unless you have to file Form 4562 for depreciation or amortization.
+If you file Schedule F (Form 1040), do the following.
+• Report your car expenses on line 10. Attach Form
+4562 and provide information on the use of your car in
+Part V of Form 4562.
+• Report all other business expenses discussed in this
+publication on line 32. You can only include 50% of
+your non-entertainment-related meals on that line.
+See your form instructions for more information on how to
+complete your tax return.
+Both self-employed and an employee. If you are both
+self-employed and an employee, you must keep separate
+records for each business activity. Report your business
+expenses for self-employment on Schedule C (Form
+1040), or Schedule F (Form 1040), as discussed earlier.
+Report your business expenses for your work as an employee on Form 2106, as discussed next.
+Form 2106 is only used by Armed Forces reservists, qualified performing artists, fee-basis state or
+local government officials, and employees with
+impairment-related work expenses. Due to the suspension
+of miscellaneous itemized deductions subject to the 2%
+floor under section 67(a), employees who don’t fit into one
+of the listed categories may not use Form 2106.
+Employees. If you are an employee, you must generally
+complete Form 2106 to deduct your travel and transportation expenses.
+• You are an employee deducting expenses attributable
+to your job.
+• You weren’t reimbursed by your employer for your expenses (amounts included in box 1 of your Form W-2
+aren’t considered reimbursements).
+• If you claim car expenses, you use the standard mileage rate.
+For more information on how to report your expenses
+on Form 2106, see Completing Form 2106, later.
+Gifts. If you didn’t receive any reimbursements (or the
+reimbursements were all included in box 1 of your Form
+W-2), the only business expense you are claiming is for
+gifts, and the special rules discussed later don’t apply to
+you, don’t complete Form 2106.
+Statutory employees. If you received a Form W-2
+and the “Statutory employee” box in box 13 was checked,
+report your income and expenses related to that income
+on Schedule C (Form 1040). Don’t complete Form 2106.
+Statutory employees include full-time life insurance
+salespersons, certain agent or commission drivers, traveling salespersons, and certain homeworkers.
+If you are entitled to a reimbursement from your
+employer but you don’t claim it, you can’t claim a
+deduction for the expenses to which that unclaimed reimbursement applies.
+Reimbursement for personal expenses. If your employer reimburses you for nondeductible personal expenses, such as for vacation trips, your employer must report
+the reimbursement as wage income in box 1 of your Form
+W-2. You can’t deduct personal expenses.
+Income-producing property. If you have travel or transportation expenses related to income-producing property,
+report your deductible expenses on the form appropriate
+for that activity.
+For example, if you have rental real estate income and
+expenses, report your expenses on Schedule E (Form
+1040), Supplemental Income and Loss. See Pub. 527,
+Residential Rental Property, for more information on the
+rental of real estate.
+Vehicle Provided by Your Employer
+If your employer provides you with a car, you may be able
+to deduct the actual expenses of operating that car for
+business purposes. The amount you can deduct depends
+CAUTION
+!
+CAUTION
+!

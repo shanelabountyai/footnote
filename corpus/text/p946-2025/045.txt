@@ -1,0 +1,89 @@
+number of days in the tax year. You determine the midpoint of the tax year by dividing the number of days in the
+tax year by 2. For the half-year convention, you treat property as placed in service or disposed of on either the first
+day or the midpoint of a month. If the result of dividing the
+number of days in the tax year by 2 is not the first day or
+the midpoint of a month, you treat the property as placed
+in service or disposed of on the nearest preceding first
+day or midpoint of a month.
+Mid-quarter convention. To determine if you must use
+the mid-quarter convention, compare the basis of property
+you place in service in the last 3 months of your tax year to
+that of property you place in service during the full tax
+year. The length of your tax year does not matter. If you
+have a short tax year of 3 months or less, use the
+mid-quarter convention for all applicable property you
+place in service during that tax year.
+You treat property under the mid-quarter convention as
+placed in service or disposed of on the midpoint of the
+quarter of the tax year in which it is placed in service or
+disposed of. Divide a short tax year into 4 quarters and
+determine the midpoint of each quarter.
+For a short tax year of 4 or 8 full calendar months, determine quarters on the basis of whole months. The midpoint of each quarter is either the first day or the midpoint
+of a month. Treat property as placed in service or disposed of on this midpoint.
+To determine the midpoint of a quarter for a short tax
+year of other than 4 or 8 full calendar months, complete
+the following steps.
+1. Determine the number of days in your short tax year.
+2. Determine the number of days in each quarter by dividing the number of days in your short tax year by 4.
+3. Determine the midpoint of each quarter by dividing
+the number of days in each quarter by 2.
+If the result of (3) gives you a midpoint of a quarter that
+is on a day other than the first day or midpoint of a month,
+treat the property as placed in service or disposed of on
+the nearest preceding first day or midpoint of that month.
+Example. Tara Corporation, a calendar year taxpayer,
+was incorporated and began business on March 15. It has
+a short tax year of 91/2 months, ending on December 31.
+During December, it placed property in service for which it
+must use the mid-quarter convention. This is a short tax
+year of other than 4 or 8 full calendar months, so it must
+determine the midpoint of each quarter.
+1. First, it determines that its short tax year beginning
+March 15 and ending December 31 consists of 292
+days.
+2. Next, it divides 292 by 4 to determine the length of
+each quarter, 73 days.
+3. Finally, it divides 73 by 2 to determine the midpoint of
+each quarter, the 37th day.
+The following table shows the quarters of Tara Corporation’s short tax year, the midpoint of each quarter, and the
+date in each quarter that Tara must treat its property as
+placed in service.
+Quarter Midpoint Placed in
+Service
+3/15 – 5/26 4/20 4/15
+5/27 – 8/07 7/02 7/01
+8/08 – 10/19 9/13 9/01
+10/20 – 12/31 11/25 11/15
+The last quarter of the short tax year begins on October
+20, which is 73 days from December 31, the end of the tax
+year. The 37th day of the last quarter is November 25,
+which is the midpoint of the quarter. November 25 is not
+the first day or the midpoint of November, so Tara Corporation must treat the property as placed in service in the
+middle of November (the nearest preceding first day or
+midpoint of that month).
+Property Placed in Service in a Short Tax
+Year
+To figure your MACRS depreciation deduction for the
+short tax year, you must first determine the depreciation
+for a full tax year. You do this by multiplying your basis in
+the property by the applicable depreciation rate. Then, determine the depreciation for the short tax year. Do this by
+multiplying the depreciation for a full tax year by a fraction.
+The numerator (top number) of the fraction is the number
+of months (including parts of a month) the property is treated as in service during the tax year (applying the applicable convention). The denominator (bottom number) is 12.
+See Depreciation After a Short Tax Year, later, for information on how to figure depreciation in later years.
+Example 1—half-year convention. Tara Corporation,
+with a short tax year beginning March 15 and ending December 31, placed in service on March 16 an item of
+5-year property with a basis of $1,000. This is the only
+property the corporation placed in service during the short
+tax year. Tara does not elect to claim a section 179 deduction and the property does not qualify for a special depreciation allowance. The depreciation method for this property is the 200% declining balance method. The
+depreciation rate is 40% and Tara applies the half-year
+convention.
+Tara treats the property as placed in service on August
+1. The determination of this August 1 date is explained in
+the example illustrating the half-year convention under Using the Applicable Convention in a Short Tax Year, earlier.
+Tara is allowed 5 months of depreciation for the short tax
+year that consists of 10 months. The corporation first multiplies the basis ($1,000) by 40% (the declining balance
+rate) to get the depreciation for a full tax year of $400. The
+corporation then multiplies $400 by 5/12 to get the short tax
+year depreciation of $167.
+Example 2—mid-quarter convention. Tara Corporation, with a short tax year beginning March 15 and ending

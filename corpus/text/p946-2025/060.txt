@@ -1,0 +1,115 @@
+Maximum Depreciation Deduction for Passenger Automobiles (Including Trucks and Vans) Acquired Before September 28, 2017, and Placed in Service Before 2020
+Date 4th &
+Placed 1st 2nd 3rd Later
+in Service Year Year Year Year
+2019 $14,9001
+$16,100 $9,700 $5,760
+2018 16,4002
+16,000 9,600 5,760
+1
+If you elected not to claim any special depreciation allowance or
+the vehicle is not qualified property, the maximum depreciation
+deduction is $10,100.
+2
+If you elected not to claim any special depreciation allowance or
+the vehicle is not qualified property, the maximum depreciation
+deduction is $10,000.
+Maximum Depreciation Deduction for Passenger Automobiles Placed in Service Before 2018
+Date 4th &
+Placed 1st 2nd 3rd Later
+in Service Year Year Year Years
+2017 $11,1601
+$5,100 $3,050 $1,875
+2016 11,1601
+5,100 3,050 1,875
+2015 11,1602
+5,100 3,050 1,875
+2014 11,1603
+5,100 3,050 1,875
+2013 11,1603
+5,100 3,050 1,875
+2012 11,1603
+5,100 3,050 1,875
+2011 11,0604
+4,900 2,950 1,775
+2010 11,0604
+4,900 2,950 1,775
+2009 10,9605
+4,800 2,850 1,775
+2008 10,9605
+4,800 2,850 1,775
+2007 3,060 4,900 2,850 1,775
+2006 2,960 4,800 2,850 1,775
+1
+If you elected not to claim any special depreciation allowance or
+the vehicle is not qualified property, the maximum deduction is
+$3,160.
+2
+If you elected not to claim any special depreciation allowance or
+the vehicle is not qualified property, the maximum deduction is
+$3,160. Also, if you placed the vehicle in service in a tax year
+beginning in 2015 and ending in 2016, and you elected to
+accelerate certain credits in lieu of the special depreciation for
+that tax year, the maximum deduction is $3,160.
+3
+If you elected not to claim any special depreciation allowance or
+the vehicle is not qualified property, the maximum deduction is
+$3,160.
+4
+If you elected not to claim any special depreciation allowance or
+the vehicle is not qualified property, the maximum deduction is
+$3,060.
+5
+If you elected not to claim any special depreciation allowance
+for the vehicle or the vehicle is not qualified property, the
+maximum deduction is $2,960.
+Caution: If your business/investment use of the automobile is less than 100%, you must reduce the maximum
+deduction amount by multiplying the maximum amount by
+the percentage of business/investment use determined on
+an annual basis during the tax year.
+Caution: If you have a short tax year, you must reduce
+the maximum deduction amount by multiplying the maximum amount by a fraction. The numerator of the fraction
+is the number of months and partial months in the short
+tax year, and the denominator is 12.
+Example. On April 15, 2025, you bought and placed in
+service a new car for $14,500. You used the car only in
+your business. You file your tax return based on the calendar year. You do not elect a section 179 deduction and
+elected not to claim any special depreciation allowance for
+the 5-year property. Under MACRS, a car is 5-year property. Because you placed your car in service on April 15
+and used it only for business, you use the percentages in
+Table A-1 to figure your MACRS depreciation on the car.
+You multiply the $14,500 unadjusted basis of your car by
+0.20 to get your MACRS depreciation of $2,900 for 2025.
+This $2,900 is below the maximum depreciation deduction
+of $12,200 for passenger automobiles placed in service in
+2025. You can deduct the full $2,900.
+Electric Vehicles
+The maximum depreciation deductions for passenger automobiles that are produced to run primarily on electricity
+are higher than those for other automobiles. The maximum deduction amounts for electric vehicles placed in
+service after August 5, 1997, and before January 1, 2007,
+are shown in the following table. Owners of electric vehicles placed in service after December 31, 2006, should
+use the table of maximum deduction amounts in the previous section titled Passenger Automobiles for electric vehicles classified as passenger automobiles or use the table
+of maximum deduction amounts for trucks and vans, later,
+for electric vehicles classified as trucks and vans.
+Maximum Depreciation Deduction
+for Electric Vehicles
+Date 4th &
+Placed 1st 2nd 3rd Later
+in Service Year Year Year Years
+2006 $8,980 $14,400 $8,650 $5,225
+2005 8,880 14,200 8,450 5,125
+2004 31,8301
+14,300 8,550 5,125
+5/06/2003–
+12/31/2003
+32,0302
+14,600 8,750 5,225
+1/01/2003–
+5/05/2003
+22,8803
+14,600 8,750 5,225
+1
+If you elected not to claim any special depreciation allowance
+for the vehicle, or the vehicle is not qualified property, or the
+vehicle is qualified Liberty Zone property, the maximum
+deduction is $8,880.

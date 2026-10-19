@@ -1,0 +1,42 @@
+Bank Reconciliation
+7. Bank Reconciliation as of
+Date
+TOTAL DEPOSITS NOT CREDITED
+Closing balance shown on bank statement
+Add deposits not credited:
+Subtract outstanding checks:
+No.
+TOTAL OUTSTANDING CHECKS
+Balance shown in checkbook
+Add:
+Subtract:
+Adjusted checkbook balance
+䊲
+䊲
+January 31, 20 —
+1,458.12
+701.33
+1,217.41
+526.50
+2,153.03
+6.00
+2,149.03
+2,159.03
+10.00
+66.70
+9.80
+300.00
+516.08
+1/28
+1/31
+Subtotal 2,675.53
+150.00
+90
+91
+94
+95
+2,149.03 Adjusted balance per bank statement
+Deposit of $600.40 for
+1/8 entered as
+$594.40 (difference)
+Bank service charge

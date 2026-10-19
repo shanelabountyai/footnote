@@ -1,0 +1,82 @@
+More information. For more information about partners
+and partnerships, see Pub. 541.
+Worksheet To Figure the
+Deduction for Business Use of
+Your Home
+This worksheet is to be used by taxpayers filing Schedule F (Form 1040) or by partners with certain unreimbursed ordinary and necessary expenses if using actual
+expenses to figure the deduction. If you are using the simplified method to figure your deduction, use the Simplified
+Method Worksheet, later.
+Instructions for the Worksheet To
+Figure the Deduction for Business
+Use of Your Home
+The Worksheet To Figure the Deduction for Business Use
+of Your Home is to be used by taxpayers filing Schedule F
+(Form 1040) or by partners with certain unreimbursed ordinary and necessary expenses if using actual expenses
+to figure the deduction. The following instructions explain
+how to complete each part of the worksheet.
+Partners. See Partners under Where To Deduct, earlier,
+before completing the worksheet.
+Caution: If you file Schedule C (Form 1040) or Schedule C (Form 1040) with Form 1040-SS and use actual expenses to figure your deduction, use Form 8829 instead of
+this worksheet.
+Part 1—Part of Your Home Used for
+Business
+Lines 1–3. If you figure the percentage based on area,
+use lines 1 through 3 to figure the business-use percentage. Enter the percentage on line 3.
+You can use any other reasonable method that accurately reflects your business-use percentage. If you operate a daycare facility and you meet the exception to the
+exclusive use test for part or all of the area you use for
+business, you must figure the business-use percentage
+for that area as explained under Daycare Facility, earlier. If
+you use another method to figure your business percentage, skip lines 1 and 2 and enter the percentage on line 3.
+Part 2—Figure Your Allowable Deduction
+Line 4. If you file Schedule F (Form 1040), enter your total gross income that is related to the business use of your
+home. This would generally be the amount on line 9 of
+Schedule F (Form 1040).
+Lines 5–7. Use lines 5, 6, and 7 for business use of the
+home expenses that would have been deductible as a
+personal expense if you had not used your home for business. These expenses include certain casualty losses,
+mortgage interest, and real estate taxes.
+Taxpayers claiming the standard deduction. If you
+claim the standard deduction, you will not include any
+mortgage interest, or real estate taxes on lines 6 and 7; instead, you will claim the entire business use of the home
+portion of those expenses using lines 14 and 15. If you are
+not increasing your standard deduction by a net qualified
+disaster loss, then you will not include any casualty losses
+on line 5; instead, you will claim the entire business use of
+the home portion of your casualty losses on line 27. If you
+are filing Schedule A to increase your standard deduction
+by a net qualified disaster loss, see Casualty losses reported on line 5, later.
+Tip: You may prefer to itemize your deductions on
+Schedule A to claim amounts on lines 5, 6, and 7, even if
+your total personal deductions are less than the standard
+deduction.
+Casualty losses reported on line 5. Figure the amount
+to include in column (b) of line 5 as follows.
+Step 1. Complete a worksheet version of Section A of
+Form 4684 treating all your casualty losses (and gains) as
+personal expenses. If you are itemizing your deductions,
+when completing line 17 of this worksheet version of Form
+4684, enter 10% of your adjusted gross income excluding
+the gross income and deductions attributable to the business use of the home. Do not file this worksheet version of
+Form 4684; instead, keep it for your records. You will complete a separate Form 4684 to attach to your return using
+only the personal portion of your casualty losses (and
+gains) for Section A.
+Step 2. Include in column (b) of line 5 the loss amounts
+from lines 15 and 18 of this worksheet version of Form
+4684 that are attributable to the home in which you conducted the business and are the result of a federally declared disaster. If you are claiming an increased standard
+deduction instead of itemizing your deductions, only use a
+net qualified disaster loss on line 15 of the worksheet version of Form 4684 for this Step 2.
+See the instructions for line 33, later, for the business
+use of the home casualty losses that you must include in
+Section B of the separate Form 4684 you attach to your
+return.
+Casualty losses reported on Schedule A. Use only
+the personal portion of your casualty losses (and gains)
+when completing Section A of the separate Form 4684
+you attach to your return. The separate Form 4684 you attach to your return is used to figure the casualty losses
+you can include on line 15 of Schedule A and the net
+qualified disaster losses you can include on line 16 of
+Schedule A.
+Excess casualty losses. See the instructions for
+line 27, later, to deduct the part of your casualty losses for
+business use of your home not allowed because of the
+limits on deducting casualty losses as a personal expense, including any losses that are not the result of a federally declared disaster.

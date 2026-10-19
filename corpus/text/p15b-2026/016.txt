@@ -1,0 +1,96 @@
+Table 2-2. Cost Per $1,000 of Protection for
+1 Month
+Age Cost
+Under 25 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 0.05
+25 through 29 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 0.06
+30 through 34 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 0.08
+35 through 39 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 0.09
+40 through 44 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 0.10
+45 through 49 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 0.15
+50 through 54 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 0.23
+55 through 59 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 0.43
+60 through 64 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 0.66
+65 through 69 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1.27
+70 and older . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2.06
+You figure the total cost to include in the employee’s
+wages by multiplying the monthly cost by the number of
+months’ coverage at that cost.
+Example. Tom’s employer provides Tom with
+group-term life insurance coverage of $200,000. Tom is 45
+years old, isn’t a key employee, and pays $100 per year
+toward the cost of the insurance. Tom’s employer must include $170 in Tom’s wages. The $200,000 of insurance
+coverage is reduced by $50,000. The yearly cost of
+$150,000 of coverage is $270 ($0.15 x 150 x 12), and is
+reduced by the $100 Tom pays for the insurance. The employer includes $170 in boxes 1, 3, and 5 of Tom’s Form
+W-2. The employer also enters $170 in box 12 with code
+C.
+Coverage for dependents. Group-term life insurance
+coverage paid by the employer for the spouse or dependents of an employee may be excludable from income as a
+de minimis fringe benefit if the face amount isn’t more than
+$2,000. If the face amount is greater than $2,000, the dependent coverage may be excludable from income as a
+de minimis fringe benefit if the excess (if any) of the cost of
+insurance over the amount the employee paid for it on an
+after-tax basis is so small that accounting for it is unreasonable or administratively impracticable.
+Former employees. When group-term life insurance
+over $50,000 is provided to an employee (including retirees) after their termination, the employee share of social
+security and Medicare taxes on that period of coverage is
+paid by the former employee with their tax return and isn’t
+collected by the employer. You’re not required to collect
+those taxes. You must, however, pay the employer share
+of social security and Medicare taxes. Use Table 2-2 to
+determine the amount of additional income that is subject
+to social security and Medicare taxes for coverage provided after separation from service. Report the uncollected
+amounts separately in box 12 of Form W-2 using codes M
+and N. See the General Instructions for Forms W-2 and
+W-3 and the instructions for your employment tax return.
+Exception for key employees. Generally, if your
+group-term life insurance plan favors key employees as to
+participation or benefits, you must include the entire cost
+of the insurance in your key employees’ wages. This exception generally doesn’t apply to church plans. When figuring social security and Medicare taxes, you must also
+include the entire cost in the employees’ wages. Include
+the cost in boxes 1, 3, and 5 of Form W-2. However, you
+don’t have to withhold federal income tax or pay FUTA tax
+on the cost of any group-term life insurance you provide to
+an employee.
+For this purpose, the cost of the insurance is the
+greater of the following amounts.
+• The premiums you pay for the employee’s insurance.
+See Regulations section 1.79-4T(Q&A 6) for more information.
+• The cost you figure using Table 2-2.
+For this exclusion, a key employee during 2026 is an
+employee or former employee who is one of the following
+individuals. See section 416(i) of the Internal Revenue
+Code for more information.
+1. An officer having annual pay of more than $235,000.
+2. An individual who for 2026 is either of the following.
+a. A 5% owner of your business.
+b. A 1% owner of your business whose annual pay is
+more than $150,000.
+A former employee who was a key employee upon retirement or separation from service is also a key employee.
+Your plan doesn’t favor key employees as to participation if at least one of the following is true.
+• It benefits at least 70% of your employees.
+• At least 85% of the participating employees aren’t key
+employees.
+• It benefits employees who qualify under a set of rules
+you set up that don’t favor key employees.
+Your plan meets this participation test if it is part of a
+cafeteria plan (discussed earlier in section 1) and it meets
+the participation test for those plans.
+When applying this test, don’t consider employees
+who:
+• Have not completed 3 years of service;
+• Are part time or seasonal;
+• Are nonresident aliens who receive no U.S. source
+earned income from you; or
+• Aren’t included in the plan but are in a unit of employees covered by a collective bargaining agreement, if
+the benefits provided under the plan were the subject
+of good-faith bargaining between you and employee
+representatives.
+Your plan doesn’t favor key employees as to benefits if
+all benefits available to participating key employees are
+also available to all other participating employees. Your
+plan doesn’t favor key employees just because the
+amount of insurance you provide to your employees is uniformly related to their pay.
+S corporation shareholders. Because you can’t
+treat a 2% shareholder of an S corporation as an employee for this exclusion, you must include the cost of all
+group-term life insurance coverage you provide the 2%

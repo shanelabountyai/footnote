@@ -1,0 +1,85 @@
+Year Percentage Amount Limit Allowed
+2019 20.0% $6,300 $3,160 $3,160
+2020 32.0 10,080 5,100 5,100
+2021 19.2 6,048 3,050 3,050
+2022 11.52 3,629 1,875 1,875
+2023 11.52 3,629 1,875 1,875
+2024 5.76 1,814 1,875 1,875
+Total. . . . . . . . . . . . . . . . . . . . . . . . . . . . $16,935
+At the end of 2024, you had an unrecovered basis of
+$14,565 ($31,500 − $16,935). If in 2025 and later years
+you continue to use the car 100% for business, you can
+deduct each year the lesser of $1,875 or your remaining
+unrecovered basis.
+If your business use of the car had been less than
+100% during any year, your depreciation deduction would
+have been less than the maximum amount allowable for
+that year. However, in figuring your unrecovered basis in
+the car, you would still reduce your basis by the maximum
+amount allowable as if the business use had been 100%.
+For example, if you had used your car 60% for business
+instead of 100%, your allowable depreciation deductions
+would have been $8,739 ($14,565 × 60% (0.60)), but you
+would still have to reduce your basis by $14,565 to determine your unrecovered basis.
+Deductions for Passenger
+Automobiles Acquired in a Trade-In
+Caution: Like-kind exchanges beginning after December 31, 2017, are generally limited to exchanges of real
+property not held primarily for sale. Section 1.168(i)-6 of
+the regulations does not reflect this change in law.
+If you acquire a passenger automobile in a trade-in, depreciate the carryover basis separately as if the trade-in
+did not occur. Depreciate the part of the new automobile’s
+basis that exceeds its carryover basis (excess basis) as if
+it were newly placed in service property. This excess basis
+is the additional cash paid for the new automobile in the
+trade-in.
+The depreciation figured for the two components of the
+basis (carryover basis and excess basis) is subject to a
+single passenger automobile limit. Special rules apply in
+determining the passenger automobile limits. These rules
+and examples are discussed in section 1.168(i)-6(d)(3) of
+the regulations.
+Instead of figuring depreciation for the carryover basis
+and the excess basis separately, you can elect to treat the
+old automobile as disposed of and both of the basis components for the new automobile as if placed in service at
+the time of the trade-in. For more information, including
+how to make this election, see Election out under Property
+Acquired in a Like-Kind Exchange or Involuntary Conversion in chapter 4, and sections 1.168(i)-6(i) and
+1.168(i)-6(j) of the regulations.
+What Records Must Be Kept?
+Terms you may need to know
+(see Glossary):
+Business/investment use
+Circumstantial evidence
+Documentary evidence
+You cannot take any depreciation or section 179 deduction for the use of listed property unless you can prove
+your business/investment use with adequate records or
+with sufficient evidence to support your own statements.
+For listed property, you must keep records for as long as
+any recapture can still occur. Recapture can occur in any
+tax year of the recovery period.
+Adequate Records
+Records you should keep. To meet the adequate records requirement, you must maintain an account book,
+diary, log, statement of expense, trip sheet, or similar record or other documentary evidence that, together with
+the receipt, is sufficient to establish each element of an
+expenditure or use. You do not have to record information
+in an account book, diary, or similar record if the information is already shown on the receipt. However, your records should back up your receipts in an orderly manner.
+Elements of expenditure or use. Your records or other
+documentary evidence must support all the following.
+• The amount of each separate expenditure, such as
+the cost of acquiring the item, maintenance and repair
+costs, capital improvement costs, lease payments,
+and any other expenses.
+• The amount of each business and investment use
+(based on an appropriate measure, such as mileage
+for vehicles and time for other listed property), and the
+total use of the property for the tax year.
+• The date of the expenditure or use.
+• The business or investment purpose for the expenditure or use.
+Written documents of your expenditure or use are generally better evidence than oral statements alone. You do
+not have to keep a daily log. However, some type of record
+containing the elements of an expenditure or the business
+or investment use of listed property made at or near the
+time of the expenditure or use and backed up by other
+documents is preferable to a statement you prepare later.
+Timeliness. You must record the elements of an expenditure or use at the time you have full knowledge of the elements. An expense account statement made from an account book, diary, or similar record prepared or
+maintained at or near the time of the expenditure or use is

@@ -1,0 +1,81 @@
+the returns and statements. See the General Instructions
+for Certain Information Returns.
+Employee. If you have employees, you must get an
+SSN from each of them. Record the name and SSN of
+each employee exactly as they are shown on the employee’s social security card. If the employee’s name is not
+correct as shown on the card, the employee should request a new card from the SSA. This may occur if the employee’s name was changed due to marriage or divorce.
+See Pub. 15.
+Form W-4, Employee’s Withholding Allowance Certificate, is completed by each employee so the correct federal income tax can be withheld from their pay.
+If your employee does not have an SSN, they should
+file Form SS-5 with the SSA.
+Other payee. If you make payments to someone who
+is not your employee and you must report the payments
+on an information return, get that person’s SSN. If you
+must report payments to an organization, such as a corporation or partnership, you must get its EIN.
+To get the payee’s SSN or EIN, use Form W-9, Request for Taxpayer Identification Number and Certification.
+A payee who does not provide you with an identification
+number may be subject to backup withholding. For information on backup withholding, see the Instructions for the
+Requester of Form W-9 and the General Instructions for
+Certain Information Returns.
+Income Tax
+This part explains whether you have to file an income tax
+return and when you file it. It also explains how you pay
+the tax.
+Do I Have To File an Income Tax
+Return?
+You have to file an income tax return for 2025 if your net
+earnings from self-employment were $400 or more. If your
+net earnings from self-employment were less than $400,
+you still have to file an income tax return if you meet any
+other filing requirement listed in the Instructions for Form
+1040.
+How Do I File?
+File your income tax return on Form 1040 or 1040-SR
+and attach Schedule C (Form 1040). Enter the net profit
+or loss from Schedule C (Form 1040) on Schedule 1
+(Form 1040). Use Schedule C (Form 1040) to figure your
+net profit or loss from your business. If you operated more
+than one business as a sole proprietorship, attach a separate Schedule C (Form 1040) for each business.
+IRS e-file (Electronic Filing)
+You may be able to file your tax returns electronically using
+an IRS e-file option. Table 1-1 lists the benefits of IRS
+e-file. IRS e-file uses automation to replace most of the
+manual steps needed to process paper returns. As a result, the processing of IRS e-file returns is faster and more
+accurate than the processing of paper returns. As with a
+paper return, you are responsible for making sure your return contains accurate information and is filed on time.
+Using IRS e-file does not affect your probability of an
+IRS examination of your return.
+You can file most commonly used business forms using
+IRS e-file. For more information, go to IRS.gov.
+E-signatures. Paperless filing is easier than you think
+and it’s available to most taxpayers who file electronically,
+including first-time filers who were 16 or older at the end of
+2025. If you file electronically using tax preparation software or a tax professional, you will sign your return using
+the Self-Select PIN (personal identification number)
+method for IRS e-file. If you are married filing jointly, you
+and your spouse will each need to create a PIN and enter
+these PINs as your electronic signatures.
+To create a PIN, you must know your adjusted gross income (AGI) from your originally filed 2024 income tax return (not from an amended return, Form 1040-X, or after
+receiving any math error notice from the IRS). You will also
+need to provide your date of birth (DOB). Make sure your
+DOB is accurate and matches the information on record
+with the SSA before you e-file. To do this, check your annual Social Security Statement.
+With a Self-Select PIN, there is nothing to sign and
+nothing to mail, not even your Form(s) W-2. For more details on the Self-Select PIN method, go to IRS.gov/E-File-
+Providers/Self-Select-Pin-Method-for-Forms-1040and-4868-Modernized-E-File-MeF.
+State returns. In most states, you can file an electronic
+state return simultaneously with your federal return. For
+more information, check with your state tax agency, a tax
+professional, or IRS.gov.
+Refunds and direct deposit. If you have access to U.S.
+banking services or electronic payment systems, you
+should use direct deposit for any refunds. The IRS also
+recommends paying electronically whenever possible.
+Options to pay electronically include using your bank account with Direct Pay, your debit or credit card, your digital
+wallet, or your IRS Online Account.
+With IRS e-file, your refund will be issued in half the
+time as when filing on paper. Most refunds are issued in
+less than 21 days.
+Offset against debts. As with a paper return, you may
+not get all of your refund if you (or your spouse, if filing a
+joint return) owe certain past-due amounts, such as federal tax, state tax, a student loan, or past-due child

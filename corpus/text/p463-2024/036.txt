@@ -1,0 +1,83 @@
+Depreciation deduction for the year of disposition. If
+you deduct actual car expenses and you dispose of your
+car before the end of the recovery period (years 2 through
+5), you are allowed a reduced depreciation deduction in
+the year of disposition.
+Use the depreciation tables in Pub. 946 to figure the reduced depreciation deduction for a car disposed of in
+2024.
+The depreciation amounts computed using the depreciation tables in Pub. 946 for years 2 through 5 that you own
+your car are for a full year’s depreciation. Years 1 and 6
+apply the half-year or mid-quarter convention to the computation for you. If you dispose of the vehicle in years 2
+through 5 and the half-year convention applies, then the
+full year’s depreciation amount must be divided by 2. If the
+mid-quarter convention applies, multiply the full year’s depreciation by the percentage from the following table for
+the quarter that you disposed of the car.
+Quarter Percentage
+First . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12.5%
+Second . . . . . . . . . . . . . . . . . . . . . . . . . . . 37.5
+Third . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 62.5
+Fourth . . . . . . . . . . . . . . . . . . . . . . . . . . . . 87.5
+If the car is subject to the Depreciation Limits, discussed earlier, reduce (but don’t increase) the computed
+depreciation to this amount. See Sale or Other Disposition
+Before the Recovery Period Ends in chapter 4 of Pub. 946
+for more information.
+5.
+Recordkeeping
+If you deduct travel, gift, or transportation expenses, you
+must be able to prove (substantiate) certain elements of
+expense. This chapter discusses the records you need to
+keep to prove these expenses.
+If you keep timely and accurate records, you will
+have support to show the IRS if your tax return is
+ever examined. You will also have proof of expenses that your employer may require if you are reimbursed
+under an accountable plan. These plans are discussed in
+chapter 6 under Reimbursements.
+How To Prove Expenses
+Table 5-1 is a summary of records you need to prove each
+expense discussed in this publication. You must be able to
+prove the elements listed across the top portion of the
+chart. You prove them by having the information and receipts (where needed) for the expenses listed in the first
+column.
+RECORDS
+You can’t deduct amounts that you approximate or
+estimate.
+You should keep adequate records to prove your expenses or have sufficient evidence that will support your
+own statement. You must generally prepare a written record for it to be considered adequate. This is because
+written evidence is more reliable than oral evidence alone.
+However, if you prepare a record on a computer, it is considered an adequate record.
+What Are Adequate Records?
+You should keep the proof you need in an account book,
+diary, log, statement of expense, trip sheets, or similar record. You should also keep documentary evidence that,
+together with your record, will support each element of an
+expense.
+Documentary evidence. You must generally have documentary evidence such as receipts, canceled checks, or
+bills, to support your expenses.
+Exception. Documentary evidence isn’t needed if any
+of the following conditions apply.
+• You have meals or lodging expenses while traveling
+away from home for which you account to your employer under an accountable plan, and you use a per
+diem allowance method that includes meals and/or
+lodging. (Accountable plans and per diem allowances
+are discussed in chapter 6.)
+• Your expense, other than lodging, is less than $75.
+• You have a transportation expense for which a receipt
+isn’t readily available.
+Adequate evidence. Documentary evidence will ordinarily be considered adequate if it shows the amount,
+date, place, and essential character of the expense.
+For example, a hotel receipt is enough to support expenses for business travel if it has all of the following information.
+• The name and location of the hotel.
+• The dates you stayed there.
+• Separate amounts for charges such as lodging,
+meals, and telephone calls.
+A restaurant receipt is enough to prove an expense for
+a business meal if it has all of the following information.
+• The name and location of the restaurant.
+• The number of people served.
+• The date and amount of the expense.
+If a charge is made for items other than food and beverages, the receipt must show that this is the case.
+Canceled check. A canceled check, together with a
+bill from the payee, ordinarily establishes the cost. However, a canceled check by itself doesn’t prove a business
+expense without other evidence to show that it was for a
+business purpose.
+CAUTION
+!

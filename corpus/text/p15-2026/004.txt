@@ -1,0 +1,99 @@
+2023 for an earlier applicable leave period, file Form
+941-X, Form 943-X, or Form 944-X to claim the credit for
+qualified sick and family leave wages paid that year. Filing
+a Form 941-X, Form 943-X, or Form 944-X before filing a
+Form 941 for the quarter, or Form 943 or Form 944 for the
+year, may result in errors or delays in processing your
+Form 941-X, Form 943-X, or Form 944-X.
+Form 941 (sp), Form 943 (sp), and Form 944 (sp). If
+you prefer your form and instructions in Spanish, you can
+file Form 941 (sp), Form 943 (sp), or Form 944 (sp).
+Qualified small business payroll tax credit for increasing research activities. For tax years beginning
+before 2023, a qualified small business may elect to claim
+up to $250,000 of its credit for increasing research activities as a payroll tax credit. The Inflation Reduction Act of
+2022 (the IRA) increases the election amount to $500,000
+for tax years beginning after 2022. The payroll tax credit
+election must be made on or before the due date of the
+originally filed income tax return (including extensions).
+The portion of the credit used against payroll taxes is allowed in the first calendar quarter beginning after the date
+that the qualified small business filed its income tax return.
+The election and determination of the credit amount that
+will be used against the employer’s payroll taxes are made
+on Form 6765, Credit for Increasing Research Activities.
+The amount from Form 6765 must then be reported on
+Form 8974, Qualified Small Business Payroll Tax Credit for
+Increasing Research Activities.
+Starting in the first quarter of 2023, the payroll tax credit
+is first used to reduce the employer share of social security tax up to $250,000 per quarter and any remaining
+credit reduces the employer share of Medicare tax for the
+quarter. Any remaining credit, after reducing the employer
+share of social security tax and the employer share of
+Medicare tax, is then carried forward to the next quarter.
+Form 8974 is used to determine the amount of the credit
+that can be used in the current quarter. The amount from
+Form 8974, line 12 or, if applicable, line 17, is reported on
+Form 941, Form 943, or Form 944. For more information
+about the payroll tax credit, go to IRS.gov/
+ResearchPayrollTC. Also see the line 16 instructions in the
+Instructions for Form 941 (line 17 instructions in the Instructions for Form 943, or line 13 instructions in the Instructions for Form 944) for information on reducing your
+record of tax liability for this credit.
+Disaster tax relief. Disaster tax relief is available for
+those impacted by disasters. For more information about
+disaster tax relief, go to IRS.gov/DisasterTaxRelief.
+2026 withholding tables. The Percentage Method and
+Wage Bracket Method withholding tables, the employer instructions on how to figure employee withholding, and the
+amount to add to a nonresident alien employee’s wages
+for figuring federal income tax withholding are included in
+Pub. 15-T, available at IRS.gov/Pub15T.
+Certification program for professional employer organizations (PEOs). The Stephen Beck, Jr., Achieving a
+Better Life Experience (ABLE) Act of 2014 required the
+IRS to establish a voluntary certification program for
+PEOs. PEOs handle various payroll administration and tax
+reporting responsibilities for their business clients and are
+typically paid a fee based on payroll costs. To become and
+remain certified under the certification program, certified
+professional employer organizations (CPEOs) must meet
+various requirements described in sections 3511 and
+7705 and related published guidance. Certification as a
+CPEO may affect the employment tax liabilities of both the
+CPEO and its customers. A CPEO is generally treated for
+employment tax purposes as the employer of any individual who performs services for a customer of the CPEO
+and is covered by a contract described in section 7705(e)
+(2) between the CPEO and the customer (CPEO contract), but only for wages and other compensation paid to
+the individual by the CPEO. To become a CPEO, the organization must apply through the IRS Online Registration
+System. For more information or to apply to become a
+CPEO, go to IRS.gov/CPEO. Also see Revenue Procedure 2023-18, 2023-13 I.R.B. 605, available at
+IRS.gov/irb/2023-13_IRB#REV-PROC-2023-18.
+Outsourcing payroll duties. Generally, as an employer,
+you’re responsible to ensure that tax returns are filed and
+deposits and payments are made, even if you contract
+with a third party to perform these acts. You remain responsible if the third party fails to perform any required action. Before you choose to outsource any of your payroll
+and related tax duties (that is, withholding, reporting, and
+paying over social security, Medicare, FUTA, and federal
+income taxes) to a third-party payer, such as a payroll
+service provider or reporting agent, go to IRS.gov/
+OutsourcingPayrollDuties for helpful information on this
+topic. If a CPEO pays wages and other compensation to
+an individual performing services for you, and the services
+are covered by a CPEO contract, then the CPEO is generally treated as the employer, but only for wages and other
+compensation paid to the individual by the CPEO. However, with respect to certain employees covered by a
+CPEO contract, you may also be treated as an employer
+of the employees and, consequently, may also be liable for
+federal employment taxes imposed on wages and other
+compensation paid by the CPEO to such employees. For
+more information on the different types of third-party payer
+arrangements, see section 16.
+Aggregate Form 941 or Form 943 filers. Approved
+section 3504 agents and CPEOs must complete Schedule R (Form 941), Allocation Schedule for Aggregate Form
+941 Filers; or Schedule R (Form 943), Allocation Schedule
+for Aggregate Form 943 Filers, as applicable, when filing
+an aggregate Form 941 or Form 943. An aggregate quarterly Form 941 or annual Form 943 is filed by an agent approved by the IRS under section 3504 of the Internal Revenue Code. To request approval to act as an agent for an
+employer, the agent files Form 2678 with the IRS unless
+you’re a state or local government agency acting as an
+agent under the special procedures provided in Revenue
+Procedure 2013-39, 2013-52 I.R.B. 830, available at
+IRS.gov/irb/2013-52_IRB#RP-2013-39. An aggregate
+quarterly Form 941 or annual Form 943 is also filed by
+CPEOs approved by the IRS under section 7705. To become a CPEO, the organization must apply through the
+IRS Online Registration System at IRS.gov/CPEO. CPEOs
+file Form 8973, Certified Professional Employer Organization/Customer Reporting Agreement, to notify the IRS that

@@ -1,0 +1,108 @@
+1. Determine the FMV of the automobile on the first date
+it is available to any employee for personal use.
+2. Using Table 3-1, read down column (1) until you come
+to the dollar range within which the FMV of the automobile falls. Then read across to column (2) to find
+the annual lease value.
+3. Multiply the annual lease value by the percentage of
+personal miles out of total miles driven by the employee.
+Table 3-1. Annual Lease Value Table
+(1) Automobile FMV (2) Annual lease
+value
+$ 0 to 999 . . . . . . . . . . . . . . . . . . . . . . . . $ 600
+1,000 to 1,999 . . . . . . . . . . . . . . . . . . . . 850
+2,000 to 2,999 . . . . . . . . . . . . . . . . . . . . 1,100
+3,000 to 3,999 . . . . . . . . . . . . . . . . . . . . 1,350
+4,000 to 4,999 . . . . . . . . . . . . . . . . . . . . 1,600
+5,000 to 5,999 . . . . . . . . . . . . . . . . . . . . 1,850
+6,000 to 6,999 . . . . . . . . . . . . . . . . . . . . 2,100
+7,000 to 7,999 . . . . . . . . . . . . . . . . . . . . 2,350
+8,000 to 8,999 . . . . . . . . . . . . . . . . . . . . 2,600
+9,000 to 9,999 . . . . . . . . . . . . . . . . . . . . 2,850
+10,000 to 10,999 . . . . . . . . . . . . . . . . . . . 3,100
+11,000 to 11,999 . . . . . . . . . . . . . . . . . . . 3,350
+12,000 to 12,999 . . . . . . . . . . . . . . . . . . . 3,600
+13,000 to 13,999 . . . . . . . . . . . . . . . . . . . 3,850
+14,000 to 14,999 . . . . . . . . . . . . . . . . . . . 4,100
+15,000 to 15,999 . . . . . . . . . . . . . . . . . . . 4,350
+16,000 to 16,999 . . . . . . . . . . . . . . . . . . . 4,600
+17,000 to 17,999 . . . . . . . . . . . . . . . . . . . 4,850
+18,000 to 18,999 . . . . . . . . . . . . . . . . . . . 5,100
+19,000 to 19,999 . . . . . . . . . . . . . . . . . . . 5,350
+20,000 to 20,999 . . . . . . . . . . . . . . . . . . . 5,600
+21,000 to 21,999 . . . . . . . . . . . . . . . . . . . 5,850
+22,000 to 22,999 . . . . . . . . . . . . . . . . . . . 6,100
+23,000 to 23,999 . . . . . . . . . . . . . . . . . . . 6,350
+24,000 to 24,999 . . . . . . . . . . . . . . . . . . . 6,600
+25,000 to 25,999 . . . . . . . . . . . . . . . . . . . 6,850
+26,000 to 27,999 . . . . . . . . . . . . . . . . . . . 7,250
+28,000 to 29,999 . . . . . . . . . . . . . . . . . . . 7,750
+30,000 to 31,999 . . . . . . . . . . . . . . . . . . . 8,250
+32,000 to 33,999 . . . . . . . . . . . . . . . . . . . 8,750
+34,000 to 35,999 . . . . . . . . . . . . . . . . . . . 9,250
+36,000 to 37,999 . . . . . . . . . . . . . . . . . . . 9,750
+38,000 to 39,999 . . . . . . . . . . . . . . . . . . . 10,250
+40,000 to 41,999 . . . . . . . . . . . . . . . . . . . 10,750
+42,000 to 43,999 . . . . . . . . . . . . . . . . . . . 11,250
+44,000 to 45,999 . . . . . . . . . . . . . . . . . . . 11,750
+46,000 to 47,999 . . . . . . . . . . . . . . . . . . . 12,250
+48,000 to 49,999 . . . . . . . . . . . . . . . . . . . 12,750
+50,000 to 51,999 . . . . . . . . . . . . . . . . . . . 13,250
+52,000 to 53,999 . . . . . . . . . . . . . . . . . . . 13,750
+54,000 to 55,999 . . . . . . . . . . . . . . . . . . . 14,250
+56,000 to 57,999 . . . . . . . . . . . . . . . . . . . 14,750
+58,000 to 59,999 . . . . . . . . . . . . . . . . . . . 15,250
+For automobiles with an FMV of more than $59,999,
+the annual lease value equals (0.25 × the FMV of the automobile) + $500.
+FMV. The FMV of an automobile is the amount a person
+would pay to buy it from a third party in an arm’s-length
+transaction in the area in which the automobile is bought
+or leased. That amount includes all purchase expenses,
+such as sales tax and title fees.
+If you have 20 or more automobiles, see Regulations
+section 1.61-21(d)(5)(v). If you and the employee own or
+lease the automobile together, see Regulations section
+1.61-21(d)(2)(ii).
+You don’t have to include the value of a telephone or
+any specialized equipment added to, or carried in, the automobile if the equipment is necessary for your business.
+However, include the value of specialized equipment if the
+employee to whom the automobile is available uses the
+specialized equipment in a trade or business other than
+yours.
+Neither the amount the employee considers to be the
+value of the benefit nor your cost for either buying or leasing the automobile determines its FMV. However, see
+Safe-harbor value next.
+Safe-harbor value. You may be able to use a
+safe-harbor value as the FMV.
+For an automobile you bought at arm’s length, the
+safe-harbor value is your cost, including sales tax, title,
+and other purchase expenses. This method isn’t available
+for an automobile you manufactured.
+For an automobile you lease, you can use any of the
+following as the safe-harbor value.
+• The manufacturer’s invoice price (including options)
+plus 4%.
+• The manufacturer’s suggested retail price minus 8%
+(including sales tax, title, and other expenses of purchase).
+• The retail value of the automobile reported by a nationally recognized pricing source if that retail value is
+reasonable for the automobile.
+Items included in annual lease value table. Each annual lease value in the table includes the value of maintenance and insurance for the automobile. Don’t reduce the
+annual lease value by the value of any of these services
+that you didn’t provide. For example, don’t reduce the annual lease value by the value of a maintenance service
+contract or insurance you didn’t provide. You can take into
+account the services actually provided for the automobile
+by using the general valuation rule, discussed earlier.
+Items not included. The annual lease value doesn’t
+include the value of fuel you provide to an employee for
+personal use, regardless of whether you provide it, reimburse its cost, or have it charged to you. You must include
+the value of the fuel separately in the employee’s wages.
+You can value fuel you provided at FMV or at 5.5 cents per
+mile for all miles driven by the employee. However, you
+can’t value at 5.5 cents per mile fuel you provide for miles
+driven outside the United States (including its territories),
+Canada, and Mexico.
+If you reimburse an employee for the cost of fuel, or
+have it charged to you, you generally value the fuel at the
+amount you reimburse, or the amount charged to you if it
+was bought at arm’s length.
+If you have 20 or more automobiles, see Regulations
+section 1.61-21(d)(3)(ii)(D).

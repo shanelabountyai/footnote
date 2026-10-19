@@ -1,0 +1,108 @@
+Table B-2.
+Asset
+class Description of assets included
+Table of Class Lives and Recovery Periods
+Recovery Periods
+(in years)
+Class Life
+(in years)
+GDS
+(MACRS) ADS
+Manufacture of Converted Paper, Paperboard, and Pulp Products:
+10 7 10
+26.2
+Includes assets used for modification, or remanufacture of paper and pulp into converted
+products, such as paper coated off the paper machine, paper bags, paper boxes, cartons, and
+envelopes. Does not include assets used for manufacture of nonwovens that are elsewhere
+classified.
+11 7 11
+9.5 5 9.5
+14 7 14
+4 3 4
+11 7 11
+3.5 3 3.5
+11 7 11
+14 7 14
+2.5 3 2.5
+20 15 20
+15 7 15
+27.0
+28.0
+30.1
+30.11
+30.2
+30.21
+31.0
+32.1
+32.11
+32.2
+32.3
+Printing, Publishing, and Allied Industries:
+Includes assets used in printing by one or more processes, such as letter-press, lithography,
+gravure, or screen; the performance of services for the printing trade, such as bookbinding,
+typesetting, engraving, photo-engraving, and electrotyping; and the publication of newspapers,
+books, and periodicals.
+Manufacture of Chemicals and Allied Products:
+Includes assets used to manufacture basic organic and inorganic chemicals; chemical products
+to be used in further manufacture, such as synthetic fibers and plastics materials; and finished
+chemical products. Includes assets used to further process man-made fibers, to manufacture
+plastic film, and to manufacture nonwoven fabrics, when such assets are located in the same
+plant in an integrated operation with chemical products producing assets. Also includes assets
+used to manufacture photographic supplies, such as film, photographic paper, sensitized
+photographic paper, and developing chemicals. Includes all land improvements associated with
+plant site or production processes, such as effluent ponds and canals, provided such land
+improvements are depreciable but does not include buildings and structural components as
+defined in section 1.48-1(e) of the regulations. Does not include assets used in the manufacture
+of finished rubber and plastic products or in the production of natural gas products, butane,
+propane, and by-products of natural gas production plants.
+Manufacture of Rubber Products:
+Includes assets used for the production of products from natural, synthetic, or reclaimed
+rubber, gutta percha, balata, or gutta siak, such as tires, tubes, rubber footwear, mechanical
+rubber goods, heels and soles, flooring, and rubber sundries; and in the recapping, retreading,
+and rebuilding of tires.
+Manufacture of Rubber Products—Special Tools and Devices:
+Includes assets defined as special tools, such as jigs, dies, mandrels, molds, lasts, patterns,
+specialty containers, pallets, shells; and tire molds, and accessory parts such as rings and
+insert plates used in activities as defined in class 30.1. Does not include tire building drums
+and accessory parts and general purpose small tools such as wrenches and drills, both power
+and hand-driven, and other general purpose equipment such as conveyors and transfer
+equipment.
+Manufacture of Finished Plastic Products:
+Includes assets used in the manufacture of plastics products and the molding of primary
+plastics for the trade. Does not include assets used in the manufacture of basic plastics
+materials nor the manufacture of phonograph records.
+Manufacture of Finished Plastic Products—Special Tools:
+Includes assets defined as special tools, such as jigs, dies, fixtures, molds, patterns, gauges,
+and specialty transfer and shipping devices, used in activities as defined in class 30.2. Special
+tools are specifically designed for the production or processing of particular parts and have no
+significant utilitarian value and cannot be adapted to further or different use after changes or
+improvements are made in the model design of the particular part produced by the special
+tools. Does not include general purpose small tools such as wrenches and drills, both hand and
+power-driven, and other general purpose equipment such as conveyors, transfer equipment,
+and materials handling devices.
+Manufacture of Leather and Leather Products:
+Includes assets used in the tanning, currying, and finishing of hides and skins; the processing
+of fur pelts; and the manufacture of finished leather products, such as footwear, belting,
+apparel, and luggage.
+Manufacture of Glass Products:
+Includes assets used in the production of flat, blown, or pressed products of glass, such as
+float and window glass, glass containers, glassware, and fiberglass. Does not include assets
+used in the manufacture of lenses.
+Manufacture of Glass Products—Special Tools:
+Includes assets defined as special tools, such as molds, patterns, pallets, and specialty transfer
+and shipping devices such as steel racks to transport automotive glass, used in activities as
+defined in class 32.1. Special tools are specifically designed for the production or processing of
+particular parts and have no significant utilitarian value and cannot be adapted to further or
+different use after changes or improvements are made in the model design of the particular
+part produced by the special tools. Does not include general purpose small tools such as
+wrenches and drills, both hand and power-driven, and other general purpose equipment such
+as conveyors, transfer equipment, and materials handling devices.
+Manufacture of Cement:
+Includes assets used in the production of cement, but does not include assets used in the
+manufacture of concrete and concrete products nor in any mining or extraction process.
+Manufacture of Other Stone and Clay Products:
+Includes assets used in the manufacture of products from materials in the form of clay and
+stone, such as brick, tile, and pipe; pottery and related products, such as vitreous-china,
+plumbing fixtures, earthenware, and ceramic insulating materials; and also includes assets used
+in manufacture of concrete and concrete products. Does not include assets used in any mining
+or extraction processes.

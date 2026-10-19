@@ -1,0 +1,83 @@
+Accident and Health Benefits
+This exclusion applies to contributions you make to an accident or health plan for an employee, including the following.
+• Contributions to the cost of accident or health insurance including qualified long-term care insurance.
+• Contributions to a separate trust or fund that directly or
+through insurance provides accident or health benefits.
+• Contributions to Archer MSAs or HSAs (discussed in
+Pub. 969).
+This exclusion also applies to payments you directly or
+indirectly make to an employee under an accident or
+health plan for employees that are either of the following.
+• Payments or reimbursements of medical expenses.
+• Payments for specific permanent injuries (such as the
+loss of the use of an arm or leg). The payments must
+be figured without regard to the period the employee is
+absent from work.
+Accident or health plan. This is an arrangement that
+provides benefits for your employees, their spouses, their
+dependents, and their children (under age 27 at the end of
+the tax year) in the event of personal injury or sickness.
+The plan may be insured or noninsured and doesn’t need
+to be in writing.
+Employee. For this exclusion, treat the following individuals as employees.
+• A current common-law employee.
+• A full-time life insurance agent who is a current statutory employee.
+• A retired employee.
+• A former employee you maintain coverage for based
+on the employment relationship.
+• A surviving spouse of an individual who died while an
+employee.
+• A surviving spouse of a retired employee.
+• For the exclusion of contributions to an accident or
+health plan, a leased employee who has provided
+services to you on a substantially full-time basis for at
+least a year if the services are performed under your
+primary direction or control.
+Special rule for certain government plans. For certain government accident and health plans, payments to a
+deceased employee’s beneficiary may qualify for the exclusion from gross income if the other requirements for exclusion are met. See section 105(j) for details.
+Exception for S corporation shareholders. Don’t
+treat a 2% shareholder of an S corporation as an employee of the corporation for this purpose. A 2% shareholder is someone who directly or indirectly owns (for any
+day during the tax year) more than 2% of the corporation’s
+stock or stock with more than 2% of the voting power.
+Treat a 2% shareholder as you would a partner in a partnership for fringe benefit purposes, but don’t treat the benefit as a reduction in distributions to the 2% shareholder.
+For more information, see Revenue Ruling 91-26, 1991-1
+C.B. 184.
+Exclusion from wages. You can generally exclude the
+value of accident or health benefits you provide to an employee from the employee’s wages.
+Exception for certain long-term care benefits. You
+can’t exclude contributions to the cost of long-term care
+insurance from an employee’s wages subject to federal income tax withholding if the coverage is provided through a
+flexible spending or similar arrangement. This is a benefit
+program that reimburses specified expenses up to a maximum amount that is reasonably available to the employee
+and is less than five times the total cost of the insurance.
+However, you can exclude these contributions from the
+employee’s wages subject to social security, Medicare,
+and FUTA taxes.
+S corporation shareholders. Because you can’t
+treat a 2% shareholder of an S corporation as an employee for this exclusion, you must include the value of accident or health benefits you provide to the employee in
+the employee’s wages subject to federal income tax withholding. However, you can exclude the value of these benefits (other than payments for specific injuries or illnesses
+not made under a plan set up to benefit all employees or
+certain groups of employees) from the employee’s wages
+subject to social security, Medicare, and FUTA taxes. See
+Announcement 92-16 for more information. You can find
+Announcement 92-16 on page 53 of Internal Revenue Bulletin 1992-5.
+Exception for highly compensated employees. If
+your plan is a self-insured medical reimbursement plan
+that favors highly compensated employees, you must include all or part of the amounts you pay to these employees in box 1 of Form W-2. However, you can exclude
+these amounts (other than payments for specific injuries
+or illnesses not made under a plan set up to benefit all employees or certain groups of employees) from the employee’s wages subject to federal income tax withholding and
+social security, Medicare, and FUTA taxes.
+A self-insured plan is a plan that reimburses your employees for medical expenses not covered by an accident
+or health insurance policy.
+A highly compensated employee for this exception is
+any of the following individuals.
+• One of the five highest paid officers.
+• An employee who owns (directly or indirectly) more
+than 10% in value of the employer’s stock.
+• An employee who is among the highest paid 25% of
+all employees (other than those who can be excluded
+from the plan).
+For more information on this exception, see section
+105(h) of the Internal Revenue Code and its regulations.
+COBRA premiums. The exclusion for accident and
+health benefits applies to amounts you pay to maintain

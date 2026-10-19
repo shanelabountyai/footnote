@@ -1,0 +1,117 @@
+Appendix B—Table of Class Lives and Recovery Periods
+The Table of Class Lives and Recovery
+Periods has two sections. The first section, Specific Depreciable Assets Used
+in All Business Activities, Except as
+Noted, generally lists assets used in all
+business activities. It is shown as Table
+B-1. The second section, Depreciable
+Assets Used in the Following Activities,
+describes assets used only in certain
+activities. It is shown as Table B-2.
+How To Use the Tables
+You will need to look at both Table B-1
+and Table B-2 to find the correct recovery period. Generally, if the property is
+listed in Table B-1, you use the recovery period shown in that table. However, if the property is specifically listed
+in Table B-2 under the type of activity in
+which it is used, you use the recovery
+period listed under the activity in that
+table. Use the tables in the order
+shown below to determine the recovery
+period of your depreciable property.
+Table B-1. Check Table B-1 for a description of the property. If it is described in Table B-1, also check Table B-2
+to find the activity in which the property
+is being used. If the activity is described in Table B-2, read the text (if any)
+under the title to determine if the property is specifically included in that asset class. If it is, use the recovery period shown in the appropriate column
+of Table B-2 following the description of
+the activity. If the activity is not described in Table B-2 or if the activity is described but the property either is not
+specifically included in or is specifically
+excluded from that asset class, then
+use the recovery period shown in the
+appropriate column following the description of the property in Table B-1.
+Tax-exempt use property subject to
+a lease. The recovery period for ADS
+cannot be less than 125% of the lease
+term for any property leased under a
+leasing arrangement to a tax-exempt
+organization, governmental unit, or foreign person or entity (other than a partnership).
+Table B-2. If the property is not listed
+in Table B-1, check Table B-2 to find
+the activity in which the property is being used and use the recovery period
+shown in the appropriate column following the description.
+Property not in either table. If the
+activity or the property is not included
+in either table, check the end of Table
+B-2 to find Certain Property for Which
+Recovery Periods Assigned. This property generally has a recovery period of
+7 years for GDS or 12 years for ADS.
+See Which Property Class Applies Under GDS? and Which Recovery Period
+Applies? in chapter 4 for the class lives
+or the recovery periods for GDS and
+ADS for the following.
+• Residential rental property and
+nonresidential real property (also
+see Appendix A, Chart 2).
+• Qualified rent-to-own property.
+• A motorsport entertainment complex.
+• Any retail motor fuels outlet.
+• Initial clearing and grading land improvements for gas utility property
+and electric utility transmission and
+distribution plants.
+• Any water utility property.
+• Certain electric transmission property used in the transmission at 69
+or more kilovolts of electricity for
+sale and placed in service after
+April 11, 2005.
+• Natural gas gathering and distribution lines placed in service after
+April 11, 2005.
+Example 1. You are a paper manufacturer. During the year, you made
+substantial improvements to the land
+on which your paper plant is located.
+You check Table B-1 and find land improvements under asset class 00.3.
+You then check Table B-2 and find your
+activity, paper manufacturing, under
+asset class 26.1, Manufacture of Pulp
+and Paper. You use the recovery period
+under this asset class because it specifically includes land improvements.
+The land improvements have a 13-year
+class life and a 7-year recovery period
+for GDS. If you elect to use ADS, the
+recovery period is 13 years. If you only
+looked at Table B-1, you would select
+asset class 00.3, Land Improvements,
+and incorrectly use a recovery period
+of 15 years for GDS or 20 years for
+ADS.
+Example 2. You produce rubber
+products. During the year, you made
+substantial improvements to the land
+on which your rubber plant is located.
+You check Table B-1 and find land improvements under asset class 00.3.
+You then check Table B-2 and find your
+activity, producing rubber products, under asset class 30.1, Manufacture of
+Rubber Products. Reading the headings and descriptions under asset
+class 30.1, you find that it does not include land improvements. Therefore,
+you use the recovery period under asset class 00.3. The land improvements
+have a 20-year class life and a 15-year
+recovery period for GDS. If you elect to
+use ADS, the recovery period is 20
+years.
+Example 3. You own a retail clothing store. During the year, you purchased a desk and a cash register for
+use in your business. You check Table
+B-1 and find office furniture under asset class 00.11. Cash registers are not
+listed in any of the asset classes in Table B-1. You then check Table B-2 and
+find your activity, retail store, under asset class 57.0, Distributive Trades and
+Services, which includes assets used
+in wholesale and retail trade. This
+asset class does not specifically list office furniture or a cash register. You
+look back at Table B-1 and use asset
+class 00.11 for the desk. The desk has
+a 10-year class life and a 7-year recovery period for GDS. If you elect to use
+ADS, the recovery period is 10 years.
+For the cash register, you use asset
+class 57.0 because cash registers are
+not listed in Table B-1 but it is an asset
+used in your retail business. The cash
+register has a 9-year class life and a
+5-year recovery period for GDS. If you
+elect to use the ADS method, the recovery period is 9 years.

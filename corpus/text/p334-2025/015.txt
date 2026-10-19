@@ -1,0 +1,77 @@
+you can’t cash or deposit the check until the following
+year.
+Example. You received a check for $500 on December
+30, 2025, from a client. You couldn’t deposit the check in
+your business account until January 3, 2026. You must include this payment in income for 2025.
+Debts paid by another person or canceled. If your
+debts are paid by another person or are canceled by your
+creditors, you may have to report part or all of this debt relief as income. If you receive income in this way, you constructively receive the income when the debt is canceled
+or paid. For more information, see Canceled Debt under
+Kinds of Income in chapter 5.
+Repayment of income. If you include an amount in income and in a later year you have to repay all or part of it,
+you can usually deduct the repayment in the year in which
+you make it. If the amount you repay is over $3,000, a special rule applies. For details about the special rule, see Repayments in chapter 8 of Pub. 17.
+Expenses
+Under the cash method, you generally deduct expenses in
+the tax year in which you actually pay them. This includes
+business expenses for which you contest liability. However, you may not be able to deduct an expense paid in
+advance or you may be required to capitalize certain
+costs, as explained later under Uniform Capitalization
+Rules.
+Expenses paid in advance. You can deduct an expense
+you pay in advance only in the year to which it applies.
+Example. You are a calendar-year taxpayer and you
+pay $1,000 in 2025 for a business insurance policy effective for 1 year, beginning July 1. You can deduct $500 in
+2025 and $500 in 2026.
+Accrual Method
+Under an accrual method of accounting, you generally report income in the year earned and deduct or capitalize
+expenses in the year incurred. The purpose of an accrual
+method of accounting is to match income and expenses in
+the correct year.
+Income—General Rule
+Under an accrual method, you generally include an
+amount in your gross income for the tax year in which all
+events that fix your right to receive the income have occurred and you can determine the amount with reasonable
+accuracy. For a taxpayer with an applicable financial statement or other financial statement as the Secretary may
+specify, the all-events test for an item of gross income is
+considered met no later than when taken into account in
+an applicable financial statement or such other financial
+statement.
+Example. You are a calendar-year accrual method taxpayer. You sold a computer on December 28, 2025. You
+billed the customer in the first week of January 2026, but
+you didn’t receive payment until February 2026. You must
+include the amount received for the computer in your 2025
+income.
+Income—Special Rules
+The following are special rules that apply to advance payments, estimating income, and changing a payment
+schedule for services.
+Estimated income. If you include a reasonably estimated amount in gross income, and later determine the exact
+amount is different, take the difference into account in the
+tax year in which you make the determination.
+Change in payment schedule for services. If you perform services for a basic rate specified in a contract, you
+must accrue the income at the basic rate, even if you
+agree to receive payments at a lower rate until you complete the services and then receive the difference.
+Advance payments. Generally, you report an advance
+payment as income in the year you receive the payment.
+However, if you receive an advance payment, you can
+elect to postpone including the advance payment in income until the next tax year. You can’t postpone including
+any payment beyond that tax year.
+For more information, see Pub. 538 and section 451 of
+the Internal Revenue Code.
+Expenses
+Under an accrual method of accounting, you generally deduct or capitalize a business expense when both the following apply.
+1. The all-events test has been met. The test has been
+met when:
+a. All events have occurred that fix the fact of liability,
+and
+b. The liability can be determined with reasonable
+accuracy.
+2. Economic performance has occurred.
+Economic performance. You generally can’t deduct or
+capitalize a business expense until economic performance occurs. If your expense is for property or services
+provided to you, or for your use of property, economic performance occurs as the property or services are provided
+or as the property is used. If your expense is for property
+or services you provide to others, economic performance
+occurs as you provide the property or services. An exception allows certain recurring items to be treated as incurred during a tax year even though economic performance
+has not occurred. For more information on economic performance, see Economic Performance under Accrual
+Method in Pub. 538.

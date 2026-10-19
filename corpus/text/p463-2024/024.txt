@@ -1,0 +1,92 @@
+Example. You purchased a new car in April 2024 for
+$24,500 and used it 60% for business. Based on your
+business usage, the total cost of your car that qualifies for
+the section 179 deduction is $14,700 ($24,500 cost ×
+60% (0.60) business use). But see Limit on total section
+179, special depreciation allowance, and depreciation deduction, discussed later.
+Limits. There are limits on:
+• The amount of the section 179 deduction;
+• The section 179 deduction for sport utility and certain
+other vehicles; and
+• The total amount of the section 179 deduction, special
+depreciation allowance, and depreciation deduction
+(discussed later) you can claim for a qualified property.
+Limit on the amount of the section 179 deduction.
+For tax years beginning in 2024, the total amount you can
+elect to deduct under section 179 can’t be more than
+$1,220,000.
+If the cost of your section 179 property placed in service in tax years beginning in 2024 is over $3,050,000, you
+must reduce the $1,220,000 dollar limit (but not below
+zero) by the amount of cost over $3,050,000. If the cost of
+your section 179 property placed in service during tax
+years beginning in 2024 is $4,270,000 or more, you can’t
+take a section 179 deduction.
+The total amount you can deduct under section 179
+each year after you apply the limits listed above cannot be
+more than the taxable income from the active conduct of
+any trade or business during the year.
+If you are married and file a joint return, you and your
+spouse are treated as one taxpayer in determining any reduction to the dollar limit, regardless of which of you purchased the property or placed it in service.
+If you and your spouse file separate returns, you are
+treated as one taxpayer for the dollar limit. You must allocate the dollar limit (after any reduction) between you.
+For more information on the above section 179 deduction limits, see Pub. 946, How To Depreciate Property.
+Limit for sport utility and certain other vehicles.
+You cannot elect to deduct more than $30,500 of the cost
+of any heavy sport utility vehicle (SUV) and certain other
+vehicles placed in service during the tax years beginning
+in 2024. This rule applies to any four-wheeled vehicle primarily designed or used to carry passengers over public
+streets, roads, or highways that isn’t subject to any of the
+passenger automobile limits explained under Depreciation
+Limits, later, and that is rated at more than 6,000 pounds
+gross vehicle weight and not more than 14,000 pounds
+gross vehicle weight. However, the $30,500 limit doesn’t
+apply to any vehicle:
+• Designed to have a seating capacity of more than nine
+persons behind the driver’s seat;
+• Equipped with a cargo area of at least 6 feet in interior
+length that is an open area or is designed for use as
+an open area but is enclosed by a cap and isn’t readily
+accessible directly from the passenger compartment;
+or
+• That has an integral enclosure, fully enclosing the
+driver compartment and load carrying device, doesn’t
+have seating rearward of the driver’s seat, and has no
+body section protruding more than 30 inches ahead of
+the leading edge of the windshield.
+Limit on total section 179 deduction, special depreciation allowance, and depreciation deduction.
+The first-year limit on the depreciation deduction, special
+depreciation allowance, and section 179 deduction for vehicles acquired before September 28, 2017, and placed in
+service during 2024, is $12,400. The first-year limit on depreciation, special depreciation allowance, and section
+179 deduction for vehicles acquired after September 27,
+2017, and placed in service during 2024 increases to
+$20,400. If you elect not to claim a special depreciation allowance for a vehicle placed in service in 2024, the
+amount increases to $12,400. The limit is reduced if your
+business use of the vehicle is less than 100%. See Depreciation Limits, later, for more information.
+Example. In the earlier example under More than 50%
+business use requirement, you had a car with a cost (for
+purposes of the section 179 deduction) of $14,700. However, based on your business usage of the car, the total of
+your section 179 deduction, special depreciation allowance, and depreciation deductions is limited to $12,240
+($20,400 limit x 60% (0.60) business use) because the car
+was acquired after September 27, 2017, and placed in
+service during 2024.
+Cost of car. For purposes of the section 179 deduction,
+the cost of the car doesn’t include any amount figured by
+reference to any other property held by you at any time.
+For example, if you buy a car as a replacement for a car
+that was stolen or that was destroyed in a casualty loss,
+and you use section 1033 to determine the basis in your
+replacement vehicle, your cost for purposes of the section
+179 deduction doesn’t include your adjusted basis in the
+relinquished car. In that case, your cost includes only the
+cash you paid.
+Basis of car for depreciation. The amount of the
+section 179 deduction reduces your basis in your car. If
+you choose the section 179 deduction, you must subtract
+the amount of the deduction from the cost of your car. The
+resulting amount is the basis in your car you use to figure
+your depreciation deduction.
+When to elect. If you want to take the section 179 deduction, you must make the election in the tax year you place
+the car in service for business or work.
+How to elect. Employees use Form 2106, Employee
+Business Expenses, to make the election and report the
+section 179 deduction. All others use Form 4562, Depreciation and Amortization, to make an election.

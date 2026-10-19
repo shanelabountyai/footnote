@@ -1,0 +1,84 @@
+reimbursements of non-entertainment-related meal expenses, you don’t have to keep records of these items.
+You aren’t subject to the 50% limit on meals in this case.
+You can deduct the reimbursements or allowances as payment for services if they are ordinary and necessary business expenses. However, you must file Form 1099-MISC
+to report amounts paid to the independent contractor if the
+total of the reimbursements and any other fees is $600 or
+more during the calendar year.
+How To Use Per Diem Rate
+Tables
+This section contains information about the per diem rate
+substantiation methods available and the choice of rates
+you must make for the last 3 months of the year.
+The Two Substantiation Methods
+High-low method. IRS Notices list the localities that are
+treated under the high-low substantiation method as
+high-cost localities for all or part of the year. Notice
+2023-68, available at IRS.gov/irb/
+2023-41_IRB#NOT-2023-68, lists the high-cost localities
+that are eligible for $309 (which includes $74 for meals
+and incidental expenses (M&IE)) per diem, effective October 1, 2023. For travel on or after October 1, 2023, all
+other localities within the continental United States
+(CONUS) are eligible for $214 (which includes $64 for
+M&IE) per diem under the high-low method.
+Notice 2024-68, available at IRS.gov/irb/
+2024-41_IRB#NOT-2024-68, lists the high-cost localities
+that are eligible for $319 (which includes $86 for M&IE)
+per diem, effective October 1, 2024. For travel on or after
+October 1, 2024, the per diem for all other localities increased to $225 (which includes $74 for M&IE).
+Regular federal per diem rate method. Regular federal
+per diem rates are published by the General Services Administration (GSA). Both tables include the separate rate
+for M&IE for each locality. The rates listed for FY2024 at
+GSA.gov/travel/plan-book/per-diem-rates are effective October 1, 2023, and those listed for FY2025 are effective
+October 1, 2024. The standard rate for all locations within
+CONUS not specifically listed for FY2024 is $166 ($107
+for lodging and $59 for M&IE). For FY2025, this rate increases to $178 ($110 for lodging and $68 for M&IE).
+Transition Rules
+The transition period covers the last 3 months of the calendar year, from the time that new rates are effective (generally, October 1) through December 31. During this period, you may generally change to the new rates or finish
+out the year with the rates you had been using.
+High-low method. If you use the high-low substantiation
+method, when new rates become effective (generally, October 1), you can either continue with the rates you used
+for the first part of the year or change to the new rates.
+However, you must continue using the high-low method
+for the rest of the calendar year (through December 31). If
+you are an employer, you must use the same rates for all
+employees reimbursed under the high-low method during
+that calendar year.
+The new rates and localities for the high-low method
+are included each year in a notice that is generally published in mid-to-late September. You can find the notice in
+the weekly Internal Revenue Bulletin (IRB) at IRS.gov/IRB,
+or visit IRS.gov and enter “Special Per Diem Rates” in the
+search box.
+Federal per diem rate method. New CONUS per diem
+rates become effective on October 1 of each year and remain in effect through September 30 of the following year.
+Employees being reimbursed under the per diem rate
+method during the first 9 months of a year (January 1–
+September 30) must continue under the same method
+through the end of that calendar year (December 31).
+However, for travel by these employees from October 1
+through December 31, you can choose to continue using
+the same per diem rates or use the new rates.
+The new federal CONUS per diem rates are published
+each year, generally early in September. Go to GSA.gov/
+travel/plan-book/per-diem-rates.
+Per diem rates for localities listed for FY2025 may
+change at any time. To be sure you have the most
+current rate, check GSA.gov/travel/plan-book/perdiem-rates.
+Completing Form 2106
+For tax years beginning after 2017, the Form 2106 will be
+used by Armed Forces reservists, qualified performing artists, fee-basis state or local government officials, and employees with impairment-related work expenses. Due to
+the suspension of miscellaneous itemized deductions
+subject to the 2% floor under section 67(a), employees
+who don’t fit into one of the listed categories may not use
+Form 2106.
+This section briefly describes how employees complete
+Forms 2106. Table 6-1 explains what the employer reports
+on Form W-2 and what the employee reports on Form
+2106. The instructions for the forms have more information
+on completing them.
+If you are self-employed, don’t file Form 2106. Report your expenses on Schedule C (Form 1040)
+or Schedule F (Form 1040). See the instructions
+for the form that you must file.
+CAUTION
+!
+CAUTION
+!

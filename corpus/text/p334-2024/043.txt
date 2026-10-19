@@ -1,0 +1,85 @@
+government, are paid solely on a fee basis, and your services are not covered under a federal-state social security
+agreement.
+Foreign government or international organization
+employee. You are subject to SE tax if both the following
+conditions are true.
+1. You are a U.S. citizen employed in the United States,
+Puerto Rico, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, or the U.S.
+Virgin Islands by:
+a. A foreign government,
+b. A wholly owned agency of a foreign government,
+or
+c. An international organization.
+2. Your employer is not required to withhold social security and Medicare taxes from your wages.
+U.S. citizen or resident alien residing abroad. If you
+are a self-employed U.S. citizen or resident alien living
+outside the United States, in most cases you must pay SE
+tax. Foreign earnings from self-employment can’t be reduced by your foreign earned income exclusion when
+computing self-employment tax.
+Exception. The United States has social security
+agreements with many countries to eliminate double taxation under two social security systems. Under these
+agreements, you must generally only pay social security
+and Medicare taxes to the country in which you live. The
+country to which you must pay the tax will issue a certificate that serves as proof of exemption from social security
+tax in the other country.
+For more information, see the Instructions for Schedule SE (Form 1040).
+More Than One Business
+If you have earnings subject to SE tax from more than one
+trade, business, or profession, you must combine the net
+profit (or loss) from each to determine your total earnings
+subject to SE tax. A loss from one business reduces your
+profit from another business.
+Community Property Income
+If any of the income from a trade or business, other than a
+partnership, is community property income under state
+law, it is included in the earnings subject to SE tax of the
+spouse carrying on the trade or business.
+Gain or Loss
+Do not include in earnings subject to SE tax a gain or loss
+from the disposition of property that is neither stock in
+trade nor held primarily for sale to customers. It does not
+matter whether the disposition is a sale, an exchange, or
+an involuntary conversion.
+Lost Income Payments
+If you are self-employed and reduce or stop your business
+activities, any payment you receive from insurance or
+other sources for the lost business income is included in
+earnings subject to SE tax. If you are not working when
+you receive the payment, it still relates to your business
+and is included in earnings subject to SE tax, even though
+your business is temporarily inactive.
+Figuring Earnings Subject to SE Tax
+Methods for Figuring Net Earnings
+There are three ways to figure net earnings from self-employment.
+1. The regular method.
+2. The nonfarm optional method.
+3. The farm optional method.
+You must use the regular method to the extent you do
+not use one or both of the optional methods.
+Why use an optional method? You may want to use the
+optional methods (discussed later) when you have a loss
+or a small net profit and any one of the following applies.
+• You want to receive credit for social security benefit
+coverage.
+• You incurred child or dependent care expenses for
+which you could claim a credit. (An optional method
+may increase your earned income, which could increase your credit.)
+• You are entitled to the earned income credit. (An optional method may increase your earned income,
+which could increase your credit.)
+• You are entitled to the additional child tax credit. (An
+optional method may increase your earned income,
+which could increase your credit.)
+Effects of using an optional method. Using an optional
+method could increase your SE tax. Paying more SE tax
+could result in your getting higher benefits when you retire.
+Using the optional methods may also decrease your
+AGI due to the deduction for one-half of SE tax on Form
+1040 or 1040-SR, which may affect your eligibility for credits, deductions, or other items that are subject to an AGI
+limit. Figure your AGI with and without using the optional
+methods to see if the optional methods will benefit you.
+If you use either or both optional methods, you must figure and pay the SE tax due under these methods even if
+you would have had a smaller tax or no tax using the regular method.
+The optional methods may be used only to figure your
+SE tax. To figure your income tax, include your actual
+earnings in gross income, regardless of which method you
+use to determine SE tax.

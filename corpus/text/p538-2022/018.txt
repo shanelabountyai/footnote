@@ -1,0 +1,88 @@
+and uniqueness of the item created and the predominance of aesthetic value over utilitarian value of the
+item created are taken into account.
+Personal service corporation. The exemption for
+writers, photographers, and artists also applies to an expense of a personal service corporation that directly relates to the activities of the qualified employee-owner. A
+qualified employee-owner is a writer, photographer, or artist who owns, with certain members of his or her family,
+substantially all the stock of the corporation.
+Inventories. If you must adopt the uniform capitalization
+rules, revalue the items or costs included in beginning inventory for the year of change as if the capitalization rules
+had been in effect for all prior periods. When revaluing inventory costs, the capitalization rules apply to all inventory
+costs accumulated in prior periods. An adjustment is required under section 481(a). It is the difference between
+the original value of the inventory and the revalued inventory.
+If you must capitalize costs for production and resale
+activities, you are required to make this change. If you
+make the change for the first tax year you are subject to
+the uniform capitalization rules, it is an automatic change
+of accounting method that does not need IRS approval.
+Otherwise, IRS approval is required to make the change.
+Change in
+Accounting Method
+Generally, you can choose any permitted accounting
+method when you file your first tax return. You do not need
+to obtain IRS approval to choose the initial accounting
+method. You must, however, use the method consistently
+from year to year and it must clearly reflect your income.
+See Accounting Methods, earlier.
+Once you have set up your accounting method and
+filed your first return, generally, you must receive approval
+from the IRS before you change the method. A change in
+your accounting method includes a change not only in
+your overall system of accounting but also in the treatment
+of any material item. A material item is one that affects the
+proper time for inclusion of income or allowance of a deduction. Although an accounting method can exist without
+treating an item consistently, an accounting method is not
+established for that item, in most cases, unless the item is
+treated consistently.
+Approval required. The following are examples of
+changes in accounting method that require IRS approval.
+• A change from the cash method to an accrual method
+or vice versa.
+• A change in the method or basis used to value inventory.
+• A change in the depreciation or amortization method
+(except for certain permitted changes to the
+straight-line method).
+• A change involving the adoption, use, or discontinuance of any other specialized method of computing
+taxable income.
+• A change where the Internal Revenue Code and
+Treasury Regulations specifically require that the consent of the IRS must be obtained before adopting
+such a change.
+Approval not required. The following are examples of
+types of changes that are not changes in accounting
+methods and do not require IRS approval.
+• Correction of a math or posting error.
+• Correction of an error in figuring tax liability (such as
+an error in figuring a credit).
+• An adjustment of any item of income or deduction that
+does not involve the proper time for including it in income or deducting it.
+• Certain adjustments in the useful life of a depreciable
+or amortizable asset.
+Form 3115. In general, you must file a current Form 3115
+to request a change in either an overall accounting
+method or the accounting treatment of any item. There are
+some instances when you can obtain automatic consent
+from the IRS to change to certain accounting methods. In
+other instances, you can file Form 3115 using the non-automatic change request procedures to request an accounting method change.
+More information. For more information on making
+changes in accounting methods, see Form 3115 and the
+Instructions for Form 3115. See Revenue Procedure
+2021-34, 2021-35 I.R.B. 337 (or any successor), available
+at IRS.gov/irb/2021-35_IRB#REV-PROC-2021-34, for additional procedures that may apply for obtaining automatic
+consent to change methods of accounting for revenue
+recognition and certain other methods of accounting that
+may affect the accounting for revenue recognition. Also
+see Revenue Procedure 2022-09, 2022-02 I.R.B. 310 (or
+any successor) available at IRS.gov/irb/
+2022-02_IRB#REV-PROC-2022-9, for additional procedures that may apply for obtaining automatic consent to
+change certain methods of accounting related to small
+businesses.
+When making changes in accounting methods or
+when filing Form 3115, you must determine if the
+IRS has issued any new published guidance
+which includes revenue procedures, revenue rulings, notices, regulations, or other relevant guidance in the Internal
+Revenue Bulletin. For the latest information, visit IRS.gov.
+How To Get Tax Help
+If you have questions about a tax issue; need help preparing your tax return; or want to download free publications,
+forms, or instructions, go to IRS.gov and find resources
+that can help you right away.
+CAUTION
+!

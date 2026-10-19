@@ -1,0 +1,98 @@
+Passenger Automobiles (Including Trucks and Vans)
+Year lease began Fair market value (FMV)
+2024–2025 $62,000
+2023 60,000
+2022 56,000
+2021 51,000
+2018*
+–2020 50,000
+*If the lease term began before 2018, see tables below to find out if you have an inclusion amount.
+For years prior to 2018, see the inclusion tables below.
+You may have an inclusion amount for a passenger automobile if:
+Cars
+(Except for Trucks and Vans)
+Year lease began Fair market value (FMV)
+2013–2017 $19,000
+2010–2012 18,500
+Trucks and Vans
+Year lease began Fair market value (FMV)
+.
+2014–2017 $19,500
+2010–2013 19,000
+Fair market value (FMV). FMV is the price at which the
+property would change hands between a willing buyer and
+seller, neither having to buy or sell, and both having reasonable knowledge of all the necessary facts. Sales of
+similar property around the same date may be helpful in
+figuring the FMV of the property.
+Figure the FMV on the first day of the lease term. If the
+capitalized cost of a car is specified in the lease agreement, use that amount as the FMV.
+Figuring the inclusion amount. Inclusion amounts for
+tax years 2018–2025 are listed in Appendices A-1 through
+A-8 for passenger vehicles (including trucks and vans). If
+the FMV of the vehicle is $100,000 or less, use the appropriate appendix (depending on the year you first placed
+the vehicle in service) to determine the inclusion amount.
+If the FMV is more than $100,000, see the revenue procedure(s) identified in the footnote of that year’s appendix for
+the inclusion amount.
+For each tax year during which you lease the car for
+business, determine your inclusion amount by following
+these three steps.
+1. Locate the appendix that applies to you. To find the inclusion amount, do the following.
+a. Find the line that includes the FMV of the car on
+the first day of the lease term.
+b. Go across the line to the column for the tax year in
+which the car is used under the lease to find the
+dollar amount. For the last tax year of the lease,
+use the dollar amount for the preceding year.
+2. Prorate the dollar amount from (1b) for the number of
+days of the lease term included in the tax year.
+3. Multiply the prorated amount from (2) by the percentage of business and investment use for the tax year.
+This is your inclusion amount.
+Example. On January 17, 2025, you leased a car for 3
+years and placed it in service for use in your business.
+The car had an FMV of $62,500 on the first day of the
+lease term. You use the car 75% for business and 25% for
+personal purposes during each year of the lease. Assuming you continue to use the car 75% for business, you use
+Appendix A-8 to arrive at the following inclusion amounts
+for each year of the lease. For the last tax year of the
+lease, 2028, you use the amount for the preceding year.
+Tax year
+Dollar
+amount Proration Business use
+Inclusion
+amount
+2025 $13 348/365 75% $9
+2026 26 365/365 75 20
+2027 36 365/365 75 27
+2028 43 16/366 75 1
+Note: 2028 is a leap year and includes an extra calendar day, February 29, 2028.
+For each year of the lease that you deduct lease payments, you must reduce your deduction by the inclusion
+amount figured for that year.
+Leased car changed from business to personal use.
+If you lease a car for business use and, in a later year,
+change it to personal use, follow the rules explained earlier under Figuring the inclusion amount. For the tax year
+in which you stop using the car for business, use the dollar
+amount for the previous tax year. Prorate the dollar
+amount for the number of days in the lease term that fall
+within the tax year.
+Example. On August 16, 2024, you leased a car with
+an FMV of $64,500 for 3 years. You used the car exclusively in your data processing business. On November 6,
+2025, you closed your business and went to work for a
+company where you aren’t required to use a car for business. Using Appendix A-7, you figured your inclusion
+amount for 2024 and 2025 as shown in the following table,
+and reduced your deductions for lease payments by those
+amounts.
+Tax year Dollar amount Proration Business use
+Inclusion
+amount
+2024 $21 137/366 100% $8
+2025 21 310/365 100 18
+Leased car changed from personal to business use.
+If you lease a car for personal use and, in a later year,
+change it to business use, you must determine the car’s
+FMV on the date of conversion. Then figure the inclusion
+amount using the rules explained earlier under Figuring
+the inclusion amount. Use the FMV on the date of conversion.
+Example. In March 2023, you leased a truck for 4
+years for personal use. On June 1, 2025, you started
+working as a self-employed advertising consultant and
+started using the leased truck for business purposes. Your

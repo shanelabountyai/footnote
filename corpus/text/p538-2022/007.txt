@@ -1,0 +1,88 @@
+This payment represents the value of the tax deferral
+the owners receive by using a tax year different from the
+required tax year.
+Form 8752, Required Payment or Refund Under Section 7519, must be filed each year the section 444 election
+is in effect, even if no payment is due. If the required payment is more than $500 (or the required payment for any
+prior year was more than $500), the payment must be
+made when Form 8752 is filed. If the required payment is
+$500 or less and no payment was required in a prior year,
+Form 8752 must be filed showing a zero amount. See
+Form 8752 and its instructions for more information.
+Applicable election year. Any tax year a section 444
+election is in effect, including the first year, is called an applicable election year. Form 8752 must be filed and the required payment made (or zero amount reported) by May
+15th of the calendar year following the calendar year in
+which the applicable election year begins.
+Required distribution for PSC. A PSC with a section
+444 election in effect must distribute certain amounts to
+employee-owners by December 31 of each applicable
+year. If it fails to make these distributions, it may be required to defer certain deductions for amounts paid to
+owner-employees. The amount deferred is treated as paid
+or incurred in the following tax year.
+For information on the minimum distribution, see the instructions for Part I of Schedule H (Form 1120), Section
+280H Limitations for a Personal Service Corporation
+(PSC).
+Back-up election. A partnership, S corporation, or PSC
+can file a back-up section 444 election if it requests (or
+plans to request) permission to use a business purpose
+tax year, discussed later. If the request is denied, the
+back-up section 444 election must be activated (if the
+partnership, S corporation, or PSC otherwise qualifies).
+Making back-up election. The general rules for making a section 444 election, as discussed earlier, apply.
+When filing Form 8716, type or print “BACK-UP ELEC-
+TION” at the top of the form. However, if Form 8716 is
+filed on or after the date Form 1128 (or Form 2553) is
+filed, type or print “FORM 1128 (or FORM 2553)
+BACK-UP ELECTION” at the top of Form 8716.
+Activating election. A partnership or S corporation
+activates its back-up election by filing the return required
+and making the required payment with Form 8752. The
+due date for filing Form 8752 and making the payment is
+the later of the following dates.
+• May 15 of the calendar year following the calendar
+year in which the applicable election year begins.
+• 60 days after the partnership or S corporation has
+been notified by the IRS that the business year request has been denied.
+A PSC activates its back-up election by filing Form
+8716 with its original or amended income tax return for the
+tax year in which the election is first effective and printing
+on the top of the income tax return, “ACTIVATING
+BACK-UP ELECTION.”
+52-53-Week Tax Year
+A partnership, S corporation, or PSC can use a tax year
+other than its required tax year if it elects a 52-53-week
+tax year (discussed earlier) that ends with reference to either its required tax year or a tax year elected under section 444 (discussed earlier).
+A newly formed partnership, S corporation, or PSC can
+adopt a 52-53-week tax year ending with reference to either its required tax year or a tax year elected under section 444 without IRS approval. However, if the entity
+wishes to change to a 52-53-week tax year or change
+from a 52-53-week tax year that references a particular
+month to a non-52-53-week tax year that ends on the last
+day of that month, it must request IRS approval by filing
+Form 1128.
+Business Purpose Tax Year
+A partnership, S corporation, or PSC establishes the business purpose for a tax year by filing Form 1128. See the
+Instructions for Form 1128 for details.
+Corporations (Other Than S
+Corporations and PSCs)
+A new corporation establishes its tax year when it files its
+first tax return. A newly reactivated corporation that has
+been inactive for a number of years is treated as a new
+taxpayer for the purpose of adopting a tax year. An S corporation or a PSC must use the required tax year rules,
+discussed earlier, to establish a tax year. Generally, a corporation that wants to change its tax year must obtain approval from the IRS under either the: (a) automatic approval procedures; or (b) ruling request procedures. See the
+Instructions for Form 1128 for details.
+Accounting Methods
+An accounting method is a set of rules used to determine
+when and how income and expenses are reported on your
+tax return. Your accounting method includes not only your
+overall method of accounting, but also the accounting
+treatment you use for any material item.
+You choose an accounting method when you file your
+first tax return. If you later want to change your accounting
+method, you must generally get IRS approval. See
+Change in Accounting Method, later.
+No single accounting method is required of all taxpayers. You must use a system that clearly reflects your income and expenses and you must maintain records that
+will enable you to file a correct return. In addition to your
+permanent accounting books, you must keep any other
+records necessary to support the entries on your books
+and tax returns.
+You must use the same accounting method from year
+to year. An accounting method clearly reflects income

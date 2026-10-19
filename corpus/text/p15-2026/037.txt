@@ -1,0 +1,93 @@
+entity that is responsible for collecting, accounting for, or
+paying over trust fund taxes. A responsible person may
+also include one who signs checks for the business or otherwise has authority to cause the spending of business
+funds.
+Willfully means voluntarily, consciously, and intentionally. A responsible person acts willfully if the person knows
+the required actions of collecting, accounting for, or paying
+over trust fund taxes aren’t taking place, or recklessly disregards obvious and known risks to the government’s right
+to receive trust fund taxes.
+Separate accounting when deposits aren’t made or
+withheld taxes aren’t paid. Separate accounting may
+be required if you don’t pay over withheld employee social
+security, Medicare, or income tax; deposit required taxes;
+make required payments; or file tax returns. In this case,
+you would receive written notice from the IRS requiring
+you to deposit taxes into a special trust account for the
+U.S. Government. You may be charged with criminal penalties if you don’t comply with the special bank deposit requirements for the special trust account for the U.S. Government.
+“Averaged” FTD penalty. The IRS may assess an
+“averaged” FTD penalty of 2% to 10% if you’re a monthly
+schedule depositor and didn’t properly complete Form
+941, line 16; Form 943, line 17; Form 944, line 13; or Form
+945, line 7, when your tax liability shown on Form 941,
+line 12; Form 943, line 13; Form 944, line 9; or Form 945,
+line 3, equaled or exceeded $2,500.
+The IRS may also assess an “averaged” FTD penalty of
+2% to 10% if you’re a semiweekly schedule depositor and
+your tax liability shown on Form 941, line 12; Form 943,
+line 13; Form 944, line 9; or Form 945, line 3, equaled or
+exceeded $2,500 and you:
+• Completed Form 941, line 16, instead of Schedule B
+(Form 941); Form 943, line 17, instead of Form 943-A;
+Form 944, line 13, instead of Form 945-A; or Form
+945, line 7, instead of Form 945-A;
+• Failed to attach a properly completed Schedule B
+(Form 941), Form 943-A, or Form 945-A, as applicable; or
+• Improperly completed Schedule B (Form 941), Form
+943-A, or Form 945-A by, for example, entering tax deposits instead of tax liabilities in the numbered
+spaces.
+The FTD penalty is figured by distributing your total tax
+liability shown on Form 941, line 12; Form 943, line 13;
+Form 944, line 9; or Form 945, line 3, equally throughout
+the tax period. Then we apply your deposits and payments to the averaged liabilities in the date order we received your deposits. We figure the penalty on any tax not
+deposited, deposited late, or not deposited in the correct
+amounts. Your deposits and payments may not be counted as timely because the actual dates of your tax liabilities can’t be accurately determined.
+You can avoid an “averaged” FTD penalty by reviewing
+your return before you file it. Follow these steps before
+submitting your Form 941, Form 943, Form 944, or Form
+945.
+• If you’re a monthly schedule depositor, report your tax
+liabilities (not your deposits) in the monthly entry
+spaces on Form 941, line 16; Form 943, line 17; Form
+944, line 13; or Form 945, line 7.
+• If you’re a semiweekly schedule depositor, report your
+tax liabilities (not your deposits) on Schedule B (Form
+941), Form 943-A, or Form 945-A, as applicable, on
+the lines that represent the dates your employees
+were paid.
+• Verify that your total liability shown on Form 941,
+line 16, or the bottom of Schedule B (Form 941)
+equals your tax liability shown on Form 941, line 12.
+• Verify that your total liability shown on Form 943,
+line 17, or Form 943-A, line M, equals your tax liability
+shown on Form 943, line 13.
+• Verify that your total liability shown on Form 944,
+line 13, or Form 945-A, line M, equals your tax liability
+shown on Form 944, line 9.
+• Verify that your total liability shown on Form 945,
+line 7, or Form 945-A, line M, equals your tax liability
+shown on Form 945, line 3.
+• Don’t show negative amounts on Form 941, line 16, or
+Schedule B (Form 941); Form 943, line 17, or Form
+943-A; Form 944, line 13, or Form 945-A; or Form 945,
+line 7, or Form 945-A.
+• For prior-period errors, don’t adjust your tax liabilities
+reported on Form 941, line 16, or Schedule B (Form
+941); Form 943, line 17, or Form 943-A; Form 944,
+line 13, or Form 945-A; or Form 945, line 7, or Form
+945-A. Instead, file an adjusted return (Form 941-X,
+943-X, 944-X, or 945-X) if you’re also adjusting your
+tax liability. If you’re only adjusting your deposits in response to an FTD penalty notice, see the Instructions
+for Schedule B (Form 941), the Instructions for Form
+943-A (for Form 943), or the Instructions for Form
+945-A (for Forms 944 and 945).
+Caution: In addition to civil penalties, you may be
+subject to criminal prosecution (brought to trial) for willfully:
+• Evading tax;
+• Failing to collect or truthfully account for and pay over
+tax;
+• Failing to file a return, supply information, or pay any
+tax due;
+• Furnishing false or fraudulent Forms W-2 to employees or failing to furnish Forms W-2;
+• Committing fraud and providing false statements;
+• Preparing and filing a fraudulent return; or
+• Committing identity theft.

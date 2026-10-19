@@ -1,0 +1,86 @@
+unstated interest) or issue price (for debt instruments with
+OID) when you receive them.
+Lost income payments. If you reduce or stop your business activities, report on Schedule C (Form 1040) any
+payment you receive for the lost income of your business
+from insurance or other sources. Report it on Schedule C
+(Form 1040) even if your business is inactive when you receive the payment.
+Damages. You must include in gross income compensation you receive during the tax year as a result of any of
+the following injuries connected with your business.
+• Patent infringement.
+• Breach of contract or fiduciary duty.
+• Antitrust injury.
+Economic injury. You may be entitled to a deduction
+against the income if you receive compensation for actual
+economic injury. Your deduction is the smaller of the following amounts.
+• The amount you receive or accrue for damages in the
+tax year reduced by the amount you pay or incur in the
+tax year to recover that amount.
+• Your loss from the injury that you have not yet deducted.
+Punitive damages. You must also include punitive
+damages in income.
+Kickbacks. If you receive any kickbacks, include them in
+your income on Schedule C (Form 1040). However, do not
+include them if you properly treat them as a reduction of a
+related expense item, a capital expenditure, or cost of
+goods sold.
+Recovery of items previously deducted. If you recover
+a bad debt or any other item deducted in a previous year,
+include the recovery in income on Schedule C (Form
+1040). However, if all or part of the deduction in earlier
+years did not reduce your tax, you can exclude the part
+that did not reduce your tax. If you exclude part of the recovery from income, you must include with your return a
+computation showing how you figured the exclusion.
+Exception for depreciation. This rule does not apply
+to depreciation. You recover depreciation using the rules
+explained next.
+Recapture of depreciation. In the following situations,
+you have to recapture the depreciation deduction. This
+means you include in income part or all of the depreciation
+you deducted in previous years.
+Listed property. If your business use of listed property (explained in chapter 8 under Depreciation) falls to
+50% or less in a tax year after the tax year you placed the
+property in service, you may have to recapture part of the
+depreciation deduction. You do this by including in income
+on Schedule C (Form 1040) part of the depreciation you
+deducted in previous years. Use Part IV of Form 4797 to
+figure the amount to include on Schedule C (Form 1040).
+For more information, see What Is the Business-Use Requirement? in chapter 5 of Pub. 946. That chapter explains how to determine whether property is used more
+than 50% in your business.
+Section 179 property. If you take a section 179 deduction (explained in chapter 8 under Depreciation) for an
+asset and before the end of the asset’s recovery period
+the percentage of business use drops to 50% or less, you
+must recapture part of the section 179 deduction. You do
+this by including in income on Schedule C (Form 1040)
+part of the deduction you took. Use Part IV of Form 4797
+to figure the amount to include on Schedule C (Form
+1040). See chapter 2 of Pub. 946 to find out when you recapture the deduction.
+Sale or exchange of depreciable property. If you
+sell or exchange depreciable property at a gain, you may
+have to treat all or part of the gain due to depreciation as
+ordinary income. You figure the income due to depreciation recapture in Part III of Form 4797. For more information, see chapter 4 of Pub. 544.
+Items That Are Not Income
+In some cases, the property or money you receive is not
+income.
+Appreciation. Increases in value of your property are not
+income until you realize the increases through a sale or
+other taxable disposition.
+Consignments. Consignments of merchandise to others
+to sell for you are not sales. The title of merchandise remains with you, the consignor, even after the consignee
+possesses the merchandise. Therefore, if you ship goods
+on consignment, you have no profit or loss until the consignee sells the merchandise. Merchandise you have
+shipped out on consignment is included in your inventory
+until it is sold.
+Do not include merchandise you receive on consignment in your inventory. Include your profit or commission
+on merchandise consigned to you in your income when
+you sell the merchandise or when you receive your profit
+or commission, depending upon the method of accounting
+you use.
+Medicaid waiver payments. Certain medicaid waiver
+payments that are reported to you on Form 1099-MISC or
+Form 1099-NEC may not be taxable. For more information
+on how to report those payments, see the Instructions for
+Schedule C (Form 1040).
+Construction allowances. If you enter into a lease after
+August 5, 1997, you can exclude from income the construction allowance you receive (in cash or as a rent reduction) from your landlord if you receive it under both of
+the following conditions.
+• Under a short-term lease of retail space.

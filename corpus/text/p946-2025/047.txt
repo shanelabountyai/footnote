@@ -1,0 +1,70 @@
+How Do You Use General Asset
+Accounts?
+Terms you may need to know
+(see Glossary):
+Adjusted basis
+Amortization
+Amount realized
+Basis
+Convention
+Disposition
+Exchange
+Placed in service
+Recovery period
+Section 1245 property
+Unadjusted basis
+To make it easier to figure MACRS depreciation, you can
+group separate properties into one or more general asset
+accounts (GAAs). You can then depreciate all the properties in each account as a single item of property.
+Property you cannot include. You cannot include property in a GAA if you use it in both a personal activity and a
+trade or business (or for the production of income) in the
+year in which you first place it in service. If property you included in a GAA is later used in a personal activity, see
+Terminating GAA Treatment, later.
+Property generating foreign source income. For information on the GAA treatment of property that generates
+foreign source income, see sections 1.168(i)-1(c)(1)(ii)
+and 1.168(i)-1(f) of the regulations.
+Change in use. Special rules apply to figuring depreciation for property in a GAA for which the use changes during the tax year. Examples include a change in use resulting in a shorter recovery period and/or a more accelerated
+depreciation method or a change in use resulting in a longer recovery period and/or a less accelerated depreciation method. See sections 1.168(i)-1(h) and 1.168(i)-4 of
+the regulations.
+Grouping Property
+Each GAA must include only property you placed in service in the same tax year and that has the following in common.
+• Recovery period.
+• Depreciation method.
+• Convention.
+The following rules also apply when you establish a
+GAA.
+• Mid-quarter convention. Property subject to the
+mid-quarter convention can only be grouped into a
+GAA with property placed in service in the same quarter of the tax year.
+• Mid-month convention. Property subject to the
+mid-month convention can only be grouped into a
+GAA with property placed in service in the same
+month of the tax year.
+• Passenger automobiles. Passenger automobiles
+subject to the limits on passenger automobile depreciation must be grouped into a separate GAA.
+See section 1.168(i)-1(c)(2)(ii) of the regulations for additional rules that apply when you establish a GAA.
+Figuring Depreciation for a GAA
+After you have set up a GAA, you generally figure the
+MACRS depreciation for it by using the applicable depreciation method, recovery period, and convention for the
+property in the GAA. For each GAA, record the depreciation allowance in a separate depreciation reserve account.
+Example. Make & Sell, a calendar year corporation,
+set up a GAA for 10 machines. The machines cost a total
+of $10,000 and were placed in service in June 2025. One
+of the machines cost $8,200 and the rest cost a total of
+$1,800. This GAA is depreciated under the 200% declining balance method with a 5-year recovery period and a
+half-year convention. Make & Sell did not claim the section
+179 deduction on the machines and the machines did not
+qualify for a special depreciation allowance. The depreciation allowance for 2025 is $2,000 [($10,000 × 40% (0.40))
+÷ 2]. As of January 1, 2026, the depreciation reserve account is $2,000.
+Passenger automobiles. To figure depreciation on passenger automobiles in a GAA, apply the deduction limits
+discussed in chapter 5 under Do the Passenger Automobile Limits Apply. Multiply the amount determined using
+these limits by the number of automobiles originally included in the account, reduced by the total number of automobiles removed from the GAA, as discussed under Terminating GAA Treatment, later.
+Disposing of GAA Property
+When you dispose of property included in a GAA, the following rules generally apply.
+• Neither the unadjusted depreciable basis (defined
+later) nor the depreciation reserve account of the GAA
+is affected. You continue to depreciate the account as
+if the disposition had not occurred.
+• The property is treated as having an adjusted basis of
+zero, so you cannot realize a loss on the disposition. If
+the property is transferred to a supplies, scrap, or similar account, its basis in that account is zero.

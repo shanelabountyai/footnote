@@ -1,0 +1,80 @@
+Inventory at beginning of year . . . . . . . . . . . . . . . . . . $37,845
+Plus: Purchases . . . . . . . . . . . . . . . . . . . $285,900
+Minus: Items withdrawn for personal use . . . . 2,650 283,250
+Goods available for sale . . . . . . . . . . . . . . . . . . . . . $321,095
+Minus: Inventory at end of year . . . . . . . . . . . . . . . . . 32,955
+Cost of goods sold . . . . . . . . . . . . . . . . . . . . . . . $288,140
+Items To Check
+Consider the following items before figuring your gross
+profit.
+Gross receipts. At the end of each business day, make
+sure your records balance with your actual cash and credit
+receipts for the day. You may find it helpful to use cash
+registers to keep track of receipts. You should also use a
+proper invoicing system and keep a separate bank account for your business.
+Sales tax collected. Check to make sure your records
+show the correct sales tax collected.
+If you collect state and local sales taxes imposed on
+you as the seller of goods or services from the buyer, you
+must include the amount collected in gross receipts.
+If you are required to collect state and local taxes imposed on the buyer and turn them over to state or local
+governments, you generally do not include these amounts
+in income.
+Inventory at beginning of year. Compare this figure
+with last year's ending inventory. The two amounts should
+usually be the same.
+Purchases. If you take any inventory items for your personal use (use them yourself, provide them to your family,
+or give them as personal gifts, etc.), be sure to remove
+them from the cost of goods sold. For details on how to
+adjust cost of goods sold, see Merchandise withdrawn
+from sale in chapter 6.
+Inventory at end of year. Check to make sure your procedures for taking inventory are adequate. These procedures should ensure all items have been included in inventory and proper pricing techniques have been used.
+Use inventory forms and adding machine tapes as the
+only evidence for your inventory. Inventory forms are available at office supply stores. These forms have columns for
+recording the description, quantity, unit price, and value of
+each inventory item. Each page has space to record who
+made the physical count, who priced the items, who made
+the extensions, and who proofread the calculations. These
+forms will help you confirm that the total inventory is accurate. They will also provide you with a permanent record to
+support its validity.
+Inventories are discussed in chapter 2.
+Testing Gross Profit Accuracy
+If you are in a retail or wholesale business, you can check
+the accuracy of your gross profit figure. First, divide gross
+profit by net receipts. The resulting percentage measures
+the average spread between the merchandise cost of
+goods sold and the selling price.
+Next, compare this percentage to your markup policy.
+Little or no difference between these two percentages
+shows that your gross profit figure is accurate. A large difference between these percentages may show that you
+did not accurately figure sales, purchases, inventory, or
+other items of cost. You should determine the reason for
+the difference.
+Example. You operate a retail business. On the average, you mark up your merchandise so that you will realize
+a gross profit of 331/3% on its sales. The net receipts
+(gross receipts minus returns and allowances) shown on
+your income statement are $300,000. Your cost of goods
+sold is $200,000. This results in a gross profit of $100,000
+($300,000 − $200,000). To test the accuracy of this year's
+results, you divide gross profit ($100,000) by net receipts
+($300,000). The resulting 331/3% confirms your markup
+percentage of 331/3%.
+Additions to Gross Profit
+If your business has income from a source other than its
+regular business operations, enter the income on line 6 of
+Schedule C and add it to gross profit. The result is gross
+business income. Some examples include income from an
+interest-bearing checking account, income from scrap
+sales, income from certain fuel tax credits and refunds,
+and amounts recovered from bad debts.
+8.
+Business Expenses
+Introduction
+You can deduct the costs of operating your business.
+These costs are known as business expenses. These are
+costs you do not have to capitalize or include in the cost of
+goods sold but can deduct in the current year.
+To be deductible, a business expense must be both ordinary and necessary. An ordinary expense is one that is
+common and accepted in your field of business. A necessary expense is one that is helpful and appropriate for
+your business. An expense does not have to be indispensable to be considered necessary.
+For more information about the general rules for deducting business expenses, see section 162 and its regulations.

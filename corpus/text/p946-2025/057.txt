@@ -1,0 +1,88 @@
+2. The depreciation that would have been allowable for
+those years if you had not used the property predominantly for qualified business use in the year you
+placed it in service.
+To determine the amount in (2) above, you must refigure
+the depreciation using the straight line method and the
+ADS recovery period.
+Example. In June 2021, Ellen Rye purchased and
+placed in service a pickup truck that cost $18,000. Ellen
+used it only for qualified business use for 2021 through
+2024. Ellen claimed a section 179 deduction of $10,000
+based on the purchase of the truck. Ellen began depreciating it using the 200% DB method over a 5-year GDS recovery period. The pickup truck’s gross vehicle weight
+was over 6,000 pounds, so it was not subject to the passenger automobile limits discussed later under Do the
+Passenger Automobile Limits Apply. During 2025, Ellen
+used the truck 50% for business and 50% for personal
+purposes. Ellen includes $4,018 excess depreciation in
+her gross income for 2025. The excess depreciation is determined as follows.
+Total section 179 deduction ($10,000) and
+depreciation claimed ($6,618) for 2021 through
+2024. (Depreciation is from Table A-1.) . . . . . . . $16,618
+Minus: Depreciation allowable (Table
+A-8):
+2021—10% of $18,000 . . . . . . . . . . . $1,800
+2022—20% of $18,000 . . . . . . . . . . . 3,600
+2023—20% of $18,000 . . . . . . . . . . . 3,600
+2024—20% of $18,000 . . . . . . . . . . . 3,600 12,600
+Excess depreciation. . . . . . . . . . . . . . . . . . . . . $4,018
+If Ellen’s use of the truck does not change to 50% for
+business and 50% for personal purposes until 2027, there
+will be no excess depreciation. The total depreciation allowable using Table A-8 through 2027 will be $18,000,
+which equals the total of the section 179 deduction and
+depreciation Ellen will have claimed.
+Where to figure and report recapture. Use Form 4797,
+Part IV, to figure the recapture amount. Report the recapture amount as other income on the same form or schedule on which you took the depreciation deduction. For example, report the recapture amount as other income on
+Schedule C (Form 1040) if you took the depreciation deduction on Schedule C. If you took the depreciation deduction on Form 2106, report the recapture amount as
+other income on Schedule 1 (Form 1040), line 8z.
+Lessee’s Inclusion Amount
+If you use leased listed property other than a passenger
+automobile for business/investment use, you must include
+an amount in your income in the first year your qualified
+business-use percentage is 50% or less. Your qualified
+business-use percentage is the part of the property’s total
+use that is qualified business use (defined earlier). For the
+inclusion amount rules for a leased passenger automobile,
+see Leasing a Car in chapter 4 of Pub. 463.
+The inclusion amount is the sum of Amount A and
+Amount B, described next. However, see the special rules
+for the inclusion amount, later, if your lease begins in the
+last 9 months of your tax year or is for less than 1 year.
+Amount A. Amount A is:
+1. The FMV of the property, multiplied by
+2. The business/investment use for the first tax year the
+qualified business-use percentage is 50% or less,
+multiplied by
+3. The applicable percentage from Table A-19 in Appendix A.
+The FMV of the property is the value on the first day of
+the lease term. If the capitalized cost of an item of listed
+property is specified in the lease agreement, you must
+treat that amount as the FMV.
+Amount B. Amount B is:
+1. The FMV of the property, multiplied by
+2. The average of the business/investment use for all tax
+years the property was leased that precede the first
+tax year the qualified business-use percentage is 50%
+or less, multiplied by
+3. The applicable percentage from Table A-20 in Appendix A.
+Maximum inclusion amount. The inclusion amount
+cannot be more than the sum of the deductible amounts of
+rent for the tax year in which the lessee must include the
+amount in gross income.
+Inclusion amount worksheet. The following worksheet
+is provided to help you figure the inclusion amount for
+leased listed property.
+Inclusion Amount Worksheet
+for Leased Listed Property
+Keep for Your Records
+1. Fair market value .......................
+2. Business/investment use for first year
+business use is 50% or less .............
+3. Multiply line 1 by line 2 ..................
+4. Rate (%) from Table A-19 ...............
+5. Multiply line 3 by line 4. This is Amount
+A .....................................
+6. Fair market value .......................
+7. Average business/investment use for
+years property leased before the first year
+business use is 50% or less . . . . . . . . . . . . .
+8. Multiply line 6 by line 7 ..................
+9. Rate (%) from Table A-20 ...............

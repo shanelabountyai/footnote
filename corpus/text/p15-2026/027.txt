@@ -1,0 +1,92 @@
+higher tax rate by completing Step 2 of their 2026 Form
+W-4. Employees also have the option to report on their
+2026 Form W-4 other income they will receive that isn’t
+subject to withholding and other deductions they will claim
+in order to increase the accuracy of their federal income
+tax withholding.
+See Pub. 505 for more information about completing
+Form W-4. Along with Form W-4, you may wish to order
+Pub. 505 for use by your employees.
+Don’t accept any withholding or estimated tax payments from your employees in addition to withholding
+based on their Form W-4. If they require additional withholding, they should submit a new Form W-4 and, if necessary, pay estimated tax by filing Form 1040-ES or by
+making an electronic payment of estimated taxes. Employees who receive tips may provide funds to their employer for withholding on tips; see Collecting taxes on tips
+in section 6.
+Exemption from federal income tax withholding.
+Generally, an employee may claim exemption from federal
+income tax withholding because they had no income tax
+liability last year and expect none this year. See the Form
+W-4 instructions for more information. However, the wages are still subject to social security and Medicare taxes.
+See also Invalid Forms W-4, later in this section.
+A Form W-4 claiming exemption from withholding is effective when it is given to the employer and only for that
+calendar year. To continue to be exempt from withholding,
+an employee must give you a new Form W-4 by February
+15. If the employee doesn’t give you a new Form W-4 by
+February 15, begin withholding as if they had checked the
+box for Single or Married filing separately in Step 1(c) and
+made no entries in Step 2, Step 3, or Step 4 of the 2026
+Form W-4. If the employee provides a new Form W-4
+claiming exemption from withholding on February 16 or
+later, you may apply it to future wages but don’t refund any
+taxes withheld while the exempt status wasn’t in place.
+Withholding federal income taxes on the wages of
+nonresident alien employees. In general, you must
+withhold federal income taxes on the wages of nonresident alien employees. However, see Pub. 515 for exceptions to this general rule. See section 5 for more guidance
+on H-2A visa workers.
+Withholding adjustment for nonresident alien employees. Nonresident aliens may not claim the standard
+deduction on their tax returns; therefore, employers must
+add an amount to the wages of nonresident alien employees performing services within the United States in order
+to figure the amount of federal income tax to withhold from
+their wages. The amount is added to their wages solely for
+calculating federal income tax withholding. The amount
+isn’t included in any box on the employee’s Form W-2 and
+doesn’t increase the income tax liability of the employee.
+The amount also doesn’t increase the social security tax
+or Medicare tax liability of the employer or the employee,
+or the FUTA tax liability of the employer. See Withholding
+Adjustment for Nonresident Alien Employees under Introduction in Pub. 15-T for the amount to add to their wages
+for the payroll period.
+Supplemental wage payment. The adjustment for
+determining the amount of income tax withholding for nonresident alien employees doesn’t apply to a supplemental
+wage payment (see section 7) if the 37% mandatory flat
+rate withholding applies or if the 22% optional flat rate
+withholding is being used to calculate income tax withholding on the supplemental wage payment.
+Nonresident alien employee’s Form W-4. When completing Forms W-4, nonresident aliens are required to:
+• Not claim exemption from income tax withholding
+(even if they meet both of the conditions to claim exemption from withholding listed in the Form W-4 instructions);
+• Request withholding as if they’re single, regardless of
+their actual filing status;
+• Not claim the child tax credit or credit for other dependents in Step 3 of Form W-4 (if the nonresident
+alien is a resident of Canada, Mexico, or South Korea,
+or a student from India, or a business apprentice from
+India, they may claim, under certain circumstances
+(see Pub. 519, U.S. Tax Guide for Aliens), the child tax
+credit or credit for other dependents); and
+• Write “Nonresident Alien” or “NRA” in the space below
+Step 4(c) of Form W-4.
+If you maintain an electronic Form W-4 system, you
+should provide a field for nonresident aliens to enter nonresident alien status instead of writing “Nonresident Alien”
+or “NRA” in the space below Step 4(c) of Form W-4. You
+should instruct nonresident aliens to see Notice 1392,
+Supplemental Form W-4 Instructions for Nonresident Aliens, before completing Form W-4.
+Form 8233. If a nonresident alien employee claims a
+tax treaty exemption from withholding, the employee must
+submit Form 8233 with respect to the income exempt under the treaty, instead of Form W-4. For more information,
+see the Instructions for Form 8233 and Pay for Personal
+Services Performed under Withholding on Specific Income in Pub. 515.
+IRS review of requested Forms W-4. When requested
+by the IRS, you must make original Forms W-4 available
+for inspection by an IRS employee. You may also be directed to send certain Forms W-4 to the IRS. You may receive
+a notice from the IRS requiring you to submit a copy of
+Form W-4 for one or more of your named employees.
+Send the requested copy or copies of Form W-4 to the
+IRS at the address provided and in the manner directed by
+the notice. The IRS may also require you to submit copies
+of Form W-4 to the IRS as directed by a revenue procedure or notice published in the Internal Revenue Bulletin.
+After submitting a copy of a requested Form W-4 to the
+IRS, continue to withhold federal income tax based on that
+Form W-4 if it is valid (see Invalid Forms W-4, later in this
+section). However, if the IRS later notifies you in writing
+that the employee isn’t entitled to claim exemption from
+withholding or a claimed amount of deductions or credits,
+withhold federal income tax based on the effective date,
+employee’s permitted filing status, and withholding

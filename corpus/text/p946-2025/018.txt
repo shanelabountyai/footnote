@@ -1,0 +1,91 @@
+Leaf’s qualifying cost for the section 179 deduction is
+$520.
+Dollar Limits
+The total amount you can elect to deduct under section
+179 for most property placed in service in tax years beginning in 2025 generally cannot be more than $2,500,000. If
+you acquire and place in service more than one item of
+qualifying property during the year, you can allocate the
+section 179 deduction among the items in any way, as
+long as the total deduction is not more than $2,500,000.
+You do not have to claim the full $2,500,000.
+Tip: The amount you can elect to deduct is not affected if you place qualifying property in service in a short tax
+year or if you place qualifying property in service for only a
+part of a 12-month tax year.
+Caution: After you apply the dollar limit to determine a
+tentative deduction, you must apply the business income
+limit (described later) to determine your actual section 179
+deduction.
+Example. In 2025, you bought and placed in service
+$2,500,000 in machinery and a $25,000 circular saw for
+your business. You elect to deduct $2,475,000 for the machinery and the entire $25,000 for the saw, a total of
+$2,500,000. This is the maximum amount you can deduct.
+Your $25,000 deduction for the saw completely recovered
+its cost. Your basis for depreciation is zero. The basis for
+depreciation of your machinery is $25,000. You figure this
+by subtracting your $2,475,000 section 179 deduction for
+the machinery from the $2,500,000 cost of the machinery.
+Situations affecting dollar limit. Under certain circumstances, the general dollar limits on the section 179 deduction may be reduced or increased or there may be additional dollar limits. The general dollar limit is affected by
+any of the following situations.
+• The cost of your section 179 property placed in service exceeds $4,000,000.
+• You placed in service a sport utility or certain other vehicles.
+• You are married filing a joint or separate return.
+Costs Exceeding $4,000,000
+If the cost of your qualifying section 179 property placed in
+service in a year is more than $4,000,000, you must generally reduce the dollar limit (but not below zero) by the
+amount of cost over $4,000,000. If the cost of your section
+179 property placed in service during 2025 is $6,500,000
+or more, you cannot take a section 179 deduction.
+Example. In 2025, Jane Ash placed in service machinery costing $4,050,000. This cost is $50,000 more than
+$4,000,000, so Jane must reduce the dollar limit to
+$2,450,000 ($2,500,000 − $50,000).
+Sport Utility and Certain Other Vehicles
+You cannot elect to expense more than $31,300 of the
+cost of any heavy sport utility vehicle (SUV) and certain
+other vehicles placed in service in tax years beginning in
+2025. This rule applies to any 4-wheeled vehicle primarily
+designed or used to carry passengers over public streets,
+roads, or highways that is rated at more than 6,000
+pounds gross vehicle weight and not more than 14,000
+pounds gross vehicle weight. However, the $31,300 limit
+does not apply to any vehicle:
+• Designed to seat more than nine passengers behind
+the driver’s seat;
+• Equipped with a cargo area (either open or enclosed
+by a cap) of at least 6 feet in interior length that is not
+readily accessible from the passenger compartment;
+or
+• That has an integral enclosure fully enclosing the
+driver compartment and load carrying device, does
+not have seating rearward of the driver’s seat, and has
+no body section protruding more than 30 inches
+ahead of the leading edge of the windshield.
+Married Individuals
+If you are married, how you figure your section 179 deduction depends on whether you file jointly or separately. If
+you file a joint return, you and your spouse are treated as
+one taxpayer in determining any reduction to the dollar
+limit, regardless of which of you purchased the property or
+placed it in service. If you and your spouse file separate
+returns, you are treated as one taxpayer for the dollar limit,
+including the reduction for costs over $4,000,000. You
+must allocate the dollar limit (after any reduction) between
+you equally, unless you both elect a different allocation. If
+the percentages elected by each of you do not total 100%,
+50% will be allocated to each of you.
+Example. You are married. You and your spouse file
+separate returns. You bought and placed in service
+$4,000,000 of qualified farm machinery in 2025. Your
+spouse has a separate business, and bought and placed
+in service $300,000 of qualified business equipment. Your
+combined dollar limit is $2,200,000. This is because you
+and your spouse must figure the limit as if you were one
+taxpayer. You reduce the $2,500,000 dollar limit by the
+$300,000 excess of your costs over $4,000,000.
+You elect to allocate the $2,200,000 dollar limit as follows.
+• $2,090,000 ($2,200,000 x 95% (0.95)) to your machinery.
+• $110,000 ($2,200,000 x 5% (0.05)) to your spouse’s
+equipment.
+If you did not make an election to allocate your costs in
+this way, you and your spouse would have to allocate
+$1,100,000 ($2,200,000 × 50% (0.50)) to each of you.
+Joint return after filing separate returns. If you and
+your spouse elect to amend your separate returns by filing

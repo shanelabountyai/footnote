@@ -1,0 +1,83 @@
+Tangible personal property. Tangible personal property
+is any tangible property that is not real property. It includes
+the following property.
+• Machinery and equipment.
+• Property contained in or attached to a building (other
+than structural components), such as refrigerators,
+grocery store counters, office equipment, printing
+presses, testing equipment, and signs.
+• Gasoline storage tanks and pumps at retail service
+stations.
+• Livestock, including horses, cattle, hogs, sheep,
+goats, and mink and other fur-bearing animals.
+• Portable air conditioners or heaters placed in service
+by you in tax years beginning after 2015.
+• Certain property used predominantly to furnish lodging or in connection with the furnishing of lodging (except as provided in section 50(b)(2)).
+The treatment of property as tangible personal property
+for the section 179 deduction is not controlled by its treatment under local law. For example, property may not be
+tangible personal property for the deduction even if treated so under local law, and some property (such as fixtures) may be tangible personal property for the deduction
+even if treated as real property under local law.
+Off-the-shelf computer software. Off-the-shelf computer software is qualifying property for purposes of the
+section 179 deduction. This is computer software that is
+readily available for purchase by the general public, is
+subject to a nonexclusive license, and has not been substantially modified. It includes any program designed to
+cause a computer to perform a desired function. However,
+a database or similar item is not considered computer
+software unless it is in the public domain and is incidental
+to the operation of otherwise qualifying software.
+Qualified section 179 real property. You can elect to
+treat certain qualified real property you placed in service
+during the tax year as section 179 property. If this election
+is made, the term “section 179 property” will include any
+qualified real property that is:
+• Qualified improvement property, as described in section 168(e)(6) of the Internal Revenue Code; and
+• Any of the following improvements to nonresidential
+real property placed in service after the date the nonresidential real property was first placed in service.
+1. Roofs.
+2. Heating, ventilation, and air-conditioning property.
+3. Fire protection and alarm systems.
+4. Security systems.
+For more information, see Special rules for qualified section 179 real property, later.
+Qualified improvement property. Generally, this is
+any improvement to an interior portion of a building that is
+nonresidential real property if the improvement is placed
+in service after the date the building was first placed in
+service.
+Also, qualified improvement property does not include
+the cost of any improvement attributable to the following.
+• The enlargement of the building.
+• Any elevator or escalator.
+• The internal structural framework of the building.
+Property Acquired for Business Use
+To qualify for the section 179 deduction, your property
+must have been acquired for use in your trade or business. Property you acquire only for the production of income, such as investment property, rental property (if renting property is not your trade or business), and property
+that produces royalties, does not qualify.
+Partial business use. When you use property for both
+business and nonbusiness purposes, you can elect the
+section 179 deduction only if you use the property more
+than 50% for business in the year you place it in service. If
+you use the property more than 50% for business, multiply
+the cost of the property by the percentage of business
+use. Use the resulting business cost to figure your section
+179 deduction.
+Example. May Oak bought and placed in service an
+item of section 179 property costing $11,000. May used
+the property 80% for business and 20% for personal purposes. The business part of the cost of the property is
+$8,800 (80% (0.80) × $11,000).
+Property Acquired by Purchase
+To qualify for the section 179 deduction, your property
+must have been acquired by purchase. For example, property acquired by gift or inheritance does not qualify.
+Property is not considered acquired by purchase in the
+following situations.
+1. It is acquired by one component member of a controlled group from another component member of the
+same group.
+2. Its basis is determined either:
+a. In whole or in part by its adjusted basis in the
+hands of the person from whom it was acquired, or
+b. Under the stepped-up basis rules for property acquired from a decedent.
+3. It is acquired from a related person.
+Related persons. Related persons are described under
+Related persons, earlier. However, to determine whether
+property qualifies for the section 179 deduction, treat as
+an individual’s family only their spouse, ancestors, and lineal descendants and substitute "50%" for "10%" each
+place it appears.

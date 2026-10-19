@@ -1,0 +1,88 @@
+• Isn’t claimed under section 213(a)(1) of the Fair Labor
+Standards Act (FLSA) of 1938 (as amended) to be exempt from the minimum wage and maximum hour provisions;
+• Is within a classification for which you actually pay, or
+have specified in writing that you will pay, overtime pay
+of at least one and one-half times the regular rate provided in section 207 of FLSA; and
+• Received pay of not more than $160,000 during 2025.
+However, an employee isn’t considered a qualified employee if you don’t comply with the recordkeeping requirements concerning the employee’s wages, hours, and other
+conditions and practices of employment under section
+211(c) of FLSA and the related regulations.
+Unsafe conditions. Unsafe conditions exist if, under the
+facts and circumstances, a reasonable person would consider it unsafe for the employee to walk or use public
+transportation at the time of day the employee must commute. One factor indicating whether it is unsafe is the history of crime in the geographic area surrounding the employee’s workplace or home at the time of day the
+employee commutes.
+4. Rules for Withholding,
+Depositing, and Reporting
+Use the following guidelines for withholding, depositing,
+and reporting taxable noncash fringe benefits.
+Valuation of taxable fringe benefits. Generally, you
+must determine the value of taxable noncash fringe benefits no later than January 31 of the next year. Before January 31, you may reasonably estimate the value of the
+fringe benefits for purposes of withholding and depositing
+on time.
+Choice of period for withholding, depositing, and reporting. For employment tax and withholding purposes,
+you can treat taxable noncash fringe benefits (including
+personal use of employer-provided highway motor vehicles) as paid on a pay period, quarter, semiannual, annual, or other basis. But the benefits must be treated as
+paid no less frequently than annually. You don’t have to
+choose the same period for all employees. You can withhold more frequently for some employees than for others.
+You can change the period as often as you like as long
+as you treat all of the benefits provided in a calendar year
+as paid no later than December 31 of the calendar year.
+You can also treat the value of a single fringe benefit as
+paid on one or more dates in the same calendar year,
+even if the employee receives the entire benefit at one
+time. For example, if your employee receives a fringe benefit valued at $1,000 in one pay period during 2026, you
+can treat it as made in four payments of $250, each in a
+different pay period of 2026. You don’t have to notify the
+IRS of the use of the periods discussed above.
+Transfer of property. The above choice for reporting
+and withholding doesn’t apply to a cash fringe benefit or a
+fringe benefit that is a transfer of tangible or intangible personal property of a kind normally held for investment or a
+transfer of real property. For these kinds of fringe benefits,
+you must use the actual date the property was transferred
+to the employee.
+Withholding and depositing taxes. You can add the
+value of taxable fringe benefits to regular wages for a payroll period and figure income tax withholding on the total.
+Or you can withhold federal income tax on the value of
+fringe benefits at the flat 22% rate that applies to supplemental wages. See section 7 of Pub. 15 for the flat rate
+(37%) when supplemental wage payments to an individual
+exceed $1 million during the year.
+You must withhold the applicable income, social security, and Medicare taxes on the date or dates you chose to
+treat the benefits as paid. Deposit the amounts withheld
+as discussed in section 11 of Pub. 15.
+Additional Medicare Tax withholding. In addition to
+withholding Medicare tax at 1.45%, you must withhold a
+0.9% Additional Medicare Tax from wages you pay to an
+employee in excess of $200,000 in a calendar year. You’re
+required to begin withholding Additional Medicare Tax in
+the pay period in which you pay wages in excess of
+$200,000 to an employee and continue to withhold it each
+pay period until the end of the calendar year. Additional
+Medicare Tax is only imposed on the employee. There is
+no employer share of Additional Medicare Tax. All wages
+that are subject to Medicare tax are subject to Additional
+Medicare Tax withholding if paid in excess of the $200,000
+withholding threshold.
+For more information on what wages are subject to
+Medicare tax, see Table 2-1, and the chart, Special Rules
+for Various Types of Services and Payments, in section 15
+of Pub. 15. For more information on Additional Medicare
+Tax, go to IRS.gov/ADMTfaqs.
+Amount of deposit. To estimate the amount of income tax withholding and employment taxes and to deposit them on time, make a reasonable estimate of the
+value of the taxable fringe benefits provided on the date or
+dates you chose to treat the benefits as paid. Determine
+the estimated deposit by figuring the amount you would
+have had to deposit if you had paid cash wages equal to
+the estimated value of the fringe benefits and withheld
+taxes from those cash wages. Even if you don’t know
+which employee will receive the fringe benefit on the date
+the deposit is due, you should follow this procedure.
+If you underestimate the value of the fringe benefits and
+deposit less than the amount you would have had to deposit if the applicable taxes had been withheld, you may
+be subject to a penalty.
+If you overestimate the value of the fringe benefit and
+overdeposit, you can either claim a refund or have the
+overpayment applied to your next employment tax return.
+See the instructions for your employment tax return.
+If you paid the required amount of taxes but withheld a
+lesser amount from the employee, you can recover from
+the employee the social security, Medicare, or income tax

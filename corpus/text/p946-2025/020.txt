@@ -1,0 +1,83 @@
+Step 8—Using $20,000 (from Step 7) as taxable income, XYZ’s actual charitable contribution (limited to
+10% of taxable income) is $2,000.
+Carryover of disallowed deduction. You can carry over
+for an unlimited number of years the cost of any qualified
+section 179 real property that you placed in service in tax
+years beginning after 2015, and that you elected to expense, but were unable to deduct because of the business income limitation. This disallowed deduction amount
+is shown on line 13 of Form 4562. You use the amount you
+carry over to determine your section 179 deduction in the
+next year. Enter that amount on line 10 of your Form 4562
+for the next year.
+If you place more than one property in service in a year,
+you can select the properties for which all or a part of the
+costs will be carried forward. Your selections must be
+shown in your books and records. For this purpose, treat
+section 179 costs allocated from a partnership or an S
+corporation as one item of section 179 property. If you do
+not make a selection, the total carryover will be allocated
+equally among the properties you elected to expense for
+the year.
+If costs from more than 1 year are carried forward to a
+subsequent year in which only part of the total carryover
+can be deducted, you must deduct the costs being carried
+forward from the earliest year first.
+Special rules for qualified section 179 real property. You can carry over to 2026 a 2025 deduction attributable to qualified section 179 real property that you
+placed in service during the tax year and that you elected
+to expense but were unable to take because of the business income limitation. See Carryover of disallowed deduction, earlier. Thus, the amount of any 2025 disallowed
+section 179 expense deduction attributable to qualified
+section 179 real property will be reported on line 13 of
+Form 4562.
+Tip: If there is a sale or other disposition of your property (including a transfer at death) before you can use the
+full amount of any outstanding carryover of your disallowed section 179 deduction, neither you nor the new
+owner can deduct any of the unused amount. Instead, you
+must add it back to the property’s basis.
+Partnerships and Partners
+The section 179 deduction limits apply both to the partnership and to each partner. The partnership determines its
+section 179 deduction subject to the limits. It then allocates the deduction among its partners.
+Each partner adds the amount allocated from partnerships (shown on Schedule K-1 (Form 1065), Partner’s
+Share of Income, Deductions, Credits, etc.) to their nonpartnership section 179 costs and then applies the dollar
+limit to this total. To determine any reduction in the dollar
+limit for costs over $4,000,000, the partner does not include any of the cost of section 179 property placed in
+service by the partnership. After the dollar limit (reduced
+for any nonpartnership section 179 costs over
+$4,000,000) is applied, any remaining cost of the partnership and nonpartnership section 179 property is subject to
+the business income limit.
+Partnership’s taxable income. For purposes of the
+business income limit, figure the partnership’s taxable income by adding together the net income and losses from
+all trades or businesses actively conducted by the partnership during the year. See the Instructions for Form 1065
+for information on how to figure partnership net income (or
+loss). However, figure taxable income without regard to
+credits, tax-exempt income, the section 179 deduction,
+and guaranteed payments under section 707(c) of the Internal Revenue Code.
+Partner’s share of partnership’s taxable income. For
+purposes of the business income limit, the taxable income
+of a partner engaged in the active conduct of one or more
+of a partnership’s trades or businesses includes their allocable share of taxable income derived from the partnership’s active conduct of any trade or business.
+Example. In 2025, Beech Partnership placed in service section 179 property with a total cost of $4,050,000.
+The partnership must reduce its dollar limit by $50,000
+($4,050,000 − $4,000,000). Its maximum section 179 deduction is $2,450,000 ($2,500,000 − $50,000), and it
+elects to expense that amount. The partnership’s taxable
+income from the active conduct of all its trades or businesses for the year was $3,500,000, so it can deduct the
+full $2,450,000. It allocates $40,000 of its section 179 deduction and $50,000 of its taxable income to Dean, one of
+its partners.
+In addition to being a partner in Beech Partnership,
+Dean is also a partner in Cedar Partnership, which allocated to Dean a $30,000 section 179 deduction and $35,000
+of its taxable income from the active conduct of its business. Dean also conducts a business as a sole proprietor
+and, in 2025, placed in service in that business qualifying
+section 179 property costing $55,000. Dean had a net
+loss of $5,000 from that business for the year.
+Dean does not have to include section 179 partnership
+costs to figure any reduction in the dollar limit, so the total
+section 179 costs for the year are not more than
+$4,000,000 and the dollar limit is not reduced. Dean’s
+maximum section 179 deduction is $2,500,000. Dean
+elects to expense all of the $70,000 in section 179 deductions allocated from the partnerships ($40,000 from Beech
+Partnership plus $30,000 from Cedar Partnership), plus
+$55,000 of the sole proprietorship’s section 179 costs,
+and notes that information in the books and records. However, Dean’s deduction is limited to the business taxable
+income of $80,000 ($50,000 from Beech Partnership, plus
+$35,000 from Cedar Partnership, minus $5,000 loss from
+Dean’s sole proprietorship). Dean carries over $45,000
+($125,000 − $80,000) of the elected section 179 costs to
+2026. Dean allocates the carryover amount to the cost of
+section 179 property placed in service in Dean’s sole proprietorship, and notes that allocation in the books and records.

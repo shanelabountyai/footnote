@@ -1,0 +1,93 @@
+directly for Sasha’s lodging and reimbursed $80 a day
+($320 total) for M&IE. Sasha’s actual meal expenses
+weren’t more than the federal rate for Albuquerque, which
+is $69 per day.
+The employer included the $44 that was more than the
+federal rate (($80 − $69) × 4) in box 1 of Sasha’s Form
+W-2. The employer shows $276 ($69 a day × 4) under
+code L in box 12 of Form W-2. This amount isn’t included
+in income. Sasha doesn’t have to complete Form 2106;
+however, Sasha must include the $44 in gross income as
+wages (by reporting the total amount shown in box 1 of
+their Form W-2).
+Example 2. Another performing artist, Ari, also lives in
+Austin and works for the same employer as in Example 1.
+In May, the employer sent Ari to San Diego for 4 days and
+paid the hotel directly for the hotel bill. The employer reimbursed Ari $75 a day for M&IE. The federal rate for San
+Diego is $74 a day.
+Ari can prove that actual non-entertainment-related
+meal expenses totaled $380. The employer’s accountable
+plan won’t pay more than $75 a day for travel to San
+Diego, so Ari doesn’t give the employer the records that
+prove that the amount actually spent was $380. However,
+Ari does account for the time (dates), place, and business
+purpose of the trip. This is Ari’s only business trip this year.
+Ari was reimbursed $300 ($75 × 4 days), which is $4
+more than the federal rate of $296 ($74 × 4 days). The
+employer includes the $4 as income on the employee’s
+Form W-2 in box 1. The employer also enters $296 under
+code L in box 12 of the employee’s Form W-2.
+Ari completes Form 2106 to figure deductible expenses
+and enters the total of actual expenses for the year ($380)
+on Form 2106. Ari also enters the reimbursements that
+weren’t included in income ($296). Ari’s total deductible
+meals and beverages expense, before the 50% limit, is
+$96. Ari will include $48 as an itemized deduction.
+Example 3. Palmer, a fee-basis state government official, drives 10,000 miles during 2024 for business. Under
+the employer’s accountable plan, Palmer gets reimbursed
+70 cents ($0.70) a mile, which is more than the standard
+mileage rate. The total reimbursement is $7,000.
+The employer must include the reimbursement amount
+up to the standard mileage rate, $6,700 (10,000 miles x 67
+cents ($0.67) per mile), under code L in box 12 of the employee’s Form W-2. That amount isn’t taxable. The employer must also include $300 ($7,000 − $6,700) in box 1
+of the employee’s Form W-2. This is the reimbursement
+that is more than the standard mileage rate.
+If the expenses are equal to or less than the standard
+mileage rate, Palmer wouldn’t complete Form 2106. If the
+expenses are more than the standard mileage rate,
+Palmer would complete Form 2106 and report total expenses and reimbursement (shown under code L in box 12 of
+their Form W-2). Palmer would then claim the excess expenses as an itemized deduction.
+Returning Excess Reimbursements
+Under an accountable plan, you are required to return any
+excess reimbursement or other expense allowances for
+your business expenses to the person paying the reimbursement or allowance. Excess reimbursement means
+any amount for which you didn’t adequately account within
+a reasonable period of time. For example, if you received
+a travel advance and you didn’t spend all the money on
+business-related expenses or you don’t have proof of all
+your expenses, you have an excess reimbursement.
+Adequate accounting and reasonable period of time
+were discussed earlier in this chapter.
+Travel advance. You receive a travel advance if your employer provides you with an expense allowance before you
+actually have the expense, and the allowance is reasonably expected to be no more than your expense. Under an
+accountable plan, you are required to adequately account
+to your employer for this advance and to return any excess
+within a reasonable period of time.
+If you don’t adequately account for or don't return any
+excess advance within a reasonable period of time, the
+amount you don’t account for or return will be treated as
+having been paid under a nonaccountable plan (discussed later).
+Unproven amounts. If you don’t prove that you actually traveled on each day for which you received a per
+diem or car allowance (proving the elements described in
+Table 5-1), you must return this unproven amount of the
+travel advance within a reasonable period of time. If you
+don’t do this, the unproven amount will be considered paid
+under a nonaccountable plan (discussed later).
+Per diem allowance more than federal rate. If your
+employer’s accountable plan pays you an allowance that
+is higher than the federal rate, you don’t have to return the
+difference between the two rates for the period you can
+prove business-related travel expenses. However, the difference will be reported as wages on your Form W-2. This
+excess amount is considered paid under a nonaccountable plan (discussed later).
+Example. Your employer sends you on a 5-day business trip to Phoenix in March 2024 and gives you a $400
+($80 × 5 days) advance to cover your M&IE. The federal
+per diem for M&IE for Phoenix is $69. Your trip lasts only 3
+days. Under your employer’s accountable plan, you must
+return the $160 ($80 × 2 days) advance for the 2 days you
+didn’t travel. For the 3 days you did travel, you don’t have
+to return the $33 difference between the allowance you received and the federal rate for Phoenix (($80 − $69) × 3
+days). However, the $33 will be reported on your Form
+W-2 as wages.
+Nonaccountable Plans
+A nonaccountable plan is a reimbursement or expense allowance arrangement that doesn’t meet one or more of
+the three rules listed earlier under Accountable Plans.

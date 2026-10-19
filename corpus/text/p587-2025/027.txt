@@ -1,0 +1,96 @@
+Instructions for the Simplified Method
+Worksheet
+If you are a partner or you file Schedule F (Form 1040),
+and you elected to use the simplified method, use the
+Simplified Method Worksheet. The following instructions
+explain how to complete this worksheet.
+Partners. See Partners under Where To Deduct, earlier,
+before completing the Simplified Method Worksheet.
+Use the Simplified Method Worksheet to figure the
+amount of expenses you may deduct for a qualified business use of a home if you are electing to use the simplified
+method for that home. If you are not electing to use the
+simplified method, use Form 8829 or the Worksheet To
+Figure the Deduction for Business Use of Your Home, earlier, as appropriate.
+Line 1. If all gross income from your trade or business is
+from this qualified business use of your home, figure your
+gross income limitation as follows.
+A. Enter the amount of gross income. If you file Schedule F
+(Form 1040), this amount would generally be the amount
+on line 9 of Schedule F . . . . . . . . . . . . . . . . . . . . . .
+B. Enter any gain derived from the business use of your
+home and shown on Form 8949 (and included on
+Schedule D) or Form 4797 . . . . . . . . . . . . . . . . . . . .
+C. Add lines A and B . . . . . . . . . . . . . . . . . . . . . . . . .
+D. Business expenses not from business use of the home . .
+E. Enter the total amount of any losses (as a positive
+number) shown on Form 8949 (and included on
+Schedule D) or Form 4797 that are allocable to the
+business but not allocable to the business use of the
+home . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+F. Add lines D and E . . . . . . . . . . . . . . . . . . . . . . . . .
+G. Gross income limitation. Subtract line F from line C. Enter
+the result here and on line 1 . . . . . . . . . . . . . . . . . . .
+If some of the income is from a place of business other
+than your home, you must first determine the part of your
+gross income from the business use of your home. In
+making this determination, consider the amount of time
+you spent at each location as well as other facts. After determining the part of your gross income from the business
+use of your home, subtract from that amount the total expenses and any losses that are allocable to the business
+in which you use your home but that are not allocable to
+the business use of the home.
+Only include on line A the gross income from the business that is related to the business use of your home.
+Only include on line D and line E the deductible business
+expenses and losses that are related to the business activity in the home but not related to the business use of the
+home itself.
+Note: If you had more than one home in which you
+conducted this business during the year, include only the
+income earned and the deductions attributable to that income during the period you owned the home for which
+you elected to use the simplified method.
+Line 2. If you used the same area for the entire year, enter the smaller of the square feet you actually used or 300.
+If you and your spouse conducted the business as a qualified joint venture, split the square feet between you and
+your spouse in the same manner you split your other tax
+attributes. If you shared space with someone else, used
+the home for business for only part of the year, or the area
+you used changed during the year, see Allowable area under Using the Simplified Method, earlier, before entering
+an amount on this line. Do not enter more than 300 square
+feet or, if applicable, the average monthly allowable
+square footage on this line. See Part-year use or area
+changes (for simplified method only) under Using the Simplified Method, earlier, for more information on how to figure your average monthly allowable square footage.
+Line 3b. If your qualified business use is providing daycare, you may need to account for the time that you used
+the same part of your home for other purposes. If you
+used the part of your home exclusively and regularly for
+providing daycare, enter 1.0 on line 3b. If you did not use
+the part of your home exclusively for providing daycare,
+complete the Daycare Facility Worksheet to figure what
+number to enter on line 3b.
+Line 6. If you are using the simplified method this year,
+you cannot deduct the amounts you entered on lines 6a
+and 6b this year. If you figure your deduction for business
+use of the home using actual expenses next year, you will
+be able to include these expenses when you figure your
+deduction.
+Line 6a. If you did not complete a 2024 Worksheet To
+Figure the Deduction for Business Use of Your Home,
+then your carryover of prior-year operating expenses is the
+amount of operating expenses shown in Part 4 of the last
+Worksheet To Figure the Deduction for Business Use of
+Your Home, if any, that you completed using actual expenses in order to claim a deduction for business use of the
+home as a partner or Schedule F filer.
+Line 6b. If you did not complete a 2024 Worksheet To
+Figure the Deduction for Business Use of Your Home,
+then your carryover of prior-year excess casualty losses
+and depreciation is the amount of excess casualty losses
+and depreciation shown in Part 4 of the last Worksheet To
+Figure the Deduction for Business Use of Your Home, if
+any, that you completed using actual expenses to claim a
+deduction for business use of the home as a partner or
+Schedule F filer.
+Caution: If you filed Form 1040-SS and claimed the
+deduction for business use of your home, see the Instructions for Form 8829 and Schedule C (Form 1040) for more
+information.
+Instructions for the Daycare Facility
+Worksheet
+Use the Daycare Facility Worksheet (for simplified
+method) to figure the percentage to use on line 3b of the
+Simplified Method Worksheet. If you do not use the area
+of your home exclusively for daycare, you must reduce the

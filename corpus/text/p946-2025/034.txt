@@ -1,0 +1,82 @@
+• The date you place in service the property to which
+you made the addition or improvement.
+Example. You own a rental home that you have been
+renting out since 1981. If you put an addition on the home
+and place the addition in service this year, you would use
+MACRS to figure your depreciation deduction for the addition. Under GDS, the property class for the addition is residential rental property and its recovery period is 27.5
+years because the home to which the addition is made
+would be residential rental property if you had placed it in
+service this year.
+Which Convention Applies?
+Terms you may need to know
+(see Glossary):
+Basis
+Convention
+Disposition
+Nonresidential real property
+Placed in service
+Recovery period
+Residential rental property
+Under MACRS, averaging conventions establish when the
+recovery period begins and ends. The convention you use
+determines the number of months for which you can claim
+depreciation in the year you place property in service and
+in the year you dispose of the property.
+The mid-month convention. Use this convention for
+nonresidential real property, residential rental property,
+and any railroad grading or tunnel bore.
+Under this convention, you treat all property placed in
+service or disposed of during a month as placed in service
+or disposed of at the midpoint of the month. This means
+that a one-half month of depreciation is allowed for the
+month the property is placed in service or disposed of.
+Your use of the mid-month convention is indicated by
+the “MM” already shown under column (e) in Part III of
+Form 4562.
+The mid-quarter convention. Use this convention if the
+mid-month convention does not apply and the total depreciable bases of MACRS property you placed in service
+during the last 3 months of the tax year (excluding nonresidential real property, residential rental property, any railroad grading or tunnel bore, property placed in service
+and disposed of in the same year, and property that is being depreciated under a method other than MACRS) are
+more than 40% of the total depreciable bases of all
+MACRS property you placed in service during the entire
+year.
+Under this convention, you treat all property placed in
+service or disposed of during any quarter of the tax year
+as placed in service or disposed of at the midpoint of that
+quarter. This means that, for a 12-month tax year, 11/2
+months of depreciation is allowed for the quarter the property is placed in service or disposed of.
+If you use this convention, enter “MQ” under column (e)
+in Part III of Form 4562.
+Caution: For purposes of determining whether the
+mid-quarter convention applies, the depreciable basis of
+property you placed in service during the tax year reflects
+the reduction in basis for amounts expensed under section 179 and the part of the basis of property attributable
+to personal use. However, it does not reflect any reduction
+in basis for any special depreciation allowance.
+The half-year convention. Use this convention if neither
+the mid-quarter convention nor the mid-month convention
+applies.
+Under this convention, you treat all property placed in
+service or disposed of during a tax year as placed in service or disposed of at the midpoint of the year. This means
+that for a 12-month tax year, a one-half year of depreciation is allowed for the year the property is placed in service or disposed of.
+If you use this convention, enter “HY” under column (e)
+in Part III of Form 4562.
+See Figuring the Deduction for a Short Tax Year, later,
+for information on the short tax year rules.
+Which Depreciation Method
+Applies?
+Terms you may need to know
+(see Glossary):
+Declining balance method
+Listed property
+Nonresidential real property
+Placed in service
+Property class
+Recovery period
+Residential rental property
+Straight line method
+Tax exempt
+MACRS provides three depreciation methods under GDS
+and one depreciation method under ADS.
+• The 200% declining balance method over a GDS recovery period.
+• The 150% declining balance method over a GDS recovery period.

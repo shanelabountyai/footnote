@@ -1,0 +1,83 @@
+instructions specified in the IRS notice (commonly referred to as a “lock-in letter”).
+Initial lock-in letter. The IRS uses information reported on Form W-2 to identify employees with withholding
+compliance problems. In some cases, if a serious underwithholding problem is found to exist for a particular employee, the IRS may issue a lock-in letter to the employer
+specifying the employee’s permitted filing status and providing withholding instructions for the specific employee.
+You’ll also receive a copy for the employee that identifies
+the permitted filing status and provides a description of
+the withholding instructions you’re required to follow and
+the process by which the employee can provide additional
+information to the IRS for purposes of determining the appropriate withholding and/or modifying the specified filing
+status. You must furnish the employee copy to the employee within 10 business days of receipt if the employee
+is employed by you as of the date of the notice. You may
+follow any reasonable business practice to furnish the employee copy to the employee. Begin withholding based on
+the notice on the date specified in the notice.
+Implementation of lock-in letter. When you receive
+the notice specifying the permitted filing status and providing withholding instructions, you may not withhold immediately on the basis of the notice. You must begin withholding tax on the basis of the notice for any wages paid after
+the date specified in the notice. The delay between your
+receipt of the notice and the date to begin the withholding
+on the basis of the notice permits the employee time to
+contact the IRS.
+Seasonal employees and employees not currently
+performing services. If you receive a notice for an employee who isn’t currently performing services for you,
+you’re still required to furnish the employee copy to the
+employee and withhold based on the notice if any of the
+following apply.
+• You’re paying wages for the employee’s prior services
+and the wages are subject to income tax withholding
+on or after the date specified in the notice.
+• You reasonably expect the employee to resume services within 12 months of the date of the notice.
+• The employee is on a leave of absence that doesn’t
+exceed 12 months or the employee has a right to reemployment after the leave of absence.
+Termination and rehire of employees. If you must
+furnish and withhold based on the notice and the employment relationship is terminated after the date of the notice,
+you must continue to withhold based on the notice if you
+continue to pay any wages subject to income tax withholding. You must also withhold based on the notice or modification notice (explained next) if the employee resumes the
+employment relationship with you within 12 months after
+the termination of the employment relationship.
+Modification notice. After issuing the notice specifying the permitted filing status and providing withholding instructions, the IRS may issue a subsequent notice (modification notice) that modifies the original notice. The
+modification notice may change the permitted filing status
+and withholding instructions. You must withhold federal income tax based on the effective date specified in the modification notice.
+New Form W-4 after IRS notice. After the IRS issues
+a notice or modification notice, if the employee provides
+you with a new Form W-4 claiming complete exemption
+from withholding or a completed Form W-4 that results in
+less withholding than would result under the IRS notice or
+modification notice, disregard the new Form W-4. You
+must withhold based on the notice or modification notice
+unless the IRS notifies you to withhold based on the new
+Form W-4. If the employee wants to put a new Form W-4
+into effect that results in less withholding than required,
+the employee must contact the IRS.
+If, after you receive an IRS notice or modification notice,
+your employee gives you a new completed Form W-4 that
+results in more withholding than would result under the notice or modification notice, you must withhold tax based
+on the new Form W-4. Otherwise, disregard any subsequent Forms W-4 provided by the employee and withhold
+based on the IRS notice or modification notice.
+Caution: If, in a year before 2020, you received a
+lock-in letter for an employee, then for 2026 you should
+continue to follow the instructions in the lock-in letter. You
+will use the withholding methods described in Pub. 15-T
+for an employee with a Form W-4 from 2019 or earlier, or
+you may use the optional computational bridge to treat
+2019 and earlier Forms W-4 as if they were 2020 or later
+Forms W-4 for purposes of figuring federal income tax
+withholding. See How To Treat 2019 and Earlier Forms
+W-4 as if They Were 2020 or Later Forms W-4 under Introduction in Pub. 15-T. You should continue following the instructions in the pre-2020 lock-in letter until you receive a
+letter releasing your employee from the lock-in procedures, you receive a modification notice, or your employee
+gives you a new Form W-4 that results in more withholding
+than would result under the notice.
+For additional information about employer withholding
+compliance, see IRS.gov/WHC.
+Substitute Forms W-4. You’re encouraged to have your
+employees use the official version of Form W-4. You may
+use a substitute version of Form W-4 to meet your business needs. However, your substitute Form W-4 must
+contain language that is identical to the official Form W-4
+and your form must meet all current IRS rules for substitute forms. At the time you provide your substitute form to
+the employee, you must provide them with all tables, instructions, and worksheets from the current Form W-4. For
+more information, see Pub. 15-T.
+You can’t accept substitute Forms W-4 developed by
+employees. An employee who submits an employee-developed substitute Form W-4 after October 10, 2007, will
+be treated as failing to furnish a Form W-4. However, continue to honor any valid employee-developed Forms W-4
+you accepted before October 11, 2007.
+Invalid Forms W-4. Any unauthorized change or addition
+to Form W-4 makes it invalid. This includes taking out any

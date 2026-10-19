@@ -1,0 +1,68 @@
+When to make the election. You must make the election
+on a timely filed tax return (including extensions) for the
+year in which you place in service the property included in
+the GAA. However, if you timely filed your return for the
+year without making the election, you can still make the
+election by filing an amended return within 6 months of the
+due date of the return (excluding extensions). Attach the
+election to the amended return and write “Filed pursuant
+to section 301.9100-2” on the election statement.
+Records you should keep. You must maintain records that identify the property included in each GAA, that
+establish the unadjusted depreciable basis and depreciation reserve of the GAA, and that reflect the amount realized during the year upon dispositions from each GAA.
+However, see chapter 2 for the recordkeeping requirements for section 179 property.
+Revoking an election. You can revoke an election to use
+a GAA only in the following situations.
+• You include in the GAA property that generates foreign
+source income both U.S. and foreign source income,
+or combined gross income of a foreign sales corporation, a domestic international sales corporation, or a
+possessions corporation and its related supplier, and
+that inclusion results in a substantial distortion of income.
+• You remove property from the GAA, as described under Terminating GAA Treatment, earlier.
+When Do You Recapture
+MACRS Depreciation?
+Terms you may need to know
+(see Glossary):
+Disposition
+Nonresidential real property
+Recapture
+Residential rental property
+When you dispose of property that you depreciated using
+MACRS, any gain on the disposition is generally recaptured (included in income) as ordinary income up to the
+amount of the depreciation previously allowed or allowable for the property. Depreciation, for this purpose, includes the following.
+• Any section 179 deduction claimed on the property.
+• Any deduction under section 179B of the Internal Revenue Code for capital costs to comply with Environmental Protection Agency sulfur regulations.
+• Any deduction under section 179C of the Internal Revenue Code for certain qualified refinery property
+placed in service after August 8, 2005, and before
+January 1, 2014.
+• Any deduction under section 179D of the Internal Revenue Code for certain energy efficient commercial
+building property placed in service after December 31,
+2005.
+• Any deduction under section 179E of the Internal Revenue Code for qualified advanced mine safety equipment property placed in service after December 20,
+2006, and before January 1, 2018.
+• Any deduction under section 190 of the Internal Revenue Code for removal of barriers to the disabled and
+the elderly.
+• Any deduction under section 193 of the Internal Revenue Code for tertiary injectants.
+• Any special depreciation allowance previously allowed
+or allowable for the property (unless you elected not to
+claim it).
+There is no recapture for residential rental and nonresidential real property unless that property is qualified property for which you claimed a special depreciation allowance. For more information on depreciation recapture, see
+Pub. 544.
+5.
+Additional Rules for
+Listed Property
+Introduction
+This chapter discusses the deduction limits and other special rules that apply to certain listed property. Listed property includes cars, business aircraft, and other property
+used for transportation, property used for entertainment,
+and certain computers.
+Deductions for listed property (other than certain
+leased property) are subject to the following special rules
+and limits.
+• Deduction for employees. If your use of the property
+is not for your employer’s convenience or is not required as a condition of your employment, you cannot
+deduct depreciation or rent expenses for your use of
+the property as an employee.
+• Business-use requirement. If the property is not
+used predominantly (more than 50%) for qualified
+business use, you cannot claim the section 179 deduction or a special depreciation allowance. For business aircraft, there is also a 25% test that must be
+met. In addition, you must figure any depreciation
+deduction under MACRS using the straight line

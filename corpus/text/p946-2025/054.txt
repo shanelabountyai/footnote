@@ -1,0 +1,78 @@
+Can Employees Claim a
+Deduction?
+If you are an employee, you can claim a depreciation deduction for the use of your listed property (whether owned
+or rented) in performing services as an employee only if
+your use is a business use. The use of your property in
+performing services as an employee is a business use
+only if both the following requirements are met.
+• The use is for your employer’s convenience.
+• The use is required as a condition of your employment.
+If these requirements are not met, you cannot deduct
+depreciation (including the section 179 deduction) or rent
+expenses for your use of the property as an employee.
+Note: Employee expenses for transportation and for
+the depreciation of certain listed property (such as computers placed in service before 2018) paid or incurred in a
+tax year beginning after December 31, 2017, and before
+January 1, 2026, may not be claimed as a miscellaneous
+itemized deduction subject to the 2% floor. If you are not
+entitled to claim these expenses as an above-the-line deduction, you may not claim a deduction for the expense on
+your 2025 return.
+Employer’s convenience. Whether the use of listed
+property is for your employer’s convenience must be determined from all the facts. The use is for your employer’s
+convenience if it is for a substantial business reason of the
+employer. The use of listed property during your regular
+working hours to carry on your employer’s business is
+generally for the employer’s convenience.
+Condition of employment. Whether the use of listed
+property is a condition of your employment depends on all
+the facts and circumstances. The use of property must be
+required for you to perform your duties properly. Your employer does not have to require explicitly that you use the
+property. However, a mere statement by the employer that
+the use of the property is a condition of your employment
+is not sufficient.
+Example 1. Virginia Sycamore is employed as a courier with We Deliver, which provides local courier services.
+Virginia owns and uses a motorcycle to deliver packages
+to downtown offices. We Deliver explicitly requires all delivery persons to own a car or motorcycle for use in their
+employment. Virginia’s use of the motorcycle is for the
+convenience of We Deliver and is required as a condition
+of employment.
+Example 2. You are an inspector for Uplift, a construction company with many sites in the local area. You must
+travel to these sites on a regular basis. Uplift does not furnish an automobile or explicitly require you to use your
+own automobile. However, it pays you for any costs you incur in traveling to the various sites. The use of your own
+automobile or a rental automobile is for the convenience
+of Uplift and is required as a condition of employment.
+Example 3. Assume the same facts as in Example 2,
+except that Uplift furnishes a car to you, and you choose
+to use your own car and receive payment for using it. The
+use of your own car is neither for the convenience of Uplift
+nor required as a condition of employment.
+Example 4. Marilyn Lee is a pilot for Y Company, a
+small charter airline. Y requires pilots to obtain 80 hours of
+flight time annually in addition to flight time spent with the
+airline. Pilots can usually obtain these hours by flying with
+the Air Force Reserve or by flying part-time with another
+airline. Marilyn owns an airplane. The use of that airplane
+to obtain the required flight hours is neither for the convenience of the employer nor required as a condition of employment.
+Example 5. David Rule is employed as an engineer
+with Zip, an engineering contracting firm. David occasionally takes work home at night rather than work late in the
+office. David owns and uses a home computer, which is
+virtually identical to the office model. David’s use of the
+computer is neither for the convenience of David’s employer nor required as a condition of employment.
+What Is the Business-Use
+Requirement?
+Terms you may need to know
+(see Glossary):
+Adjusted basis
+Business/investment use
+Capitalized
+Commuting
+Declining balance method
+Fair market value (FMV)
+Nonresidential real property
+Placed in service
+Recapture
+Recovery period
+Straight line method
+You can claim the section 179 deduction and a special depreciation allowance for listed property and depreciate listed property using GDS and a declining balance method if
+the property meets the business-use requirement. To
+meet this requirement, listed property must be used predominantly (more than 50% of its total use) for qualified

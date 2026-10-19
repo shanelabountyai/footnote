@@ -1,0 +1,136 @@
+Table B-2.
+Asset
+class Description of assets included
+Table of Class Lives and Recovery Periods
+Recovery Periods
+(in years)
+Class Life
+(in years)
+GDS
+(MACRS) ADS
+CATV—Headend:
+11 7
+48.41
+Includes assets such as towers, antennas, preamplifiers, converters, modulation equipment, and program
+non-duplication systems. Does not include headend buildings and program origination assets.
+48.42
+48.43
+48.44
+48.45
+49.11
+49.12
+49.121
+49.13
+49.14
+49.15
+49.21
+49.221
+49.222
+49.223
+49.23
+49.24
+49.25
+CATV—Subscriber Connection and Distribution Systems:
+Includes assets such as trunk and feeder cable, connecting hardware, amplifiers, power
+equipment, passive devices, directional taps, pedestals, pressure taps, drop cables, matching
+transformers, multiple set connector equipment, and convertors.
+10 7
+CATV—Program Origination:
+Includes assets such as cameras, film chains, videotape recorders, lighting, and remote location
+equipment excluding vehicles. Does not include buildings and their structural components.
+CATV—Service and Test:
+Includes assets such as oscilloscopes, field strength meters, spectrum analyzers, and cable
+testing equipment, but does not include vehicles.
+CATV—Microwave Systems:
+Includes assets such as towers, antennas, transmitting and receiving equipment, and broad
+band microwave assets used in the provision of cable television services. Does not include
+assets used in the provision of common carrier services.
+Electric, Gas, Water, and Steam Utility Services:
+Includes assets used in the production, transmission, and distribution of electricity, gas, steam,
+or water for sale including related land improvements.
+Electric Utility Hydraulic Production Plant:
+Includes assets used in the hydraulic power production of electricity for sale, including related
+land improvements, such as dams, flumes, canals, and waterways.
+Electric Utility Nuclear Production Plant:
+Includes assets used in the nuclear power production and electricity for sale and related land
+improvements. Does not include nuclear fuel assemblies.
+Electric Utility Nuclear Fuel Assemblies:
+Includes initial core and replacement core nuclear fuel assemblies (i.e., the composite of fabricated nuclear
+fuel and container) when used in a boiling water, pressurized water, or high temperature gas reactor used in
+the production of electricity. Does not include nuclear fuel assemblies used in breader reactors.
+Electric Utility Steam Production Plant:
+Includes assets used in the steam power production of electricity for sale, combustion turbines operated in a
+combined cycle with a conventional steam unit and related land improvements. Also includes package
+boilers, electric generators, and related assets, such as electricity and steam distribution systems as used by
+a waste reduction and resource recovery plant if the steam or electricity is normally for sale to others.
+Electric Utility Transmission and Distribution Plant:
+Includes assets used in the transmission and distribution of electricity for sale and related land
+improvements. Excludes initial clearing and grading land improvements as specified in Rev. Rul.
+72-403, 1972-2 C.B. 102.
+Electric Utility Combustion Turbine Production Plant:
+Includes assets used in the production of electricity for sale by the use of such prime movers as jet
+engines, combustion turbines, diesel engines, gasoline engines, and other internal combustion
+engines, their associated power turbines and/or generators, and related land improvements. Does not
+include combustion turbines operated in a combined cycle with a conventional steam unit.
+Gas Utility Distribution Facilities:
+Includes gas water heaters and gas conversion equipment installed by utility on customers’
+premises on a rental basis.
+Gas Utility Manufactured Gas Production Plants:
+Includes assets used in the manufacture of gas having chemical and/or physical properties
+which do not permit complete interchangeability with domestic natural gas. Does not include
+gas-producing systems and related systems used in waste reduction and resource recovery
+plants which are elsewhere classified.
+Gas Utility Substitute Natural Gas (SNG) Production Plant (naphtha or lighter hydrocarbon
+feedstocks):
+Includes assets used in the catalytic conversion of feedstocks or naphtha or lighter
+hydrocarbons to a gaseous fuel which is completely interchangeable with domestic natural gas.
+Substitute Natural Gas—Coal Gasification:
+Includes assets used in the manufacture and production of pipeline quality gas from coal using the basic Lurgi
+process with advanced methanation. Includes all process plant equipment and structures used in this coal
+gasification process and all utility assets such as cooling systems, water supply and treatment facilities, and
+assets used in the production and distribution of electricity and steam for use by the taxpayer in a gasification
+plant and attendant coal mining site processes but not for assets used in the production and distribution of
+electricity and steam for sale to others. Also includes all other related land improvements. Does not include
+assets used in the direct mining and treatment of coal prior to the gasification process itself.
+Natural Gas Production Plant
+Gas Utility Trunk Pipelines and Related Storage Facilities:
+Excluding initial clearing and grading land improvements as specified in Rev. Rul. 72-40.
+Liquefied Natural Gas Plant:
+Includes assets used in the liquefaction, storage, and regasification of natural gas including
+loading and unloading connections, instrumentation equipment and controls, pumps, vaporizers
+and odorizers, tanks, and related land improvements. Also includes pipeline interconnections
+with gas transmission lines and distribution systems and marine terminal facilities.
+9 5
+8.5 5
+9.5 5
+50 20
+20 15
+5 5
+28 20
+30 20
+20 15
+35 20
+30 20
+14 7
+18 10
+22 15
+22 15
+14 7
+9
+8.5
+9.5
+50
+20
+5
+28
+30
+20
+35
+30
+14
+18
+22
+22
+14
+10
+11

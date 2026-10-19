@@ -1,0 +1,76 @@
+Different tax years. For purposes of the business income limit, if the partner’s tax year and that of the partnership differ, the partner’s share of the partnership’s taxable
+income for a tax year is generally the partner’s distributive
+share for the partnership tax year that ends with or within
+the partner’s tax year.
+Example. John and James Oak are equal partners in
+Oak Partnership. Oak Partnership uses a tax year ending
+January 31. John and James both use a tax year ending
+December 31. For its tax year ending January 31, 2025,
+Oak Partnership’s taxable income from the active conduct
+of its business is $80,000, of which $70,000 was earned
+during 2024. John and James each include $40,000 (each
+partner’s entire share) of partnership taxable income in
+computing their business income limit for the 2025 tax
+year.
+Adjustment of partner’s basis in partnership. A partner must reduce the basis of their partnership interest by
+the total amount of section 179 expenses allocated from
+the partnership even if the partner cannot currently deduct
+the total amount. If the partner disposes of their partnership interest, the partner’s basis for determining gain or
+loss is increased by any outstanding carryover of disallowed section 179 expenses allocated from the partnership.
+Adjustment of partnership’s basis in section 179
+property. The basis of a partnership’s section 179 property must be reduced by the section 179 deduction elected by the partnership. This reduction of basis must be
+made even if a partner cannot deduct all or part of the
+section 179 deduction allocated to that partner by the
+partnership because of the limits.
+S Corporations
+Generally, the rules that apply to a partnership and its
+partners also apply to an S corporation and its shareholders. The deduction limits apply to an S corporation and to
+each shareholder. The S corporation allocates its deduction to the shareholders who then take their section 179
+deduction subject to the limits.
+Figuring taxable income for an S corporation. To figure taxable income (or loss) from the active conduct by an
+S corporation of any trade or business, you total the net income and losses from all trades or businesses actively
+conducted by the S corporation during the year.
+To figure the net income (or loss) from a trade or business actively conducted by an S corporation, you take into
+account the items from that trade or business that are
+passed through to the shareholders and used in determining each shareholder’s tax liability. However, you do not
+take into account any credits, tax-exempt income, the section 179 deduction, and deductions for compensation paid
+to shareholder-employees. For purposes of determining
+the total amount of S corporation items, treat deductions
+and losses as negative income. In figuring the taxable income of an S corporation, disregard any limits on the
+amount of an S corporation item that must be taken into
+account when figuring a shareholder’s taxable income.
+Other Corporations
+A corporation’s taxable income from its active conduct of
+any trade or business is its taxable income figured with the
+following changes.
+1. It is figured before deducting the section 179 deduction, any net operating loss deduction, and special deductions (as reported on the corporation’s income tax
+return).
+2. It is adjusted for items of income or deduction included in the amount figured in (1) not derived from a
+trade or business actively conducted by the corporation during the tax year.
+How Do You Elect the
+Deduction?
+Terms you may need to know
+(see Glossary):
+Listed property
+Placed in service
+Election. You elect to take the section 179 deduction by
+completing Part I of Form 4562.
+Caution: If you elect the deduction for listed property
+(described in chapter 5), complete Part V of Form 4562
+before completing Part I.
+For property placed in service in 2025, file Form 4562
+with either of the following.
+• Your original 2025 tax return, whether or not you file it
+timely.
+• An amended return for 2025 filed within the time prescribed by law. An election made on an amended return must specify the item of section 179 property to
+which the election applies and the part of the cost of
+each such item to be taken into account. The amended return must also include any resulting adjustments to taxable income.
+Records you should keep. You must keep records
+that show the specific identification of each piece of qualifying section 179 property. These records must show how
+you acquired the property, the person you acquired it from,
+and when you placed it in service.
+Election for qualified section 179 real property. You
+can elect to expense certain qualified real property that
+you placed in service as section 179 property for tax years
+beginning in 2025. For more information, see Election
+above. Also, see Revenue Procedure 2019-8 on page 347

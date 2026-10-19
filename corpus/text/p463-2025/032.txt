@@ -1,0 +1,94 @@
+more-than-50%-use test for the first 3 years of the recovery period (2022 through 2024) but failed to meet it in the
+fourth year (2025). You determine your depreciation for
+2025 using 20% (from column (c) of Table 4-1). You will
+also have to determine and include in your gross income
+any excess depreciation, discussed next.
+Excess depreciation. You must include any excess
+depreciation in your gross income and add it to your car’s
+adjusted basis for the first tax year in which you don’t use
+the car more than 50% in qualified business use. Use
+Form 4797, Sales of Business Property, to figure and report the excess depreciation in your gross income.
+Excess depreciation is:
+1. The amount of the depreciation deductions allowable
+for the car (including any section 179 deduction
+claimed and any special depreciation allowance
+claimed) for tax years in which you used the car more
+than 50% in qualified business use, minus
+2. The amount of the depreciation deductions that would
+have been allowable for those years if you hadn’t used
+the car more than 50% in qualified business use for
+the year you placed it in service. This means the
+amount of depreciation figured using the straight line
+method.
+Example. In September 2021, you bought a car for
+$61,500 and placed it in service. You didn’t claim the section 179 deduction or the special depreciation allowance.
+You used the car exclusively in qualified business use for
+2021, 2022, 2023, and 2024. For those years, you used
+the appropriate MACRS Depreciation Chart to figure depreciation deductions totaling $41,660 ($10,100 for 2021,
+$16,100 for 2022, $9,700 for 2023, and $5,760 for 2024)
+under the 200% DB method.
+During 2025, you used the car 30% for business and
+70% for personal purposes. Since you didn’t meet the
+more-than-50%-use test, you must switch from the 200%
+DB depreciation method to the straight line depreciation
+method for 2025, and include in gross income for 2025
+your excess depreciation determined as follows.
+Total depreciation claimed:
+(MACRS 200% DB method) . . . . . . . . . . . . . . . . . $42,260
+Minus total depreciation allowable:
+(Straight line method)
+2021—10% of $61,500 . . . . . . . . . . . . . . $6,150
+(Limit: $10,200)
+2022—20% of $61,500 . . . . . . . . . . . . . . 12,300
+(Limit: $16,400)
+2023—20% of $61,500 . . . . . . . . . . . . . . 9,800
+(Limit: $9,800)
+2024—20% of $61,500 . . . . . . . . . . . . . . 5,860 –34,110
+(Limit: $5,860)
+Excess depreciation . . . . . . . . . . . . . . . . $8,150
+For the correct limit, see the Maximum Depreciation
+Deduction for Passenger Automobiles (Including Trucks
+and Vans) Acquired After September 27, 2017, and
+Placed in Service During 2018 or Later table under Depreciation Limits, earlier, for the maximum amount of depreciation allowed each year.
+In 2025, using Form 4797, you figure and report the
+$8,150 excess depreciation you must include in your
+gross income. Your adjusted basis in the car is also increased by $8,150. Your 2025 depreciation is $3,690
+($61,500 (unadjusted basis) × 30% (0.30) (business-use
+percentage) × 20% (0.20) (from column (c) of Table 4-1 on
+the line for Jan. 1–Sept. 30, 2021)). However, your depreciation deduction is limited to $1,758 ($5,860 x 30% (0.30)
+business use).
+Leasing a Car
+If you lease a car, truck, or van that you use in your business, you can use the standard mileage rate or actual expenses to figure your deductible expense. This section explains how to figure actual expenses for a leased car,
+truck, or van.
+Deductible payments. If you choose to use actual expenses, you can deduct the part of each lease payment
+that is for the use of the vehicle in your business. You can’t
+deduct any part of a lease payment that is for personal
+use of the vehicle, such as commuting.
+You must spread any advance payments over the entire
+lease period. You can’t deduct any payments you make to
+buy a car, truck, or van even if the payments are called
+“lease payments.”
+If you lease a car, truck, or van for 30 days or more, you
+may have to reduce your lease payment deduction by an
+“inclusion amount,” explained next.
+Inclusion Amounts
+If you lease a car, truck, or van that you use in your business for a lease term of 30 days or more, you may have to
+include an inclusion amount in your income for each tax
+year you lease the vehicle. To do this, you don’t add an
+amount to income. Instead, you reduce your deduction for
+your lease payment. (This reduction has an effect similar
+to the limit on the depreciation deduction you would have
+on the vehicle if you owned it.)
+The inclusion amount is a percentage of part of the
+FMV of the leased vehicle multiplied by the percentage of
+business and investment use of the vehicle for the tax
+year. It is prorated for the number of days of the lease term
+in the tax year.
+The inclusion amount applies to each tax year that you
+lease the vehicle if the fair market value (FMV) (defined
+next) when the lease began was more than the amounts
+shown in the following tables.
+All vehicles are subject to a single inclusion amount
+threshold for passenger automobiles leased and put into
+service in 2025. You may have an inclusion amount for a
+passenger automobile if:

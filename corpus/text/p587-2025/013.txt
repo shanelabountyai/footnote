@@ -1,0 +1,104 @@
+business use in a week with the number of hours in a
+week (168). Or you can compare the hours of business
+use for the year with the number of hours in the year
+(8,760 in 2025). If you started or stopped using your home
+for daycare in 2025, you must prorate the number of hours
+based on the number of days the home was available for
+daycare.
+Example 1. Rene used the basement at home to operate a daycare business for children. Rene figures the
+business percentage of the basement as follows.
+Square footage of the basement
+Square footage of the home
+=
+1,600
+3,200
+= 50%
+Rene used the basement for daycare an average of 12
+hours a day, 5 days a week, for 50 weeks a year. During
+the other 12 hours a day, the family could use the basement. Rene figures the percentage of time the basement
+was used for daycare as follows.
+Number of hours used for daycare (12 x 5 x 50)
+Total number of hours in the year (24 x 365)
+=
+3,000
+8,760
+= 34.25%
+Rene can deduct 34.25% of any direct expenses for the
+basement. However, because Rene’s indirect expenses
+are for the entire house, Rene can deduct only 17.12% of
+the indirect expenses. Rene figures the percentage for
+their indirect expenses as follows.
+Business percentage of the basement . . . . . . . . . . . . . 50%
+Multiplied by: Percentage of time used for daycare . . . . . × 34.25%
+Percentage for indirect expenses . . . . . . . . . . . . . . . . 17.12%
+Rene completes Form 8829, Part I, figuring the percentage of the home used for business, including the percentage of time the basement was used.
+In Part II, Rene figures the deductible expenses. Rene
+uses the following information to complete Part II.
+Gross income from the daycare business . . . . . . . . . . . $50,000
+Expenses not related to the business use of the home . . . $25,000
+Tentative profit . . . . . . . . . . . . . . . . . . . . . . . . . . . . $25,000
+Rent . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $8,400
+Utilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $850
+Painting the basement . . . . . . . . . . . . . . . . . . . . . . . $500
+Rene enters a tentative profit, $25,000, on line 8. (This
+figure is the same as the amount on line 29 of Schedule C
+(Form 1040)).
+The expenses paid for rent and utilities relate to the entire home. Therefore, Rene enters the amount paid for rent
+on line 19, column (b), and the amount paid for utilities on
+line 21, column (b). Rene shows the total of these expenses on line 23, column (b). For line 24, Rene multiplies the
+amount on line 23, column (b), by the percentage on line 7
+and enters the result, $1,584.
+Rene paid $500 to have the basement painted. The
+painting is a direct expense. However, because the basement was not used exclusively for daycare, Rene must
+multiply $500 by the percentage of time the basement was
+used for daycare (34.25% – line 6). Rene then enters $171
+(34.25% × $500) on line 20, column (a). Rene then adds
+line 23, column (a), and line 24 and enters $1,755 ($171 +
+$1,584) on line 26. This is less than Rene’s deduction limit
+(line 15), so Rene can deduct the entire amount. Rene follows the instructions to complete the rest of Part II and enters $1,755 on lines 34 and 36. Then Rene carries the
+$1,755 to line 30 of Schedule C (Form 1040).
+Example 2. Assume the same facts as in Example 1
+except that Rene also has another room that was available
+each business day for children to take naps in. Although
+Rene did not keep a record of the number of hours the
+room was used for naps, it was used for part of each business day. Since the room was available for business use
+during regular operating hours each business day and
+was used regularly in the business, it is considered used
+for daycare throughout each business day. The basement
+and room are 60% of the total area of the home. In figuring
+Rene’s expenses, 34.25% of any direct expenses for the
+basement and room are deductible. In addition, 20.55%
+(34.25% × 60%) of the indirect expenses are deductible.
+Example 3. Assume the same facts as in Example 1
+except that Rene stopped using the home for a daycare
+facility on June 24, 2025. Rene used the basement for
+daycare an average of 12 hours a day, 5 days a week, but
+for only 25 weeks of the year. During the other 12 hours a
+day, Rene’s family could still use the basement. Rene figures the percentage of time the basement was used for
+business as follows.
+Number of hours used for daycare (12 x 5 x 25)
+Total number of hours during period used (24 x
+175)
+=
+1,500
+4,200
+= 35.71%
+Rene can deduct 35.71% of any direct expenses for the
+basement. However, because the indirect expenses are
+for the entire house, Rene can deduct only 17.86% of the
+indirect expenses. Rene then figures the percentage for
+the indirect expenses as follows.
+Business percentage of the basement . . . . . . . . . . . . . 50%
+Multiplied by: Percentage of time used for daycare . . . . . × 35.71%
+Percentage for indirect expenses . . . . . . . . . . . . . . . . 17.86%
+Meals. If you provide food for your daycare recipients, do
+not include the expense as a cost of using your home for
+business. Claim it as a separate deduction on your Schedule C (Form 1040). You can never deduct the cost of food
+consumed by you or your family. You can deduct as a
+business expense 100% of the actual cost of food consumed by your daycare recipients (see Standard meal and
+snack rates, later, for an optional method for eligible children) and generally only 50% of the cost of food consumed by your employees. For more information on meals
+that meet these requirements, see Meals in chapter 2 of
+Pub. 15-B.
+If you deduct the actual cost of food for your daycare
+business, keep a separate record (with receipts) of your
+family’s food costs.

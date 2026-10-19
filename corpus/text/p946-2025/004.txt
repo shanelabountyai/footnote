@@ -1,0 +1,85 @@
+from you) has agreed to preserve, replace, renew, and
+maintain the property. However, if the lease provides that
+the lessee is to maintain the property and return to you the
+same property or its equivalent in value at the expiration of
+the lease in as good condition and value as when leased,
+you cannot depreciate the cost of the property.
+Incidents of ownership. Incidents of ownership in
+property include the following.
+• The legal title to the property.
+• The legal obligation to pay for the property.
+• The responsibility to pay maintenance and operating
+expenses.
+• The duty to pay any taxes on the property.
+• The risk of loss if the property is destroyed, condemned, or diminished in value through obsolescence
+or exhaustion.
+Life tenant. Generally, if you hold business or investment
+property as a life tenant, you can depreciate it as if you
+were the absolute owner of the property. However, see
+Certain term interests in property under Excepted Property, later.
+Cooperative apartments. If you are a tenant-stockholder in a cooperative housing corporation and use your
+cooperative apartment in your business or for the production of income, you can depreciate your stock in the corporation, even though the corporation owns the apartment.
+Figure your depreciation deduction as follows.
+1. Figure the depreciation for all the depreciable real
+property owned by the corporation in which you have
+a proprietary lease or right of tenancy. If you bought
+your cooperative stock after its first offering, figure the
+depreciable basis of this property as follows.
+a. Multiply your cost per share by the total number of
+outstanding shares, including any shares held by
+the corporation.
+b. Add to the amount figured in (a) any mortgage
+debt on the property on the date you bought the
+stock.
+c. Subtract from the amount figured in (b) any mortgage debt that is not for the depreciable real property, such as the part for the land.
+2. Subtract from the amount figured in (1) any depreciation for space owned by the corporation that can be
+rented but cannot be lived in by tenant-stockholders.
+3. Divide the number of your shares of stock by the total
+number of outstanding shares, including any shares
+held by the corporation.
+4. Multiply the result of (2) by the percentage you figured
+in (3). This is your depreciation on the stock.
+Your depreciation deduction for the year cannot be
+more than the part of your adjusted basis in the stock of
+the corporation that is allocable to your business or
+income-producing property. You must also reduce your
+depreciation deduction if only a portion of the property is
+used in a business or for the production of income.
+Example. You figure your share of the cooperative
+housing corporation’s depreciation to be $30,000. Your
+adjusted basis in the stock of the corporation is $50,000.
+You use one-half of your apartment solely for business
+purposes. Your depreciation deduction for the stock for the
+year cannot be more than $25,000 (1/2 of $50,000).
+Change to business use. If you change your cooperative apartment to business use, figure your allowable depreciation as explained earlier. The basis of all the depreciable real property owned by the cooperative housing
+corporation is the smaller of the following amounts.
+• The FMV of the property on the date you change your
+apartment to business use. This is considered to be
+the same as the corporation’s adjusted basis minus
+straight line depreciation, unless this value is unrealistic.
+• The corporation’s adjusted basis in the property on
+that date. Do not subtract depreciation when figuring
+the corporation’s adjusted basis.
+If you bought the stock after its first offering, the corporation’s adjusted basis in the property is the amount figured in (1) under Cooperative apartments, earlier. The
+FMV of the property is considered to be the same as the
+corporation’s adjusted basis figured in this way minus
+straight line depreciation, unless the value is unrealistic.
+For a discussion of FMV and adjusted basis, see Pub.
+551.
+Property Used in Your Business or
+Income-Producing Activity
+To claim depreciation on property, you must use it in your
+business or income-producing activity. If you use property
+to produce income (investment use), the income must be
+taxable. You cannot depreciate property that you use
+solely for personal activities.
+Partial business or investment use. If you use property
+for business or investment purposes and for personal purposes, you can deduct depreciation based only on the
+business or investment use. For example, you cannot deduct depreciation on a car used only for commuting, personal shopping trips, family vacations, driving children to
+and from school, or similar activities.
+Records you should keep. You must keep records
+showing the business, investment, and personal use of
+your property. For more information on the records you
+must keep for listed property, such as a car, see What Records Must Be Kept? in chapter 5.
+Caution: Although you can combine business and investment use of property when figuring depreciation deductions, do not treat investment use as qualified business use when determining whether the business-use
+requirement for listed property is met. For information

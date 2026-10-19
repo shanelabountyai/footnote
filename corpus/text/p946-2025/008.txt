@@ -1,0 +1,72 @@
+July 31, 1986, if MACRS was elected). Property placed in
+service before 1987 must be depreciated under the methods discussed in Pub. 534.
+For a discussion of when property is placed in service,
+see When Does Depreciation Begin and End, earlier.
+Use of real property changed. You must generally use
+MACRS to depreciate real property that you acquired for
+personal use before 1987 and changed to business or income-producing use after 1986.
+Improvements made after 1986. You must treat an improvement made after 1986 to property you placed in
+service before 1987 as separate depreciable property.
+Therefore, you can depreciate that improvement as separate property under MACRS if it is the type of property that
+otherwise qualifies for MACRS depreciation. For more information about improvements, see How Do You Treat Repairs and Improvements, later, and Additions and Improvements under Which Recovery Period Applies? in
+chapter 4.
+Property Owned or Used in 1986
+You may not be able to use MACRS for property you acquired and placed in service after 1986 if any of the situations described below apply. If you cannot use MACRS,
+the property must be depreciated under the methods discussed in Pub. 534.
+Caution: For the following discussions, do not treat
+property as owned before you placed it in service. If you
+owned property in 1986 but did not place it in service until
+1987, you do not treat it as owned in 1986.
+Personal property. You cannot use MACRS for personal
+property (section 1245 property) in any of the following situations.
+1. You or someone related to you owned or used the
+property in 1986.
+2. You acquired the property from a person who owned it
+in 1986 and as part of the transaction the user of the
+property did not change.
+3. You lease the property to a person (or someone related to this person) who owned or used the property in
+1986.
+4. You acquired the property in a transaction in which:
+a. The user of the property did not change, and
+b. The property was not MACRS property in the
+hands of the person from whom you acquired it
+because of (2) or (3) above.
+Real property. You generally cannot use MACRS for real
+property (section 1250 property) in any of the following situations.
+• You or someone related to you owned the property in
+1986.
+• You lease the property to a person who owned the
+property in 1986 (or someone related to that person).
+• You acquired the property in a like-kind exchange, an
+involuntary conversion, or a repossession of property
+you or someone related to you owned in 1986. For
+property acquired in a like-kind exchange or an involuntary conversion, MACRS applies only to the portion
+of the acquired property’s basis that exceeds the adjusted basis of property given up at the time of the
+like-kind exchange or the time of the involuntary conversion. This is referred to as “excess basis.” It does
+not apply to the adjusted basis of the property at the
+time it was given up or involuntarily converted, which
+is referred to as the “carryover basis.” See Property
+acquired in a nontaxable transaction, later, and Pub.
+551.
+Exceptions. The rules above do not apply to the following.
+1. Residential rental property or nonresidential real property.
+2. Any property if, in the first tax year it is placed in service, the deduction under the Accelerated Cost Recovery System (ACRS) is more than the deduction under
+MACRS using the half-year convention. For information on how to figure depreciation under ACRS, see
+Pub. 534.
+3. Property that was MACRS property in the hands of
+the person from whom you acquired it because of (2)
+above.
+Related persons. For this purpose, the following are related persons.
+1. An individual and a member of their family, including
+only a spouse, child, parent, sibling, half sibling, ancestor, and lineal descendant.
+2. A corporation and an individual who directly or indirectly owns more than 10% of the value of the outstanding stock of that corporation.
+3. Two corporations that are members of the same controlled group.
+4. A trust fiduciary and a corporation if more than 10% of
+the value of the outstanding stock is directly or indirectly owned by or for the trust or grantor of the trust.
+5. The grantor and fiduciary, and the fiduciary and beneficiary, of any trust.
+6. The fiduciaries of two different trusts, and the fiduciaries and beneficiaries of two different trusts, if the
+same person is the grantor of both trusts.
+7. A tax-exempt educational or charitable organization
+and any person (or, if that person is an individual, a
+member of that person’s family) who directly or indirectly controls the organization.
+8. Two S corporations, and an S corporation and a regular corporation, if the same persons own more than

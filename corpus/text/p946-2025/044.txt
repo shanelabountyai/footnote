@@ -1,0 +1,84 @@
+disposition of the exchanged or involuntarily converted
+property. The depreciable basis of the property acquired is
+the carryover basis of the property exchanged or involuntarily converted plus any excess basis. The election, if
+made, applies to both the acquired property and the exchanged or involuntarily converted property. This election
+does not affect the amount of gain or loss recognized on
+the exchange or involuntary conversion or the amount of
+the special depreciation allowance.
+When to make the election. You must make the election on a timely filed return (including extensions) for the
+year of replacement. The election must be made separately by each person acquiring replacement property. In
+the case of a partnership, an S corporation, or a consolidated group, the election is made by the partnership, by
+the S corporation, or by the common parent of a consolidated group, respectively. Once made, the election may
+not be revoked without IRS consent. Note that by making
+this election, it does not change whether the basis is subject to bonus depreciation, but rather only effects how the
+depreciation is calculated. See Like-kind exchanges and
+involuntary conversions under How Much Can You Deduct? in chapter 3.
+For more information and special rules, see the Instructions for Form 4562.
+Property Acquired in a Nontaxable Transfer
+You must depreciate MACRS property acquired by a corporation or partnership in certain nontaxable transfers
+over the property’s remaining recovery period in the transferor’s hands, as if the transfer had not occurred. You must
+continue to use the same depreciation method and convention as the transferor. You can depreciate the part of
+the property’s basis that exceeds its carryover basis (the
+transferor’s adjusted basis in the property) as newly purchased MACRS property.
+The nontaxable transfers covered by this rule include
+the following.
+• A distribution in complete liquidation of a subsidiary.
+• A transfer to a corporation controlled by the transferor.
+• An exchange of property solely for corporate stock or
+securities in a reorganization.
+• A contribution of property to a partnership in exchange
+for a partnership interest.
+• A partnership distribution of property to a partner.
+Figuring the Deduction for a Short Tax
+Year
+You cannot use the MACRS percentage tables to determine depreciation for a short tax year. A short tax year is
+any tax year with less than 12 full months. This section
+discusses the rules for determining the depreciation deduction for property you place in service or dispose of in a
+short tax year. It also discusses the rules for determining
+depreciation when you have a short tax year during the
+recovery period (other than the year the property is placed
+in service or disposed of).
+For more information on figuring depreciation for a
+short tax year, see Revenue Procedure 89-15, 1989-1
+C.B. 816.
+Using the Applicable Convention in a Short
+Tax Year
+The applicable convention establishes the date property is
+treated as placed in service and disposed of. Depreciation
+is allowable only for that part of the tax year the property is
+treated as in service. The recovery period begins on the
+placed in service date determined by applying the convention. The remaining recovery period at the beginning of
+the next tax year is the full recovery period less the part for
+which depreciation was allowable in the first tax year.
+The following discussions explain how to use the applicable convention in a short tax year.
+Mid-month convention. Under the mid-month convention, you always treat your property as placed in service or
+disposed of on the midpoint of the month it is placed in
+service or disposed of. You apply this rule without regard
+to your tax year.
+Half-year convention. Under the half-year convention,
+you treat property as placed in service or disposed of on
+the midpoint of the tax year it is placed in service or disposed of.
+First or last day of month. For a short tax year beginning on the first day of a month or ending on the last day of
+a month, the tax year consists of the number of months in
+the tax year. If the short tax year includes part of a month,
+you generally include the full month in the number of
+months in the tax year. You determine the midpoint of the
+tax year by dividing the number of months in the tax year
+by 2. For the half-year convention, you treat property as
+placed in service or disposed of on either the first day or
+the midpoint of a month.
+For example, a short tax year that begins on June 20
+and ends on December 31 consists of 7 months. You use
+only full months for this determination, so you treat the tax
+year as beginning on June 1 instead of June 20. The midpoint of the tax year is the middle of September (31/2
+months from the beginning of the tax year). You treat property as placed in service or disposed of on this midpoint.
+Example. Tara Corporation, a calendar year taxpayer,
+was incorporated on March 15. For purposes of the
+half-year convention, it has a short tax year of 10 months,
+ending on December 31, 2025. During the short tax year,
+Tara placed property in service for which it uses the
+half-year convention. Tara treats this property as placed in
+service on the first day of the sixth month of the short tax
+year, or August 1, 2025.
+Not on first or last day of month. For a short tax
+year not beginning on the first day of a month and not ending on the last day of a month, the tax year consists of the

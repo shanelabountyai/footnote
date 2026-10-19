@@ -1,0 +1,72 @@
+AFS (or other financial statement specified by the IRS in
+the year of receipt). The remaining portion of the advance
+payment is included as gross income for the subsequent
+tax year independent of how it is treated on your AFS.
+Non-AFS deferral method. If you do not have an
+AFS and elect to use this deferral method, you must include the advance payment in gross income in the year
+received, to the extent you have earned the amount. The
+remaining portion of the advance payment is included in
+gross income in the subsequent tax year.
+IRS approval. The election to defer advance payments
+is effective for the tax year that it is first made and for all
+subsequent tax years unless you receive consent to revoke the election. You must file Form 3115 to obtain IRS
+approval to change your method of accounting for advance payment for services. See Form 3115 and the Instructions for Form 3115.
+Acceleration of advance payments. If you have elected the deferral method for advance payments, certain
+conditions may occur that require you to accelerate inclusion of the advance payments into gross income. Examples include if you cease to exist, or if your obligation for
+the advance payment is satisfied. See Regulations sections 1.451-8(c)(4) and 1.451-8(d).
+Advance Payment Cost Offset Method
+If you receive advance payments for the sale of inventory,
+you may elect to use the advance payment cost offset
+method. If elected, this method of accounting applies to all
+advance payments received in your trade or business that
+satisfy the criteria. See Regulations section 1.451-8(e) for
+the criteria and other information related to this optional
+cost offset method.
+Specified Goods Exception
+The specified goods exception is for a taxpayer that receives prepayments but does not deliver the good for several years in the future. This exclusion applies if you require a customer to make an upfront payment under a
+contract in which all the following apply:
+1. The contracted delivery month and year of the good
+occurs at least 2 tax years after an upfront payment;
+2. You do not have the good or a substantially similar
+good on hand at the end of the year the upfront payment is received; and
+3. You recognized all of the revenue from the sale of the
+good in your AFS in the year of delivery.
+See Regulations section 1.451-8(f).
+How to report payments. If you receive a prepayment
+that satisfies the specified goods exception, it is excluded
+from the treatment afforded to advance payments and instead is analyzed under sections 451(a) and (b), including
+the all events test and existing case laws that address the
+all events test. Under this analysis, the prepayment could
+be includible in the year of receipt.
+If you are subject to this exception, you have the option
+to treat upfront payments that satisfy the criteria for the
+specified good exception as a typical advance payment
+under section 451(c). Under section 451(c), the advance
+payment is included in gross income under the full inclusion method or the 1-year deferral method.
+Expenses
+Under an accrual method of accounting, you generally deduct or capitalize a business expense when both the following apply.
+1. The all-events test has been met. The test is met
+when:
+a. All events have occurred that fix the fact of liability,
+and
+b. The liability can be determined with reasonable
+accuracy.
+2. Economic performance has occurred.
+Economic Performance
+Generally, you cannot deduct or capitalize a business expense until economic performance occurs. If your expense is for property or services provided to you, or for
+your use of property, economic performance occurs as
+the property or services are provided or the property is
+used. If your expense is for property or services you provide to others, economic performance occurs as you provide the property or services.
+Example. You are a calendar year taxpayer. You buy
+office supplies in December 2020. You receive the supplies and the bill in December, but you pay the bill in January 2021. You can deduct the expense in 2020 because
+all events have occurred to fix the liability, the amount of
+the liability can be determined, and economic performance occurred in 2020.
+Your office supplies may qualify as a recurring item,
+discussed later. If so, you can deduct them in 2020, even
+if the supplies are not delivered until 2021 (when economic performance occurs).
+Workers' compensation and tort liability. If you are
+required to make payments under workers' compensation
+laws or in satisfaction of any tort liability, economic performance occurs as you make the payments. If you are required to make payments to a special designated settlement fund established by court order for a tort liability,
+economic performance occurs as you make the payments.
+Taxes. Economic performance generally occurs as estimated income tax, property taxes, employment taxes, etc.
+are paid. However, you can elect to treat taxes as a recurring item, discussed later. You can also elect to ratably accrue real estate taxes. See chapter 5 of Pub. 535 for information about real estate taxes.

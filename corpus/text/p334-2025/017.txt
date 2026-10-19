@@ -1,0 +1,77 @@
+Items included in inventory. If you are required to account for inventories, include the following items when
+accounting for your inventory.
+• Merchandise or stock in trade.
+• Raw materials.
+• Work in process.
+• Finished products.
+• Supplies that physically become a part of the item intended for sale.
+Valuing inventory. You must value your inventory at the
+beginning and end of each tax year to determine your cost
+of goods sold (Schedule C (Form 1040), line 42). To determine the value of your inventory, you need a method for
+identifying the items in your inventory and a method for
+valuing these items.
+Inventory valuation rules cannot be the same for all
+kinds of businesses. The method you use to value your inventory must conform to generally accepted accounting
+principles for similar businesses and must clearly reflect
+income. Your inventory practices must be consistent from
+year to year.
+More information. For more information about inventories, see Pub. 538.
+Uniform Capitalization Rules
+Under the uniform capitalization rules, you must capitalize
+the direct costs and part of the indirect costs for production or resale activities. Include these costs in the basis of
+property you produce or acquire for resale, rather than
+claiming them as a current deduction. You recover the
+costs through depreciation, amortization, or cost of goods
+sold when you use, sell, or otherwise dispose of the property.
+Activities subject to the uniform capitalization rules.
+You may be subject to the uniform capitalization rules if
+you do any of the following, unless the property is produced for your use other than in a business or an activity
+carried on for profit.
+• Produce real or tangible personal property. For this
+purpose, tangible personal property includes a film,
+sound recording, videotape, book, or similar property.
+• Acquire property for resale.
+Exceptions. These rules don’t apply to the following.
+1. Small business taxpayers, defined earlier under Inventories.
+2. Property you produce if your indirect costs of producing the property are $200,000 or less.
+Special Methods
+There are special methods of accounting for certain items
+of income or expense. These include the following.
+• Amortization, discussed in chapter 7 of Pub. 225.
+• Bad debts, discussed under Topic No. 453, Bad Debt
+Deduction.
+• Depletion, discussed in chapter 7 of Pub. 225.
+• Depreciation, discussed in Pub. 946, How To Depreciate Property.
+• Installment sales, discussed in Pub. 537, Installment
+Sales.
+• Long-term contract methods of accounting. See section 460.
+Change in Accounting Method
+Once you have set up your accounting method, you must
+generally get IRS approval before you can change to another method. A change in your accounting method includes a change in:
+1. Your overall method, such as from cash to an accrual
+method; and
+2. Your treatment of any material item.
+To request approval, you must file Form 3115. You can get
+IRS approval to change an accounting method under either the automatic change procedures or the advance
+consent request procedures. You may have to pay a user
+fee. For more information, see the Instructions for Form
+3115.
+Automatic change procedures. Certain taxpayers can
+presume to have IRS approval to change their method of
+accounting. The approval is granted for the tax year for
+which the taxpayer requests a change (year of change), if
+the taxpayer complies with the provisions of the automatic
+change procedures. No user fee is required for an application filed under an automatic change procedure generally
+covered in Revenue Procedure 2025-23, available at
+IRS.gov/irb/2025-24_IRB#REV-PROC-2025-23 (or its
+successor).
+Generally, you must use Form 3115 to request an automatic change. For more information, see the Instructions
+for Form 3115.
+3.
+Dispositions of Business
+Property
+Introduction
+If you dispose of business property, you may have a gain
+or loss that you report on your tax return. However, in
+some cases, you may have a gain that is not taxable or a
+loss that is not deductible. This chapter discusses

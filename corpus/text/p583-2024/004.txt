@@ -1,0 +1,86 @@
+Getting a Taxpayer
+Identification Number (TIN)
+You must have a TIN so the IRS can process your returns.
+Two of the most common kinds of TINs are the social security number (SSN) and the employer identification number (EIN).
+• An SSN is issued to individuals by the Social Security
+Administration (SSA) and is in the following format:
+000–00–0000.
+• An EIN is issued to individuals (sole proprietors), partnerships, corporations, and other entities by the IRS
+and is in the following format: 00–0000000.
+Providing your TIN to others. You must include your
+TIN (SSN or EIN) on all returns and other documents you
+send to the IRS. You must also provide your TIN to other
+persons who use your TIN on any returns or documents
+they send to the IRS. This includes returns or documents
+filed to report the following information.
+1. Interest, dividends, royalties, etc., paid to you.
+2. Any amount paid to you as a dependent care provider.
+3. Certain other amounts paid to you that total $600 or
+more for the year.
+If you do not furnish your TIN as required, you may be
+subject to penalties. See Penalties, later.
+Employer Identification Number (EIN)
+EINs are assigned to sole proprietors, LLCs, corporations,
+and partnerships for tax filing and reporting purposes. See
+Form SS-4 and its instructions for more information and to
+see which businesses must get an EIN.
+Applying for an EIN. You may apply for an EIN:
+• Online—Click on the Employer ID Numbers (EINs) link
+at IRS.gov/businesses/small. The EIN is issued immediately once the application information is validated.
+• By mailing or faxing Form SS-4, Application for Employer Identification Number.
+• International applicants may call 267-941-1099 (not a
+toll-free number).
+When to apply. You should apply for an EIN early
+enough to receive the number by the time you must file a
+return or statement or make a tax deposit. If you apply by
+mail, file Form SS-4 at least 4 weeks before you need an
+EIN. If you apply by telephone or through the IRS website,
+you can get an EIN immediately. If you apply by fax, you
+can get an EIN within 4 business days.
+If you do not receive your EIN by the time a return is
+due, file your return anyway. Write “Applied for” and the
+date you applied for the number in the space for the EIN.
+Do not use your social security number as a substitute for
+an EIN on your tax returns.
+More than one EIN. You should have only one EIN for a
+business entity. If you have more than one EIN and are not
+sure which to use, contact the Internal Revenue Service
+Center where you file your return. Give the numbers you
+have, the name and address to which each was assigned,
+and the address of your main place of business. The IRS
+will tell you which number to use.
+More information. For more information about EINs, see
+Pub. 1635.
+Payee's Identification Number
+In the operation of a business, you will probably make certain payments you must report on information returns (discussed later under Information Returns). The forms used
+to report these payments must include the payee's identification number.
+Employee. If you have employees, you must get an SSN
+from each of them. Record the name and SSN of each
+employee exactly as they are shown on the employee's
+social security card. If the employee's name is not correct
+as shown on the card, the employee should request a new
+card from the SSA. This may occur, for example, if the employee's name has changed due to marriage or divorce.
+If your employee does not have an SSN, he or she
+should file Form SS-5, Application for a Social Security
+Card, with the SSA. This form is available at SSA offices
+or by calling 800-772-1213. It is also available from the
+SSA website at SSA.gov.
+Other payee. If you make payments to someone who is
+not your employee and you must report the payments on
+an information return, get that person's SSN. If you make
+reportable payments to an organization, such as a corporation or partnership, you must get its EIN.
+To get the payee's SSN or EIN, use Form W-9, Request
+for Taxpayer Identification Number and Certification. For
+more information, see IRS.gov/FormW9.
+If the payee does not provide you with an identification number, you may have to withhold part of
+the payments as backup withholding. For information on backup withholding, see the Instructions for the
+Requester of Form W-9 and the General Instructions for
+Certain Information Returns.
+Designating a Tax Year
+You must figure your taxable income and file an income
+tax return based on an annual accounting period called a
+tax year. A tax year is usually 12 consecutive months.
+There are two kinds of tax years.
+1. Calendar tax year. A calendar tax year is 12 consecutive months beginning January 1 and ending December 31.
+CAUTION
+!

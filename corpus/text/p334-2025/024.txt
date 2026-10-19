@@ -1,0 +1,83 @@
+2. The cancellation takes place when you are insolvent.
+You can exclude the canceled debt to the extent you
+are insolvent. See Pub. 4681, Canceled Debts, Foreclosures, Repossessions, and Abandonments.
+3. The canceled debt is a qualified farm debt owed to a
+qualified person. See chapter 3 of Pub. 225, Farmer’s
+Tax Guide.
+4. The canceled debt is a qualified real property business debt. This situation is explained later.
+5. The canceled debt is qualified principal residence indebtedness that is discharged after 2006 and before
+2026 or is subject to an arrangement entered into in
+writing before 2026. See the Instructions for Form 982
+for more information about this exclusion.
+If a canceled debt is excluded from income because the
+cancellation takes place in a bankruptcy case, the exclusions in situations 2 through 5 don’t apply. If it takes place
+when you are insolvent, the exclusions in situations 3 and
+4 don’t apply to the extent you are insolvent.
+Debt. For purposes of this discussion, debt includes any
+debt for which you are liable or which attaches to property
+you hold.
+Qualified real property business debt. You can elect
+to exclude (up to certain limits) the cancellation of qualified real property business debt. If you make the election,
+you must reduce the basis of your depreciable real property by the amount excluded. Make this reduction at the
+beginning of your tax year following the tax year in which
+the cancellation occurs. However, if you dispose of the
+property before that time, you must reduce its basis immediately before the disposition.
+Cancellation of qualified real property business
+debt. Qualified real property business debt is debt (other
+than qualified farm debt) that meets all the following conditions.
+1. It was incurred or assumed in connection with real
+property used in a trade or business. Real property
+used in a trade or business does not include real
+property developed and held primarily for sale to customers in the ordinary course of business.
+2. It was secured by such real property.
+3. It was incurred or assumed at either of the following
+times.
+a. Before January 1, 1993.
+b. After December 31, 1992, if incurred or assumed
+to acquire, construct, or substantially improve the
+real property.
+4. It is debt to which you elect to apply these rules.
+Qualified real property business debt includes refinancing of debt described in (3) above, but only to the extent it
+does not exceed the debt being refinanced.
+If you are the owner of a disregarded entity (for
+example, a single-member LLC), see Qualified
+Real Property Business Indebtedness in chapter 1 of Pub. 4681 to see if you qualify for this exclusion.
+You can’t exclude more than either of the following
+amounts.
+1. The excess (if any) of:
+a. The outstanding principal of qualified real property
+business debt (immediately before the cancellation); over
+b. The fair market value (immediately before the cancellation) of the business real property that is security for the debt, reduced by the outstanding
+principal amount of any other qualified real property business debt secured by this property immediately before the cancellation.
+2. The total adjusted bases of depreciable real property
+held by you immediately before the cancellation.
+These adjusted bases are determined after any basis
+reduction due to a cancellation in bankruptcy or insolvency, or of qualified farm debt. Do not take into account depreciable real property acquired in contemplation of the cancellation.
+Election. To make this election, complete Form 982
+and attach it to your income tax return for the tax year in
+which the cancellation occurs. You must file your return by
+the due date (including extensions). If you timely filed your
+return for the year without making the election, you can
+still make the election by filing an amended return within 6
+months of the due date of the return (excluding extensions). For more information, see When To File in the form
+instructions.
+Other Income
+The following discussion explains how to treat other types
+of business income you may receive.
+Restricted property. Restricted property is property that
+has certain restrictions that affect its value. If you receive
+restricted stock or other property for services performed,
+the fair market value of the property in excess of your cost
+is included in your income on Schedule C (Form 1040)
+when the restriction is lifted. However, you can choose to
+be taxed in the year you receive the property. For more information on including restricted property in income, see
+Pub. 525, Taxable and Nontaxable Income.
+Gains and losses. Do not report on Schedule C (Form
+1040) a gain or loss from the disposition of property that is
+neither stock in trade nor held primarily for sale to customers. Instead, you must report these gains and losses on
+other forms. For more information, see chapter 3.
+Promissory notes. Report promissory notes and other
+evidences of debt issued to you in a sale or exchange of
+property that is stock in trade or held primarily for sale to
+customers on Schedule C (Form 1040). In general, you report them at their stated principal amount (minus any
+TIP

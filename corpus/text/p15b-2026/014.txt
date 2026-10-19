@@ -1,0 +1,84 @@
+the RSU (qualified stock) may elect to defer the recognition of income for up to 5 years if the corporation’s stock
+wasn’t readily tradable on an established securities market during any prior calendar year, if the corporation has a
+written plan under which not less than 80% of all U.S. employees are granted options or RSUs with the same rights
+and privileges to receive qualified stock, and if certain
+other requirements are met. An election under section
+83(i) applies only for federal income tax purposes. The
+election has no effect on the application of social security,
+Medicare, and FUTA taxes. For federal income tax purposes, the employer must withhold federal income tax at
+37% in the tax year that the amount deferred is included in
+the employee’s income. If a section 83(i) election is made
+for an option exercise, that option will not be considered
+an incentive stock option or an option granted pursuant to
+an employee stock purchase plan. These rules apply to
+stock attributable to options exercised, or RSUs settled,
+after December 31, 2017. For more information, see section 83(i); and Notice 2018-97, 2018-52 I.R.B. 1062, available at IRS.gov/irb/2018-52_IRB#NOT-2018-97.
+Reporting requirements. For each employee, you
+must report in box 12 of Form W-2 using code GG the
+amount included in income in the calendar year from
+qualified equity grants under section 83(i). You must also
+report in box 12 using code HH the total amount of income
+deferred under section 83(i) determined as of the close of
+the calendar year.
+More information. For more information about employee stock options, see sections 83, 421, 422, and 423
+of the Internal Revenue Code and their related regulations.
+Employer-Provided Cell Phones
+The value of the business use of an employer-provided
+cell phone, provided primarily for noncompensatory business reasons, is excludable from an employee’s income
+as a working condition fringe benefit. Personal use of an
+employer-provided cell phone, provided primarily for noncompensatory business reasons, is excludable from an
+employee’s income as a de minimis fringe benefit. The
+term “cell phone” also includes other similar telecommunications equipment. For the rules relating to these types of
+benefits, see De Minimis (Minimal) Benefits, earlier in this
+section; and Working Condition Benefits, later in this section.
+Noncompensatory business purposes. You provide a
+cell phone primarily for noncompensatory business purposes if there are substantial business reasons for providing
+the cell phone. Examples of substantial business reasons
+include the employer’s:
+• Need to contact the employee at all times for work-related emergencies,
+• Requirement that the employee be available to speak
+with clients at times when the employee is away from
+the office, and
+• Need to speak with clients located in other time zones
+at times outside the employee’s normal workday.
+Cell phones provided to promote goodwill, boost
+morale, or attract prospective employees. You can’t
+exclude from an employee’s wages the value of a cell
+phone provided to promote goodwill of an employee, to attract a prospective employee, or as a means of providing
+additional compensation to an employee.
+Additional information. For additional information on
+the tax treatment of employer-provided cell phones, see
+Notice 2011-72, 2011-38 I.R.B. 407, available at
+IRS.gov/irb/2011-38_IRB#NOT-2011-72.
+Group-Term Life Insurance Coverage
+This exclusion applies to life insurance coverage that
+meets all the following conditions.
+• It provides a general death benefit that isn’t included in
+income.
+• You provide it to a group of employees. See The
+10-employee rule, later.
+• It provides an amount of insurance to each employee
+based on a formula that prevents individual selection.
+This formula must use factors such as the employee’s
+age, years of service, pay, or position.
+• You provide it under a policy you directly or indirectly
+carry. Even if you don’t pay any of the policy’s cost,
+you’re considered to carry it if you arrange for payment
+of its cost by your employees and charge at least one
+employee less than, and at least one other employee
+more than, the cost of their insurance. Determine the
+cost of the insurance, for this purpose, as explained
+under Coverage over the limit, later.
+Group-term life insurance doesn’t include the following
+insurance.
+• Insurance that doesn’t provide general death benefits,
+such as travel insurance or a policy providing only accidental death benefits.
+• Life insurance on the life of your employee’s spouse or
+dependent. However, you may be able to exclude the
+cost of this insurance from the employee’s wages as a
+de minimis benefit. See De Minimis (Minimal) Benefits, earlier in this section.
+• Insurance provided under a policy that provides a permanent benefit (an economic value that extends beyond 1 policy year, such as paid-up or cash-surrender
+value), unless certain requirements are met. See Regulations section 1.79-1 for details.
+Employee. For this exclusion, treat the following individuals as employees.
+1. A current common-law employee.
+2. A full-time life insurance agent who is a current statutory employee.

@@ -1,0 +1,90 @@
+Reporting Travel, Nonentertainment Meal, Gift, and Car Expenses and
+Reimbursements
+Table 6-1.
+IF the type of reimbursement (or
+other expense allowance)
+arrangement is under:
+THEN the employer reports on Form
+W-2:
+AND the employee
+reports on
+Form 2106:
+An accountable plan with:
+Actual expense reimbursement: adequate accounting
+made and excess returned.
+No amount. No amount.
+Actual expense reimbursement: adequate accounting and
+return of excess both required but excess not returned.
+The excess amount as wages in box 1. No amount.
+Per diem or mileage allowance up to the federal rate:
+adequate accounting made and excess returned.
+No amount. All expenses and reimbursements only if
+excess expenses are claimed. Otherwise,
+form isn’t filed.
+Per diem or mileage allowance up to the federal rate:
+adequate accounting and return of excess both required
+but excess not returned.
+The excess amount as wages in box 1.
+The amount up to the federal rate is
+reported only under code L in box 12 of
+Form W-2—it isn’t reported in box 1.
+No amount.
+Per diem or mileage allowance exceeds the federal rate:
+adequate accounting up to the federal rate only and
+excess not returned.
+The excess amount as wages in box 1.
+The amount up to the federal rate is
+reported only under code L in box 12 of
+Form W-2—it isn’t reported in box 1.
+All expenses (and reimbursements
+reported under code L in box 12 of Form
+W-2) only if expenses in excess of the
+federal rate are claimed. Otherwise, form
+isn’t filed.
+A nonaccountable plan with:
+Either adequate accounting or return of excess, or both,
+not required by plan.
+The entire amount as wages in box 1. All expenses.
+No reimbursement plan:
+The entire amount as wages in box 1. All expenses.
+Car expenses. If you used a car to perform your job as
+an employee, you may be able to deduct certain car expenses. These are generally figured on Form 2106, Part II,
+and then claimed on Form 2106, Part I, line 1, column A.
+Information on use of cars. If you claim any deduction for the business use of a car, you must answer certain
+questions and provide information about the use of the
+car. The information relates to the following items.
+• Date placed in service.
+• Mileage (total, business, commuting, and other personal mileage).
+• Percentage of business use.
+• After-work use.
+• Use of other vehicles.
+• Whether you have evidence to support the deduction.
+• Whether or not the evidence is written.
+Employees must complete Form 2106, Part II, Section A,
+to provide this information.
+Standard mileage rate. If you claim a deduction
+based on the standard mileage rate instead of your actual
+expenses, you must complete Form 2106, Part II, Section B. The amount on line 22 (Section B) is carried to
+Form 2106, Part I, line 1. In addition, on Part I, line 2, you
+can deduct parking fees and tolls that apply to the business use of the car. See Standard Mileage Rate in chapter 4 for information on using this rate.
+Actual expenses. If you claim a deduction based on
+actual car expenses, you must complete Form 2106, Part
+II, Section C. In addition, unless you lease your car, you
+must complete Section D to show your depreciation deduction and any section 179 deduction you claim.
+If you are still using a car that is fully depreciated, continue to complete Section C. Since you have no depreciation deduction, enter zero on line 28. In this case, don’t
+complete Section D.
+Car rentals. If you claim car rental expenses on Form
+2106, line 24a, you may have to reduce that expense by
+an inclusion amount, as described in chapter 4. If so, you
+can show your car expenses and any inclusion amount as
+follows.
+1. Figure the inclusion amount without taking into account your business-use percentage for the tax year.
+2. Report the inclusion amount from (1) on Form 2106,
+Part II, line 24b.
+3. Report on line 24c the net amount of car rental expenses (total car rental expenses minus the inclusion
+amount figured in (1)).
+The net amount of car rental expenses will be adjusted on
+Form 2106, Part II, line 27, to reflect the percentage of
+business use for the tax year.
+Transportation expenses. Show your transportation expenses that didn’t involve overnight travel on Form 2106,
+line 2, column A. Also, include on this line business

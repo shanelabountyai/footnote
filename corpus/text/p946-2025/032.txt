@@ -1,0 +1,69 @@
+produced for your use by another person under a written binding contract entered into by you or a related
+party before the manufacture, construction, or production of the property is considered to be manufactured,
+constructed, or produced by you.
+What Is the Placed in Service
+Date?
+Terms you may need to know
+(see Glossary):
+Placed in service
+You begin to claim depreciation when your property is
+placed in service for either use in a trade or business or
+the production of income. The placed in service date for
+your property is the date the property is ready and available for a specific use. It is therefore not necessarily the
+date it is first used. If you converted property held for personal use to use in a trade or business or for the production of income, treat the property as being placed in service on the conversion date. See Placed in Service under
+When Does Depreciation Begin and End? in chapter 1 for
+examples illustrating when property is placed in service.
+What Is the Basis for
+Depreciation?
+Terms you may need to know
+(see Glossary):
+Basis
+The basis for depreciation of MACRS property is the property’s cost or other basis multiplied by the percentage of
+business/investment use. For a discussion of business/
+investment use, see Partial business or investment use
+under Property Used in Your Business or Income-Producing Activity in chapter 1. Reduce that amount by any credits and deductions allocable to the property. The following
+are examples of some credits and deductions that reduce
+basis.
+• Any deduction for section 179 property.
+• Any deduction under section 179B of the Internal Revenue Code for capital costs to comply with Environmental Protection Agency sulfur regulations.
+• Any deduction under section 179D of the Internal Revenue Code for certain energy efficient commercial
+building property.
+• Any deduction for removal of barriers to the disabled
+and the elderly.
+• Any disabled access credit, enhanced oil recovery
+credit, and credit for employer-provided childcare facilities and services.
+• Any special depreciation allowance.
+• Basis adjustment for investment credit property under
+section 50(c) of the Internal Revenue Code.
+• Basis adjustment for advanced manufacturing investment credit property. See section 48D(d)(5) of the Internal Revenue Code.
+For additional credits and deductions that affect basis,
+see section 1016 of the Internal Revenue Code.
+Enter the basis for depreciation under column (c) in
+Part III of Form 4562. For information about how to determine the cost or other basis of property, see What Is the
+Basis of Your Depreciable Property? in chapter 1.
+Which Recovery Period
+Applies?
+Terms you may need to know
+(see Glossary):
+Active conduct of a trade or business
+Basis
+Improvement
+Listed property
+Nonresidential real property
+Placed in service
+Property class
+Recovery period
+Residential rental property
+Section 1245 property
+The recovery period of property is the number of years
+over which you recover its cost or other basis. It is determined based on the depreciation system (GDS or ADS)
+used.
+Recovery Periods Under GDS
+Under GDS, property is depreciated over one of the following recovery periods.
+Property Class Recovery Period
+3-year property . . . . . . . . . . . . . . . 3 years1
+5-year property . . . . . . . . . . . . . . . 5 years
+7-year property . . . . . . . . . . . . . . . 7 years
+10-year property . . . . . . . . . . . . . . 10 years
+15-year property . . . . . . . . . . . . . . 15 years2
+20-year property . . . . . . . . . . . . . . 20 years

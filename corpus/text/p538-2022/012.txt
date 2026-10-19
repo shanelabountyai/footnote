@@ -1,0 +1,80 @@
+Other liabilities. Other liabilities for which economic
+performance occurs as you make payments include liabilities for breach of contract (to the extent of incidental, consequential, and liquidated damages), violation of law, rebates and refunds, awards, prizes, jackpots, insurance,
+and warranty and service contracts.
+Interest. Economic performance occurs with the passage of time (as the borrower uses, and the lender forgoes use of, the lender's money) rather than as payments
+are made.
+Compensation for services. Generally, economic performance occurs as an employee renders service to the
+employer. However, deductions for compensation or other
+benefits paid to an employee in a year subsequent to economic performance are subject to the rules governing deferred compensation, deferred benefits, and funded welfare benefit plans. For information on employee benefit
+programs, see Pub. 15-B, Employer's Tax Guide to Fringe
+Benefits.
+Vacation pay. You can take a current deduction for
+vacation pay earned by your employees if you pay it during the year or, if the amount is vested, within 21/2 months
+after the end of the year. If you pay it later than this, you
+must deduct it in the year actually paid. An amount is vested if your right to it cannot be nullified or cancelled.
+Exception for recurring items. An exception to the
+economic performance rule allows certain recurring items
+to be treated as incurred during the tax year even though
+economic performance has not occurred. The exception
+applies if all the following requirements are met.
+1. The all-events test, discussed earlier, is met.
+2. Economic performance occurs by the earlier of the
+following dates.
+a. 81/2 months after the close of the year.
+b. The date you file a timely return (including extensions) for the year.
+3. The item is recurring in nature and you consistently
+treat similar items as incurred in the tax year in which
+the all-events test is met.
+4. Either:
+a. The item is not material, or
+b. Accruing the item in the year in which the
+all-events test is met results in a better match
+against income than accruing the item in the year
+of economic performance.
+This exception does not apply to workers' compensation
+or tort liabilities.
+Amended return. You may be able to file an amended return and treat a liability as incurred under the recurring item exception. You can do so if economic performance for the liability occurs after you file your tax return for
+the year, but within 81/2 months after the close of the tax
+year.
+Recurrence and consistency. To determine
+whether an item is recurring and consistently reported,
+consider the frequency with which the item and similar
+items are incurred (or expected to be incurred) and how
+you report these items for tax purposes. A new expense
+or an expense not incurred every year can be treated as
+recurring if it is reasonable to expect that it will be incurred
+regularly in the future.
+Materiality. Factors to consider in determining the
+materiality of a recurring item include the size of the item
+(both in absolute terms and in relation to your income and
+other expenses) and the treatment of the item on your financial statements.
+An item considered material for financial statement purposes is also considered material for tax purposes. However, in certain situations an immaterial item for financial
+accounting purposes is treated as material for purposes of
+economic performance.
+Matching expenses with income. Costs directly associated with the revenue of a period are properly allocable to that period. To determine whether the accrual of an
+expense in a particular year results in a better match with
+the income to which it relates, generally accepted accounting principles (GAAP) are an important factor.
+For example, if you report sales income in the year of
+sale, but you do not ship the goods until the following
+year, the shipping costs are more properly matched to income in the year of sale than the year the goods are shipped. Expenses that cannot be practically associated with
+income of a particular period, such as advertising costs,
+should be assigned to the period the costs are incurred.
+However, the matching requirement is considered met for
+certain types of expenses. These expenses include taxes,
+payments under insurance, warranty, and service contracts, rebates, refunds, awards, prizes, and jackpots.
+Expenses Paid in Advance
+An expense you pay in advance is deductible only in the
+year to which it applies, unless the expense qualifies for
+the 12-month rule. Under the 12-month rule, a taxpayer is
+not required to capitalize amounts paid to create certain
+rights or benefits for the taxpayer that do not extend beyond the earlier of the following.
+• 12 months after the right or benefit begins, or
+• The end of the tax year after the tax year in which payment is made.
+If you have not been applying the general rule (an expense paid in advance is deductible only in the year to
+which it applies) and/or the 12-month rule to the expenses
+you paid in advance, you must get IRS approval before
+using the general rule and/or the 12-month rule. See
+Change in Accounting Method, later, for information on
+how to get IRS approval. See Expense paid in advance
+under Cash Method, earlier, for examples illustrating the
+application of the general and 12-month rules.

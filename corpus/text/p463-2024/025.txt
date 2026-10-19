@@ -1,0 +1,92 @@
+Form 2106 is only used by Armed Forces reservists, qualified performing artists, fee-basis state or
+local government officials, and employees with
+impairment-related work expenses. Due to the suspension
+of miscellaneous itemized deductions subject to the 2%
+floor under section 67(a), employees who don’t fit into one
+of the listed categories may not use Form 2106.
+File the appropriate form with either of the following.
+• Your original tax return filed for the year the property
+was placed in service (whether or not you file it
+timely).
+• An amended return filed within the time prescribed by
+law. An election made on an amended return must
+specify the item of section 179 property to which the
+election applies and the part of the cost of each such
+item to be taken into account. The amended return
+must also include any resulting adjustments to taxable
+income.
+You must keep records that show the specific
+identification of each piece of qualifying section
+179 property. These records must show how you
+acquired the property, the person you acquired it from,
+and when you placed it in service.
+Revoking an election. An election (or any specification made in the election) to take a section 179 deduction
+for 2024 can only be revoked with the Commissioner’s approval.
+Recapture of section 179 deduction. To be eligible to
+claim the section 179 deduction, you must use your car
+more than 50% for business or work in the year you acquired it. If your business use of the car is 50% or less in a
+later tax year during the recovery period, you have to recapture (include in income) in that later year any excess
+depreciation. Any section 179 deduction claimed on the
+car is included in figuring the excess depreciation. For information on this calculation, see Excess depreciation,
+later in this chapter under Car Used 50% or Less for Business. For more information on recapture of a section 179
+deduction, see Pub. 946.
+Dispositions. If you dispose of a car on which you had
+claimed the section 179 deduction, the amount of that deduction is treated as a depreciation deduction for recapture purposes. You treat any gain on the disposition of the
+property as ordinary income up to the amount of the section 179 deduction and any allowable depreciation (unless
+you establish the amount actually allowed). For information on the disposition of a car, see Disposition of a Car,
+later. For more information on recapture of a section 179
+deduction, see Pub. 946.
+Special Depreciation Allowance
+You may be able to claim the special depreciation allowance for your car, truck, or van if it is qualified property and
+was placed in service in 2024. The allowance for 2024 is
+an additional depreciation deduction for 100% of the car’s
+depreciable basis (after any section 179 deduction, but
+CAUTION
+!
+CAUTION
+!
+before figuring your regular depreciation deduction under
+MACRS) if the vehicle was acquired after September 27,
+2017, and placed in service during 2024. Further, while it
+applies to a new vehicle, it also applies to a used vehicle
+only if the vehicle meets the used property requirements.
+For more information on the used property requirements,
+see section 168(k)(2)(E)(ii). To qualify for the allowance,
+more than 50% of the use of the car must be in a qualified
+business use (as defined under Depreciation Deduction,
+later).
+Combined depreciation. The first-year limit on the depreciation deduction, special depreciation allowance, and
+section 179 deduction for vehicles acquired before September 28, 2017, and placed in service during 2024, is
+$12,400. Your combined section 179 depreciation, special
+depreciation allowance, and regular MACRS depreciation
+deduction is limited to the maximum allowable depreciation deduction for vehicles acquired after September 27,
+2017, and placed in service during 2024 is $20,400. If you
+elect not to claim a special depreciation allowance for a
+vehicle placed in service in 2024, the amount is $12,400.
+See Depreciation Limits, later in this chapter.
+Qualified car. To be qualified property, the car (including
+the truck or van) must meet all of the following tests.
+• You acquired the car after September 27, 2017, but
+only if no written binding contract to acquire the car
+existed before September 28, 2017.
+• You acquired the car new or used.
+• You placed the car in service in your trade or business
+before January 1, 2027.
+• You used the car more than 50% in a qualified business use during the tax year.
+Election not to claim the special depreciation allowance. You can elect not to claim the special depreciation
+allowance for your car, truck, or van that is qualified property. If you make this election, it applies to all 5-year property placed in service during the year.
+To make this election, attach a statement to your timely
+filed return (including extensions) indicating the class of
+property (5-year for cars) for which you are making the
+election and that you are electing not to claim the special
+depreciation allowance for qualified property in that class
+of property.
+Unless you elect not to claim the special depreciation allowance, you must reduce the car’s adjusted basis by the amount of the allowance, even if
+the allowance wasn’t claimed.
+Depreciation Deduction
+If you use actual car expenses to figure your deduction for
+a car you own and use in your business, you can claim a
+depreciation deduction. This means you can deduct a certain amount each year as a recovery of your cost or other
+basis in your car.
+CAUTION
+!

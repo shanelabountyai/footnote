@@ -1,0 +1,82 @@
+only if all items of gross income and expenses are treated
+the same from year to year.
+If you do not regularly use an accounting method that
+clearly reflects your income, your income will be refigured
+under the method that, in the opinion of the IRS, does
+clearly reflect income.
+Methods you can use. Generally, you can figure your
+taxable income under any of the following accounting
+methods.
+• Cash method.
+• Accrual method.
+• Special methods of accounting for certain items of income and expenses.
+• A hybrid method which combines elements of two or
+more of the above accounting methods.
+Special methods. This publication does not discuss
+special methods of accounting for certain items of income
+or expenses. For information on reporting income using
+one of the long-term contract methods, see section 460 of
+the Internal Revenue Code and the related regulations.
+The following publications also discuss special methods
+of reporting income or expenses.
+• Publication 225, Farmer's Tax Guide.
+• Publication 535, Business Expenses.
+• Publication 537, Installment Sales.
+• Publication 946, How To Depreciate Property.
+Hybrid method. Generally, you can use any combination of cash, accrual, and special methods of accounting if the combination clearly reflects your income and you
+use it consistently. However, the following restrictions apply.
+• If an inventory is necessary to account for your income, you must use an accrual method for purchases
+and sales. However, see Exception for Small Business Taxpayers, later. Generally, you can use the
+cash method for all other items of income and expenses. See Inventories, later.
+• If you use the cash method for reporting your income,
+you must use the cash method for reporting your expenses.
+• If you use an accrual method for reporting your expenses, you must use an accrual method for figuring your
+income.
+• Any combination that includes the cash method is
+treated as the cash method for purposes of section
+448 of the Internal Revenue Code.
+Business and personal items. You can account for
+business and personal items using different accounting
+methods. For example, you can determine your business
+income and expenses under an accrual method, even if
+you use the cash method to figure personal items.
+Two or more businesses. If you operate two or more
+separate and distinct businesses, you can use a different
+accounting method for each business. No business is
+separate and distinct, unless a complete and separate set
+of books and records is maintained for each business.
+Note. If you use different accounting methods to create or shift profits or losses between businesses (for example, through inventory adjustments, sales, purchases,
+or expenses) so that income is not clearly reflected, the
+businesses will not be considered separate and distinct.
+Cash Method
+Most individuals and many small businesses (as explained under Excluded Entities and Exceptions, later)
+use the cash method of accounting. Generally, if you produce, purchase, or sell merchandise, you must keep an
+inventory and use an accrual method for sales and purchases of merchandise. See Inventories, later, for exceptions to this rule.
+Income
+Under the cash method, you include in your gross income
+all items of income you actually or constructively received
+during the tax year. If you received property and services,
+you must include their fair market value (FMV) in income.
+Constructive receipt. Income is constructively received
+when an amount is credited to your account or made
+available to you without restriction. You do not need to
+have possession of it. If you authorize someone to be your
+agent and receive income for you, you are considered to
+have received it when your agent receives it. Income is
+not constructively received if your control of its receipt is
+subject to substantial restrictions or limitations.
+Example. You are a calendar year taxpayer. Your
+bank credited, and made available, interest to your bank
+account in December 2021. You did not withdraw it or enter it into your books until 2022. You must include the
+amount in gross income for 2021, the year you constructively received the interest income.
+You cannot hold checks or postpone taking possession of similar property from one tax year to
+another to postpone paying tax on the income.
+You must report the income in the year the property is received or made available to you without restriction.
+Expenses
+Under the cash method, generally, you deduct expenses
+in the tax year in which you actually pay them. This includes business expenses for which you contest liability.
+However, you may not be able to deduct an expense paid
+in advance. Instead, you may be required to capitalize
+certain costs, as explained later under Uniform Capitalization Rules.
+Expense paid in advance. An expense you pay in advance is deductible only in the year to which it applies, unless the expense qualifies for the 12-month rule.
+TIP

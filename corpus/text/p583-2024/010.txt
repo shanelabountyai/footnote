@@ -1,0 +1,85 @@
+Depreciation
+If property you acquire to use in your business has a useful life that extends substantially beyond the year it is
+placed in service, you generally cannot deduct the entire
+cost as a business expense in the year you acquire it. You
+must spread the cost over more than one tax year and deduct part of it each year. This method of deducting the
+cost of business property is called depreciation.
+Business property you must depreciate includes the following items.
+• Office furniture.
+• Buildings.
+• Machinery and equipment.
+You can choose to deduct a limited amount of the cost
+of certain depreciable property in the year you place the
+property in service. This deduction is known as the “section 179 deduction.” For more information about depreciation and the section 179 deduction, see Pub. 946.
+Depreciation must be taken in the year it is allowable. Allowable depreciation not taken in a prior
+year cannot be taken in the current year. If you do
+not deduct the correct depreciation, you may be able to
+make a correction by filing Form 1040-X, Amended U.S.
+Individual Income Tax Return, or by changing your accounting method. For more information on how to correct
+depreciation deductions, see chapter 1, How Do You Correct Depreciation Deductions?, in Pub. 946.
+Business Use of Your Home
+To deduct expenses related to the business use of your
+home, you must meet specific requirements. However,
+even if you meet the requirements your deduction may still
+be limited.
+To qualify to claim expenses for business use of your
+home, you must meet both the following tests.
+1. Your use of the business part of your home must be:
+a. Exclusive (however, see Exceptions to exclusive
+use, later),
+b. Regular,
+c. For your trade or business, AND
+2. The business part of your home must be one of the
+following:
+a. Your principal place of business (defined later),
+b. A place where you meet or deal with patients, clients, or customers in the normal course of your
+trade or business, or
+c. A separate structure (not attached to your home)
+you use in connection with your trade or business.
+Exclusive use. To qualify under the exclusive use test,
+you must use a specific area of your home only for your
+trade or business. The area used for business can be a
+TIP
+room or other separately identifiable space. The space
+does not need to be marked off by a permanent partition.
+You do not meet the requirements of the exclusive use
+test if you use the area in question both for business and
+for personal purposes.
+Exceptions to exclusive use. You do not have to meet
+the exclusive use test if either of the following applies.
+1. You use part of your home for the storage of inventory
+or product samples.
+2. You use part of your home as a daycare facility.
+For an explanation of these exceptions, see Pub. 587.
+Principal place of business. Your home office will qualify as your principal place of business for deducting expenses for its use if you meet the following requirements.
+• You use it exclusively and regularly for administrative
+or management activities of your trade or business.
+• You have no other fixed location where you conduct
+substantial administrative or management activities of
+your trade or business.
+Alternatively, if you use your home exclusively and regularly for your business, but your home office does not
+qualify as your principal place of business based on the
+previous rules, you determine your principal place of business based on the following factors.
+• The relative importance of the activities performed at
+each location.
+• If the relative importance factor does not determine
+your principal place of business, the time spent at
+each location.
+If, after considering your business locations, your home
+cannot be identified as your principal place of business,
+you cannot deduct home office expenses. However, for
+other ways to qualify to deduct home office expenses, see
+Pub. 587.
+Simplified method. The simplified method is an alternative to the calculation, allocation, and substantiation of actual expenses normally required to determine your home
+office expense deduction. With this method, you will generally figure your deduction by multiplying $5, the prescribed rate, by the area of your home (measured in square
+feet) used for a qualified business. The area you use to
+figure your deduction is limited to 300 square feet. For
+more information about the simplified method, see Revenue Procedure 2013-13, 2013-06 I.R.B. 478, available at
+IRS.gov/irb/2013-06_IRB#RP-2013-13.
+Which form do I file? If you file Schedule C (Form
+1040), use Form 8829, Expenses for Business Use of
+Your Home. However, if you elect to use the simplified
+method, use the Simplified Method Worksheet in the Instructions for Schedule C (Form 1040) or Pub. 587.
+If you file Schedule F (Form 1040) or are a partner, you
+should use the Worksheet To Figure the Deduction for
+Business Use of Your Home in Pub. 587. However, if you

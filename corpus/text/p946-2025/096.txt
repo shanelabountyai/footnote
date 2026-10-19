@@ -1,0 +1,40 @@
+1
+Year
+Qualified Indian Reservation Property Tables
+for Property Placed in Service Before 2022
+2-Year Qualified Indian Reservation Property
+Half-Year and Mid-Quarter Conventions
+Table A-21.
+Half-Year
+Convention
+Q-1 Q-2 Q-3 Q-4
+50.00% 87.50% 62.50% 37.50% 12.50%
+2 50.00 12.50 37.50 62.50 87.50
+1
+Year
+Half-Year
+Convention
+Q-1 Q-2 Q-3 Q-4
+25.00% 43.75% 31.25% 18.75% 6.25%
+2 37.50 28.13 34.37 40.63 46.87
+4-Year Qualified Indian Reservation Property
+Half-Year and Mid-Quarter Conventions
+Table A-22.
+3 18.75 14.06 17.19 20.31 23.44
+4 12.50 12.50 12.50 12.50 12.50
+5 6.25 1.56 4.69 7.81 10.94
+1
+Year
+Half-Year
+Convention
+Q-1 Q-2 Q-3 Q-4
+16.67% 29.17% 20.83% 12.50% 4.17%
+2 27.78 23.61 26.39 29.17 31.94
+6-Year Qualified Indian Reservation Property
+Half-Year and Mid-Quarter Conventions
+Table A-23.
+3 18.52 15.74 17.59 19.44 21.30
+4 12.35 10.49 11.73 12.96 14.20
+5 9.87 9.88 9.88 9.88 9.87
+6 9.87 9.88 9.88 9.88 9.88
+7 4.94 1.23 3.70 6.17 8.64

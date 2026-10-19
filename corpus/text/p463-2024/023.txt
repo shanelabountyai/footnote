@@ -1,0 +1,83 @@
+deduct your actual unreimbursed car expenses. You can’t
+use the standard mileage rate. See Vehicle Provided by
+Your Employer in chapter 6.
+Interest on car loans. If you are an employee, you can’t
+deduct any interest paid on a car loan. This interest is
+treated as personal interest and isn’t deductible. If you are
+self-employed and use your car in that business, see Interest, earlier, under Standard Mileage Rate.
+Taxes paid on your car. If you are an employee, you can
+deduct personal property taxes paid on your car if you
+itemize deductions. Enter the amount paid on Schedule A
+(Form 1040), line 5c.
+Sales taxes. Generally, sales taxes on your car are
+part of your car’s basis and are recovered through depreciation, discussed later.
+Fines and collateral. You can’t deduct fines you pay or
+collateral you forfeit for traffic violations.
+Casualty and theft losses. If your car is damaged, destroyed, or stolen, you may be able to deduct part of the
+loss not covered by insurance. See Pub. 547, Casualties,
+Disasters, and Thefts, for information on deducting a loss
+on your car.
+Depreciation and section 179 deductions. Generally,
+the cost of a car, plus sales tax and improvements, is a
+capital expense. Because the benefits last longer than 1
+year, you generally can’t deduct a capital expense. However, you can recover this cost through the section 179 deduction (the deduction allowed by section 179 of the Internal Revenue Code), special depreciation allowance, and
+depreciation deductions. Depreciation allows you to recover the cost over more than 1 year by deducting part of
+it each year. The section 179 deduction, special depreciation allowance, and depreciation deductions are discussed later.
+Generally, there are limits on these deductions. Special
+rules apply if you use your car 50% or less in your work or
+business.
+You can claim a section 179 deduction and use a depreciation method other than straight line only if you don’t
+use the standard mileage rate to figure your business-related car expenses in the year you first place a car in service.
+If, in the year you first place a car in service, you claim
+either a section 179 deduction or use a depreciation
+method other than straight line for its estimated useful life,
+you can’t use the standard mileage rate on that car in any
+future year.
+Car defined. For depreciation purposes, a car is any
+four-wheeled vehicle (including a truck or van) made primarily for use on public streets, roads, and highways. Its
+unloaded gross vehicle weight (for trucks and vans, gross
+vehicle weight) must not be more than 6,000 pounds. A
+car includes any part, component, or other item physically
+attached to it or usually included in the purchase price.
+A car doesn’t include:
+• An ambulance, hearse, or combination ambulance-hearse used directly in a business;
+• A vehicle used directly in the business of transporting
+persons or property for pay or hire; or
+• A truck or van that is a qualified nonpersonal use vehicle.
+Qualified nonpersonal use vehicles. These are vehicles that by their nature aren’t likely to be used more
+than a minimal amount for personal purposes. They include trucks and vans that have been specially modified
+so that they aren’t likely to be used more than a minimal
+amount for personal purposes, such as by installation of
+permanent shelving and painting the vehicle to display advertising or the company’s name. Delivery trucks with
+seating only for the driver, or only for the driver plus a folding jump seat, are qualified nonpersonal use vehicles.
+More information. See Depreciation Deduction, later,
+for more information on how to depreciate your vehicle.
+Section 179 Deduction
+You can elect to recover all or part of the cost of a car that
+is qualifying section 179 property, up to a limit, by deducting it in the year you place the property in service. This is
+the section 179 deduction. If you elect the section 179 deduction, you must reduce your depreciable basis in the car
+by the amount of the section 179 deduction.
+There is a limit on the total section 179 deduction,
+special depreciation allowance, and depreciation
+deduction for cars, trucks, and vans that may reduce or eliminate any benefit from claiming the section
+179 deduction. See Depreciation Limits, later.
+You can claim the section 179 deduction only in the
+year you place the car in service. For this purpose, a car is
+placed in service when it is ready and available for a specifically assigned use in a trade or business. Even if you
+aren’t using the property, it is in service when it is ready
+and available for its specifically assigned use.
+A car first used for personal purposes can’t qualify for
+the deduction in a later year when its use changes to business.
+Example. In 2023, you bought a new car and used it
+for personal purposes. In 2024, you began to use it for
+business. Changing its use to business use doesn’t qualify the cost of your car for a section 179 deduction in 2024.
+However, you can claim a depreciation deduction for the
+business use of the car starting in 2024. See Depreciation
+Deduction, later.
+More than 50% business use requirement. You must
+use the property more than 50% for business to claim any
+section 179 deduction. If you used the property more than
+50% for business, multiply the cost of the property by the
+percentage of business use. The result is the cost of the
+property that can qualify for the section 179 deduction.
+TIP

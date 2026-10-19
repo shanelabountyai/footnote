@@ -1,0 +1,97 @@
+Example. In March 2022, you leased a truck for 4
+years for personal use. On June 3, 2024, you started
+working as a self-employed advertising consultant and
+started using the leased truck for business purposes. Your
+records show that your business use for June 1 through
+December 31 was 60%. To figure your inclusion amount
+for 2024, you obtained an appraisal from an independent
+car leasing company that showed the fair market value of
+your 2022 truck on June 3, 2024, was $62,650. Using Appendix A-7, you figured your inclusion amount for 2024 as
+shown in the following table.
+Tax year
+Dollar
+amount Proration Business use
+Inclusion
+amount
+2024 $7 214/366 60% $2
+Reporting inclusion amounts. For information on reporting inclusion amounts, employees should see Car
+rentals under Completing Forms 2106 in chapter 6. Sole
+proprietors should see the Instructions for Schedule C
+(Form 1040), and farmers should see the Instructions for
+Schedule F (Form 1040).
+Disposition of a Car
+If you dispose of your car, you may have a taxable gain or
+a deductible loss. The portion of any gain that is due to
+depreciation (including any section 179 deduction,
+clean-fuel vehicle deduction (for vehicles placed in service
+before January 1, 2006), and special depreciation allowance) that you claimed on the car will be treated as ordinary income. However, you may not have to recognize a
+gain or loss if you dispose of the car because of a casualty
+or theft.
+This section gives some general information about dispositions of cars. For information on how to report the disposition of your car, see Pub. 544.
+Note. Like-kind exchanges completed after December
+31, 2017, are generally limited to exchanges of real property not held primarily for sale.
+Casualty or theft. For a casualty or theft, a gain results
+when you receive insurance or other reimbursement that
+is more than your adjusted basis in your car. If you then
+spend all of the proceeds to acquire replacement property
+(a new car or repairs to the old car) within a specified period of time, you don’t recognize any gain. Your basis in
+the replacement property is its cost minus any gain that
+isn’t recognized. See Pub. 547 for more information.
+Trade-in. When you trade in an old car for a new one, the
+transaction is considered a like-kind exchange. Generally,
+no gain or loss is recognized. (For exceptions, see chapter 1 of Pub. 544.) In a trade-in situation, your basis in the
+new property is generally your adjusted basis in the old
+property plus any additional amount you pay. (See Unadjusted basis, earlier.)
+Depreciation adjustment when you used the standard mileage rate. If you used the standard mileage rate
+for the business use of your car, depreciation was included in that rate. The rate of depreciation that was allowed
+in the standard mileage rate is shown in the Rate of Depreciation Allowed in Standard Mileage Rate table, later.
+You must reduce your basis in your car (but not below
+zero) by the amount of this depreciation.
+If your basis is reduced to zero (but not below zero)
+through the use of the standard mileage rate, and you
+continue to use your car for business, no adjustment (reduction) to the standard mileage rate is necessary. Use
+the full standard mileage rate (67 cents ($0.67) per mile
+from January 1–December 31 for 2024) for business miles
+driven.
+These rates don’t apply for any year in which the
+actual expenses method was used.
+Rate of Depreciation Allowed in Standard Mileage
+Rate
+Year(s) Depreciation Rate per Mile
+.
+2024 0.30
+2023 0.28
+2021–2022 0.26
+2020 0.27
+2019 0.26
+2017–2018 0.25
+2015–2016 0.24
+2014 0.22
+2012–2013 0.23
+2011 0.22
+2010 0.23
+2008–2009 0.21
+2007 0.19
+2005–2006 0.17
+2003–2004 0.16
+2001–2002 0.15
+2000 0.14
+Example. In 2019, you bought and placed in service a
+car for exclusive use in your business. The car cost
+$25,500. From 2019 through 2024, you used the standard
+mileage rate to figure your car expense deduction. You
+drove your car 14,100 miles in 2019, 16,300 miles in
+2020, 15,600 miles in 2021, 16,700 miles in 2022, 15,100
+miles in 2023, and 14,900 miles in 2024. The depreciation
+portion of your car expense deduction is figured as follows.
+Year Miles x Rate Depreciation
+2019 14,100 × $0.26 $3,666
+2020 16,300 × 0.27 4,401
+2021 15,600 × 0.26 4,056
+2022 16,700 × 0.26 4,342
+2023 15,100 × 0.28 4,228
+2024 14,900 × 0.30 4,470
+Total depreciation $25,163
+At the end of 2024, your adjusted basis in the car is $337
+($25,500 − $25,163).
+TIP

@@ -1,0 +1,94 @@
+1. The total of the amounts that would have been allowable as depreciation during the tax years before the
+trade if 100% of the use of the car had been business
+and investment use, over
+2. The total of the amounts actually allowed as depreciation during those years.
+For information about figuring depreciation, see Modified
+Accelerated Cost Recovery System (MACRS) next.
+Modified Accelerated Cost Recovery System
+(MACRS). MACRS is the name given to the tax rules for
+getting back (recovering) through depreciation deductions
+the cost of property used in a trade or business or to produce income.
+The maximum amount you can deduct is limited, depending on the year you placed your car in service. See
+Depreciation Limits, later.
+Recovery period. Under MACRS, cars are classified
+as 5-year property. You actually depreciate the cost of a
+car, truck, or van over a period of 6 calendar years. This is
+because your car is generally treated as placed in service
+in the middle of the year, and you claim depreciation for
+one-half of both the first year and the sixth year.
+For more information on the qualifications for this
+shorter recovery period and the percentages to use in figuring the depreciation deduction, see chapter 4 of Pub.
+946.
+Depreciation methods. You can use one of the following methods to depreciate your car.
+• The 200% declining balance method (200% DB) over
+a 5-year recovery period that switches to the straight
+line method when that method provides an equal or
+greater deduction.
+• The 150% declining balance method (150% DB) over
+a 5-year recovery period that switches to the straight
+line method when that method provides an equal or
+greater deduction.
+• The straight line method (SL) over a 5-year recovery
+period.
+If you use Table 4-1 (discussed later) to determine
+your depreciation rate for 2024, you don’t need to
+determine in what year using the straight line
+method provides an equal or greater deduction. This is
+because the chart has the switch to the straight line
+method built into its rates.
+Before choosing a method, you may wish to consider
+the following facts.
+• Using the straight line method provides equal yearly
+deductions throughout the recovery period.
+• Using the declining balance methods provides greater
+deductions during the earlier recovery years with the
+deductions generally getting smaller each year.
+MACRS depreciation chart. A 2024 MACRS Depreciation Chart and instructions are included in this chapter as
+Table 4-1. Using this table will make it easy for you to fig-
+TIP
+ure the 2024 depreciation deduction for your car. A similar
+chart appears in the Instructions for Form 2106.
+You may have to use the tables in Pub. 946 instead of using this MACRS Depreciation Chart.
+You must use the Depreciation Tables in Pub. 946
+rather than the 2024 MACRS Depreciation Chart in this
+publication if any one of the following three conditions applies to you.
+1. You file your return on a fiscal year basis.
+2. You file your return for a short tax year (less than 12
+months).
+3. During the year, all of the following conditions apply.
+a. You placed some property in service from January
+through September.
+b. You placed some property in service from October
+through December.
+c. Your basis in the property you placed in service
+from October through December (excluding nonresidential real property, residential rental property,
+and property placed in service and disposed of in
+the same year) was more than 40% of your total
+bases in all property you placed in service during
+the year.
+Depreciation in future years. If you use the percentages from the chart, you generally must continue to use
+them for the entire recovery period of your car. However,
+you can’t continue to use the chart if your basis in your car
+is adjusted because of a casualty. In that case, for the year
+of the adjustment and the remaining recovery period, figure the depreciation without the chart using your adjusted
+basis in the car at the end of the year of the adjustment
+and over the remaining recovery period. See Figuring the
+Deduction Without Using the Tables in chapter 4 of Pub.
+946.
+In future years, don’t use the chart in this edition
+of the publication. Instead, use the chart in the
+publication or the form instructions for those future
+years.
+Disposition of car during recovery period. If you
+dispose of the car before the last year of the recovery period, you are generally allowed a half-year of depreciation
+in the year of disposition. This rule applies unless the
+mid-quarter convention applies to the vehicle being disposed of. See Depreciation deduction for the year of disposition under Disposition of a Car, later, for information
+on how to figure the depreciation allowed in the year of
+disposition.
+How to use the 2024 chart. To figure your depreciation deduction for 2024, find the percentage in the column
+of Table 4-1 based on the date that you first placed the car
+in service and the depreciation method that you are using.
+Multiply the unadjusted basis of your car (defined earlier)
+CAUTION
+!
+TIP

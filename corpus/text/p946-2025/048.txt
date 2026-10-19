@@ -1,0 +1,87 @@
+• Any amount realized on the disposition is treated as
+ordinary income, up to the limit discussed later under
+Treatment of amount realized.
+However, these rules do not apply to any disposition
+described later under Terminating GAA Treatment.
+Disposition. Property in a GAA is considered disposed
+of when you do any of the following.
+• Permanently withdraw it from use in your trade or business or from the production of income.
+• Transfer it to a supplies, scrap, or similar account.
+• Sell, exchange, retire, physically abandon, or destroy
+it.
+The retirement of a structural component of real property
+is not a disposition unless it is a partial disposition. See
+section 1.168(i)-1(e)(1) of the regulations.
+Treatment of amount realized. When you dispose of
+property in a GAA, you must recognize any amount realized from the disposition as ordinary income, up to a limit.
+The limit is:
+1. The unadjusted depreciable basis of the GAA, plus
+2. Any expensed costs for property in the GAA that are
+subject to recapture as depreciation (not including
+any expensed costs for property that you removed
+from the GAA under the rules discussed later under
+Terminating GAA Treatment), minus
+3. Any amount previously recognized as ordinary income upon the disposition of other property from the
+GAA.
+Unadjusted depreciable basis. The unadjusted depreciable basis of a GAA is the total of the unadjusted depreciable bases of all the property in the GAA. The unadjusted depreciable basis of an item of property in a GAA is
+the amount you would use to figure gain or loss on its sale,
+but figured without reducing your original basis by any depreciation allowed or allowable in earlier years. However,
+you do reduce your original basis by other amounts, including any amortization deduction, section 179 deduction, special depreciation allowance, and electric vehicle
+credit.
+Expensed costs. Expensed costs that are subject to
+recapture as depreciation include the following.
+1. The section 179 deduction.
+2. Amortization deductions for the following.
+a. Pollution control facilities.
+b. Removal of barriers for the elderly and disabled.
+c. Tertiary injectants.
+d. Reforestation expenses.
+Example 1. The facts are the same as in the example
+under Figuring Depreciation for a GAA, earlier. In February
+2025, Make & Sell sells the machine that cost $8,200 to
+an unrelated person for $9,000. The machine is treated as
+having an adjusted basis of zero.
+On its 2025 tax return, Make & Sell recognizes the
+$9,000 amount realized as ordinary income because it is
+not more than the GAA’s unadjusted depreciable basis
+($10,000) plus any expensed cost (for example, the section 179 deduction) for property in the GAA ($0), minus
+any amounts previously recognized as ordinary income
+because of dispositions of other property from the GAA
+($0).
+The unadjusted depreciable basis and depreciation reserve of the GAA are not affected by the sale of the machine. The depreciation allowance for the GAA in 2025 is
+$3,200 [($10,000 − $2,000) × 40% (0.40)].
+Example 2. Assume the same facts as in Example 1.
+In June 2026, Make & Sell sells seven machines to an unrelated person for a total of $1,100. These machines are
+treated as having an adjusted basis of zero.
+On its 2026 tax return, Make & Sell recognizes $1,000
+as ordinary income. This is the GAA’s unadjusted depreciable basis ($10,000) plus the expensed costs ($0), minus
+the amount previously recognized as ordinary income
+($9,000). The remaining amount realized of $100 ($1,100
+− $1,000) is section 1231 gain (discussed in chapter 3 of
+Pub. 544).
+The unadjusted depreciable basis and depreciation reserve of the GAA are not affected by the disposition of the
+machines. The depreciation allowance for the GAA in
+2026 is $1,920 [($10,000 − $5,200) × 40% (0.40)].
+Terminating GAA Treatment
+You must remove the following property from a GAA.
+• Property held by a partnership that terminates under
+section 708(b)(1).
+• Property you dispose of in a nonrecognition transaction or an abusive transaction.
+• Property you dispose of in a qualifying disposition or in
+a disposition of all the property in the GAA, if you
+choose to terminate GAA treatment.
+• Property you dispose of in a like-kind exchange or an
+involuntary conversion.
+• Property you change to personal use.
+• Property for which you must recapture any allowable
+credit or deduction, such as the investment credit, the
+credit for qualified electric vehicles, the credit for alternative fuel vehicle refueling property, the section 179
+deduction, or the deduction for clean-fuel vehicles and
+clean-fuel vehicle refueling property placed in service
+before 2006.
+If you remove property from a GAA, you must make the
+following adjustments.
+1. Reduce the unadjusted depreciable basis of the GAA
+by the unadjusted depreciable basis of the property
+as of the first day of the tax year in which the disposition, change in use, partnership technical termination,
+or recapture event occurs. You can use any reasonable method that is consistently applied to determine

@@ -1,0 +1,83 @@
+Self-employed health insurance deduction. You may
+be able to deduct the amount you paid for medical and
+dental insurance and qualified long-term care insurance
+for you and your family.
+How to figure the deduction. Generally, you can use
+the worksheet in the Instructions for Form 1040 to figure
+your deduction. However, if any of the following apply, you
+must use Form(s) 7206.
+• You have more than one source of income subject to
+SE tax.
+• You file Form 2555 (relating to foreign earned income).
+• You are using amounts paid for qualified long-term
+care insurance to figure the deduction.
+See Form 8962 and its separate instructions and use
+Pub. 974 if the insurance plan established, or considered
+to be established, under your business was obtained
+through the Health Insurance Marketplace and you are
+claiming the premium tax credit.
+Prepayment. You cannot deduct expenses in advance,
+even if you pay them in advance. This rule applies to any
+expense paid far enough in advance to, in effect, create an
+asset with a useful life extending substantially beyond the
+end of the current tax year.
+Example. In 2024, you signed a 3-year insurance contract. Even though you paid the premiums for 2024, 2025,
+and 2026 when you signed the contract, you can only deduct the premium for 2024 on your 2024 tax return. You
+can deduct in 2025 and 2026 the premiums allocable to
+those years.
+Interest
+You can generally deduct as a business expense some or
+all interest you pay or accrue during the tax year on debts
+related to your business. Interest relates to your business
+if you use the proceeds of the loan for a business expense. It does not matter what type of property secures
+the loan. You can deduct interest on a debt only if you
+meet all of the following requirements.
+• You are legally liable for that debt.
+• Both you and the lender intend that the debt be repaid.
+• You and the lender have a true debtor-creditor relationship.
+Certain taxpayers are required to limit their business interest expense deduction. See the Instructions for Form
+8990 to determine whether you are required to limit your
+business interest expense deduction, who is required to
+file Form 8990, and how certain businesses may elect out
+of the business interest expense limitation.
+You cannot deduct on Schedule C the interest you paid
+on personal loans. If a loan is part business and part personal, you must divide the interest between the personal
+part and the business part.
+Example. In 2024, you paid $600 interest on a car
+loan. During 2024, you used the car 60% for business and
+40% for personal purposes. You are claiming actual expenses on the car. You can only deduct $360 (60% (0.60)
+× $600) for 2024 on Schedule C. The remaining interest of
+$240 is a nondeductible personal expense.
+More information. Additional items to consider are
+shown below.
+• How to allocate interest between personal and business use.
+• Limitation on business interest.
+• When to deduct interest.
+• The rules for a below-market interest rate loan. (This is
+generally a loan on which no interest is charged or on
+which interest is charged at a rate below the applicable federal rate.)
+Legal and Professional Fees
+Legal and professional fees, such as fees charged by accountants, that are ordinary and necessary expenses directly related to operating your business are deductible on
+Schedule C. However, you usually cannot deduct legal
+fees you pay to acquire business assets. Add them to the
+basis of the property.
+If the fees include payments for work of a personal nature (such as making a will), you can take a business deduction only for the part of the fee related to your business.
+Tax preparation fees. You can deduct on Schedule C
+the cost of preparing that part of your tax return relating to
+your business as a sole proprietor or statutory employee.
+You can also deduct on Schedule C the amount you
+pay or incur in resolving asserted tax deficiencies for your
+business as a sole proprietor or statutory employee.
+Pension Plans
+You can set up and maintain the following small business
+retirement plans for yourself and your employees.
+• SEP (Simplified Employee Pension) plans.
+• SIMPLE (Savings Incentive Match Plan for Employees) plans.
+• Qualified plans (including Keogh or H.R. 10 plans).
+SEP, SIMPLE, and qualified plans offer you and your
+employees a tax-favored way to save for retirement. You
+can deduct contributions you make to the plan for your
+employees on line 19 of Schedule C. If you are a sole proprietor, you can deduct contributions you make to the plan
+for yourself on line 16 of Schedule 1 (Form 1040). You can
+also deduct trustees' fees if contributions to the plan do
+not cover them. Earnings on the contributions are generally tax free until you or your employees receive distributions from the plan. You may also be able to claim a tax

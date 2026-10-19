@@ -1,0 +1,64 @@
+(personal check). For more information, see Pub. 1544,
+Reporting Cash Payments of Over $10,000.
+Penalties. There are civil and criminal penalties, including up to 5 years in prison, for not filing Form 8300, filing (or causing the filing of) a false or fraudulent Form
+8300, or structuring a transaction to evade reporting requirements.
+Going Out of Business Checklists
+(Note. The following checklists highlight the typical final forms and schedules you may need to file if you ever go out of
+business. For more information, see the instructions for the listed forms.)
+IF you are liable for... THEN you may need to...
+Income tax File Schedule C with your Form 1040 or 1040-SR for the year in which you go out of business.
+File Form 4797 with your Form 1040 or 1040-SR for each year in which you sell or exchange
+property used in your business or in which the business use of certain section 179 or listed
+property drops to 50% or less.
+File Form 8594 with your Form 1040 or 1040-SR if you sold your business.
+SE tax File Schedule SE with your Form 1040 or 1040-SR for the year in which you go out of business.
+Employment taxes File Form 941 for the calendar quarter (or Form 944 for the year) in which you make final wage
+payments. Note. Do not forget to check the box and enter the date final wages were paid on line
+17 of Form 941 or line 14 of Form 944.
+File Form 940 for the calendar year in which final wages were paid. Note. Do not forget to check
+box d, Final: Business closed or stopped paying wages under Type of Return.
+Information returns Provide Forms W-2 to your employees for the calendar year in which you make final wage
+payments.
+File Form W-3 to file Forms W-2.
+Provide Form(s) 1099-MISC and Form(s) 1099-NEC to each person to whom you have paid at
+least $600 for services (including parts and materials) during the calendar year in which you go
+out of business.
+File Form 1096 to file Form(s) 1099-MISC and Form(s) 1099-NEC.
+Table 1-3.
+2.
+Accounting Periods and
+Methods
+Introduction
+You must figure your taxable income and file an income
+tax return for an annual accounting period called a tax
+year. Also, you must consistently use an accounting
+method that clearly shows your income and expenses for
+the tax year.
+Useful Items
+You may want to see:
+Publication
+538 Accounting Periods and Methods
+See chapter 12 for information about getting publications
+and forms.
+538
+Accounting Periods
+When preparing a statement of income and expenses
+(generally, your income tax return), you must use your
+books and records for a specific interval of time called an
+accounting period. The annual accounting period for your
+income tax return is called a tax year. You can use one of
+the following tax years.
+• A calendar tax year.
+• A fiscal tax year.
+Unless you have a required tax year, you adopt a tax year
+by filing your first income tax return using that tax year. A
+required tax year is a tax year required under the Internal
+Revenue Code or the Income Tax Regulations.
+Calendar tax year. A calendar tax year is 12 consecutive
+months beginning January 1 and ending December 31.
+You must adopt the calendar tax year if any of the following apply.
+• You do not keep books.
+• You have no annual accounting period.
+• Your present tax year does not qualify as a fiscal year.
+• Your use of the calendar tax year is required under the
+Internal Revenue Code or the Income Tax Regulations.

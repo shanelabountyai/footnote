@@ -1,0 +1,195 @@
+To help us develop a more useful index, please let us know if you have ideas for index entries.
+See “Comments and Suggestions” in the “Introduction” for the ways you can reach us. Index
+A
+Addition to property 33
+Adjusted basis 12
+Alternative Depreciation System (ADS):
+Recovery periods 33
+Required use 28
+Amended return 13
+Apartment:
+Cooperative 4
+Rental 30
+Assistance (See Tax help)
+Automobile (See Passenger automobile)
+B
+Basis:
+Adjustments 12, 21, 37
+Basis for depreciation 32
+Casualty loss 37
+Change in use 11
+Cost 11
+Depreciable basis 26
+Other than cost 11
+Recapture of clean-fuel vehicle deduction or
+credit 37
+Term interest 6
+Unadjusted 37
+Business use of property, partial 4
+Business-use limit, recapture of Section 179
+deduction 22
+Business-use requirement, listed
+property 54
+C
+Car (See Passenger automobile)
+Carryover of section 179 deduction 20
+Casualty loss, effect of 37
+Changing accounting method 13
+Communication equipment (See Listed
+property)
+Commuting 55
+Computer software 9, 16
+Containers 5
+Conventions 34
+Cooperative apartment 4
+Copyright 9
+(See also Section 197 intangibles)
+Correcting depreciation deductions 13
+Cost basis 11
+D
+Declining balance:
+Method 40
+Rates 40
+Deduction limit:
+Automobile 59
+Section 179 17
+Depreciation:
+Deduction:
+Employee 54
+Listed property 54
+Determinable useful life 5
+Excepted property 6
+Incorrect amount deducted 13
+Methods 34
+Property lasting more than one year 5
+Property owned 3
+Property used in business 4
+Recapture 51, 56
+Depreciation allowable 12
+Depreciation allowed 12
+Depreciation deduction:
+Listed property 54
+Determinable useful life 5
+Disposition:
+Before recovery period ends 39
+General asset account property 47
+Section 179 deduction 22
+E
+Election:
+ADS 29, 35
+Declining balance (150% DB) method 35
+Exclusion from MACRS 11
+General asset account 50
+Not to claim special depreciation
+allowance 26
+Section 179 deduction 21
+Straight line method 35
+Electric vehicle 60
+Employee:
+Depreciation deduction 54
+How to claim depreciation 13
+Employee deduction, listed property 54
+Exchange of MACRS property 43
+F
+Farm:
+Property 35
+Figuring MACRS:
+Using percentage tables 35
+Without using percentage tables 40
+Films 10
+G
+General asset account:
+Abusive transaction 49
+Disposing of property 47
+Grouping property in 47
+Nonrecognition transaction 49
+General Depreciation System (GDS),
+recovery periods 32
+Gift (See Basis, other than cost)
+Glossary 109
+I
+Idle property 7
+Improvements 12, 33
+Income forecast method 10
+Incorrect depreciation deductions 13
+index 6, 7, 11, 12, 15, 17, 25, 47, 51, 63
+Index 5
+Inheritance (See Basis, other than cost)
+Intangible property:
+Depreciation method 9, 10
+Income forecast method 10
+Straight line method 9
+Inventory 5
+Investment use of property, partial 4
+Involuntary conversion of MACRS
+property 43
+L
+Land:
+Not depreciable 5
+Preparation costs 5
+Leased property 17
+Leasehold improvement property,
+defined 31
+Life tenant 4
+(See also Term interests)
+Limit on deduction:
+Automobile 59
+Section 179 17
+Listed property:
+5% owner 56
+Condition of employment 54
+Defined 52
+Employee deduction 54
+Employer convenience 54
+Improvements to 52
+Leased 57
+Passenger automobile 52
+Qualified business use 55
+Recordkeeping 63
+Related person 56
+Reporting on Form 4562 65
+M
+Maximum deduction:
+Electric vehicles 60
+Passenger automobiles 59
+Trucks 61
+Vans 61
+Mobile home (See Residential rental property)
+Modified ACRS (MACRS):
+Addition or improvement 33
+Alternative Depreciation System (ADS) 28
+Conventions 34
+Declining balance method 40
+Depreciation methods 34
+Farm property 35
+Figuring, short tax year 45
+General Depreciation System (GDS) 28
+Percentage tables 37
+Property classes 29
+Recovery periods 32
+Short tax year 44
+Straight line method 40
+N
+Nonresidential real property 30
+Nontaxable transfer of MACRS property 44
+O
+Office in the home 5, 33
+Ownership, incidents of 4
+P
+Partial business use 16
+Passenger automobile:
+Defined 52
+Electric vehicles 60
+Limit on 59
+Maximum depreciation deduction 59
+Trucks 61
+Vans 61
+Patent 9
+(See also Section 197 intangibles)
+Personal property 8
+Phonographic equipment (See Listed
+property)
+Photographic equipment (See Listed
+property)
+Placed in service:
+Before 1987 7

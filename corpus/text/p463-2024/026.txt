@@ -1,0 +1,92 @@
+You generally need to know the following things about
+the car you intend to depreciate.
+• Your basis in the car.
+• The date you place the car in service.
+• The method of depreciation and recovery period you
+will use.
+Basis. Your basis in a car for figuring depreciation is generally its cost. This includes any amount you borrow or pay
+in cash, other property, or services.
+Generally, you figure depreciation on your car, truck, or
+van using your unadjusted basis (see Unadjusted basis,
+later). However, in some situations, you will use your adjusted basis (your basis reduced by depreciation allowed
+or allowable in earlier years). For one of these situations,
+see Exception under Methods of depreciation, later.
+If you change the use of a car from personal to business, your basis for depreciation is the lesser of the fair
+market value or your adjusted basis in the car on the date
+of conversion. Additional rules concerning basis are discussed later in this chapter under Unadjusted basis.
+Placed in service. You generally place a car in service
+when it is available for use in your work or business, in an
+income-producing activity, or in a personal activity. Depreciation begins when the car is placed in service for use in
+your work or business or for the production of income.
+For purposes of figuring depreciation, if you first start
+using the car only for personal use and later convert it to
+business use, you place the car in service on the date of
+conversion.
+Car placed in service and disposed of in the same
+year. If you place a car in service and dispose of it in the
+same tax year, you can’t claim any depreciation deduction
+for that car.
+Methods of depreciation. Generally, you figure depreciation on cars using the Modified Accelerated Cost Recovery (MACRS) discussed later in this chapter.
+Exception. If you used the standard mileage rate in
+the first year of business use and change to the actual expenses method in a later year, you can’t depreciate your
+car under the MACRS rules. You must use straight line depreciation over the estimated remaining useful life of the
+car. The amount you depreciate can’t be more than the
+depreciation limit that applies for that year. See Depreciation Limits, later.
+To figure depreciation under the straight line method,
+you must reduce your basis in the car (but not below zero)
+by a set rate per mile for all miles for which you used the
+standard mileage rate. The rate per mile varies depending
+on the year(s) you used the standard mileage rate. For the
+rate(s) to use, see Depreciation adjustment when you
+used the standard mileage rate under Disposition of a
+Car, later.
+This reduction of basis is in addition to those basis adjustments described later under Unadjusted basis. You
+must use your adjusted basis in your car to figure your depreciation deduction. For additional information on the
+straight line method of depreciation, see Pub. 946.
+More-than-50%-use test. Generally, you must use your
+car more than 50% for qualified business use (defined
+next) during the year to use MACRS. You must meet this
+more-than-50%-use test each year of the recovery period
+(6 years under MACRS) for your car.
+If your business use is 50% or less, you must use the
+straight line method to depreciate your car. This is explained later under Car Used 50% or Less for Business.
+Qualified business use. A qualified business use is any
+use in your trade or business. It doesn’t include use for the
+production of income (investment use), or use provided
+under lease to, or as compensation to, a 5% owner or related person. However, you do combine your business and
+investment use to figure your depreciation deduction for
+the tax year.
+Use of your car by another person. Don’t treat any
+use of your car by another person as use in your trade or
+business unless that use meets one of the following conditions.
+• It is directly connected with your business.
+• It is properly reported by you as income to the other
+person (and, if you have to, you withhold tax on the income).
+• It results in a payment of fair market rent. This includes
+any payment to you for the use of your car.
+Business use changes. If you used your car more than
+50% in qualified business use in the year you placed it in
+service, but 50% or less in a later year (including the year
+of disposition), you have to change to the straight line
+method of depreciation. See Qualified business use 50%
+or less in a later year under Car Used 50% or Less for
+Business, later.
+Property doesn’t cease to be used more than
+50% in qualified business use by reason of a
+transfer at death.
+Use for more than one purpose. If you use your car for
+more than one purpose during the tax year, you must allocate the use to the various purposes. You do this on the
+basis of mileage. Figure the percentage of qualified business use by dividing the number of miles you drive your
+car for business purposes during the year by the total
+number of miles you drive the car during the year for any
+purpose.
+Change from personal to business use. If you change
+the use of a car from 100% personal use to business use
+during the tax year, you may not have mileage records for
+the time before the change to business use. In this case,
+you figure the percentage of business use for the year as
+follows.
+1. Determine the percentage of business use for the period following the change. Do this by dividing business
+miles by total miles driven during that period.
+2. Multiply the percentage in (1) by a fraction. The numerator (top number) is the number of months the car
+TIP

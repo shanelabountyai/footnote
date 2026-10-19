@@ -1,0 +1,77 @@
+Property class
+Recovery period
+Straight line method
+Unadjusted basis
+To figure your depreciation deduction under MACRS, you
+first determine the depreciation system, property class,
+placed in service date, basis amount, recovery period,
+convention, and depreciation method that apply to your
+property. Then, you are ready to figure your depreciation
+deduction. You can figure it using a percentage table provided by the IRS, or you can figure it yourself without using
+the table.
+Table 4-1. Depreciation Methods
+Note: The declining balance method is abbreviated as DB and the straight line method is abbreviated as SL.
+Method Type of Property Benefit
+GDS using 200%
+DB
+• Nonfarm 3-, 5-, 7-, and 10-year property
+• Farm 3-, 5-, 7-, and 10-year property placed in
+service after 2017, in tax years ending after 2017
+• Provides a greater deduction during the
+earlier recovery years
+• Changes to SL when that method provides
+an equal or greater deduction
+GDS using 150%
+DB
+• Farm 3-, 5-, 7-, or 10-year property placed in
+service before 2018
+• All 15- and 20-year property
+• Nonfarm 3-, 5-, 7-, or 10-year property2
+• Farm 3-, 5-, 7-, or 10-year property placed in
+service after 20172
+• Provides a greater deduction during the
+earlier recovery years
+• Changes to SL when that method provides
+an equal or greater deduction1
+GDS using SL • Nonresidential real property
+• Residential rental property
+• Trees or vines bearing fruits or nuts
+• Water utility property
+• All 3-, 5-, 7-, 10-, 15-, and 20-year property2
+• Property for which you elected section 168(k)
+(4) of the Internal Revenue Code for a tax year
+beginning before January 1, 2018
+• Qualified improvement property (as defined in
+section 168(e)(6) of the Internal Revenue Code)
+placed in service after 2017
+• Provides for equal yearly deductions
+(except for the first and last years)
+ADS using SL • Listed property used 50% or less for business
+• Property used predominantly outside the
+United States
+• Tax-exempt property
+• Tax-exempt bond-financed property
+• Farm property used when an election not to
+apply the uniform capitalization rules is in effect
+• Imported property3
+• Any property for which you elect to use this
+method4
+• Any nonresidential real property, residential
+rental property, or qualfied improvement property
+held by an electing real property trade or
+business (as defined in section 163(j)(7)(B) of
+the Internal Revenue Code)
+• Any property that has a recovery period of 10
+years or more under GDS that is held by an
+electing farming business (as defined in section
+163(j)(7)(C) of the Internal Revenue Code)
+• Provides for equal yearly deductions
+(except for the first and last years)
+1
+The MACRS percentage tables in Appendix A have the switch to the straight line method built into their rates.
+2
+See section 168(b)(5) of the Internal Revenue Code.
+3
+See section 168(g)(6) of the Internal Revenue Code.
+4
+See section 168(g)(7) of the Internal Revenue Code.

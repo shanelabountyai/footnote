@@ -1,0 +1,129 @@
+Table B-2.
+Asset
+class Description of assets included
+Table of Class Lives and Recovery Periods
+Recovery Periods
+(in years)
+Class Life
+(in years)
+GDS
+(MACRS) ADS
+Railroad Machinery and Equipment:
+14 7 14
+40.1
+Includes assets classified in the following Interstate Commerce Commission accounts:
+Roadway accounts:
+(16) Station and office buildings (freight handling machinery and equipment only)
+TOFC/COFC terminals (freight handling machinery and equipment only)
+Communication systems
+Signals and interlockers
+Roadway machines
+Shop machinery
+Equipment accounts:
+Locomotives
+Freight train cars
+Passenger train cars
+Work equipment
+(25)
+(26)
+(27)
+(37)
+(44)
+(52)
+(53)
+(54)
+(57)
+40.2 Railroad Structures and Similar Improvements:
+Includes assets classified in the following Interstate Commerce Commission road accounts:
+(6)
+(7)
+(13)
+(16)
+(17)
+(18)
+(19)
+(20)
+(25)
+(31)
+(35)
+(39)
+Bridges, trestles, and culverts
+Elevated structures
+Fences, snowsheds, and signs
+Station and office buildings (stations and other operating structures only)
+Roadway buildings
+Water stations
+Fuel stations
+Shops and enginehouses
+TOFC/COFC terminals (operating structures only)
+Power transmission systems
+Miscellaneous structures
+Public improvements construction
+30 20 30
+40.3 Railroad Wharves and Docks:
+Includes assets classified in the following Interstate Commission Commerce accounts:
+Wharves and docks
+Coal and ore wharves
+(23)
+(24)
+20 15 20
+40.4
+40.51
+40.52
+40.53
+40.54
+41.0
+42.0
+44.0
+45.0
+45.1
+46.0
+Railroad Track
+Railroad Hydraulic Electric Generating Equipment
+Railroad Nuclear Electric Generating Equipment
+Railroad Steam Electric Generating Equipment
+Railroad Steam, Compressed Air, and Other Power Plan Equipment
+Motor Transport—Passengers:
+Includes assets used in the urban and interurban commercial and contract carrying of
+passengers by road, except the transportation assets included in classes with the prefix 00.2.
+Motor Transport—Freight:
+Includes assets used in the commercial and contract carrying of freight by road, except the
+transportation assets included in classes with the prefix 00.2.
+Water Transportation:
+Includes assets used in the commercial and contract carrying of freight and passengers by
+water, except the transportation assets included in classes with the prefix 00.2. Includes all
+related land improvements.
+Air Transport:
+Includes assets (except helicopters) used in commercial and contract carrying of passengers
+and freight by air. For purposes of section 1.167(a)-11(d)(2)(iv)(a) of the regulations,
+expenditures for “repair, maintenance, rehabilitation, or improvement” shall consist of direct
+maintenance expenses (irrespective of airworthiness provisions or charges) as defined by Civil
+Aeronautics Board uniform accounts 5200, maintenance burden (exclusive of expenses
+pertaining to maintenance buildings and improvements) as defined by Civil Aeronautics Board
+accounts 5300, and expenditures which are not “excluded additions” as defined in section
+1.167(a)-11(d)(2)(vi) of the regulations and which would be charged to property and equipment
+accounts in the Civil Aeronautics Board uniform system of accounts.
+Air Transport (restricted):
+Includes each asset described in the description of class 45.0 which was held by the taxpayer
+on April 15, 1976, or is acquired by the taxpayer pursuant to a contract which was, on April 15,
+1976, and at all times thereafter, binding on the taxpayer. This criterion of classification based
+on binding contract concept is to be applied in the same manner as under the general rules
+expressed in sections 49(b)(1), (4), (5), and (8) of the Code (as in effect prior to its repeal by the
+Revenue Act of 1978, section 312(c)(1), (d), 1978-3 C.B. 1, 60).
+Pipeline Transportation:
+Includes assets used in the private, commercial, and contract carrying of petroleum, gas, and
+other products by means of pipes and conveyors. The trunk lines and related storage facilities
+of integrated petroleum and natural gas producers are included in this class. Excludes initial
+clearing and grading land improvements as specified in Rev. Rul. 72-403, 1972-2 C.B. 102, but
+includes all other related land improvements.
+10 7 10
+50 20 50
+20 15 20
+28 20 28
+28 20 28
+8 5 8
+8 5 8
+20 15 20
+12 7 12
+22 15 22
+6 5 6

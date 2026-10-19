@@ -1,0 +1,66 @@
+Henry carries the January total of expenses for materials ($1,083.50) to the Annual Summary. Similarly, he enters the monthly total of expenses for telephone, truck/
+auto, etc., in the appropriate columns of that summary.
+4. Employee Compensation Record
+This record shows the following information.
+• The number of hours Henry's employee worked in a
+pay period.
+• The employee's total pay for the period.
+• The deductions Henry withheld in figuring the employee's net pay.
+• The monthly gross payroll.
+Henry carries the January gross payroll ($520) to the Annual Summary.
+5. Annual Summary
+This annual summary of monthly cash receipts and expense totals provides the final amounts to enter on
+Henry's tax return. He figures the cash receipts total from
+the total of monthly cash receipts shown in the Monthly
+Summary of Cash Receipts. He figures the expense totals
+from the totals of monthly expense items shown in the
+Check Disbursements Journal. As in the journal, he keeps
+each major expense in a separate column.
+Henry carries the cash receipts total shown in the annual summary ($47,440.95) to Part I of Schedule C (Form
+1040) (not illustrated). He carries the total for materials
+($10,001.00) to Part II of Schedule C (Form 1040).
+A business that keeps materials and supplies on
+hand generally must complete the inventory lines
+in Part III of Schedule C (Form 1040). However,
+there are no inventories of materials and supplies in this
+example. Henry buys parts and supplies on a per-job basis; he does not keep them on hand.
+Henry enters annual totals for interest, rent, taxes, and
+wages on the appropriate lines in Part II of Schedule C
+(Form 1040). The total for taxes and licenses includes the
+employer's share of social security and Medicare taxes,
+and the business license fee. He enters the total of other
+annual business expenses on the “Other expenses” line of
+Schedule C (Form 1040).
+CAUTION
+!
+6. Depreciation Worksheet
+This worksheet shows the information used in figuring the
+depreciation allowed on assets used in Henry's business.
+Henry figures the depreciation using the modified accelerated cost recovery system (MACRS). He purchased and
+placed in service several used assets that do not qualify
+for the section 179 deduction. Depreciation and the section 179 deduction are discussed in Pub. 946. Henry uses
+the information in the worksheet to complete Form 4562,
+Depreciation and Amortization (not illustrated).
+7. Bank Reconciliation
+Henry reconciles his checkbook with his bank statement
+and prepares a bank reconciliation for January as follows.
+1. Henry begins by entering his bank statement balance.
+2. Henry compares the deposits listed on the bank statement with deposits shown in his checkbook. Two deposits shown in his checkbook— $701.33 and
+$516.08—were not on his bank statement. He enters
+these two amounts on the bank reconciliation. He
+adds them to the bank statement balance of
+$1,458.12 to arrive at a subtotal of $2,675.53.
+3. After comparing each canceled check with his checkbook, Henry found four outstanding checks totaling
+$526.50. He subtracts this amount from the subtotal
+in (2). The result of $2,149.03 is the adjusted bank
+statement balance.
+4. Henry enters his checkbook balance on the bank reconciliation.
+5. Henry discovered that he mistakenly entered a deposit of $600.40 in his checkbook as $594.40. He
+adds the difference ($6.00) to the checkbook balance
+of $2,153.03. There was a $10.00 bank service
+charge on his bank statement that he subtracts from
+the checkbook balance. The result is the adjusted
+checkbook balance of $2,149.03. This equals his adjusted bank statement balance computed in (3).
+The only book adjustment Henry needs to make is to
+the Check Disbursements Journal for the $10 bank service charge. He does not need to adjust the Monthly Summary of Cash Receipts because he correctly entered the
+January 8 deposit of $600.40 in that record.

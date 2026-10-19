@@ -1,0 +1,86 @@
+the employer and employee. The social security wage
+base limit is $184,500.
+The Medicare tax rate is 1.45% each for the employee
+and employer, unchanged from 2025. There is no wage
+base limit for Medicare tax.
+Social security and Medicare taxes apply to the wages
+of household workers you pay $3,000 or more in cash wages in 2026. Social security and Medicare taxes apply to
+election workers who are paid $2,500 or more in cash or
+an equivalent form of compensation in 2026.
+Permanent extension of individual tax rates. P.L.
+119-21, commonly known as the One Big Beautiful Bill
+Act, permanently extends the individual income tax rates
+enacted by the Tax Cuts and Jobs Act (P.L. 115-97). Employers will continue to use Pub. 15-T, Federal Income Tax
+Withholding Methods, to figure federal income tax withholding.
+Withholding on supplemental wages. The withholding
+rate on supplemental wages remains 22% (37% if supplemental wages paid to an employee during the calendar
+year exceed $1 million) because P.L. 119-21 permanently
+extended the individual tax rates enacted in P.L. 115-97.
+See section 7 for more information about supplemental
+wages.
+Backup withholding. The backup withholding rate remains 24% because P.L. 119-21 permanently extended
+the individual tax rates enacted in P.L. 115-97. For reportable payments made under section 6041(a) or 6041A(a)
+that are made in calendar year 2026 and subject to
+backup withholding, P.L. 119-21 increases the aggregate
+reportable payment threshold from $600 to $2,000. This
+threshold will be adjusted for inflation for each calendar
+year after 2026. For more information on backup withholding, see Backup withholding, later.
+Information reporting threshold increased for certain
+payments. For payments made after calendar year 2025,
+P.L. 119-21 increases the information reporting (for example, Forms 1099-MISC and Forms 1099-NEC) payment
+threshold from $600 to $2,000 in a calendar year for certain payments to persons engaged in a trade or business
+and payments for services. The threshold also increases
+to $2,000 for wage reporting (Forms W-2, Wage and Tax
+Statement) if no federal income, social security, or Medicare tax was withheld. This threshold will be adjusted for
+inflation for each calendar year after 2026. For more information, see the General Instructions for Forms W-2 and
+W-3 and the General Instructions for Certain Information
+Returns.
+Withholding on qualified tips. For tax years beginning
+after 2024 and ending before 2029, P.L. 119-21 allows
+employees and self-employed individuals to deduct up to
+$25,000 of qualified tips received in occupations that customarily and regularly received tips on or before December 31, 2024, on their income tax returns. Qualified tips
+are cash tips, which include voluntary cash or charged tips
+received from customers or, in the case of employees,
+through tip-sharing arrangements. Mandatory service
+charges added to the bill are not qualified tips. Employers
+must use an employee’s updated Form W-4, Employee’s
+Withholding Certificate, if one is submitted by the employee, and the federal income tax withholding procedures in Pub. 15-T to allow the employee to account for
+their expected deduction and receive more money in each
+paycheck instead of waiting until filing their income tax return to receive the full benefit of this deduction. Tips are
+still generally subject to both the employer share and employee share of social security tax and Medicare tax if the
+tips received are $20 or more per month.
+Employers and other payers must file information returns (for example, Forms W-2, 1099-MISC, and
+1099-NEC) with the Social Security Administration (SSA)
+or IRS, as applicable, and furnish statements to tip recipients showing cash tips received and the Treasury Tipped
+Occupation Code(s) of the tip recipient. However, the IRS
+has provided transition relief to employers and payers for
+the tax year 2025 reporting requirements. For more information, see Notice 2025-62, 2025-48 I.R.B. 740, available
+at IRS.gov/irb/2025-48_IRB#NOT-2025-62.
+Withholding on qualified overtime compensation.
+For tax years beginning after 2024 and ending before
+2029, P.L. 119-21 allows individuals (employees and other
+workers not treated as employees) to deduct up to
+$12,500 ($25,000 if married filing jointly) of qualified overtime compensation from their income subject to federal income tax on their income tax returns. Qualified overtime is
+compensation that exceeds the regular rate of pay (such
+as the “half” portion of time-and-a-half compensation) that
+is required to be paid to an individual under section 7 of
+the Fair Labor Standards Act (FLSA) of 1938. The FLSA
+provides that employers must generally pay covered, nonexempt employees at least one-and-a-half times their regular rate of pay for hours worked over 40 hours per week.
+For more information about overtime compensation, go to
+dol.gov/agencies/whd/overtime. Employers must use an
+employee’s updated Form W-4, if one is submitted by the
+employee, and the federal income tax withholding procedures in Pub. 15-T to allow the employee to account for
+their expected deduction and receive more money in each
+paycheck instead of waiting until filing their income tax return to receive the full benefit of this deduction. Overtime
+compensation is still generally subject to both the employer share and employee share of social security tax
+and Medicare tax.
+Employers and other payers must file information returns (for example, Forms W-2, 1099-MISC, and
+1099-NEC) with the SSA or IRS, as applicable, and furnish statements to overtime recipients showing qualified
+overtime compensation paid during the year. However, the
+IRS has provided transition relief to employers and payers
+for the tax year 2025 reporting requirements. For more information, see Notice 2025-62.
+Moving expense reimbursement. P.L. 119-21 permanently eliminates the exclusion for qualified moving expense reimbursements from your employee’s income.
+However, the exclusion is available in the case of a member of the U.S. Armed Forces on active duty who moves
+because of a permanent change of station due to a military order. The exclusion applies only to reimbursement of
+moving expenses that the member could deduct if they
+had paid or incurred them without reimbursement. See

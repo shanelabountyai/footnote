@@ -1,0 +1,78 @@
+Forms does basic math calculations. It supports only federal tax forms.
+Filing Through Employers and Financial
+Institutions
+Some businesses offer free e-file to their employees,
+members, or customers. Others offer it for a fee. Ask your
+employer or financial institution if they offer IRS e-file as
+an employee, member, or customer benefit.
+Free Help With Your Return
+Free help in preparing your return is available nationwide
+from IRS-trained volunteers. The Volunteer Income Tax
+Assistance (VITA) program is designed to help low-income taxpayers, and the Tax Counseling for the Elderly
+(TCE) program is designed to assist taxpayers age 60 or
+older with their tax returns. Some locations offer free electronic filing.
+Table 1-1. Benefits of IRS e-file
+Accuracy • Your chance of getting an error notice from the IRS is significantly reduced.
+Security • Your privacy and security are assured.
+Electronic signatures • Create your own personal identification number (PIN) and file a completely paperless return through your
+tax preparation software or tax professional. There is nothing to mail.
+Proof of acceptance • You receive an electronic acknowledgment within 48 hours that the IRS has accepted your return for
+processing.
+Fast refunds • You get your refund faster with direct deposit.
+Free Internet filing options • Use IRS.gov to access commercial tax preparation and e-file services available at no cost to eligible
+taxpayers.
+Electronic payment options • Convenient, safe, and secure electronic payment options are available. E-file and pay your taxes in a
+single step. Schedule direct payment from your checking or savings account (up to and including April 15,
+2025) or pay by debit or credit card.
+Federal/State filing • Prepare and file your federal and state tax returns together and double the benefits you get from e-file.
+When Is My Tax Return Due?
+For calendar year 2024, Form 1040 or 1040-SR is due by
+April 15, 2025. If you use a fiscal year (explained in chapter 2), your return is due by the 15th day of the 4th month
+after the end of your fiscal year. If you file late, you may
+have to pay penalties and interest.
+If you cannot file your return on time, use Form 4868,
+Application for Automatic Extension of Time To File U.S.
+Individual Income Tax Return, to request an automatic
+6-month extension. For calendar year taxpayers, this will
+extend the tax filing due date until October 15. Filing an
+extension does not extend the time to pay your taxes, only
+the time to file the tax return.
+How Do I Pay Income Tax?
+Federal income tax is a pay-as-you-go tax. You must pay it
+as you earn or receive income during the year. An employee usually has income tax withheld from their pay. If
+you do not pay your tax through withholding, or do not pay
+enough tax that way, you might have to pay estimated tax.
+Estimated tax payments. You generally have to make
+estimated tax payments if you expect to owe taxes, including self-employment tax (discussed later), of $1,000 or
+more when you file your return. Use Form 1040-ES to figure and pay the tax. If you do not have to make estimated
+tax payments, you can pay any tax due when you file your
+return. For more information on estimated tax, see Pub.
+505.
+What are my options for paying estimated tax?
+You can pay your estimated tax electronically using various options. If you pay electronically, there is no need to
+mail in Form 1040-ES payment vouchers. These options
+include:
+1. Paying electronically through the Electronic Federal
+Tax Payment System (EFTPS),
+2. Paying with Direct Pay by authorizing an electronic
+funds withdrawal when you file Form 1040 or 1040-SR
+electronically, or
+3. Paying by credit or debit card over the phone or by Internet.
+Other options include crediting an overpayment from your
+2023 return to your 2024 estimated tax, or mailing a check
+or money order with a Form 1040-ES payment voucher.
+EFTPS.
+1. To enroll in EFTPS, go to EFTPS.gov or call
+800-555-4477.
+2. When you request a new EIN, you may be automatically enrolled in EFTPS.
+3. Benefits of EFTPS include the following.
+a. The chance of an error in making your payments is
+reduced.
+b. You receive immediate confirmation of every transaction.
+Penalty for underpayment of tax. If you did not pay
+enough income tax and self-employment tax for 2024 by
+withholding or by making estimated tax payments, you
+may have to pay a penalty on the amount not paid. The
+IRS will figure the penalty for you and send you a bill. Or
+you can use Form 2210, Underpayment of Estimated Tax
+by Individuals, Estates, and Trusts, to see if you have to

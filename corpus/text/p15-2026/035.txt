@@ -1,0 +1,85 @@
+deposit rule doesn’t apply because the $10,000 is accumulated in the next deposit period. Thus, $95,000 must be
+deposited by Friday and $10,000 must be deposited by
+the following Wednesday.
+However, once you accumulate at least $100,000 in a
+deposit period, stop accumulating at the end of that day
+and begin to accumulate anew on the next day. For example, Fir Co. is a semiweekly schedule depositor. On Monday, Fir Co. accumulates taxes of $110,000 and must deposit this amount on Tuesday, the next business day. On
+Tuesday, Fir Co. accumulates additional taxes of $30,000.
+Because the $30,000 isn’t added to the previous
+$110,000 and is less than $100,000, Fir Co. must deposit
+the $30,000 by Friday (following the semiweekly deposit
+schedule).
+Caution: If you’re a monthly schedule depositor and
+accumulate a $100,000 tax liability on any day during the
+deposit period, you become a semiweekly schedule depositor on the next day and remain so for at least the rest
+of the calendar year and for the following calendar year.
+Example. Elm, Inc., started its business on May 4,
+2026. On Wednesday, May 6, it paid wages for the first
+time and accumulated a tax liability of $40,000. On Friday,
+May 8, Elm, Inc., paid wages and accumulated a liability of
+$60,000, bringing its total accumulated tax liability to
+$100,000. Because this was the first year of its business,
+the tax liability for its lookback period is considered to be
+zero, and it would be a monthly schedule depositor based
+on the lookback rules. However, because Elm, Inc., accumulated a $100,000 liability on May 8, it became a semiweekly schedule depositor on May 9. It will be a semiweekly schedule depositor for the remainder of 2026 and
+for 2027. Elm, Inc., is required to deposit the $100,000 by
+Monday, May 11, the next business day.
+Accuracy of Deposits Rule
+You’re required to deposit 100% of your tax liability on or
+before the deposit due date. However, penalties won’t be
+applied for depositing less than 100% if both of the following conditions are met.
+• Any deposit shortfall doesn’t exceed the greater of
+$100 or 2% of the amount of taxes otherwise required
+to be deposited.
+• The deposit shortfall is paid or deposited by the shortfall makeup date as described next.
+Makeup Date for Deposit Shortfall
+1. Monthly schedule depositor. Deposit the shortfall
+or pay it with your return by the due date of your return
+for the return period in which the shortfall occurred.
+You may pay the shortfall with your return even if the
+amount is $2,500 or more.
+2. Semiweekly schedule depositor. Deposit by the
+earlier of:
+a. The first Wednesday or Friday (whichever comes
+first) that falls on or after the 15th day of the month
+following the month in which the shortfall occurred,
+or
+b. The due date of your return (for the return period
+of the tax liability).
+For example, if a semiweekly schedule depositor has a
+deposit shortfall during April 2026, the shortfall makeup
+date is May 15, 2026 (Friday). However, if the shortfall occurred on the required July 1, 2026 (Wednesday), deposit
+due date for the June 26, 2026 (Friday), pay date, the return due date for the June 26 pay date (July 31, 2026)
+would come before the August 19, 2026 (Wednesday),
+shortfall makeup date. In this case, the shortfall must be
+deposited by July 31, 2026.
+How To Deposit
+You must deposit employment taxes, including Form 945
+taxes, by EFT. See Payment with return, earlier in this section, for exceptions explaining when taxes may be paid
+with the tax return instead of being deposited.
+Electronic deposit requirement. You must use EFT to
+make all federal tax deposits. An EFT can be made using
+EFTPS, IRS Direct Pay, or your IRS business tax account.
+If you don’t want to use one of these methods, you can arrange for your tax professional, financial institution, payroll
+service, or other trusted third party to make electronic deposits on your behalf. EFTPS is a free service provided by
+the Department of the Treasury. Payments made using
+IRS Direct Pay or through your IRS business tax account
+are also free. For more information about IRS Direct Pay
+and making payments through your IRS business tax account, go to IRS.gov/Pay. To get more information about
+EFTPS or to enroll in EFTPS, go to EFTPS.gov or call
+800-555-4477, 800-244-4829 (Spanish), or 303-967-5916
+(toll call). To contact EFTPS using TRS for people who are
+deaf, hard of hearing, or have a speech disability, dial 711
+and then provide the TRS assistant the 800-555-4477
+number or 800-733-4829. Additional information about
+EFTPS is also available in Pub. 966.
+When you receive your EIN. If you’re a new employer that indicated a federal tax obligation when requesting an EIN, you’ll be pre-enrolled in EFTPS. You’ll receive information about Express Enrollment in your
+Employer Identification Number (EIN) Package and an additional mailing containing your EFTPS personal identification number (PIN) and instructions for activating your
+PIN. Call the toll-free number located in your “How to Activate Your Enrollment” brochure to activate your enrollment
+and begin making your payroll tax deposits. If you outsource any of your payroll and related tax duties to a
+third-party payer, such as a payroll service provider (PSP)
+or reporting agent, be sure to tell them about your EFTPS
+enrollment.
+Deposit record. For your records, an EFT Trace
+Number will be provided with each successful payment.
+The number can be used as a receipt or to trace the payment.

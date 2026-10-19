@@ -1,0 +1,86 @@
+recognized religious sect opposed to insurance. This exemption is available only if both the employee and the employer are members of the sect. For more information, see
+Pub. 517, Social Security and Other Information for Members of the Clergy and Religious Workers.
+Foreign persons treated as American employers. Under section 3121(z), a foreign person who meets both of
+the following conditions is generally treated as an American employer for purposes of paying FICA taxes on wages
+paid to an employee who is a U.S. citizen or resident.
+1. The foreign person is a member of a domestically
+controlled group of entities.
+2. The employee of the foreign person performs services
+in connection with a contract between the U.S. Government (or an instrumentality of the U.S. Government) and any member of the domestically controlled
+group of entities. Ownership of more than 50% constitutes control.
+Part-Time Workers
+Part-time workers and workers hired for short periods of
+time are treated the same as full-time employees for federal income tax withholding and social security, Medicare,
+and FUTA tax purposes.
+Generally, it doesn’t matter whether the part-time
+worker or worker hired for a short period of time has another job or has the maximum amount of social security
+tax withheld by another employer. See Successor employer, earlier in this section, for an exception to this rule.
+Income tax withholding may be figured the same way
+as for full-time workers or it may be figured by the
+part-year employment method explained in section 6 of
+Pub. 15-T.
+10. Required Notice to
+Employees About the Earned
+Income Credit (EIC)
+You must notify employees, except for employees in
+American Samoa, Guam, Puerto Rico, the CNMI, and the
+USVI, who have no federal income tax withheld that they
+may be able to claim a tax refund because of the EIC. Although you don’t have to notify employees who claim exemption from withholding on Form W-4 about the EIC,
+you’re encouraged to notify any employees whose wages
+for 2025 were less than $61,555 ($68,675 if married filing
+jointly) that they may be eligible to claim the credit for
+2025. This is because eligible employees may get a refund of the amount of the EIC that is more than the tax
+they owe.
+You’ll meet this notification requirement if you issue the
+employee Form W-2 with the EIC notice on the back of
+Copy B, or a substitute Form W-2 with the same statement. You’ll also meet the requirement by providing Notice
+797, Possible Federal Tax Refund Due to the Earned Income Credit (EIC), or your own statement that contains
+the same wording.
+If a substitute for Form W-2 is given to the employee on
+time but doesn’t have the required statement, you must
+notify the employee within 1 week of the date the substitute for Form W-2 is given. If Form W-2 is required but isn’t
+given on time, you must give the employee Notice 797 or
+your written statement by the date Form W-2 is required to
+be given. If Form W-2 isn’t required, you must notify the
+employee by February 9, 2026.
+11. Depositing Taxes
+Generally, you must deposit federal income tax withheld
+and both the employer and employee social security and
+Medicare taxes. You must use EFT to make all federal tax
+deposits. See How To Deposit, later in this section, for information on electronic deposit requirements.
+Payment with return. You may make a payment with a
+timely filed Form 941, Form 943, Form 944, or Form 945
+instead of depositing, without incurring a penalty, if one of
+the following applies.
+• You’re a monthly schedule depositor (defined later)
+and make a payment in accordance with the accuracy
+of deposits rule, discussed later in this section. This
+payment may be $2,500 or more.
+• Your Form 941 total tax liability (Form 941, line 12) for
+either the current quarter or the prior quarter is less
+than $2,500, and you didn’t incur a $100,000 next-day
+deposit obligation during the current quarter. However,
+if you’re unsure that your total tax liability for the current quarter will be less than $2,500 (and your liability
+for the prior quarter wasn’t less than $2,500), make
+deposits using the semiweekly or monthly rules so you
+won’t be subject to an FTD penalty.
+• Your Form 943 total tax liability (Form 943, line 13) for
+the year is less than $2,500. However, if you’re unsure
+that you will report less than $2,500, deposit under the
+rules explained in this section so that you won’t be
+subject to an FTD penalty.
+• Your Form 944 total tax liability for the year (Form 944,
+line 9) is less than $2,500, or your Form 944 total tax
+liability for the year (Form 944, line 9) is $2,500 or
+more and you already deposited the taxes you owed
+for the first, second, and third quarters of the year;
+your net tax for the fourth quarter is less than $2,500;
+and you’re paying, in full, the tax you owe for the fourth
+quarter with a timely filed return.
+• Your Form 945 total tax liability (Form 945, line 3) for
+the year is less than $2,500. However, if you’re unsure
+that you will report less than $2,500, deposit under the
+rules explained in this section so that you won’t be
+subject to an FTD penalty.
+Separate deposit requirements for nonpayroll (Form
+945) tax liabilities. Separate deposits are required for

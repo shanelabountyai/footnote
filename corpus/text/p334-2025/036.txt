@@ -1,0 +1,83 @@
+Example. You are the sole proprietor of a flower shop.
+You drove your van 20,000 miles during the year. 16,000
+miles were for delivering flowers to customers and 4,000
+miles were for personal use (including commuting miles).
+You can claim only 80% (16,000 ÷ 20,000) of the cost of
+operating your van as a business expense.
+More information. For more information about the rules
+for claiming car and truck expenses, see Pub. 463. See
+also Interest on car loans, later.
+Reimbursing Your Employees for
+Expenses
+You can generally deduct the amount you reimburse your
+employees for car and truck expenses. The reimbursement you deduct and the manner in which you deduct it
+depend in part on whether you reimburse the expenses
+under an accountable plan or a nonaccountable plan. For
+details, see Pub. 15. That publication explains accountable and nonaccountable plans and tells you whether to report the reimbursement on your employee’s Form W-2.
+Depreciation
+If property you acquire to use in your business is expected
+to last more than 1 year, you generally can’t deduct the
+entire cost as a business expense in the year you acquire
+it. You must spread the cost over more than 1 tax year and
+deduct part of it each year on Schedule C (Form 1040).
+This method of deducting the cost of business property is
+called depreciation.
+The following is a brief overview. You will find more information about depreciation in Pub. 946.
+What property can be depreciated? You can depreciate property if it meets all the following requirements.
+• It must be property you own.
+• It must be used in business or held to produce income. You can never depreciate inventory (explained
+in chapter 2) because it is not held for use in your business.
+• It must have a useful life that extends substantially beyond the year it is placed in service.
+• It must have a determinable useful life, which means
+that it must be something that wears out, decays, gets
+used up, becomes obsolete, or loses its value from
+natural causes. You can never depreciate the cost of
+land because land does not wear out, become obsolete, or get used up.
+• It must not be excepted property. This includes property placed in service and disposed of in the same
+year.
+Repairs. In general, you don’t depreciate the costs of repairs or maintenance if they don’t improve your property.
+Instead, you deduct these amounts on line 21 of Schedule C (Form 1040). Improvements are amounts paid for
+betterments to your property, restorations of your property,
+or work that adapts your property to a new or different use.
+Election to capitalize repair and maintenance
+costs that do not improve your property. You can
+make an election to treat certain repairs or replacements
+in your trade or business as improvements subject to depreciation. This election is available if you treat these
+amounts as capital expenditures on your books and records regularly used in computing your income and expenses.
+Depreciation method. The method for depreciating
+most business and investment property placed in service
+after 1986 is called the Modified Accelerated Cost Recovery System (MACRS). MACRS is discussed in detail in
+Pub. 946.
+Section 179 deduction. You can elect to deduct a limited amount of the cost of certain depreciable property in
+the year you place the property in service. This deduction
+is known as the section 179 deduction. The maximum
+amount you can elect to deduct during 2025 is generally
+$2,500,000.
+This limit is generally reduced by the amount by which
+the cost of the property placed in service during the tax
+year exceeds $4,000,000. The total amount of depreciation (including the section 179 deduction) you can take for
+a passenger automobile you use in your business and first
+place in service in 2025 is $12,200 ($20,200 if you take
+the special depreciation allowance for qualified passenger
+automobiles placed in service in 2025). Special rules apply to trucks and vans. For more information, see Pub.
+946. It explains what property qualifies for the deduction,
+what limits apply to the deduction, and when and how to
+recapture the deduction.
+Your section 179 election for the cost of any sport
+utility vehicle (SUV) and certain other vehicles is
+limited to $31,300. For more information, see the
+Instructions for Form 4562 or Pub. 946.
+Listed property. You must follow special rules and recordkeeping requirements when depreciating listed property. Listed property includes any of the following.
+• Most passenger automobiles.
+• Most other property used for transportation.
+• Any property of a type generally used for entertainment, recreation, or amusement.
+For more information about listed property, see Pub.
+946.
+Form 4562. Use Form 4562, Depreciation and Amortization, if you are claiming any of the following.
+• Depreciation on property placed in service during the
+current-tax year.
+• A section 179 deduction.
+• Depreciation on any listed property (regardless of
+when it was placed in service).
+CAUTION
+!

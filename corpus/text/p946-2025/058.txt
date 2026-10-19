@@ -1,0 +1,89 @@
+10. Multiply line 8 by line 9. This is Amount
+B .....................................
+11. Add line 5 and line 10. This is your
+inclusion amount. Enter here and as other
+income on the form or schedule on which
+you originally took the deduction (for
+example, Schedule C or F (Form 1040),
+Schedule 1 (Form 1040), Form 1120,
+etc.) ..................................
+Example. On February 1, 2023, Larry House, a calendar year taxpayer, leased and placed in service an item of
+listed property with an FMV of $3,000. The lease is for a
+period of 5 years. Larry does not use the item of listed
+property at a regular business establishment, so it is listed
+property. Larry’s business use of the property (all of which
+is qualified business use) is 80% in 2023, 60% in 2024,
+and 40% in 2025. Larry must add an inclusion amount to
+gross income for 2025, the first tax year Larry’s qualified
+business-use percentage is 50% or less. The item of listed
+property has a 5-year recovery period under both GDS
+and ADS. 2025 is the third tax year of the lease, so the applicable percentage from Table A-19 is −19.8%. The applicable percentage from Table A-20 is 22%. Larry’s deductible rent for the item of listed property for 2025 is $800.
+Larry uses the inclusion amount worksheet to figure the
+amount that must be included in income for 2025. Larry’s
+inclusion amount is $224, which is the sum of −$238
+(Amount A) and $462 (Amount B).
+Inclusion Amount Worksheet
+for Leased Listed Property
+Keep for Your Records
+1. Fair market value ..................... $3,000
+2. Business/investment use for first year
+business use is 50% or less ........... 40%
+3. Multiply line 1 by line 2 ................ 1,200
+4. Rate (%) from Table A-19 ............. −19.8%
+5. Multiply line 3 by line 4. This is Amount
+A ................................... −238
+6. Fair market value ..................... 3,000
+7. Average business/investment use for
+years property leased before the first
+year business use is 50% or less ...... 70%
+8. Multiply line 6 by line 7 ................ 2,100
+9. Rate (%) from Table A-20 ............. 22.0%
+10. Multiply line 8 by line 9. This is Amount
+B ................................... 462
+11. Add line 5 and line 10. This is your
+inclusion amount. Enter here and as
+other income on the form or schedule
+on which you originally took the
+deduction (for example, Schedule C or F
+(Form 1040), Schedule 1 (Form 1040),
+Form 1120, etc.) ..................... $224
+Lease beginning in the last 9 months of your tax
+year. The inclusion amount is subject to a special rule if
+all the following apply.
+• The lease term begins within 9 months before the
+close of your tax year.
+• You do not use the property predominantly (more than
+50%) for qualified business use during that part of the
+tax year.
+• The lease term continues into your next tax year.
+Under this special rule, add the inclusion amount to income in the next tax year. Figure the inclusion amount by
+taking into account the average of the business/investment use for both tax years (line 2 of the Inclusion Amount
+Worksheet for Leased Listed Property) and the applicable
+percentage for the tax year the lease term begins. Skip
+lines 6 through 9 of the worksheet and enter zero on
+line 10.
+Example 1. On August 1, 2024, Julie Rule, a calendar
+year taxpayer, leased and placed in service an item of listed property. The property is 5-year property with an FMV
+of $10,000. Julie’s property has a recovery period of 5
+years under ADS. The lease is for 5 years. Julie’s business use of the property was 50% in 2024 and 90% in
+2025. Julie paid rent of $3,600 for 2024, of which $3,240
+is deductible. Julie must include $147 in income in 2025.
+The $147 is the sum of Amount A and Amount B. Amount
+A is $147 ($10,000 × 70% (0.70) × 2.1% (0.021)), the
+product of the FMV, the average business use for 2024
+and 2025, and the applicable percentage for year 1 from
+Table A-19. Amount B is zero.
+Lease for less than 1 year. A special rule for the inclusion amount applies if the lease term is less than 1 year
+and you do not use the property predominantly (more than
+50%) for qualified business use. The amount included in
+income is the inclusion amount (figured as described in
+the preceding discussions) multiplied by a fraction. The
+numerator of the fraction is the number of days in the
+lease term, and the denominator is 365 (or 366 for leap
+years).
+The lease term for listed property includes options to
+renew. If you have two or more successive leases that are
+part of the same transaction (or a series of related transactions) for the same or substantially similar property, treat
+them as one lease.
+Example 2. On October 1, 2024, John Joyce, a calendar year taxpayer, leased and placed in service an item of
+listed property that is 3-year property. This property had

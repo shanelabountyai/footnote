@@ -1,0 +1,101 @@
+25-year property . . . . . . . . . . . . . . 25 years3
+Residential rental property . . . . . . 27.5
+years
+Nonresidential real property . . . . . 39 years4
+1
+5 years for qualified rent-to-own property placed in service
+before August 6, 1997.
+2
+39 years for property that is a retail motor fuels outlet placed
+in service before August 20, 1996 (31.5 years if placed in
+service before May 13, 1993), unless you elected to
+depreciate it over 15 years.
+3
+20 years for property placed in service before June 13, 1996,
+or under a binding contract in effect before June 10, 1996.
+4
+31.5 years for property placed in service before May 13,
+1993 (or before January 1, 1994, if the purchase or
+construction of the property is under a binding contract in
+effect before May 13, 1993, or if construction began before
+May 13, 1993).
+The GDS recovery periods for property not listed above
+can be found in Appendix B, Table of Class Lives and Recovery Periods. Residential rental property and nonresidential real property are defined earlier under Which Property Class Applies Under GDS.
+Enter the appropriate recovery period on Form 4562
+under column (d) in Section B of Part III, unless already
+shown (for 25-year property, residential rental property,
+and nonresidential real property).
+Office in the home. If your home is a personal-use single family residence and you begin to use part of your
+home as an office, depreciate that part of your home as
+nonresidential real property over 39 years (31.5 years if
+you began using it for business before May 13, 1993).
+However, if your home is an apartment in an apartment
+building that you own and the building is residential rental
+property, as defined earlier under Which Property Class
+Applies Under GDS, depreciate the part used as an office
+as residential rental property over 27.5 years. See Pub.
+587 for a discussion of the tests you must meet to claim
+expenses, including depreciation, for the business use of
+your home.
+Home changed to rental use. If you begin to rent a
+home that was your personal home before 1987, you depreciate it as residential rental property over 27.5 years.
+Recovery Periods Under ADS
+The recovery periods for most property are generally longer under ADS than they are under GDS. The following table shows some of the ADS recovery periods.
+Property
+Recovery
+Period
+Rent-to-own property . . . . . . . . . . . . . . . . 4 years
+Automobiles and light duty trucks . . . . . . . 5 years
+Computers and peripheral equipment . . . . 5 years
+High technology telephone station
+equipment installed on customer
+premises . . . . . . . . . . . . . . . . . . . . . . . . 5 years
+High technology medical equipment . . . . . 5 years
+Non-commercial aircraft . . . . . . . . . . . . . . 6 years
+Personal property with no class life . . . . . . 12 years
+Commercial aircraft . . . . . . . . . . . . . . . . . . 12 years
+Natural gas gathering lines . . . . . . . . . . . . 14 years
+Single-purpose agricultural and
+horticultural structures . . . . . . . . . . . . . . 15 years
+Any tree or vine bearing fruits or nuts . . . . 20 years
+Initial clearing and grading land
+improvements for gas utility property . . . 20 years
+Initial clearing and grading land
+improvements for electric utility
+transmission and distribution plants . . . 25 years
+Electric transmission property used in the
+transmission at 69 or more kilovolts of
+electricity . . . . . . . . . . . . . . . . . . . . . . . . 30 years
+Natural gas distribution lines . . . . . . . . . . . 35 years
+Nonresidential real property . . . . . . . . . . . 40 years
+Residential rental property . . . . . . . . . . . . 30 years1
+Section 1245 real property not listed in
+Appendix B . . . . . . . . . . . . . . . . . . . . . . 40 years
+Railroad grading and tunnel bore . . . . . . . 50 years
+1
+40 years for property placed in service before January 1,
+2018. Note: The ADS recovery period for residential rental
+property placed in service before January 1, 2018, is 30 years
+if the property is held by an electing real property trade or
+business (as defined in section 163(j)(7)(B)) and section
+168(g)(1)(A), (B), (C), (D), or (E) did not apply to the property
+before January 1, 2018.
+The ADS recovery periods for property not listed above
+can be found in the tables in Appendix B. Rent-to-own
+property, residential rental property, and nonresidential
+real property are defined earlier under Which Property
+Class Applies Under GDS.
+Tax-exempt use property subject to a lease. The ADS
+recovery period for any property leased under a lease
+agreement to a tax-exempt organization, governmental
+unit, or foreign person or entity (other than a partnership)
+cannot be less than 125% of the lease term.
+Additions and Improvements
+An addition or improvement you make to depreciable
+property is treated as separate depreciable property. See
+How Do You Treat Repairs and Improvements? in chapter 1 for a definition of improvements. Its property class
+and recovery period are the same as those that would apply to the original property if you had placed it in service at
+the same time you placed the addition or improvement in
+service. The recovery period begins on the later of the following dates.
+• The date you place the addition or improvement in
+service.

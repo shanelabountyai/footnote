@@ -1,0 +1,84 @@
+• The straight line method over a GDS recovery period.
+• The straight line method over an ADS recovery period.
+Caution: For property placed in service before 1999,
+you could have elected the 150% declining balance
+method using the ADS recovery periods for certain property classes. If you made this election, continue to use the
+same method and recovery period for that property.
+Table 4-1 lists the types of property you can depreciate
+under each method. It also gives a brief explanation of the
+method, including any benefits that may apply.
+Depreciation Methods for Farm
+Property
+If you place personal property in service in a farming business after 1988, and before 2018, you must generally depreciate it under GDS using the 150% declining balance
+method unless you are a farmer who must depreciate the
+property under ADS using the straight line method or you
+elect to depreciate the property under GDS or ADS using
+the straight line method. You can depreciate real property
+using the straight line method under either GDS or ADS.
+Note: For 3-, 5-, 7-, or 10-year property used in a farming business and placed in service after 2017, in tax years
+ending after 2017, the 150% declining balance method is
+no longer required. However, the 150% declining balance
+method will continue to apply to any 15- or 20-year property used in a farming business to which the straight line
+method does not apply or to property for which you elect
+the use of the 150% declining balance method.
+Fruit or nut trees and vines. Depreciate trees and vines
+bearing fruits or nuts under GDS using the straight line
+method over a recovery period of 10 years.
+ADS required for some farmers. If you elect not to apply the uniform capitalization rules to any plant produced
+in your farming business, you must use ADS. You must
+use ADS for all property you place in service in any year
+the election is in effect. See the regulations under section
+263A of the Internal Revenue Code for information on the
+uniform capitalization rules that apply to farm property.
+Electing a Different Method
+As shown in Table 4-1, you can elect a different method
+for depreciation for certain types of property. You must
+make the election by the due date of the return (including
+extensions) for the year you placed the property in service. However, if you timely filed your return for the year
+without making the election, you can still make the election by filing an amended return within 6 months of the due
+date of the return (excluding extensions). Attach the election to the amended return and write “Filed pursuant to
+section 301.9100-2” on the election statement. File the
+amended return at the same address you filed the original
+return. Once you make the election, you cannot change it.
+Caution: If you elect to use a different method for one
+item in a property class, you must apply the same method
+to all property in that class placed in service during the
+year of the election. However, you can make the election
+on a property-by-property basis for nonresidential real and
+residential rental property.
+150% election. Instead of using the 200% declining balance method over the GDS recovery period for property in
+the 3-, 5-, 7-, or 10-year property class, you can elect to
+use the 150% declining balance method. Make the election by entering “150 DB” under column (f) in Part III of
+Form 4562.
+Straight line election. Instead of using either the 200%
+or 150% declining balance method over the GDS recovery
+period, you can elect to use the straight line method over
+the GDS recovery period. Make the election by entering
+“S/L” under column (f) in Part III of Form 4562.
+Election of ADS. As explained earlier under Which Depreciation System (GDS or ADS) Applies, you can elect to
+use ADS even though your property may come under
+GDS. ADS uses the straight line method of depreciation
+over fixed ADS recovery periods. Most ADS recovery periods are listed in Appendix B, or see the table under Recovery Periods Under ADS, earlier.
+Make the election by completing line 20 in Part III of
+Form 4562.
+15- or 20-year farm property. Instead of using the 150%
+declining balance method over a GDS recovery period for
+15- or 20-year property you use in a farming business
+(other than real property), you can elect to depreciate it
+using either of the following methods.
+• The straight line method over a GDS recovery period.
+• The straight line method over an ADS recovery period.
+How Is the Depreciation
+Deduction Figured?
+Terms you may need to know
+(see Glossary):
+Adjusted basis
+Amortization
+Basis
+Business/investment use
+Convention
+Declining balance method
+Disposition
+Exchange
+Nonresidential real property
+Placed in service

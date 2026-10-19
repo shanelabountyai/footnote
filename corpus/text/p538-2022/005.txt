@@ -1,0 +1,106 @@
+Partnership
+A partnership must conform its tax year to its partners' tax
+years unless any of the following apply.
+• The partnership makes an election under section 444
+of the Internal Revenue Code to have a tax year other
+than a required tax year by filing Form 8716.
+• The partnership elects to use a 52-53-week tax year
+that ends with reference to either its required tax year
+or a tax year elected under section 444.
+• The partnership can establish a business purpose for
+a different tax year.
+The rules for the required tax year for partnerships are as
+follows.
+• If one or more partners having the same tax year own
+a majority interest (more than 50%) in partnership
+profits and capital, the partnership must use the tax
+year of those partners.
+• If there is no majority interest tax year, the partnership
+must use the tax year of all its principal partners. A
+principal partner is one who has a 5% or more interest
+in the profits or capital of the partnership.
+• If there is no majority interest tax year and the principal partners do not have the same tax year, the partnership generally must use a tax year that results in
+the least aggregate deferral of income to the partners.
+If a partnership changes to a required tax year because of these rules, it can get automatic approval by filing Form 1128.
+Least aggregate deferral of income. The tax year that
+results in the least aggregate deferral of income is determined as follows.
+1. Figure the number of months of deferral for each partner using one partner's tax year. Find the months of
+deferral by counting the months from the end of that
+tax year forward to the end of each other partner's tax
+year.
+2. Multiply each partner's months of deferral figured in
+step (1) by that partner's share of interest in the partnership profits for the year used in step (1).
+3. Add the amounts in step (2) to get the aggregate (total) deferral for the tax year used in step (1).
+4. Repeat steps (1) through (3) for each partner's tax
+year that is different from the other partners' years.
+The partner's tax year that results in the lowest aggregate (total) number is the tax year that must be used by
+the partnership. If the calculation results in more than one
+tax year qualifying as the tax year with the least aggregate
+deferral, the partnership can choose any one of those tax
+years as its tax year. However, if one of the tax years that
+qualifies is the partnership's existing tax year, the partnership must retain that tax year.
+Example. A and B each have a 50% interest in partnership P, which uses a fiscal year ending June 30. A
+TIP
+uses the calendar year and B uses a fiscal year ending
+November 30. P must change its tax year to a fiscal year
+ending November 30 because this results in the least aggregate deferral of income to the partners, as shown in the
+following table.
+Year End
+12/31:
+Year
+End
+Profits
+Interest
+Months
+of
+Deferral
+Interest
+×
+Deferral
+A 12/31 0.5 -0- -0-
+B 11/30 0.5 11 5.5
+Total Deferral . . . . . . . . . . . . . . . . . . . . . . . . . . 5.5
+Year End
+11/30:
+Year
+End
+Profits
+Interest
+Months
+of
+Deferral
+Interest
+×
+Deferral
+A 12/31 0.5 1 0.5
+B 11/30 0.5 -0- -0-
+Total Deferral . . . . . . . . . . . . . . . . . . . . . . . . . . 0.5
+When determination is made. The determination of
+the tax year under the least aggregate deferral rules must
+generally be made at the beginning of the partnership's
+current tax year. However, the IRS can require the partnership to use another day or period that will more accurately reflect the ownership of the partnership. This could
+occur, for example, if a partnership interest was transferred for the purpose of qualifying for a particular tax year.
+Short period return. When a partnership changes its
+tax year, a short period return must be filed. The short period return covers the months between the end of the partnership's prior tax year and the beginning of its new tax
+year.
+If a partnership changes to the tax year resulting in the
+least aggregate deferral, it must file a Form 1128 with the
+short period return showing the computations used to determine that tax year. The short period return must indicate at the top of page 1, “FILED UNDER SECTION
+1.706-1.”
+More information. For more information about changing
+a partnership's tax year, and information about ruling requests, see the Instructions for Form 1128.
+S Corporation
+All S corporations, regardless of when they became an S
+corporation, must use a permitted tax year. A permitted
+tax year is any of the following.
+• The calendar year.
+• A tax year elected under section 444 of the Internal
+Revenue Code. See Section 444 Election, below, for
+details.
+• A 52-53-week tax year ending with reference to the
+calendar year or a tax year elected under section 444.
+• Any other tax year for which the corporation establishes a business purpose.
+If an electing S corporation wishes to adopt a tax year
+other than a calendar year, it must request IRS approval
+using Form 2553, instead of filing Form 1128. For
+information about changing an S corporation's tax year

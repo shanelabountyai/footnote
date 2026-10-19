@@ -1,0 +1,90 @@
+Depreciating permanent improvements. Add the costs
+of permanent improvements made before you began using your home for business to the basis of your property.
+Depreciate these costs as part of the cost of your home,
+as explained earlier. The costs of improvements made after you begin using your home for business (that affect the
+business part of your home, such as a new roof) are depreciated separately. Multiply the cost of the improvement
+by the business-use percentage and depreciate the result
+over the recovery period that would apply to your home if
+you began using it for business at the same time as the
+improvement. For improvements made this year, the recovery period is 39 years. For the percentage to use for
+the first year, see Table 2. For more information on recovery periods, see Pub. 946.
+Business Percentage
+To find the business percentage, compare the size of the
+part of your home that you use for business to your whole
+house. Use the resulting percentage to figure the business
+part of the expenses for operating your entire home.
+You can use any reasonable method to determine the
+business percentage. The following are two commonly
+used methods for figuring the percentage.
+1. Divide the area (length multiplied by the width) used
+for business by the total area of your home.
+2. If the rooms in your home are all about the same size,
+you can divide the number of rooms used for business
+by the total number of rooms in your home.
+Example 1.
+• Your office is 240 square feet (12 feet × 20 feet).
+• Your home is 1,200 square feet.
+• Your office is 20% (240 ÷ 1,200) of the total area of
+your home.
+• Your business percentage is 20%.
+Example 2.
+• You use one room in your home for business.
+• Your home has 10 rooms, all about equal size.
+• Your office is 10% (1 ÷ 10) of the total area of your
+home.
+• Your business percentage is 10%.
+Tip: Use lines 1–7 of Form 8829 or lines 1–3 on the
+Worksheet To Figure the Deduction for Business Use of
+Your Home (near the end of this publication) to figure your
+business percentage.
+Deduction Limit
+If your gross income from the business use of your home
+equals or exceeds your total business expenses (including
+depreciation), you can deduct all your business expenses
+related to the use of your home.
+If your gross income from the business use of your
+home is less than your total business expenses, your deduction for certain expenses for the business use of your
+home is limited.
+Your deduction of otherwise nondeductible expenses,
+such as insurance, utilities, and depreciation of your home
+(with depreciation of your home taken last) that are allocable to the business, is limited to the gross income from the
+business use of your home minus the sum of the following.
+1. The business part of expenses you could deduct even
+if you did not use your home for business (such as
+mortgage interest, real estate taxes, and casualty losses attributable to a federally declared disaster if you
+itemize deductions on Schedule A (Form 1040) or net
+qualified disaster losses if you claim the standard deduction).
+2. The business expenses that relate to the business activity in the home (for example, business phone, supplies, and depreciation on equipment) but not to the
+use of the home itself.
+If you are self-employed, do not include in (2) above your
+deduction for one-half of your self-employment tax.
+Carryover of unallowed expenses. If your business expenses related to the home are greater than the current
+year’s limit, you can carry over the excess to the next year
+in which you use actual expenses. They are subject to the
+deduction limit for that year, whether or not you live in the
+same home during that year.
+Figuring the deduction limit and carryover. If you are
+a partner or you file Schedule F (Form 1040), use the
+Worksheet To Figure the Deduction for Business Use of
+Your Home, near the end of this publication. If you file
+Schedule C (Form 1040), figure your deduction limit and
+carryover on Form 8829.
+Example. You meet the requirements for deducting expenses for the business use of your home. You use 20%
+of your home for business. You are itemizing your deductions on Schedule A (Form 1040) and your home mortgage interest and total state and local taxes would not be
+limited on your Schedule A if you had not used your home
+for business. In 2025, your business expenses and the expenses for the business use of your home are deducted
+from your gross income in the following order.
+Gross income from business . . . . . . . . . . . . . . . . . . . $6,000
+Minus:
+Deductible mortgage interest
+and real estate taxes (20%) . . . . . . . . . . . . . . . . . 3,000
+Business expenses not related to the use of your home
+(100%) (business phone, supplies, and depreciation on
+equipment) . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2,000
+Deduction limit . . . . . . . . . . . . . . . . . . . . . . . . . . . $1,000
+Minus other expenses allocable to business use of home:
+Maintenance, insurance, and utilities (20%) . . . . . . . . 800
+Depreciation allowed (20%) . . . . . . . . . . . . . . . . . 200
+Other expenses up to the deduction limit . . . . . . . . . . . $1,000
+Depreciation carryover to 2026 ($1,600 − $200)
+(subject to deduction limit in 2026) . . . . . . . . . . . . . . . $1,400

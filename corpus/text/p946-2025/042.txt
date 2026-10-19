@@ -1,0 +1,98 @@
+You figure the depreciation rate under the SL method
+by dividing 1 by 5, the number of years in the recovery period. The result is 20%.You multiply the adjusted basis of
+the property ($1,000) by the 20% SL rate. You apply the
+half-year convention by dividing the result ($200) by 2. Depreciation for the first year under the SL method is $100.
+The DB method provides a larger deduction, so you deduct the $200 figured under the 200% DB method.
+Second year. You reduce the adjusted basis ($1,000)
+by the depreciation claimed in the first year ($200). You
+multiply the result ($800) by the DB rate (40%). Depreciation for the second year under the 200% DB method is
+$320.
+You figure the SL depreciation rate by dividing 1 by 4.5,
+the number of years remaining in the recovery period.
+(Based on the half-year convention, you used only half a
+year of the recovery period in the first year.) You multiply
+the reduced adjusted basis ($800) by the result (22.22%).
+Depreciation under the SL method for the second year is
+$178.
+The DB method provides a larger deduction, so you deduct the $320 figured under the 200% DB method.
+Third year. You reduce the adjusted basis ($800) by
+the depreciation claimed in the second year ($320). You
+multiply the result ($480) by the DB rate (40%). Depreciation for the third year under the 200% DB method is $192.
+You figure the SL depreciation rate by dividing 1 by 3.5.
+You multiply the reduced adjusted basis ($480) by the result (28.57%). Depreciation under the SL method for the
+third year is $137.
+The DB method provides a larger deduction, so you deduct the $192 figured under the 200% DB method.
+Fourth year. You reduce the adjusted basis ($480) by
+the depreciation claimed in the third year ($192). You multiply the result ($288) by the DB rate (40%). Depreciation
+for the fourth year under the 200% DB method is $115.
+You figure the SL depreciation rate by dividing 1 by 2.5.
+You multiply the reduced adjusted basis ($288) by the result (40%). Depreciation under the SL method for the
+fourth year is $115.
+The SL method provides an equal deduction, so you
+switch to the SL method and deduct the $115.
+Fifth year. You reduce the adjusted basis ($288) by the
+depreciation claimed in the fourth year ($115) to get the
+reduced adjusted basis of $173. You figure the SL depreciation rate by dividing 1 by 1.5. You multiply the reduced
+adjusted basis ($173) by the result (66.67%). Depreciation
+under the SL method for the fifth year is $115.
+Sixth year. You reduce the adjusted basis ($173) by
+the depreciation claimed in the fifth year ($115) to get the
+reduced adjusted basis of $58. There is less than 1 year
+remaining in the recovery period, so the SL depreciation
+rate for the sixth year is 100%. You multiply the reduced
+adjusted basis ($58) by 100% to arrive at the depreciation
+deduction for the sixth year ($58).
+Example 2—SL method and mid-month convention. In January, you bought and placed in service a
+building for $100,000 that is nonresidential real property
+with a recovery period of 39 years. The adjusted basis of
+the building is its cost of $100,000. You use GDS, the SL
+method, and the mid-month convention to figure your depreciation.
+First year. You figure the SL depreciation rate for the
+building by dividing 1 by 39 years. The result is 0.02564.
+The depreciation for a full year is $2,564 ($100,000 ×
+0.02564). Under the mid-month convention, you treat the
+property as placed in service in the middle of January. You
+get 11.5 months of depreciation for the year. Expressed
+as a decimal, the fraction of 11.5 months divided by 12
+months is 0.958. Your first-year depreciation for the building is $2,456 ($2,564 × 0.958).
+Second year. You subtract $2,456 from $100,000 to
+get your adjusted basis of $97,544 for the second year.
+The SL rate is 0.02629. This is 1 divided by the remaining
+recovery period of 38.042 years (39 years reduced by
+11.5 months or 0.958). Your depreciation for the building
+for the second year is $2,564 ($97,544 × 0.02629).
+Third year. The adjusted basis is $94,980 ($97,544 −
+$2,564). The SL rate is 0.027 (1 divided by 37.042 remaining years). Your depreciation for the third year is
+$2,564 ($94,980 × 0.027).
+Example 3—200% DB method and mid-quarter
+convention. During the year, you bought and placed in
+service in your business the following items.
+Item
+Month Placed
+in Service Cost
+Safe January $4,000
+Office furniture September 1,000
+Computer October 5,000
+You do not elect a section 179 deduction and these items
+do not qualify for a special depreciation allowance. You
+use GDS and the 200% DB method to figure the depreciation. The total bases of all property you placed in service
+this year are $10,000. The basis of the computer ($5,000)
+is more than 40% of the total bases of all property placed
+in service during the year ($10,000), so you must use the
+mid-quarter convention. This convention applies to all
+three items of property. The safe and office furniture are
+7-year property and the computer is 5-year property.
+First- and second-year depreciation for safe. The
+200% DB rate for 7-year property is 0.28571. You determine this by dividing 2.00 (200%) by 7 years. The depreciation for the safe for a full year is $1,143 ($4,000 ×
+0.28571). You placed the safe in service in the first quarter
+of your tax year, so you multiply $1,143 by 87.5% (the
+mid-quarter percentage for the first quarter). The result,
+$1,000, is your deduction for depreciation on the safe for
+the first year.
+For the second year, the adjusted basis of the safe is
+$3,000. You figure this by subtracting the first year’s depreciation ($1,000) from the basis of the safe ($4,000).
+Your depreciation deduction for the second year is $857
+($3,000 × 0.28571).
+First- and second-year depreciation for furniture.
+The furniture is also 7-year property, so you use the same
+200% DB rate of 0.28571. You multiply the basis of the

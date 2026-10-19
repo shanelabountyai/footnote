@@ -1,0 +1,77 @@
+medical coverage for a current or former employee under
+the Combined Omnibus Budget Reconciliation Act of
+1986 (COBRA). The exclusion applies regardless of the
+length of employment, whether you directly pay the premiums or reimburse the former employee for premiums paid,
+and whether the employee’s separation is permanent or
+temporary.
+Qualified small employer health reimbursement arrangements (QSEHRAs). QSEHRAs allow eligible small
+employers to pay or reimburse medical care expenses, including health insurance premiums, of eligible employees
+and their family members. A QSEHRA isn’t a group health
+plan, and, therefore, isn’t subject to group health plan requirements. Generally, payments from a QSEHRA to reimburse an eligible employee’s medical expenses aren’t includible in the employee’s gross income if the employee
+has coverage that provides minimum essential coverage,
+as defined in section 5000A(f) of the Internal Revenue
+Code.
+A QSEHRA is an arrangement that meets all the following requirements.
+1. The arrangement is funded solely by you, and no salary reduction contributions may be made under the
+arrangement.
+2. The arrangement provides, after the eligible employee
+provides proof of coverage, for the payment or reimbursement of the medical expenses incurred by the
+employee or the employee’s family members.
+3. The amount of payments and reimbursements
+doesn’t exceed $6,450 ($13,100 for family coverage)
+for 2026.
+4. The arrangement is generally provided on the same
+terms to all your eligible employees. However, your
+QSEHRA may exclude employees who haven’t completed 90 days of service, employees who haven’t
+reached age 25 before the beginning of the plan year,
+part-time or seasonal employees, employees covered
+by a collective bargaining agreement if health benefits
+were the subject of good-faith bargaining, and employees who are nonresident aliens with no earned income from sources within the United States.
+Eligible employer. To be an eligible employer, you
+must not be an applicable large employer, which is defined as an employer that generally employed at least 50
+full-time employees, including full-time equivalent employees, in the prior calendar year. You must also not offer a
+group health plan (including a health reimbursement arrangement (HRA) or a health FSA) to any of your employees. For more information about the Affordable Care Act
+and group health plan requirements, go to IRS.gov/ACA.
+For more information about QSEHRAs, including information about the requirement to give a written notice to each
+eligible employee, see Notice 2017-67, 2017-47 I.R.B.
+517, available at IRS.gov/irb/2017-47_IRB#NOT-2017-67.
+Reporting requirements. You must report in box 12
+of Form W-2 using code FF the amount of payments and
+reimbursements that your employee is entitled to receive
+from the QSEHRA for the calendar year without regard to
+the amount of payments or reimbursements actually received. For example, if your QSEHRA provides a permitted benefit of $3,000 and your employee receives reimbursements of $2,000, on Form W-2, you would report a
+permitted benefit of $3,000 in box 12 using code FF.
+Achievement Awards
+This exclusion applies to the value of any tangible personal property you give to an employee as an award for either length of service or safety achievement. The exclusion doesn’t apply to awards of cash, cash equivalents,
+gift cards, gift coupons, or gift certificates (other than arrangements granting only the right to select and receive
+tangible personal property from a limited assortment of
+items preselected or preapproved by you). The exclusion
+also doesn’t apply to vacations, meals, lodging, tickets to
+theater or sporting events, stocks, bonds, other securities,
+and other similar items. An achievement award must meet
+all the following requirements.
+• It is given to an employee for length of service or
+safety achievement.
+• It is awarded as part of a meaningful presentation.
+• It is awarded under conditions and circumstances that
+don’t create a significant likelihood of disguised pay.
+Employee. For this exclusion, treat the following individuals as employees.
+• A current employee.
+• A former common-law employee you maintain coverage for in consideration of or based on an agreement
+relating to prior service as an employee.
+• A leased employee who has provided services to you
+on a substantially full-time basis for at least a year if
+the services are performed under your primary direction or control.
+Exception for S corporation shareholders. Don’t
+treat a 2% shareholder of an S corporation as an employee of the corporation for this purpose. A 2% shareholder is someone who directly or indirectly owns (for any
+day during the tax year) more than 2% of the corporation’s
+stock or stock with more than 2% of the voting power.
+Treat a 2% shareholder as you would a partner in a partnership for fringe benefit purposes, but don’t treat the benefit as a reduction in distributions to the 2% shareholder.
+For more information, see Revenue Ruling 91-26, 1991-1
+C.B. 184.
+Exclusion from wages. You can generally exclude the
+value of achievement awards you give to an employee
+from the employee’s wages if their cost isn’t more than the
+amount you can deduct as a business expense for the
+year. The excludable annual amount is $1,600 ($400 for
+awards that aren’t “qualified plan awards”).

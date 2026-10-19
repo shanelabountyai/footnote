@@ -1,0 +1,83 @@
+2025 Lookback period 2026 Lookback period
+3rd Quarter 2023 $12,000 3rd Quarter 2024 $12,000
+4th Quarter 2023 12,000 4th Quarter 2024 12,000
+1st Quarter 2024 12,000 1st Quarter 2025 12,000
+2nd Quarter 2024 12,000 2nd Quarter 2025 15,000
+$48,000 $51,000
+Rose Co. is a monthly schedule depositor for 2025 because its tax liability for the 4 quarters in its lookback period (third quarter 2023 through second quarter 2024)
+wasn’t more than $50,000. However, for 2026, Rose Co.
+will be a semiweekly schedule depositor because the total
+taxes exceeded $50,000 for the 4 quarters in its lookback
+period (third quarter 2024 through second quarter 2025).
+Example for employers of farmworkers. Red Co. reported taxes on its 2024 Form 943, line 13, of $48,000. On
+its 2025 Form 943, line 13, it reported taxes of $60,000.
+Red Co. is a monthly schedule depositor for 2026 because its taxes for its lookback period ($48,000 for calendar year 2024) weren’t more than $50,000. However, for
+2027, Red Co. will be a semiweekly schedule depositor
+because the total taxes for its lookback period ($60,000
+for calendar year 2025) exceeded $50,000.
+Deposits Due on Business Days Only
+If a deposit is required to be made on a day that isn’t a
+business day, the deposit is considered timely if it is made
+by the close of the next business day. A business day is
+any day other than a Saturday, Sunday, or legal holiday.
+For example, if a deposit is required to be made on a Friday and Friday is a legal holiday, the deposit will be considered timely if it is made by the following Monday (if that
+Monday is a business day).
+Semiweekly schedule depositors have at least 3
+business days following the close of the semiweekly period to make a deposit. If any of the 3 weekdays after the
+end of a semiweekly period is a legal holiday, you’ll have
+an additional day for each day that is a legal holiday to
+make the required deposit. For example, if a semiweekly
+schedule depositor accumulated taxes for payments
+made on Friday and the following Monday is a legal holiday, the deposit normally due on Wednesday may be
+made on Thursday (this allows 3 business days to make
+the deposit).
+Legal holiday. The term “legal holiday” means any legal
+holiday in the District of Columbia. For purposes of the deposit rules, the term “legal holiday” doesn’t include other
+statewide legal holidays. Legal holidays for 2026 are listed
+next.
+• January 1—New Year’s Day
+• January 19—Birthday of Martin Luther King, Jr.
+• February 16—Washington’s Birthday
+• April 16—District of Columbia Emancipation Day
+• May 25—Memorial Day
+• June 19—Juneteenth National Independence Day
+• July 3—Independence Day (observed)
+• September 7—Labor Day
+• October 12—Indigenous Peoples’ Day (Columbus
+Day)
+• November 11—Veterans Day
+• November 26—Thanksgiving Day
+• December 25—Christmas Day
+Application of Monthly and Semiweekly
+Schedules
+The terms “monthly schedule depositor” and “semiweekly
+schedule depositor” don’t refer to how often your business
+pays its employees or even how often you’re required to
+make deposits. The terms identify which set of deposit
+rules you must follow when an employment tax liability arises. The deposit rules are based on the dates when wages are paid (cash basis), not on when tax liabilities are
+accrued for accounting purposes.
+Monthly schedule example. Spruce Co. is a monthly
+schedule depositor with seasonal employees. It paid wages each Friday during March but didn’t pay any wages
+during April. Under the monthly deposit schedule, Spruce
+Co. must deposit the combined tax liabilities for the March
+paydays by April 15. Spruce Co. doesn’t have a deposit
+requirement for April (due by May 15) because no wages
+were paid and, therefore, it didn’t have a tax liability for
+April.
+Semiweekly schedule example. Green, Inc., is a semiweekly schedule depositor and pays wages once each
+month on the last Friday of the month. Although Green,
+Inc., has a semiweekly deposit schedule, it will deposit
+just once a month because it pays wages only once a
+month. The deposit, however, will be made under the
+semiweekly deposit schedule as follows: Green, Inc.’s tax
+liability for the May 29, 2026 (Friday), payday must be deposited by June 3, 2026 (Wednesday). Under the semiweekly deposit schedule, liabilities for wages paid on
+Wednesday through Friday must be deposited by the following Wednesday.
+$100,000 Next-Day Deposit Rule
+If you accumulate $100,000 or more in taxes on any day
+during a monthly or semiweekly deposit period (see Deposit period, earlier in this section), you must deposit the
+tax by the next business day, whether you’re a monthly or
+semiweekly schedule depositor. The $100,000 tax liability
+threshold requiring a next-day deposit is determined before you consider any reduction of your liability for nonrefundable credits.
+For purposes of the $100,000 rule, don’t continue accumulating a tax liability after the end of a deposit period.
+For example, if a semiweekly schedule depositor has accumulated a liability of $95,000 on a Tuesday (of a Saturday-through-Tuesday deposit period) and accumulated a
+$10,000 liability on Wednesday, the $100,000 next-day

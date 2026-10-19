@@ -1,0 +1,78 @@
+1.
+Overview of Depreciation
+Introduction
+Depreciation is an annual income tax deduction that allows you to recover the cost or other basis of certain property over the time you use the property. It is an allowance
+for the wear and tear, deterioration, or obsolescence of
+the property.
+This chapter discusses the general rules for depreciating property and answers the following questions.
+• What property can be depreciated?
+• What property cannot be depreciated?
+• When does depreciation begin and end?
+• What method can you use to depreciate your property?
+• What is the basis of your depreciable property?
+• How do you treat repairs and improvements?
+• Do you have to file Form 4562?
+• How do you correct depreciation deductions?
+Useful Items
+You may want to see:
+Publication
+534 Depreciating Property Placed in Service Before
+1987
+538 Accounting Periods and Methods
+551 Basis of Assets
+Form (and Instructions)
+Sch C (Form 1040) Profit or Loss From Business
+2106 Employee Business Expenses
+3115 Application for Change in Accounting Method
+4562 Depreciation and Amortization
+See How To Get Tax Help at the end of this publication for
+information about getting publications and forms.
+What Property Can Be
+Depreciated?
+Terms you may need to know
+(see Glossary):
+Adjusted basis
+534
+538
+551
+Sch C (Form 1040)
+2106
+3115
+4562
+Basis
+Commuting
+Disposition
+Fair market value (FMV)
+Intangible property
+Listed property
+Placed in service
+Tangible property
+Term interest
+Useful life
+You can depreciate most types of tangible property (except land), such as buildings, machinery, vehicles, furniture, and equipment. You can also depreciate certain intangible property, such as patents, copyrights, and
+computer software.
+To be depreciable, the property must meet all the following requirements.
+• It must be property you own.
+• It must be used in your business or income-producing
+activity.
+• It must have a determinable useful life.
+• It must be expected to last more than 1 year.
+The following discussions provide information about these
+requirements.
+Property You Own
+To claim depreciation, you must usually be the owner of
+the property. You are considered as owning property even
+if it is subject to a debt.
+Example 1. You made a down payment to purchase
+rental property and assumed the previous owner’s mortgage. You own the property and you can depreciate it.
+Example 2. You bought a new van that you will use
+only for your courier business. You will be making payments on the van over the next 5 years. You own the van
+and you can depreciate it.
+Leased property. You can depreciate leased property
+only if you retain the incidents of ownership in the property
+(explained below). This means you bear the burden of exhaustion of the capital investment in the property. Therefore, if you lease property from someone to use in your
+trade or business or for the production of income, generally you cannot depreciate its cost because you do not retain the incidents of ownership. You can, however, depreciate any capital improvements you make to the property.
+See How Do You Treat Repairs and Improvements, later in
+this chapter, and Additions and Improvements under
+Which Recovery Period Applies? in chapter 4.
+If you lease property to someone, you can generally depreciate its cost even if the lessee (the person leasing
