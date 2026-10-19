@@ -32,3 +32,47 @@ model ModelCall {
   @@index([answerId])
   @@index([purpose, outcome])
 }
+
+// Retrieval (Phase 1 task 1.7; D-12, D-15, D-16). One row per chunk per (snapshot, org): a changed corpus is a new
+// snapshot and new rows, never an in-place update (non-negotiable 5). `orgId` is the core Org id; no relation, because
+// a back-relation would edit the template-owned Org model.
+
+enum ChunkTier {
+  public
+  staff
+  engagement
+  partner
+}
+
+model CorpusChunk {
+  id       String    @id @default(uuid()) @db.Uuid
+  snapshot String
+  orgId    String    @db.Uuid
+  /// `<docId>:<page>:<ordinal>` from the chunker (D-10a).
+  chunkId  String
+  docId    String
+  tier     ChunkTier
+  page     Int
+  ordinal  Int
+  heading  String?
+  isTable  Boolean
+  text     String
+  /// to_tsvector('english', text), written by the indexer in raw SQL; GIN index in the migration.
+  tsv      Unsupported("tsvector")?
+
+  embeddings ChunkEmbedding[]
+
+  @@unique([snapshot, orgId, chunkId])
+  @@index([snapshot, orgId, tier])
+  @@index([tsv], type: Gin)
+}
+
+/// One embedding per chunk per model, so a second embedding model is new rows, not a re-index (D-16: exact scan, no ANN index).
+model ChunkEmbedding {
+  chunkPk   String                     @db.Uuid
+  chunk     CorpusChunk                @relation(fields: [chunkPk], references: [id], onDelete: Cascade)
+  model     String
+  embedding Unsupported("vector(1024)")
+
+  @@id([chunkPk, model])
+}
