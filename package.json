@@ -32,7 +32,7 @@
     "foundation:check-modules": "tsx scripts/foundation-check-modules.ts",
     "corpus:fetch": "python3 tools/fetch_corpus.py",
     "corpus:check": "python3 tools/check_corpus.py",
-    "corpus:index": "echo 'corpus:index: 0 checks (Phase 1 task 1.7 \u2014 no retriever yet)'",
+    "corpus:index": "npm run corpus:check && dotenv -e .env.local -- tsx scripts/corpus-index.ts",
     "eval:retrieval": "echo 'eval:retrieval: 0 checks (Phase 1 task 1.11 \u2014 no retriever yet)'",
     "permissions:verify": "echo 'permissions:verify: 0 checks (Phase 1 task 1.10 \u2014 no Retriever yet)'",
     "spend": "dotenv -e .env.local -- tsx scripts/spend.ts"
