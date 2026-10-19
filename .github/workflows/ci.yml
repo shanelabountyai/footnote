@@ -38,11 +38,17 @@ jobs:
           node-version: 22
           cache: npm
       - run: npm ci
+      # Pinned corpus (non-negotiable 5): a changed byte in corpus/text or corpus/private fails here. Python stdlib only.
+      - run: npm run corpus:check
       - run: npm run lint
       - run: npm run typecheck
       - run: createdb footnote_test
       - run: npx prisma migrate deploy
       - run: npx vitest run
+      # Non-negotiable 3 (D-12b): fts index on the runner's database, then PT-1/2/3 + the chunk-table lint. No Voyage key
+      # in CI, so dense/hybrid run locally; their predicate is linted here and their filter is in the integration tests.
+      - run: npm run corpus:index -- --retriever=fts
+      - run: npm run permissions:verify -- --retriever=fts
       # Production build, served — the way it ships. login.spec.ts drives a real page.
       - run: npx playwright install --with-deps chromium
       - run: npx playwright test

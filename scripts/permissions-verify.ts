@@ -34,11 +34,15 @@ const snapshot = snapshotId();
 const as = (role: Caller['role']): Caller => ({ orgId: org.id, role });
 const fts = ftsRetriever(snapshot);
 const dense = denseRetriever(snapshot, { runId: 'permissions:verify' });
-const retrievers: Retriever[] = [fts, dense, hybridRetriever(fts, dense)];
+// `-- --retriever=fts` (CI, D-12b): CI has no Voyage key, so dense/hybrid are skipped there; their SQL predicate is still
+// checked by the source lint below and their filter by tests/integration/retrieval.test.ts with a fake embedder.
+const only = /--retriever=(\w+)/.exec(process.argv.join(' '))?.[1];
+const retrievers = ([fts, dense, hybridRetriever(fts, dense)] as Retriever[]).filter((r) => !only || r.name === only);
+if (!retrievers.length) { console.error('usage: npm run permissions:verify [-- --retriever=<fts|dense|hybrid>]'); process.exit(2); }
 
 const embedded = await db.chunkEmbedding.count();
 const chunks = await db.corpusChunk.count({ where: { snapshot, orgId: org.id } });
-console.log(`snapshot ${snapshot.slice(0, 19)}… org ledger-lane: ${chunks} chunks, ${embedded} embeddings${embedded < chunks ? ' (dense index incomplete — dense/hybrid ranks are provisional)' : ''}`);
+console.log(`snapshot ${snapshot.slice(0, 19)}… org ledger-lane: ${chunks} chunks, ${embedded} embeddings${only ? ` (only ${only})` : ''}${!only && embedded < chunks ? ' (dense index incomplete — dense/hybrid ranks are provisional)' : ''}`);
 
 for (const r of retrievers) {
   const before = sqlLog.length;

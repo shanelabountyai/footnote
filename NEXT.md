@@ -1,8 +1,18 @@
 # NEXT
 
-## ▶ Next session: task 1.12 (CI gate)
+## ▶ Next session: Phase 1 gate
 
-Start in `~/Projects/footnote`. Build the pipeline that fails if `corpus:check`, `permissions:verify` or `npm test` fails, and prove it on a throwaway branch by changing one byte of a committed page file. **Blocked in part:** the repo has no `origin`, so GitHub Actions cannot run until Shane creates `shanelabountyai/footnote` (owner hand step below). The workflow file can be written and the failure proven locally first. CI has no Voyage key, so `permissions:verify` dense/hybrid needs either a secret or a fts-only mode; decide that in 1.12. After 1.12 comes the Phase 1 gate: θ (open question below), `docs/phase-2-tasks.md`, then stop for review. **Task 1.9 (Shane) is still open.**
+Start in `~/Projects/footnote`. Tasks 1.1–1.8 and 1.10–1.12 are done. Before Phase 2: (1) **θ** (D-17 / O-4) is Shane's call: hybrid's fused RRF score is near-binary and cannot separate A from U (midpoint 0.024); the options are θ on the dense cosine (midpoint 0.559) with hybrid ranking, or a weak gate that leans on the model refusal (Session 4 below has the distributions); (2) write `docs/phase-2-tasks.md` per `docs/phase-1-tasks.md` "Before Phase 2"; (3) stop for review. **Still open, owner steps:** task 1.9 (ten hand answers + the GM-02/GV-06 fragment), and the GitHub repo + `origin`, which the first real CI run waits on.
+
+## Session 5 — 2026-10-19 (task 1.12)
+
+**Built:** `ci.yml` job `ci` now runs `corpus:check` (after `npm ci`) and, after vitest, `corpus:index -- --retriever=fts` + `permissions:verify -- --retriever=fts`. `permissions:verify` takes an optional `-- --retriever=<name>` (no flag = all three, as before).
+
+**Decided:** D-12b. CI checks fts only (no Voyage key there); dense/hybrid are covered in CI by the predicate lint and the fake-embedder integration tests, and their live run stays local.
+
+**Measured:** the CI steps replayed on a fresh database: 3,922 chunks indexed, 9 checks OK. Throwaway branch: one byte flipped in `corpus/text/p538-2022/009.txt` → `corpus:check` exit 1; fts filter neutralized → 4 FAIL, exit 1. Not run on GitHub yet (no `origin`).
+
+**Gate:** `npm test` **35 files / 203 tests passed**; typecheck OK; lint OK; `corpus:check` OK; `permissions:verify` (all three) OK. **Spend: $0.0147 of $25** (no new calls).
 
 ## Session 4 — 2026-10-19 (task 1.11)
 
