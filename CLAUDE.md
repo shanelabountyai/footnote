@@ -30,9 +30,9 @@ Read first: `prd-footnote-knowledge-assistant.md` (what), `docs/decisions.md` (a
 - End each session by updating `NEXT.md`: built, decided, left open, gate output, spend so far.
 
 ## Stack
-TypeScript on a clone of saas-foundation v1.2.1: Next.js 16, Prisma 7, PostgreSQL 17 with `pgvector`, vitest, Playwright. **Port 5400** (D-20; confirm free in `~/.claude/CLAUDE.md`'s port table and add the row in the same commit as the config). Local `DATABASE_URL`s carry `?connection_limit=10&pool_timeout=20`. Template-owned paths (`src/core/**`, `tests/invariants/**`, core migrations) are never edited here. Python only in `tools/` (stdlib + poppler). Not deployed; if that changes, `vercel.json` gets the house `ignoreCommand` first.
+TypeScript on a clone of saas-foundation v1.3.0: Next.js 16, Prisma 7, PostgreSQL 17 with `pgvector`, vitest, Playwright. **Port 5800** (D-20a; the kit's 5400 was already taken; row added to `~/.claude/CLAUDE.md`'s port table 2026-10-19). Local `DATABASE_URL`s carry `?connection_limit=10&pool_timeout=20`. Template-owned paths (`src/core/**`, `tests/invariants/**`, core migrations) are never edited here. Python only in `tools/` (stdlib + poppler). Not deployed; if that changes, `vercel.json` gets the house `ignoreCommand` first.
 
-## Commands (create in Phase 1, task 1.1)
+## Commands (task 1.1, created 2026-10-19)
 - `npm test` — vitest against the local `footnote_test` database
 - `npm run corpus:fetch` — `python3 tools/fetch_corpus.py` (downloads to gitignored `corpus/raw/`, verifies sha256, extracts pages to `corpus/text/`)
 - `npm run corpus:check` — recomputes hashes of `corpus/text/**` and `corpus/private/**` against the manifest; exits non-zero on drift
