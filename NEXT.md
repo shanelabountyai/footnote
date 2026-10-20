@@ -1,8 +1,16 @@
 # NEXT
 
-## ▶ Next session: task 2.6, persistence, API, replay (no key needed)
+## ▶ Next session: task 2.7, version labeling (needs the Anthropic key for its live acceptance)
 
-2.1–2.5 built. **2.5's live acceptance is still open:** once `ANTHROPIC_API_KEY` is pasted into `.env.local` line 9 (the line is prepared and the file is gitignored), run `npm run answer:check -- GA-01` and record the verified citation and the cost here and on the 2.5 line of `docs/phase-2-tasks.md`, then tick 2.5. 2.6 does not depend on it: build the `Answer` row, `POST /api/answers` (role from the session, never the body; 409 on snapshot mismatch) and `GET /api/answers/:id` (zero model calls), tested with fetch stubbed like `tests/integration/compose.test.ts`. **Owner steps still open:** the Anthropic key; task 1.9 (2.10 waits on it); the GitHub repo plus `origin`.
+2.1–2.6 built. 2.7's code half (`supersededBy` on citations from the manifest, a superseded-only sentence labeled) can be built and unit-tested without a key; its acceptance (V slice answered live) needs `ANTHROPIC_API_KEY` in `.env.local` line 9. **Still open from 2.5:** with the key, run `npm run answer:check -- GA-01`, record the verified citation and cost here and on the 2.5 line of `docs/phase-2-tasks.md`, then tick 2.5. **Owner steps still open:** the Anthropic key; task 1.9 (2.10 waits on it); the GitHub repo plus `origin`.
+
+## Session 12 — 2026-10-19 (task 2.6)
+
+**Built:** migration `20261020022552_answers` (`FootnoteRole`, `StaffRole`, `AnswerStatus`, `Answer`), applied to dev and test; `src/lib/answer/caller.ts` (`apiCaller`: role from the `StaffRole` row); `POST /api/answers` and `GET /api/answers/:id`; `tests/integration/answers-api.test.ts` (6 tests: body role ignored and no partner chunk in the prompt; snapshot 409 with no fetch and no row; redirect / 404 / 400; replay with 0 fetches and its `ModelCall` row; θ refusal replay; a partner-cited answer is 404 to front_desk, same body as an unknown id).
+
+**Decided:** D-26 (StaffRole table instead of mapping the template role; `requireUser` first per template FR-06, so no session redirects rather than 401; GET checks cited tiers).
+
+**Gate:** `npm test` **41 files / 242 tests passed**; typecheck OK; lint 0 errors (the 1 template warning); `corpus:check` OK; `permissions:verify` OK. **Spend: $0.0147 of $25** (no live calls).
 
 ## Session 11 — 2026-10-19 (task 2.5, built; live check waiting on the key)
 
