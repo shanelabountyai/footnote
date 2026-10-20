@@ -2,7 +2,7 @@
 // Design ported from OpsAgent src/opsagent/ledger.py (guard() before every call, BudgetExceeded, spend as a view
 // over logged calls); re-expressed over the ModelCall table (D-23).
 import { db } from '@/core/db';
-import type { ModelPurpose } from '@/generated/prisma/client';
+import type { ModelCallOutcome, ModelPurpose } from '@/generated/prisma/client';
 import { costMicroUsd } from './prices';
 
 export const CAPS_MICRO_USD = { build: 25_000_000, run: 3_000_000, answer: 100_000 } as const;
@@ -17,9 +17,10 @@ export class BudgetExceededError extends Error {
 
 type Scope = { runId?: string | null; answerId?: string | null };
 
-/** Micro-USD of completed calls, optionally within one run or one answer. Refused rows never count. */
+/** Micro-USD of completed calls, optionally within one run or one answer. Refused rows never count; a paid call
+ * whose output failed the schema does. */
 export async function spentMicroUsd(where: Scope = {}): Promise<number> {
-  const r = await db.modelCall.aggregate({ _sum: { costMicroUsd: true }, where: { outcome: 'ok', ...where } });
+  const r = await db.modelCall.aggregate({ _sum: { costMicroUsd: true }, where: { outcome: { not: 'budget_exceeded' }, ...where } });
   return r._sum.costMicroUsd ?? 0;
 }
 
@@ -43,11 +44,11 @@ export async function assertBudget(call: { purpose: ModelPurpose; model: string;
 }
 
 /** Records a completed call, priced from config/prices.json. Every live call ends here (D-23). */
-export async function recordCall(call: { purpose: ModelPurpose; model: string; inputTokens: number; outputTokens?: number } & Scope) {
+export async function recordCall(call: { purpose: ModelPurpose; model: string; inputTokens: number; outputTokens?: number; outcome?: Exclude<ModelCallOutcome, 'budget_exceeded'> } & Scope) {
   const outputTokens = call.outputTokens ?? 0;
   return db.modelCall.create({
     data: {
-      purpose: call.purpose, model: call.model, inputTokens: call.inputTokens, outputTokens,
+      purpose: call.purpose, model: call.model, outcome: call.outcome ?? 'ok', inputTokens: call.inputTokens, outputTokens,
       costMicroUsd: costMicroUsd(call.model, call.inputTokens, outputTokens),
       runId: call.runId ?? null, answerId: call.answerId ?? null,
     },

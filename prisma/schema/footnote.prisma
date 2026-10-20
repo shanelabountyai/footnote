@@ -8,9 +8,11 @@ enum ModelPurpose {
 }
 
 /// `budget_exceeded` rows are refusals: no call was made, costMicroUsd holds the refused estimate.
+/// `schema_invalid` rows are paid calls whose output failed the answer schema (task 2.2); they count as spend.
 enum ModelCallOutcome {
   ok
   budget_exceeded
+  schema_invalid
 }
 
 /// Every live model or embedding call, or its refusal (D-23). `eval:scorecard` and `GET /answers/:id`

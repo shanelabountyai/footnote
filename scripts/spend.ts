@@ -10,7 +10,7 @@ let spent = 0;
 console.log('purpose  outcome          calls   in-tokens  out-tokens   cost');
 for (const r of rows) {
   const cost = r._sum.costMicroUsd ?? 0;
-  if (r.outcome === 'ok') spent += cost;
+  if (r.outcome !== 'budget_exceeded') spent += cost;
   console.log(`${r.purpose.padEnd(8)} ${r.outcome.padEnd(16)} ${String(r._count._all).padStart(5)} ${String(r._sum.inputTokens ?? 0).padStart(11)} ${String(r._sum.outputTokens ?? 0).padStart(11)}   ${usd(cost)}${r.outcome === 'ok' ? '' : ' (refused, not spent)'}`);
 }
 if (!rows.length) console.log('(no model calls logged)');

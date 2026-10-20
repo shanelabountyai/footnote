@@ -1,8 +1,16 @@
 # NEXT
 
-## ▶ Next session: task 2.2, the output schema (zod)
+## ▶ Next session: task 2.3, `verifyCitations()`
 
-Phase 2 list approved as written (D-14a). 2.1 done. Then 2.3 `verifyCitations()`, 2.4 θ gate. 2.5 asks first: Anthropic SDK or plain `fetch`. **Owner steps still open:** task 1.9 (the ten hand answers and the GM-02/GV-06 fragment; 2.10 waits on it); the GitHub repo plus `origin` (the only remote is `template`), which the first real CI run and every push wait on; and `ANTHROPIC_API_KEY`, whose line gets prepared at 2.5.
+2.1 and 2.2 done. After 2.3: 2.4 θ gate. 2.5 asks first: Anthropic SDK or plain `fetch`. **Owner steps still open:** task 1.9 (the ten hand answers and the GM-02/GV-06 fragment; 2.10 waits on it); the GitHub repo plus `origin` (the only remote is `template`), which the first real CI run and every push wait on; and `ANTHROPIC_API_KEY`, whose line gets prepared at 2.5.
+
+## Session 8 — 2026-10-19 (task 2.2)
+
+**Built:** `src/lib/answer/output.ts` (`AnswerOutputSchema`, `parseAnswerOutput`) + `tests/unit/output.test.ts` (5 tests: valid with and without `outOfScope`, empty `sentences` valid, missing fields, prose/fence around the JSON, extra keys and unpaired arrays). Migration `20261019230000_schema_invalid_outcome` adds `ModelCallOutcome.schema_invalid`; `recordCall` takes `outcome`; spend counts every outcome except `budget_exceeded` (spend test added). `SYSTEM_PROMPT` now states the JSON shape. Applied to both the test and dev databases.
+
+**Decided:** D-6a (strict parse, `quotes[i]` ↔ `chunkIds[i]`, empty array is not a schema failure, schema-invalid calls count as spend).
+
+**Gate:** `npm test` **37 files / 214 tests passed**; typecheck OK; lint 0 errors (the 1 template warning); `corpus:check` OK; `permissions:verify` (all three) OK. **Spend: $0.0147 of $25** (no model calls).
 
 ## Session 7 — 2026-10-19 (task 2.1)
 

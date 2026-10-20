@@ -34,6 +34,11 @@ describe('assertBudget (D-18): refused before the call, logged as BUDGET_EXCEEDE
     expect(refused[0]!.costMicroUsd).toBe(10_000);
     expect(await spentMicroUsd({ answerId: 'ans_1' })).toBe(95_000); // the refusal did not spend
   });
+  it('a paid call whose output failed the schema still counts as spend (task 2.2)', async () => {
+    await recordCall({ purpose: 'answer', model: 'claude-sonnet-5-5', inputTokens: 3500, outputTokens: 350, answerId: 'ans_3', outcome: 'schema_invalid' });
+    expect((await db.modelCall.findFirstOrThrow()).outcome).toBe('schema_invalid');
+    expect(await spentMicroUsd({ answerId: 'ans_3' })).toBe(10_500);
+  });
   it('lets a call through under every cap', async () => {
     await expect(assertBudget({ purpose: 'embed', model: 'voyage-4-lite', estimateMicroUsd: 7, runId: 'run_1' })).resolves.toBeUndefined();
     expect(await db.modelCall.count()).toBe(0);
