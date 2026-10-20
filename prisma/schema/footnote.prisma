@@ -78,3 +78,52 @@ model ChunkEmbedding {
 
   @@id([chunkPk, model])
 }
+
+// Answers (Phase 2 task 2.6; D-9, D-12, D-23). Footnote's caller role lives here, not on the template's Membership:
+// the core Role (owner/admin/member/scorekeeper) says what a user may change, this says which tiers they may read.
+
+enum FootnoteRole {
+  front_desk
+  bookkeeper
+  partner
+  service
+}
+
+/// The role the answer API reads for a signed-in user (D-12, D-26). No row = no access to answers in that org.
+model StaffRole {
+  orgId  String       @db.Uuid
+  userId String       @db.Uuid
+  role   FootnoteRole
+
+  @@id([orgId, userId])
+}
+
+enum AnswerStatus {
+  answered
+  partial
+  refused
+}
+
+/// One row per answer() call made through the API. `id` is the answerId the ModelCall rows carry, so
+/// `GET /api/answers/:id` replays from this row and those rows with zero model calls (D-23).
+model Answer {
+  id               String       @id @db.Uuid
+  createdAt        DateTime     @default(now()) @db.Timestamptz(6)
+  orgId            String       @db.Uuid
+  userId           String       @db.Uuid
+  question         String
+  callerRole       FootnoteRole
+  snapshot         String
+  retriever        String
+  /// Null when the model was never called (θ refusal).
+  model            String?
+  thetaScore       Float?
+  theta            Float
+  status           AnswerStatus
+  refusalCode      String?
+  sentences        Json
+  citations        Json
+  droppedSentences Int
+
+  @@index([orgId, createdAt])
+}
