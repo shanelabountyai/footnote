@@ -79,6 +79,8 @@ const walk = (dir: string): string[] => readdirSync(dir, { withFileTypes: true }
 const offenders = ['src', 'scripts'].flatMap(walk).filter((f) => /\.tsx?$/.test(f) && !f.startsWith('src/generated/') && !ALLOWED.has(f) && f !== 'scripts/permissions-verify.ts')
   .filter((f) => /CorpusChunk|corpusChunk|ChunkEmbedding|chunkEmbedding/.test(readFileSync(f, 'utf8')));
 check('lint chunk-table access', offenders.length === 0, offenders.length ? `also touched by ${offenders.join(', ')}` : 'only retriever.ts and indexer.ts');
+const promptImports = readFileSync('src/lib/answer/prompt.ts', 'utf8').match(/^import .*$/gm) ?? [];
+check('lint prompt imports', promptImports.length === 1 && /^import type \{ RetrievedChunk \} from '@\/lib\/retrieval\/retriever';$/.test(promptImports[0]), promptImports.join(' | ') || 'none');
 const retrieverSrc = readFileSync('src/lib/retrieval/retriever.ts', 'utf8');
 const selects = retrieverSrc.split(/\$queryRawUnsafe/).slice(1);
 check('lint retriever predicate', selects.length === 2 && selects.every((s) => PREDICATE.test(s)), `${selects.filter((s) => PREDICATE.test(s)).length} of ${selects.length} SELECTs carry the org + tier predicate`);

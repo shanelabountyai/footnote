@@ -1,8 +1,16 @@
 # NEXT
 
-## ▶ Next session: Shane reviews `docs/phase-2-tasks.md`, then task 2.1
+## ▶ Next session: task 2.2, the output schema (zod)
 
-The Phase 1 gate stopped for review (per `docs/phase-1-tasks.md` "Before Phase 2"). Once Shane approves the Phase 2 list (or edits it), start **2.1, the prompt shape**. 2.5 asks for a decision first: the Anthropic SDK or plain `fetch`. **Owner steps still open:** task 1.9 (the ten hand answers and the GM-02/GV-06 fragment; 2.10 waits on it); the GitHub repo plus `origin` (the only remote is `template`), which the first real CI run waits on; and `ANTHROPIC_API_KEY`, whose line gets prepared at 2.5.
+Phase 2 list approved as written (D-14a). 2.1 done. Then 2.3 `verifyCitations()`, 2.4 θ gate. 2.5 asks first: Anthropic SDK or plain `fetch`. **Owner steps still open:** task 1.9 (the ten hand answers and the GM-02/GV-06 fragment; 2.10 waits on it); the GitHub repo plus `origin` (the only remote is `template`), which the first real CI run and every push wait on; and `ANTHROPIC_API_KEY`, whose line gets prepared at 2.5.
+
+## Session 7 — 2026-10-19 (task 2.1)
+
+**Built:** `src/lib/answer/prompt.ts` (`buildPrompt`, `escapeChunkText`, `SYSTEM_PROMPT`, `PromptChunk`) + `tests/unit/prompt.test.ts` (5 tests: inline snapshot of a 2-chunk prompt, `</chunk>` breakout held, all 10 injection memos inside one wrapper each, ordinary text untouched, attribute escaping). `permissions:verify` adds `lint prompt imports`.
+
+**Decided:** D-14a (escape only `<chunk`/`</chunk`; `edition` joined onto the chunk by the composer; no `page` attribute).
+
+**Gate:** `npm test` **36 files / 208 tests passed**; typecheck OK; lint 0 errors (the 1 template warning); `corpus:check` OK; `permissions:verify` (all three) OK. **Spend: $0.0147 of $25** (no model calls).
 
 ## Session 6 — 2026-10-19 (Phase 1 gate)
 
