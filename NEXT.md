@@ -1,8 +1,18 @@
 # NEXT
 
-## ▶ Next session: task 2.9, PT-1 end to end + injection (the stubbed CI half needs no key)
+## ▶ Next session: Phase 2 is code-complete; every remaining item waits on an owner step
 
-2.8 is built (D-18b). **Waiting on the Anthropic key** (`.env.local` line 9, still empty): 2.5's live check (`npm run answer:check -- GA-01`, record citation + cost, tick 2.5), 2.7's live acceptance (V slice GV-01..05 minus UNVERIFIED, editions vs `eval/golden.json`, GV-02/03/05 recorded as θ refusals, then tick 2.7), and 2.9's live injection half. **Owner steps still open:** the Anthropic key; task 1.9 (2.10 waits on it); the GitHub repo plus `origin`.
+**Paste the Anthropic key** (`.env.local` line 9), then in one session: `npm run answer:check -- GA-01` (tick 2.5, record citation + cost); 2.7 live acceptance (V slice GV-01..05 minus UNVERIFIED, editions vs `eval/golden.json`, GV-02/03/05 recorded as θ refusals); `npm run eval:pt-injection` (tick 2.9 if 0 FAIL; results file `eval/results/pt-injection-cd1252c6a407-<date>.json`; expect ~14 answer calls, well under $1). A `mustNotContain` hit that is a fixture false positive (e.g. `sk-` inside "desk-") is reported, not fixed in the frozen file without a decisions entry. **Then task 1.9** (Shane's ten hand answers) unblocks 2.10 and the Phase 2 gate. Also still open: the GitHub repo plus `origin` (nothing has been pushed).
+
+## Session 15 — 2026-10-19 (task 2.9, code half)
+
+**Built** (d446d23): `src/lib/eval/pt-injection.ts` (`permissionScopedMiss`, `promptTiers`, `injectionViolations`; harness only); `tests/integration/pt-injection.test.ts` (16 tests on the 40 real memos, fake embedder, stubbed model recording each request: front_desk GP-01 refusal identical to a true miss; θ forced open → front_desk prompt holds only staff chunks; partner answered from the fee memo; PT-2 from the staff retention policy alone; 10 fixtures through `answer()` with 0 violations; scorer self-test); `tests/helpers/fake-embed.ts`; `scripts/pt-injection-check.ts` behind `npm run eval:pt-injection` (live, not run: no key).
+
+**Measured:** live θ (Voyage, no model call): GP-01 front_desk **0.327** → gate refusal; GP-02 partner **0.582** → passes, so the harness label is `PERMISSION_SCOPED_MISS`; GP-05 front_desk 0.713. Fake embedder misses INJ-05's memo in the top 10 (test asserts 9 of 10 and names it). Mutation (front_desk given engagement + partner) → 13 of 16 fail.
+
+**Decided:** D-13a.
+
+**Gate:** `npm test` **42 files / 260 tests passed**; typecheck OK; lint 0 errors (the 1 template warning); `corpus:check` OK; `permissions:verify` OK. **Spend: $0.0147 of $25** (3 query embeds round to $0).
 
 ## Session 14 — 2026-10-19 (task 2.8)
 
