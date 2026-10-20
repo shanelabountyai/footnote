@@ -14,7 +14,7 @@ export type Citation = {
 export type VerifiedSentence = { text: string; citations: string[] };
 export type Verified = {
   status: 'answered' | 'partial' | 'refused';
-  refusal: { code: 'INSUFFICIENT_SUPPORT' | 'OUT_OF_SCOPE' } | null;
+  refusal: { code: 'NO_RELEVANT_PASSAGE' | 'INSUFFICIENT_SUPPORT' | 'OUT_OF_SCOPE' } | null;
   sentences: VerifiedSentence[];
   citations: Citation[];
   droppedSentences: number;

@@ -78,6 +78,14 @@ describe('retrievers filter by org and tier inside the query (D-12)', () => {
       expect(frontDesk.map((c) => c.docId)).not.toContain('memo-p');
       expect(frontDesk[0]!.docId).toBe('pub-a');
     });
+    it(`${make().name}: denseTop is the dense leg's top-1 cosine (D-17a), absent on fts`, async () => {
+      const caller = { orgId: orgA, role: 'partner' as const };
+      const got = await make().search(caller, 'mileage log', 5);
+      if (make().name === 'fts') return expect(got.denseTop).toBeUndefined();
+      const d = await dense().search(caller, 'mileage log', 5);
+      expect(got.denseTop).toBe(d[0]!.score);
+      expect(d.denseTop).toBe(d[0]!.score);
+    });
     it(`${make().name}: another org's chunks never come back`, async () => {
       const got = await make().search({ orgId: orgB, role: 'partner' }, 'mileage log', 5);
       expect(got.map((c) => c.docId)).not.toContain('memo-p');

@@ -23,10 +23,14 @@ export type RetrievedChunk = {
   score: number;
 };
 
+/** The ranked chunks, plus the top-1 dense cosine the θ gate reads (D-17a): set by dense and hybrid, absent on fts.
+ *  An array copy (`filter`, `slice`, spread) drops it, so the gate reads it from the value `search` returned. */
+export type Hits = RetrievedChunk[] & { denseTop?: number };
+
 export type RetrieverName = 'fts' | 'dense' | 'hybrid';
 export interface Retriever {
   readonly name: RetrieverName;
-  search(caller: Caller, query: string, k: number): Promise<RetrievedChunk[]>;
+  search(caller: Caller, query: string, k: number): Promise<Hits>;
 }
 
 const COLS = 'c."chunkId", c."docId", c.tier::text AS tier, c.page, c.heading, c."isTable", c.text';
@@ -50,12 +54,13 @@ export function denseRetriever(snapshot: string, opts: { embed?: Embedder; model
     name: 'dense',
     async search(caller, query, k) {
       const [v] = await embed([query], 'query', { runId });
-      return db.$queryRawUnsafe<RetrievedChunk[]>(
+      const rows = await db.$queryRawUnsafe<RetrievedChunk[]>(
         `SELECT ${COLS}, (1 - (e.embedding <=> $1::vector))::float8 AS score
          FROM "CorpusChunk" c JOIN "ChunkEmbedding" e ON e."chunkPk" = c.id AND e.model = $2
          WHERE c.snapshot = $3 AND c."orgId" = $4::uuid AND c.tier::text = ANY($5::text[])
          ORDER BY e.embedding <=> $1::vector, c."chunkId" LIMIT $6`,
         toVector(v!), model, snapshot, caller.orgId, tiersFor(caller.role), k);
+      return Object.assign(rows, { denseTop: rows[0]?.score ?? 0 }); // no permitted chunk at all: 0, below any θ
     },
   };
 }
@@ -79,7 +84,8 @@ export function hybridRetriever(fts: Retriever, dense: Retriever, depth = 50): R
     name: 'hybrid',
     async search(caller, query, k) {
       const n = Math.max(k, depth);
-      return rrf(await Promise.all([fts.search(caller, query, n), dense.search(caller, query, n)]), k);
+      const [f, d] = await Promise.all([fts.search(caller, query, n), dense.search(caller, query, n)]);
+      return Object.assign(rrf([f, d], k), { denseTop: d.denseTop }); // the dense leg's cosine, not the fused score (D-17a)
     },
   };
 }

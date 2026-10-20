@@ -1,8 +1,18 @@
 # NEXT
 
-## ▶ Next session: task 2.4, θ gate
+## ▶ Next session: task 2.5, answer composer
 
-2.1–2.3 done. After 2.4 comes 2.5, which asks first: Anthropic SDK or plain `fetch`. **Owner steps still open:** task 1.9 (the ten hand answers and the GM-02/GV-06 fragment; 2.10 waits on it); the GitHub repo plus `origin` (the only remote is `template`), which the first real CI run and every push wait on; and `ANTHROPIC_API_KEY`, whose line gets prepared at 2.5.
+2.1–2.4 done. 2.5 **asks first**: Anthropic SDK or plain `fetch` (house preference: fetch, like `voyage.ts`), and prepares the `ANTHROPIC_API_KEY` line in `.env.local`. The composer calls `thetaGate(retriever.name, hits)` straight on the value `search` returned (a copy drops `denseTop` and the gate throws), and returns `noRelevantPassage()` below θ. **Owner steps still open:** task 1.9 (the ten hand answers and the GM-02/GV-06 fragment; 2.10 waits on it); the GitHub repo plus `origin` (the only remote is `template`), which the first real CI run and every push wait on.
+
+## Session 10 — 2026-10-19 (task 2.4)
+
+**Built:** `Retriever.search` returns `Hits` (chunks + `denseTop`; dense and hybrid set it, fts does not); `src/lib/answer/gate.ts` (`THETA_DENSE = 0.559`, `thetaGate` → `{score, theta, pass}`, `noRelevantPassage()`); `NO_RELEVANT_PASSAGE` added to the `Verified` refusal codes; `tests/unit/gate.test.ts` (7 tests: θ ± 1e-9 on dense and hybrid, a missing `denseTop` throws, fts ungated); 3 integration tests (`denseTop` equals the dense leg's top-1 cosine); `scripts/gate-check.ts` behind `npm run eval:gate`.
+
+**Decided:** D-17b (fts is not gated, since there is no cosine; a missing `denseTop` throws).
+
+**Measured live:** GU-06 0.423, GU-07 0.507, GU-08 0.544 → all `refused / NO_RELEVANT_PASSAGE`; `answer` ModelCall rows 0 → 0.
+
+**Gate:** `npm test` **39 files / 230 tests passed**; typecheck OK; lint 0 errors (the 1 template warning); `corpus:check` OK; `permissions:verify` (all three) OK. **Spend: $0.0147 of $25** (3 query embeds, which round to $0).
 
 ## Session 9 — 2026-10-19 (task 2.3)
 
