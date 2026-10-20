@@ -5,13 +5,14 @@ import type { RetrievedChunk } from '@/lib/retrieval/retriever';
 import type { AnswerOutput } from './output';
 
 /** Per-document metadata from `corpus/manifest.json` (public) or the memo front matter (private); built by the composer. */
-export type DocMeta = { title: string; edition: string; revisionDate: string };
+export type DocMeta = { title: string; edition: string; revisionDate: string; supersededBy?: string | null };
 
 export type Citation = {
-  id: string; docId: string; title: string; edition: string; revisionDate: string;
+  id: string; docId: string; title: string; edition: string; revisionDate: string; supersededBy: string | null;
   location: { page: number; section: string | null }; chunkId: string; quote: string; score: number; tier: RetrievedChunk['tier'];
 };
-export type VerifiedSentence = { text: string; citations: string[] };
+/** `superseded` is set when every citation is a superseded edition whose successor is in the corpus (task 2.7, D-24). */
+export type VerifiedSentence = { text: string; citations: string[]; superseded: string | null };
 export type Verified = {
   status: 'answered' | 'partial' | 'refused';
   refusal: { code: 'NO_RELEVANT_PASSAGE' | 'INSUFFICIENT_SUPPORT' | 'OUT_OF_SCOPE' } | null;
@@ -44,13 +45,14 @@ export function verifyCitations(output: AnswerOutput, retrieved: RetrievedChunk[
         const { chunk } = hit;
         c = {
           id: `c${citations.size + 1}`, docId: chunk.docId, title: doc.title, edition: doc.edition, revisionDate: doc.revisionDate,
+          supersededBy: doc.supersededBy ?? null,
           location: { page: chunk.page, section: chunk.heading }, chunkId, quote: s.quotes[i]!.trim(), score: chunk.score, tier: chunk.tier,
         };
         citations.set(key, c);
       }
       ids.add(c.id);
     });
-    if (ids.size) sentences.push({ text: s.sentence, citations: [...ids] });
+    if (ids.size) sentences.push({ text: s.sentence, citations: [...ids], superseded: supersededLabel([...ids], citations, docs) });
     else droppedSentences++;
   }
 
@@ -61,4 +63,13 @@ export function verifyCitations(output: AnswerOutput, retrieved: RetrievedChunk[
     refusal: output.outOfScope ? { code: 'OUT_OF_SCOPE' } : null, // D-8: the only code allowed beside answered/partial
     sentences, citations: [...citations.values()], droppedSentences,
   };
+}
+
+/** Labeled, not hidden: a sentence backed only by prior editions says so and names the current one (task 2.7). */
+function supersededLabel(ids: string[], all: Map<string, Citation>, docs: Record<string, DocMeta>): string | null {
+  const cited = [...all.values()].filter((c) => ids.includes(c.id));
+  if (!cited.every((c) => c.supersededBy && docs[c.supersededBy])) return null;
+  const old = [...new Set(cited.map((c) => `${c.title} (${c.edition})`))].join('; ');
+  const cur = [...new Set(cited.map((c) => `${docs[c.supersededBy!]!.title} (${docs[c.supersededBy!]!.edition})`))].join('; ');
+  return `Cites only a superseded edition: ${old}. The current edition in the corpus is ${cur}.`;
 }

@@ -48,13 +48,13 @@ let cachedDocs: Record<string, DocMeta> | undefined;
 export function loadDocMeta(root = 'corpus'): Record<string, DocMeta> {
   const m = JSON.parse(readFileSync(join(root, 'manifest.json'), 'utf8')) as { documents: ({ docId: string } & DocMeta)[] };
   const docs: Record<string, DocMeta> = {};
-  for (const d of m.documents) docs[d.docId] = { title: d.title, edition: d.edition, revisionDate: d.revisionDate };
+  for (const d of m.documents) docs[d.docId] = { title: d.title, edition: d.edition, revisionDate: d.revisionDate, supersededBy: d.supersededBy ?? null };
   const priv = join(root, 'private');
   for (const f of (readdirSync(priv, { recursive: true }) as string[]).filter((f) => f.endsWith('.md'))) {
     const head = /^---\n([\s\S]*?)\n---\n/.exec(readFileSync(join(priv, f), 'utf8'))?.[1] ?? '';
     const field = (k: string) => new RegExp(`^${k}: (.*)$`, 'm').exec(head)?.[1]?.trim() ?? '';
     const revisionDate = field('revisionDate');
-    docs[field('docId')] = { title: field('title'), edition: revisionDate, revisionDate };
+    docs[field('docId')] = { title: field('title'), edition: revisionDate, revisionDate, supersededBy: null };
   }
   return docs;
 }

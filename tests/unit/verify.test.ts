@@ -29,7 +29,7 @@ describe('verifyCitations (task 2.3)', () => {
     const v = verifyCitations(out as AnswerOutput, retrieved, docs);
     expect(v.citations).toEqual([{ id: 'c1', docId: 'p583-2024', title: 'Publication 583', edition: 'Rev. December 2024',
       revisionDate: '2024-12-01', location: { page: 20, section: 'Recordkeeping' }, chunkId: 'p583-2024#20#1',
-      quote: 'whichever is later', score: 0.7, tier: 'public' }]);
+      supersededBy: null, quote: 'whichever is later', score: 0.7, tier: 'public' }]);
   });
 
   it('drops a paraphrase, a chunk that was not retrieved, and a doc with no manifest entry; counts the sentences', () => {
@@ -55,6 +55,24 @@ describe('verifyCitations (task 2.3)', () => {
     expect(v).toMatchObject({ status: 'answered', refusal: { code: 'OUT_OF_SCOPE' } });
     expect(v.citations).toHaveLength(1);
     expect(v.sentences.map((x) => x.citations)).toEqual([['c1'], ['c1']]);
+  });
+
+  it('labels a sentence that cites only a superseded edition whose successor is in the corpus (task 2.7)', () => {
+    const r = [...retrieved, chunk('p15-2025#9#0', 'p15-2025', 9, 'The wage base limit is $176,100.')];
+    const d: Record<string, DocMeta> = { ...docs,
+      'p15-2025': { title: 'Publication 15', edition: 'For use in 2025', revisionDate: '2024-12-17', supersededBy: 'p15-2026' },
+      'p15-2024': { title: 'Publication 15', edition: 'For use in 2024', revisionDate: '2023-12-01', supersededBy: 'p15-gone' } };
+    const v = verifyCitations({ sentences: [
+      s('Old only.', [['p15-2025#9#0', 'wage base limit']]),
+      s('Old and current.', [['p15-2025#9#0', '$176,100'], ['p15-2026#9#0', 'Keep all records']]),
+      s('Current only.', [['p583-2024#20#1', 'whichever is later']]),
+    ] }, r, d);
+    expect(v.citations[0]).toMatchObject({ docId: 'p15-2025', edition: 'For use in 2025', supersededBy: 'p15-2026' });
+    expect(v.sentences.map((x) => x.superseded)).toEqual([
+      'Cites only a superseded edition: Publication 15 (For use in 2025). The current edition in the corpus is Publication 15 (For use in 2026).',
+      null, null]);
+    const gone = chunk('p15-2024#9#0', 'p15-2024', 9, 'Old text.');
+    expect(verifyCitations({ sentences: [s('x', [['p15-2024#9#0', 'Old text.']])] }, [gone], d).sentences[0]?.superseded).toBeNull(); // successor not in corpus
   });
 
   it('normalizes nothing beyond whitespace, quotes and dashes', () => {

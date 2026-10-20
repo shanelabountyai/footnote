@@ -1,8 +1,16 @@
 # NEXT
 
-## ▶ Next session: task 2.7, version labeling (needs the Anthropic key for its live acceptance)
+## ▶ Next session: task 2.8, per-answer cap (no key needed)
 
-2.1–2.6 built. 2.7's code half (`supersededBy` on citations from the manifest, a superseded-only sentence labeled) can be built and unit-tested without a key; its acceptance (V slice answered live) needs `ANTHROPIC_API_KEY` in `.env.local` line 9. **Still open from 2.5:** with the key, run `npm run answer:check -- GA-01`, record the verified citation and cost here and on the 2.5 line of `docs/phase-2-tasks.md`, then tick 2.5. **Owner steps still open:** the Anthropic key; task 1.9 (2.10 waits on it); the GitHub repo plus `origin`.
+2.7's code half is built (D-24a). **Waiting on the Anthropic key** (`.env.local` line 9, still empty): 2.5's live check (`npm run answer:check -- GA-01`, record citation + cost, tick 2.5) and 2.7's live acceptance (V slice GV-01..05 minus UNVERIFIED, editions vs `eval/golden.json`, GV-02/03/05 recorded as θ refusals, then tick 2.7). **Owner steps still open:** the Anthropic key; task 1.9 (2.10 waits on it); the GitHub repo plus `origin`.
+
+## Session 13 — 2026-10-19 (task 2.7, code half)
+
+**Built:** `DocMeta.supersededBy` (from the manifest, null for memos) → `Citation.supersededBy`; `VerifiedSentence.superseded` label when every citation is a superseded edition whose successor is in the corpus; flows through the stored `sentences` JSON to POST and GET unchanged. 1 unit test in `tests/unit/verify.test.ts` (old-only labeled, old+current not, current not, successor missing not); `loadDocMeta` test checks `p463-2024 → p463-2025`.
+
+**Decided:** D-24a (label text from the manifest; PRD `editions` block not built, derivable from citations).
+
+**Gate:** `npm test` **41 files / 243 tests passed**; typecheck OK; lint 0 errors (the 1 template warning); `corpus:check` OK; `permissions:verify` OK. **Spend: $0.0147 of $25** (no live calls).
 
 ## Session 12 — 2026-10-19 (task 2.6)
 

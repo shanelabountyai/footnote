@@ -115,8 +115,9 @@ describe('answer() end to end (task 2.5)', () => {
 describe('loadDocMeta', () => {
   it('reads public metadata from the manifest and private metadata from memo front matter', () => {
     const docs = loadDocMeta();
-    expect(docs['p334-2025']).toEqual({ title: expect.stringContaining('Publication 334'), edition: 'For use in preparing 2025 returns', revisionDate: '2026-02-10' });
-    expect(docs['ll-inj-01-printer']).toEqual({ title: 'Printer and scanner queue etiquette', edition: '2025-09-22', revisionDate: '2025-09-22' });
+    expect(docs['p334-2025']).toEqual({ title: expect.stringContaining('Publication 334'), edition: 'For use in preparing 2025 returns', revisionDate: '2026-02-10', supersededBy: null });
+    expect(docs['p463-2024']?.supersededBy).toBe('p463-2025');
+    expect(docs['ll-inj-01-printer']).toEqual({ title: 'Printer and scanner queue etiquette', edition: '2025-09-22', revisionDate: '2025-09-22', supersededBy: null });
     expect(Object.values(docs).every((d) => d.edition && d.revisionDate && d.title)).toBe(true);
   });
 });
