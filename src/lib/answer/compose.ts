@@ -6,7 +6,7 @@ import { readdirSync, readFileSync } from 'node:fs';
 import { join } from 'node:path';
 import type { Caller, Retriever } from '@/lib/retrieval/retriever';
 import { fetchWithRetry } from '@/lib/retrieval/voyage';
-import { assertBudget, recordCall } from '@/lib/spend/budget';
+import { assertBudget, BudgetExceededError, recordCall } from '@/lib/spend/budget';
 import { costMicroUsd, prices } from '@/lib/spend/prices';
 import { type GateResult, noRelevantPassage, thetaGate } from './gate';
 import { parseAnswerOutput } from './output';
@@ -19,11 +19,12 @@ export const ANSWER_K = 10;
 export const MAX_TOKENS = 2048;
 const URL = 'https://api.anthropic.com/v1/messages';
 
-type RefusalCode = NonNullable<Verified['refusal']>['code'];
+type RefusalCode = NonNullable<Verified['refusal']>['code'] | 'BUDGET_EXCEEDED';
 /** One message per code. A permission-scoped miss gets the same text as a true miss, so it says nothing about hidden documents (D-13). */
 export const REFUSAL_MESSAGES: Record<RefusalCode, string> = {
   NO_RELEVANT_PASSAGE: 'No passage in the documents answers this question.',
   INSUFFICIENT_SUPPORT: 'The documents were searched, but no sentence of an answer could be backed by a verified quotation.',
+  BUDGET_EXCEEDED: 'Answering this question would go over the spending limit, so it was not sent to the model.',
   OUT_OF_SCOPE: 'Footnote reports what the documents say, not what you should do; the recommendation part of this question is not answered.',
 };
 
@@ -65,7 +66,7 @@ export const estimateAnswerMicroUsd = (model: string, promptChars: number) => co
 export async function answer(caller: Caller, question: string, opts: AnswerOptions): Promise<Answer> {
   const { retriever, snapshot, model = ANSWER_MODEL, runId = null, answerId = randomUUID() } = opts;
   if (prices.models[model]?.runtimeAllowed === false) throw new Error(`${model} is not a runtime model (D-4)`);
-  const finish = (v: Verified, gate: GateResult, usage: Answer['usage'] = null): Answer => ({
+  const finish = (v: Omit<Verified, 'refusal'> & { refusal: { code: RefusalCode } | null }, gate: GateResult, usage: Answer['usage'] = null): Answer => ({
     ...v, answerId, refusal: v.refusal && { ...v.refusal, message: REFUSAL_MESSAGES[v.refusal.code] },
     corpusSnapshot: snapshot, retriever: retriever.name, gate, usage, disclaimer: DISCLAIMER,
   });
@@ -78,7 +79,12 @@ export async function answer(caller: Caller, question: string, opts: AnswerOptio
   const { system, user } = buildPrompt(question, hits.map((c) => ({ ...c, edition: docs[c.docId]?.edition ?? '' })));
   const key = process.env.ANTHROPIC_API_KEY;
   if (!key) throw new Error('ANTHROPIC_API_KEY is not set — paste it into .env.local (O-12)');
-  await assertBudget({ purpose: 'answer', model, estimateMicroUsd: estimateAnswerMicroUsd(model, system.length + user.length), runId, answerId });
+  try {
+    await assertBudget({ purpose: 'answer', model, estimateMicroUsd: estimateAnswerMicroUsd(model, system.length + user.length), runId, answerId });
+  } catch (e) {
+    if (!(e instanceof BudgetExceededError)) throw e;
+    return finish({ status: 'refused', refusal: { code: 'BUDGET_EXCEEDED' }, sentences: [], citations: [], droppedSentences: 0 }, gate); // D-18b
+  }
 
   const res = await fetchWithRetry(() => fetch(URL, {
     method: 'POST',

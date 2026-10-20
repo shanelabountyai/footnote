@@ -11,7 +11,7 @@ console.log('purpose  outcome          calls   in-tokens  out-tokens   cost');
 for (const r of rows) {
   const cost = r._sum.costMicroUsd ?? 0;
   if (r.outcome !== 'budget_exceeded') spent += cost;
-  console.log(`${r.purpose.padEnd(8)} ${r.outcome.padEnd(16)} ${String(r._count._all).padStart(5)} ${String(r._sum.inputTokens ?? 0).padStart(11)} ${String(r._sum.outputTokens ?? 0).padStart(11)}   ${usd(cost)}${r.outcome === 'ok' ? '' : ' (refused, not spent)'}`);
+  console.log(`${r.purpose.padEnd(8)} ${r.outcome.padEnd(16)} ${String(r._count._all).padStart(5)} ${String(r._sum.inputTokens ?? 0).padStart(11)} ${String(r._sum.outputTokens ?? 0).padStart(11)}   ${usd(cost)}${r.outcome === 'budget_exceeded' ? ' (refused, not spent)' : ''}`);
 }
 if (!rows.length) console.log('(no model calls logged)');
 console.log(`\nspent ${usd(spent)} of ${usd(CAPS_MICRO_USD.build)} build cap — remaining ${usd(CAPS_MICRO_USD.build - spent)}; per-run cap ${usd(CAPS_MICRO_USD.run)}, per-answer cap ${usd(CAPS_MICRO_USD.answer)}`);

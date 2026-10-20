@@ -1,8 +1,16 @@
 # NEXT
 
-## ▶ Next session: task 2.8, per-answer cap (no key needed)
+## ▶ Next session: task 2.9, PT-1 end to end + injection (the stubbed CI half needs no key)
 
-2.7's code half is built (D-24a). **Waiting on the Anthropic key** (`.env.local` line 9, still empty): 2.5's live check (`npm run answer:check -- GA-01`, record citation + cost, tick 2.5) and 2.7's live acceptance (V slice GV-01..05 minus UNVERIFIED, editions vs `eval/golden.json`, GV-02/03/05 recorded as θ refusals, then tick 2.7). **Owner steps still open:** the Anthropic key; task 1.9 (2.10 waits on it); the GitHub repo plus `origin`.
+2.8 is built (D-18b). **Waiting on the Anthropic key** (`.env.local` line 9, still empty): 2.5's live check (`npm run answer:check -- GA-01`, record citation + cost, tick 2.5), 2.7's live acceptance (V slice GV-01..05 minus UNVERIFIED, editions vs `eval/golden.json`, GV-02/03/05 recorded as θ refusals, then tick 2.7), and 2.9's live injection half. **Owner steps still open:** the Anthropic key; task 1.9 (2.10 waits on it); the GitHub repo plus `origin`.
+
+## Session 14 — 2026-10-19 (task 2.8)
+
+**Built:** `answer()` returns `refused / BUDGET_EXCEEDED` (its own message, `usage: null`, no fetch) when `assertBudget` trips any cap; the `budget_exceeded` row carries the estimate. 1 integration test in `tests/integration/compose.test.ts` (oversized chunks: refused, 0 fetches, row `costMicroUsd` > 100,000). `npm run spend` was labeling `schema_invalid` rows "refused, not spent" even though it counts them as spend; now only `budget_exceeded` rows get that label. `spend` groups by purpose, so `answer` shows as its own line once rows exist (the dev DB has none yet).
+
+**Decided:** D-18b (the over-cap result is a refusal, not a throw; one code for all three caps).
+
+**Gate:** `npm test` **41 files / 244 tests passed**; typecheck OK; lint 0 errors (the 1 template warning); `corpus:check` OK; `permissions:verify` OK. **Spend: $0.0147 of $25** (no live calls).
 
 ## Session 13 — 2026-10-19 (task 2.7, code half)
 

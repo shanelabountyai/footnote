@@ -7,6 +7,7 @@ import { chunkCorpus, type Page } from '@/lib/corpus/chunk';
 import { indexChunks, indexEmbeddings } from '@/lib/retrieval/indexer';
 import { type Caller, denseRetriever, ftsRetriever, hybridRetriever } from '@/lib/retrieval/retriever';
 import { EMBED_DIM, type Embedder } from '@/lib/retrieval/voyage';
+import { CAPS_MICRO_USD } from '@/lib/spend/budget';
 import { costMicroUsd } from '@/lib/spend/prices';
 import { makeOrg } from '../helpers/org';
 
@@ -105,6 +106,24 @@ describe('answer() end to end (task 2.5)', () => {
     vi.stubGlobal('fetch', reply(out));
     const a = await answer(caller, QUESTION, { retriever: retriever(), snapshot: SNAP, docs: DOCS });
     expect(a).toMatchObject({ status: 'refused', refusal: { code: 'INSUFFICIENT_SUPPORT' }, droppedSentences: 1, citations: [] });
+  });
+
+  it('an oversized chunk set is refused BUDGET_EXCEEDED with no fetch, the row carrying the estimate (task 2.8)', async () => {
+    const fetchMock = reply('{}');
+    vi.stubGlobal('fetch', fetchMock);
+    const inner = retriever();
+    const oversized: typeof inner = { name: inner.name, search: async (...args) => {
+      const hits = await inner.search(...args);
+      for (const c of hits) c.text += ' filler'.repeat(10_000); // in place, so denseTop survives (D-17b)
+      return hits;
+    } };
+    const a = await answer(caller, QUESTION, { retriever: oversized, snapshot: SNAP, docs: DOCS, runId: 'run-big' });
+    expect(a).toMatchObject({ status: 'refused', refusal: { code: 'BUDGET_EXCEEDED', message: REFUSAL_MESSAGES.BUDGET_EXCEEDED }, usage: null, sentences: [] });
+    expect(a.gate.pass).toBe(true);
+    expect(fetchMock).not.toHaveBeenCalled();
+    const rows = await answerRows();
+    expect(rows).toMatchObject([{ outcome: 'budget_exceeded', answerId: a.answerId, runId: 'run-big', inputTokens: 0 }]);
+    expect(rows[0]!.costMicroUsd).toBeGreaterThan(CAPS_MICRO_USD.answer);
   });
 
   it('refuses a model that is not allowed at runtime before retrieving (D-4)', async () => {
