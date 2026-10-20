@@ -1,8 +1,16 @@
 # NEXT
 
-## ▶ Next session: task 2.3, `verifyCitations()`
+## ▶ Next session: task 2.4, θ gate
 
-2.1 and 2.2 done. After 2.3: 2.4 θ gate. 2.5 asks first: Anthropic SDK or plain `fetch`. **Owner steps still open:** task 1.9 (the ten hand answers and the GM-02/GV-06 fragment; 2.10 waits on it); the GitHub repo plus `origin` (the only remote is `template`), which the first real CI run and every push wait on; and `ANTHROPIC_API_KEY`, whose line gets prepared at 2.5.
+2.1–2.3 done. After 2.4 comes 2.5, which asks first: Anthropic SDK or plain `fetch`. **Owner steps still open:** task 1.9 (the ten hand answers and the GM-02/GV-06 fragment; 2.10 waits on it); the GitHub repo plus `origin` (the only remote is `template`), which the first real CI run and every push wait on; and `ANTHROPIC_API_KEY`, whose line gets prepared at 2.5.
+
+## Session 9 — 2026-10-19 (task 2.3)
+
+**Built:** `src/lib/answer/verify.ts` (`verifyCitations`, `normalizeQuote`, `DocMeta`, `Citation`, `Verified`) + `tests/unit/verify.test.ts` (6 tests: a line break and curly quotes/dashes kept; edition/revisionDate/page/section from the manifest and chunk row, with a model `page` ignored; a paraphrase, a chunk that was not retrieved and a doc without metadata all dropped, with `droppedSentences` counted and `partial`; all failing → `refused / INSUFFICIENT_SUPPORT`, even with `outOfScope`; `OUT_OF_SCOPE` beside `answered`; a repeated quote deduped).
+
+**Decided:** D-6b. `DocMeta` is passed in, and 2.5 builds it from the manifest and the memo front matter. The refusal message belongs to the composer.
+
+**Gate:** `npm test` **38 files / 220 tests passed**; typecheck OK; lint 0 errors (the 1 template warning); `corpus:check` OK; `permissions:verify` (all three) OK. **Spend: $0.0147 of $25** (no model calls).
 
 ## Session 8 — 2026-10-19 (task 2.2)
 
