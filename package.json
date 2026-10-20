@@ -35,6 +35,7 @@
     "corpus:index": "npm run corpus:check && dotenv -e .env.local -- tsx scripts/corpus-index.ts",
     "eval:retrieval": "dotenv -e .env.local -- tsx scripts/eval-retrieval.ts",
     "eval:gate": "dotenv -e .env.local -- tsx scripts/gate-check.ts",
+    "answer:check": "dotenv -e .env.local -- tsx scripts/answer-check.ts",
     "permissions:verify": "dotenv -e .env.local -- tsx scripts/permissions-verify.ts",
     "spend": "dotenv -e .env.local -- tsx scripts/spend.ts"
   },
