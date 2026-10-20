@@ -1,8 +1,16 @@
 # NEXT
 
-## ▶ Next session: task 2.5, answer composer
+## ▶ Next session: task 2.6, persistence, API, replay (no key needed)
 
-2.1–2.4 done. 2.5 **asks first**: Anthropic SDK or plain `fetch` (house preference: fetch, like `voyage.ts`), and prepares the `ANTHROPIC_API_KEY` line in `.env.local`. The composer calls `thetaGate(retriever.name, hits)` straight on the value `search` returned (a copy drops `denseTop` and the gate throws), and returns `noRelevantPassage()` below θ. **Owner steps still open:** task 1.9 (the ten hand answers and the GM-02/GV-06 fragment; 2.10 waits on it); the GitHub repo plus `origin` (the only remote is `template`), which the first real CI run and every push wait on.
+2.1–2.5 built. **2.5's live acceptance is still open:** once `ANTHROPIC_API_KEY` is pasted into `.env.local` line 9 (the line is prepared and the file is gitignored), run `npm run answer:check -- GA-01` and record the verified citation and the cost here and on the 2.5 line of `docs/phase-2-tasks.md`, then tick 2.5. 2.6 does not depend on it: build the `Answer` row, `POST /api/answers` (role from the session, never the body; 409 on snapshot mismatch) and `GET /api/answers/:id` (zero model calls), tested with fetch stubbed like `tests/integration/compose.test.ts`. **Owner steps still open:** the Anthropic key; task 1.9 (2.10 waits on it); the GitHub repo plus `origin`.
+
+## Session 11 — 2026-10-19 (task 2.5, built; live check waiting on the key)
+
+**Built** (c43f0bd): `src/lib/answer/compose.ts` `answer(caller, question, {retriever, snapshot, model?, runId?, answerId?, docs?})`, `loadDocMeta()`, `REFUSAL_MESSAGES`, `DISCLAIMER`; `tests/integration/compose.test.ts` (6 tests: answered with a verified citation and an `ok` row; below θ → no fetch and 0 answer rows; prose output → `schema_invalid` row with cost counted; paraphrase dropped; Fable rejected; doc metadata from the manifest and the memo front matter); `scripts/answer-check.ts` behind `npm run answer:check -- <ids>`.
+
+**Decided:** D-19a (plain fetch, Shane clicked it; the composer as built). Estimate = prompt chars / 3 + the full `max_tokens` (2048) ceiling.
+
+**Gate:** `npm test` **40 files / 236 tests passed**; typecheck OK; lint 0 errors (the 1 template warning); `corpus:check` OK; `permissions:verify` OK. **Spend: $0.0147 of $25** (no live answer call yet).
 
 ## Session 10 — 2026-10-19 (task 2.4)
 
