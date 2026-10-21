@@ -1,8 +1,16 @@
 # NEXT
 
-## ▶ Next session: task 3.2 (planted-fabrication fixtures)
+## ▶ Next session: task 3.3 (judge gate run)
 
-3.1 is built (D-30). 3.2 is subagent-drafted from stored verified answers, then Shane confirms (D-29). Still open: GitHub repo + `origin`.
+3.2 is frozen (D-31). 3.3 is the first live judge spend: `npm run eval:judge-gate` over `eval/fixtures/fabrication.json` (25 plants + 6 controls; load chunks by id from the DB). Target ≥ 95% caught and 0 controls condemned, with every attempt recorded. Still open: GitHub repo + `origin`.
+
+## Session 19 — 2026-10-21 (task 3.2, fabrication fixtures)
+
+**Built:** `eval/fixtures/fabrication.json`: 25 planted fixtures (5 each of changed_number, changed_year, inverted_condition, invented_exception, wrong_edition) + 6 controls, from the 6 answered hand-10 rows. Validator `tests/unit/fabrication-fixtures.test.ts` (3 tests: counts, quotes verbatim on their page, one-sentence diff against the control, signature rules).
+
+**Decided:** D-31. FAB-03/04 made stricter (4→6 and 7→8 years): a weaker "at least" figure is entailed by the quote. Known limit: 4 of 5 wrong_edition plants are the mileage rate. Shane confirmed the set.
+
+**Gate:** `npm test` **45 files / 273 passed**; typecheck OK; lint 0 errors (the 1 template warning); `corpus:check` OK; `permissions:verify` OK. **Spend: $0.2074 of $25** (unchanged, no model calls).
 
 ## Session 18 — 2026-10-21 (task 3.1, judge)
 

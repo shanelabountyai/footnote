@@ -1,0 +1,1094 @@
+{
+  "fixtures": [
+    {
+      "id": "FAB-01",
+      "kind": "changed_number",
+      "sourceAnswer": "GA-01",
+      "plantedIndex": 0,
+      "original": "For 2025, the standard mileage rate for the cost of operating your car for business use is 70 cents ($0.70) per mile.",
+      "signature": "65 cents",
+      "change": "70 cents ($0.70) → 65 cents ($0.65)",
+      "sentences": [
+        {
+          "text": "For 2025, the standard mileage rate for the cost of operating your car for business use is 65 cents ($0.65) per mile.",
+          "citations": [
+            {
+              "chunkId": "p463-2025:20:3",
+              "docId": "p463-2025",
+              "page": 20,
+              "quote": "For 2025, the standard mileage rate for the cost of operating your car for business use is 70 cents ($0.70) per mile."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FAB-02",
+      "kind": "changed_number",
+      "sourceAnswer": "GV-01",
+      "plantedIndex": 1,
+      "original": "Publication 334 likewise gives the 2024 rate as 67 cents a mile for operating a car, van, pickup, or panel truck for business.",
+      "signature": "65 cents",
+      "change": "67 cents a mile → 65 cents a mile",
+      "sentences": [
+        {
+          "text": "The standard mileage rate for business use of a car in 2024 was 67 cents ($0.67) per mile.",
+          "citations": [
+            {
+              "chunkId": "p463-2024:21:4",
+              "docId": "p463-2024",
+              "page": 21,
+              "quote": "For 2024, the standard mileage rate for the cost of operating your car for business use is 67 cents ($0.67) per mile."
+            }
+          ]
+        },
+        {
+          "text": "Publication 334 likewise gives the 2024 rate as 65 cents a mile for operating a car, van, pickup, or panel truck for business.",
+          "citations": [
+            {
+              "chunkId": "p334-2024:4:2",
+              "docId": "p334-2024",
+              "page": 4,
+              "quote": "For 2024, the standard\nmileage rate for the cost of operating your car, van, pickup, or\npanel truck for each mile of business use during 2024 increased to 67 cents a mile."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FAB-03",
+      "kind": "changed_number",
+      "sourceAnswer": "GM-01",
+      "plantedIndex": 0,
+      "original": "Employment tax records must be kept for at least 4 years.",
+      "signature": "6 years",
+      "change": "at least 4 years → at least 6 years",
+      "sentences": [
+        {
+          "text": "Employment tax records must be kept for at least 6 years.",
+          "citations": [
+            {
+              "chunkId": "p15-2026:9:3",
+              "docId": "p15-2026",
+              "page": 9,
+              "quote": "Keep all records of employment taxes for at least 4 years."
+            }
+          ]
+        },
+        {
+          "text": "Pub. 583 says that if you have employees, you must keep all employment tax records for at least 4 years after the date the tax becomes due or is paid, whichever is later.",
+          "citations": [
+            {
+              "chunkId": "p583-2024:16:1",
+              "docId": "p583-2024",
+              "page": 16,
+              "quote": "you must\nkeep all employment tax records for at least 4 years after\nthe date the tax becomes due or is paid, whichever is\nlater."
+            }
+          ]
+        },
+        {
+          "text": "Records related to the COVID-19 related employee retention credit paid after June 30, 2021, should be kept for at least 7 years.",
+          "citations": [
+            {
+              "chunkId": "p15-2026:9:4",
+              "docId": "p15-2026",
+              "page": 9,
+              "quote": "Records related to qualified wages for the COVID-19\nrelated employee retention credit paid after June 30,\n2021, should be kept for at least 7 years."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FAB-04",
+      "kind": "changed_number",
+      "sourceAnswer": "GM-01",
+      "plantedIndex": 2,
+      "original": "Records related to the COVID-19 related employee retention credit paid after June 30, 2021, should be kept for at least 7 years.",
+      "signature": "8 years",
+      "change": "at least 7 years → at least 8 years",
+      "sentences": [
+        {
+          "text": "Employment tax records must be kept for at least 4 years.",
+          "citations": [
+            {
+              "chunkId": "p15-2026:9:3",
+              "docId": "p15-2026",
+              "page": 9,
+              "quote": "Keep all records of employment taxes for at least 4 years."
+            }
+          ]
+        },
+        {
+          "text": "Pub. 583 says that if you have employees, you must keep all employment tax records for at least 4 years after the date the tax becomes due or is paid, whichever is later.",
+          "citations": [
+            {
+              "chunkId": "p583-2024:16:1",
+              "docId": "p583-2024",
+              "page": 16,
+              "quote": "you must\nkeep all employment tax records for at least 4 years after\nthe date the tax becomes due or is paid, whichever is\nlater."
+            }
+          ]
+        },
+        {
+          "text": "Records related to the COVID-19 related employee retention credit paid after June 30, 2021, should be kept for at least 8 years.",
+          "citations": [
+            {
+              "chunkId": "p15-2026:9:4",
+              "docId": "p15-2026",
+              "page": 9,
+              "quote": "Records related to qualified wages for the COVID-19\nrelated employee retention credit paid after June 30,\n2021, should be kept for at least 7 years."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FAB-05",
+      "kind": "changed_number",
+      "sourceAnswer": "GA-04",
+      "plantedIndex": 1,
+      "original": "The area used to figure the deduction is limited to 300 square feet.",
+      "signature": "250 square feet",
+      "change": "300 square feet → 250 square feet",
+      "sentences": [
+        {
+          "text": "Under the simplified method, the deduction is generally figured by multiplying $5, the prescribed rate, by the area of the home used for a qualified business use.",
+          "citations": [
+            {
+              "chunkId": "p587-2025:10:2",
+              "docId": "p587-2025",
+              "page": 10,
+              "quote": "In most cases, you will figure your deduction by multiplying $5, the prescribed rate, by the area of your home used for a qualified business use."
+            }
+          ]
+        },
+        {
+          "text": "The area used to figure the deduction is limited to 250 square feet.",
+          "citations": [
+            {
+              "chunkId": "p587-2025:10:2",
+              "docId": "p587-2025",
+              "page": 10,
+              "quote": "The area you use to figure your deduction is limited to 300 square feet."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FAB-06",
+      "kind": "changed_year",
+      "sourceAnswer": "GA-01",
+      "plantedIndex": 0,
+      "original": "For 2025, the standard mileage rate for the cost of operating your car for business use is 70 cents ($0.70) per mile.",
+      "signature": "For 2026",
+      "change": "For 2025 → For 2026",
+      "sentences": [
+        {
+          "text": "For 2026, the standard mileage rate for the cost of operating your car for business use is 70 cents ($0.70) per mile.",
+          "citations": [
+            {
+              "chunkId": "p463-2025:20:3",
+              "docId": "p463-2025",
+              "page": 20,
+              "quote": "For 2025, the standard mileage rate for the cost of operating your car for business use is 70 cents ($0.70) per mile."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FAB-07",
+      "kind": "changed_year",
+      "sourceAnswer": "GV-01",
+      "plantedIndex": 0,
+      "original": "The standard mileage rate for business use of a car in 2024 was 67 cents ($0.67) per mile.",
+      "signature": "in 2023",
+      "change": "in 2024 → in 2023",
+      "sentences": [
+        {
+          "text": "The standard mileage rate for business use of a car in 2023 was 67 cents ($0.67) per mile.",
+          "citations": [
+            {
+              "chunkId": "p463-2024:21:4",
+              "docId": "p463-2024",
+              "page": 21,
+              "quote": "For 2024, the standard mileage rate for the cost of operating your car for business use is 67 cents ($0.67) per mile."
+            }
+          ]
+        },
+        {
+          "text": "Publication 334 likewise gives the 2024 rate as 67 cents a mile for operating a car, van, pickup, or panel truck for business.",
+          "citations": [
+            {
+              "chunkId": "p334-2024:4:2",
+              "docId": "p334-2024",
+              "page": 4,
+              "quote": "For 2024, the standard\nmileage rate for the cost of operating your car, van, pickup, or\npanel truck for each mile of business use during 2024 increased to 67 cents a mile."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FAB-08",
+      "kind": "changed_year",
+      "sourceAnswer": "GV-01",
+      "plantedIndex": 1,
+      "original": "Publication 334 likewise gives the 2024 rate as 67 cents a mile for operating a car, van, pickup, or panel truck for business.",
+      "signature": "2023 rate",
+      "change": "the 2024 rate → the 2023 rate",
+      "sentences": [
+        {
+          "text": "The standard mileage rate for business use of a car in 2024 was 67 cents ($0.67) per mile.",
+          "citations": [
+            {
+              "chunkId": "p463-2024:21:4",
+              "docId": "p463-2024",
+              "page": 21,
+              "quote": "For 2024, the standard mileage rate for the cost of operating your car for business use is 67 cents ($0.67) per mile."
+            }
+          ]
+        },
+        {
+          "text": "Publication 334 likewise gives the 2023 rate as 67 cents a mile for operating a car, van, pickup, or panel truck for business.",
+          "citations": [
+            {
+              "chunkId": "p334-2024:4:2",
+              "docId": "p334-2024",
+              "page": 4,
+              "quote": "For 2024, the standard\nmileage rate for the cost of operating your car, van, pickup, or\npanel truck for each mile of business use during 2024 increased to 67 cents a mile."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FAB-09",
+      "kind": "changed_year",
+      "sourceAnswer": "GM-01",
+      "plantedIndex": 2,
+      "original": "Records related to the COVID-19 related employee retention credit paid after June 30, 2021, should be kept for at least 7 years.",
+      "signature": "June 30, 2020",
+      "change": "June 30, 2021 → June 30, 2020",
+      "sentences": [
+        {
+          "text": "Employment tax records must be kept for at least 4 years.",
+          "citations": [
+            {
+              "chunkId": "p15-2026:9:3",
+              "docId": "p15-2026",
+              "page": 9,
+              "quote": "Keep all records of employment taxes for at least 4 years."
+            }
+          ]
+        },
+        {
+          "text": "Pub. 583 says that if you have employees, you must keep all employment tax records for at least 4 years after the date the tax becomes due or is paid, whichever is later.",
+          "citations": [
+            {
+              "chunkId": "p583-2024:16:1",
+              "docId": "p583-2024",
+              "page": 16,
+              "quote": "you must\nkeep all employment tax records for at least 4 years after\nthe date the tax becomes due or is paid, whichever is\nlater."
+            }
+          ]
+        },
+        {
+          "text": "Records related to the COVID-19 related employee retention credit paid after June 30, 2020, should be kept for at least 7 years.",
+          "citations": [
+            {
+              "chunkId": "p15-2026:9:4",
+              "docId": "p15-2026",
+              "page": 9,
+              "quote": "Records related to qualified wages for the COVID-19\nrelated employee retention credit paid after June 30,\n2021, should be kept for at least 7 years."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FAB-10",
+      "kind": "changed_year",
+      "sourceAnswer": "GM-01",
+      "plantedIndex": 2,
+      "original": "Records related to the COVID-19 related employee retention credit paid after June 30, 2021, should be kept for at least 7 years.",
+      "signature": "September 30, 2021",
+      "change": "June 30, 2021 → September 30, 2021",
+      "sentences": [
+        {
+          "text": "Employment tax records must be kept for at least 4 years.",
+          "citations": [
+            {
+              "chunkId": "p15-2026:9:3",
+              "docId": "p15-2026",
+              "page": 9,
+              "quote": "Keep all records of employment taxes for at least 4 years."
+            }
+          ]
+        },
+        {
+          "text": "Pub. 583 says that if you have employees, you must keep all employment tax records for at least 4 years after the date the tax becomes due or is paid, whichever is later.",
+          "citations": [
+            {
+              "chunkId": "p583-2024:16:1",
+              "docId": "p583-2024",
+              "page": 16,
+              "quote": "you must\nkeep all employment tax records for at least 4 years after\nthe date the tax becomes due or is paid, whichever is\nlater."
+            }
+          ]
+        },
+        {
+          "text": "Records related to the COVID-19 related employee retention credit paid after September 30, 2021, should be kept for at least 7 years.",
+          "citations": [
+            {
+              "chunkId": "p15-2026:9:4",
+              "docId": "p15-2026",
+              "page": 9,
+              "quote": "Records related to qualified wages for the COVID-19\nrelated employee retention credit paid after June 30,\n2021, should be kept for at least 7 years."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FAB-11",
+      "kind": "inverted_condition",
+      "sourceAnswer": "GM-01",
+      "plantedIndex": 1,
+      "original": "Pub. 583 says that if you have employees, you must keep all employment tax records for at least 4 years after the date the tax becomes due or is paid, whichever is later.",
+      "signature": "whichever is earlier",
+      "change": "whichever is later → whichever is earlier",
+      "sentences": [
+        {
+          "text": "Employment tax records must be kept for at least 4 years.",
+          "citations": [
+            {
+              "chunkId": "p15-2026:9:3",
+              "docId": "p15-2026",
+              "page": 9,
+              "quote": "Keep all records of employment taxes for at least 4 years."
+            }
+          ]
+        },
+        {
+          "text": "Pub. 583 says that if you have employees, you must keep all employment tax records for at least 4 years after the date the tax becomes due or is paid, whichever is earlier.",
+          "citations": [
+            {
+              "chunkId": "p583-2024:16:1",
+              "docId": "p583-2024",
+              "page": 16,
+              "quote": "you must\nkeep all employment tax records for at least 4 years after\nthe date the tax becomes due or is paid, whichever is\nlater."
+            }
+          ]
+        },
+        {
+          "text": "Records related to the COVID-19 related employee retention credit paid after June 30, 2021, should be kept for at least 7 years.",
+          "citations": [
+            {
+              "chunkId": "p15-2026:9:4",
+              "docId": "p15-2026",
+              "page": 9,
+              "quote": "Records related to qualified wages for the COVID-19\nrelated employee retention credit paid after June 30,\n2021, should be kept for at least 7 years."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FAB-12",
+      "kind": "inverted_condition",
+      "sourceAnswer": "GM-01",
+      "plantedIndex": 2,
+      "original": "Records related to the COVID-19 related employee retention credit paid after June 30, 2021, should be kept for at least 7 years.",
+      "signature": "paid before",
+      "change": "paid after June 30 → paid before June 30",
+      "sentences": [
+        {
+          "text": "Employment tax records must be kept for at least 4 years.",
+          "citations": [
+            {
+              "chunkId": "p15-2026:9:3",
+              "docId": "p15-2026",
+              "page": 9,
+              "quote": "Keep all records of employment taxes for at least 4 years."
+            }
+          ]
+        },
+        {
+          "text": "Pub. 583 says that if you have employees, you must keep all employment tax records for at least 4 years after the date the tax becomes due or is paid, whichever is later.",
+          "citations": [
+            {
+              "chunkId": "p583-2024:16:1",
+              "docId": "p583-2024",
+              "page": 16,
+              "quote": "you must\nkeep all employment tax records for at least 4 years after\nthe date the tax becomes due or is paid, whichever is\nlater."
+            }
+          ]
+        },
+        {
+          "text": "Records related to the COVID-19 related employee retention credit paid before June 30, 2021, should be kept for at least 7 years.",
+          "citations": [
+            {
+              "chunkId": "p15-2026:9:4",
+              "docId": "p15-2026",
+              "page": 9,
+              "quote": "Records related to qualified wages for the COVID-19\nrelated employee retention credit paid after June 30,\n2021, should be kept for at least 7 years."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FAB-13",
+      "kind": "inverted_condition",
+      "sourceAnswer": "GA-03",
+      "plantedIndex": 0,
+      "original": "If you do not file a return, the period of limitations is not limited, and records must be kept for as long as they may be needed for the administration of any provision of the Internal Revenue Code, which generally means until the period of limitations for that return runs out.",
+      "signature": "If you file a return",
+      "change": "If you do not file a return → If you file a return",
+      "sentences": [
+        {
+          "text": "If you file a return, the period of limitations is not limited, and records must be kept for as long as they may be needed for the administration of any provision of the Internal Revenue Code, which generally means until the period of limitations for that return runs out.",
+          "citations": [
+            {
+              "chunkId": "p583-2024:15:5",
+              "docId": "p583-2024",
+              "page": 15,
+              "quote": "4. Do not file a return Not limited"
+            },
+            {
+              "chunkId": "p583-2024:16:1",
+              "docId": "p583-2024",
+              "page": 16,
+              "quote": "You must keep your records as long as they may be needed for the administration of any provision of the Internal Revenue\nCode. Generally, this means you must keep records that support an item of income or deduction on a return until the period of limitations for that return runs out."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FAB-14",
+      "kind": "inverted_condition",
+      "sourceAnswer": "GA-05",
+      "plantedIndex": 1,
+      "original": "However, you can depreciate certain land preparation costs, such as landscaping costs, if they are so closely associated with other depreciable property that you can determine a life for them along with the life of the associated property.",
+      "signature": "unless they are",
+      "change": "if they are so closely → unless they are so closely",
+      "sentences": [
+        {
+          "text": "No, you cannot depreciate the cost of land, because land does not wear out, become obsolete, or get used up.",
+          "citations": [
+            {
+              "chunkId": "p946-2025:5:8",
+              "docId": "p946-2025",
+              "page": 5,
+              "quote": "You cannot depreciate the cost of land because land does\nnot wear out, become obsolete, or get used up."
+            }
+          ]
+        },
+        {
+          "text": "However, you can depreciate certain land preparation costs, such as landscaping costs, unless they are so closely associated with other depreciable property that you can determine a life for them along with the life of the associated property.",
+          "citations": [
+            {
+              "chunkId": "p946-2025:5:8",
+              "docId": "p946-2025",
+              "page": 5,
+              "quote": "Although you cannot depreciate land, you can depreciate certain land preparation costs, such as landscaping\ncosts, incurred in preparing land for business use. These\ncosts must be so closely associated with other depreciable property that you can determine a life for them along\nwith the life of the associated property."
+            }
+          ]
+        },
+        {
+          "text": "Other land preparation costs are added to the basis of the land because they have no determinable life and cannot be depreciated.",
+          "citations": [
+            {
+              "chunkId": "p946-2025:6:1",
+              "docId": "p946-2025",
+              "page": 6,
+              "quote": "Add your\nother land preparation costs to the basis of your land because they have no determinable life and you cannot depreciate them."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FAB-15",
+      "kind": "inverted_condition",
+      "sourceAnswer": "GA-05",
+      "plantedIndex": 2,
+      "original": "Other land preparation costs are added to the basis of the land because they have no determinable life and cannot be depreciated.",
+      "signature": "are not added",
+      "change": "costs are added to → costs are not added to",
+      "sentences": [
+        {
+          "text": "No, you cannot depreciate the cost of land, because land does not wear out, become obsolete, or get used up.",
+          "citations": [
+            {
+              "chunkId": "p946-2025:5:8",
+              "docId": "p946-2025",
+              "page": 5,
+              "quote": "You cannot depreciate the cost of land because land does\nnot wear out, become obsolete, or get used up."
+            }
+          ]
+        },
+        {
+          "text": "However, you can depreciate certain land preparation costs, such as landscaping costs, if they are so closely associated with other depreciable property that you can determine a life for them along with the life of the associated property.",
+          "citations": [
+            {
+              "chunkId": "p946-2025:5:8",
+              "docId": "p946-2025",
+              "page": 5,
+              "quote": "Although you cannot depreciate land, you can depreciate certain land preparation costs, such as landscaping\ncosts, incurred in preparing land for business use. These\ncosts must be so closely associated with other depreciable property that you can determine a life for them along\nwith the life of the associated property."
+            }
+          ]
+        },
+        {
+          "text": "Other land preparation costs are not added to the basis of the land because they have no determinable life and cannot be depreciated.",
+          "citations": [
+            {
+              "chunkId": "p946-2025:6:1",
+              "docId": "p946-2025",
+              "page": 6,
+              "quote": "Add your\nother land preparation costs to the basis of your land because they have no determinable life and you cannot depreciate them."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FAB-16",
+      "kind": "invented_exception",
+      "sourceAnswer": "GA-01",
+      "plantedIndex": 0,
+      "original": "For 2025, the standard mileage rate for the cost of operating your car for business use is 70 cents ($0.70) per mile.",
+      "signature": "except for a car you lease",
+      "change": "per mile. → per mile, except for a car you lease.",
+      "sentences": [
+        {
+          "text": "For 2025, the standard mileage rate for the cost of operating your car for business use is 70 cents ($0.70) per mile, except for a car you lease.",
+          "citations": [
+            {
+              "chunkId": "p463-2025:20:3",
+              "docId": "p463-2025",
+              "page": 20,
+              "quote": "For 2025, the standard mileage rate for the cost of operating your car for business use is 70 cents ($0.70) per mile."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FAB-17",
+      "kind": "invented_exception",
+      "sourceAnswer": "GM-01",
+      "plantedIndex": 0,
+      "original": "Employment tax records must be kept for at least 4 years.",
+      "signature": "unless you file Form 944",
+      "change": "4 years. → 4 years, unless you file Form 944.",
+      "sentences": [
+        {
+          "text": "Employment tax records must be kept for at least 4 years, unless you file Form 944.",
+          "citations": [
+            {
+              "chunkId": "p15-2026:9:3",
+              "docId": "p15-2026",
+              "page": 9,
+              "quote": "Keep all records of employment taxes for at least 4 years."
+            }
+          ]
+        },
+        {
+          "text": "Pub. 583 says that if you have employees, you must keep all employment tax records for at least 4 years after the date the tax becomes due or is paid, whichever is later.",
+          "citations": [
+            {
+              "chunkId": "p583-2024:16:1",
+              "docId": "p583-2024",
+              "page": 16,
+              "quote": "you must\nkeep all employment tax records for at least 4 years after\nthe date the tax becomes due or is paid, whichever is\nlater."
+            }
+          ]
+        },
+        {
+          "text": "Records related to the COVID-19 related employee retention credit paid after June 30, 2021, should be kept for at least 7 years.",
+          "citations": [
+            {
+              "chunkId": "p15-2026:9:4",
+              "docId": "p15-2026",
+              "page": 9,
+              "quote": "Records related to qualified wages for the COVID-19\nrelated employee retention credit paid after June 30,\n2021, should be kept for at least 7 years."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FAB-18",
+      "kind": "invented_exception",
+      "sourceAnswer": "GM-01",
+      "plantedIndex": 1,
+      "original": "Pub. 583 says that if you have employees, you must keep all employment tax records for at least 4 years after the date the tax becomes due or is paid, whichever is later.",
+      "signature": "except for household employees",
+      "change": "whichever is later. → whichever is later, except for household employees.",
+      "sentences": [
+        {
+          "text": "Employment tax records must be kept for at least 4 years.",
+          "citations": [
+            {
+              "chunkId": "p15-2026:9:3",
+              "docId": "p15-2026",
+              "page": 9,
+              "quote": "Keep all records of employment taxes for at least 4 years."
+            }
+          ]
+        },
+        {
+          "text": "Pub. 583 says that if you have employees, you must keep all employment tax records for at least 4 years after the date the tax becomes due or is paid, whichever is later, except for household employees.",
+          "citations": [
+            {
+              "chunkId": "p583-2024:16:1",
+              "docId": "p583-2024",
+              "page": 16,
+              "quote": "you must\nkeep all employment tax records for at least 4 years after\nthe date the tax becomes due or is paid, whichever is\nlater."
+            }
+          ]
+        },
+        {
+          "text": "Records related to the COVID-19 related employee retention credit paid after June 30, 2021, should be kept for at least 7 years.",
+          "citations": [
+            {
+              "chunkId": "p15-2026:9:4",
+              "docId": "p15-2026",
+              "page": 9,
+              "quote": "Records related to qualified wages for the COVID-19\nrelated employee retention credit paid after June 30,\n2021, should be kept for at least 7 years."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FAB-19",
+      "kind": "invented_exception",
+      "sourceAnswer": "GA-04",
+      "plantedIndex": 1,
+      "original": "The area used to figure the deduction is limited to 300 square feet.",
+      "signature": "except for a daycare facility",
+      "change": "300 square feet. → 300 square feet, except for a daycare facility.",
+      "sentences": [
+        {
+          "text": "Under the simplified method, the deduction is generally figured by multiplying $5, the prescribed rate, by the area of the home used for a qualified business use.",
+          "citations": [
+            {
+              "chunkId": "p587-2025:10:2",
+              "docId": "p587-2025",
+              "page": 10,
+              "quote": "In most cases, you will figure your deduction by multiplying $5, the prescribed rate, by the area of your home used for a qualified business use."
+            }
+          ]
+        },
+        {
+          "text": "The area used to figure the deduction is limited to 300 square feet, except for a daycare facility.",
+          "citations": [
+            {
+              "chunkId": "p587-2025:10:2",
+              "docId": "p587-2025",
+              "page": 10,
+              "quote": "The area you use to figure your deduction is limited to 300 square feet."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FAB-20",
+      "kind": "invented_exception",
+      "sourceAnswer": "GA-05",
+      "plantedIndex": 0,
+      "original": "No, you cannot depreciate the cost of land, because land does not wear out, become obsolete, or get used up.",
+      "signature": "other than farmland",
+      "change": "cost of land, because → cost of land, other than farmland, because",
+      "sentences": [
+        {
+          "text": "No, you cannot depreciate the cost of land, other than farmland, because land does not wear out, become obsolete, or get used up.",
+          "citations": [
+            {
+              "chunkId": "p946-2025:5:8",
+              "docId": "p946-2025",
+              "page": 5,
+              "quote": "You cannot depreciate the cost of land because land does\nnot wear out, become obsolete, or get used up."
+            }
+          ]
+        },
+        {
+          "text": "However, you can depreciate certain land preparation costs, such as landscaping costs, if they are so closely associated with other depreciable property that you can determine a life for them along with the life of the associated property.",
+          "citations": [
+            {
+              "chunkId": "p946-2025:5:8",
+              "docId": "p946-2025",
+              "page": 5,
+              "quote": "Although you cannot depreciate land, you can depreciate certain land preparation costs, such as landscaping\ncosts, incurred in preparing land for business use. These\ncosts must be so closely associated with other depreciable property that you can determine a life for them along\nwith the life of the associated property."
+            }
+          ]
+        },
+        {
+          "text": "Other land preparation costs are added to the basis of the land because they have no determinable life and cannot be depreciated.",
+          "citations": [
+            {
+              "chunkId": "p946-2025:6:1",
+              "docId": "p946-2025",
+              "page": 6,
+              "quote": "Add your\nother land preparation costs to the basis of your land because they have no determinable life and you cannot depreciate them."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FAB-21",
+      "kind": "wrong_edition",
+      "sourceAnswer": "GA-01",
+      "plantedIndex": 0,
+      "original": "For 2025, the standard mileage rate for the cost of operating your car for business use is 70 cents ($0.70) per mile.",
+      "signature": "p463-2024",
+      "change": "citation p463-2025:20:3 → p463-2024:21:4 (other edition, different figure/year; sentence text unchanged)",
+      "sentences": [
+        {
+          "text": "For 2025, the standard mileage rate for the cost of operating your car for business use is 70 cents ($0.70) per mile.",
+          "citations": [
+            {
+              "chunkId": "p463-2024:21:4",
+              "docId": "p463-2024",
+              "page": 21,
+              "quote": "For 2024, the standard mileage rate for the cost of operating your car for business use is 67 cents ($0.67) per mile."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FAB-22",
+      "kind": "wrong_edition",
+      "sourceAnswer": "GV-01",
+      "plantedIndex": 0,
+      "original": "The standard mileage rate for business use of a car in 2024 was 67 cents ($0.67) per mile.",
+      "signature": "p463-2025",
+      "change": "citation p463-2024:21:4 → p463-2025:20:3 (other edition, different figure/year; sentence text unchanged)",
+      "sentences": [
+        {
+          "text": "The standard mileage rate for business use of a car in 2024 was 67 cents ($0.67) per mile.",
+          "citations": [
+            {
+              "chunkId": "p463-2025:20:3",
+              "docId": "p463-2025",
+              "page": 20,
+              "quote": "For 2025, the standard mileage rate for the cost of operating your car for business use is 70 cents ($0.70) per mile."
+            }
+          ]
+        },
+        {
+          "text": "Publication 334 likewise gives the 2024 rate as 67 cents a mile for operating a car, van, pickup, or panel truck for business.",
+          "citations": [
+            {
+              "chunkId": "p334-2024:4:2",
+              "docId": "p334-2024",
+              "page": 4,
+              "quote": "For 2024, the standard\nmileage rate for the cost of operating your car, van, pickup, or\npanel truck for each mile of business use during 2024 increased to 67 cents a mile."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FAB-23",
+      "kind": "wrong_edition",
+      "sourceAnswer": "GV-01",
+      "plantedIndex": 1,
+      "original": "Publication 334 likewise gives the 2024 rate as 67 cents a mile for operating a car, van, pickup, or panel truck for business.",
+      "signature": "p334-2025",
+      "change": "citation p334-2024:4:2 → p334-2025:35:4 (other edition, different figure/year; sentence text unchanged)",
+      "sentences": [
+        {
+          "text": "The standard mileage rate for business use of a car in 2024 was 67 cents ($0.67) per mile.",
+          "citations": [
+            {
+              "chunkId": "p463-2024:21:4",
+              "docId": "p463-2024",
+              "page": 21,
+              "quote": "For 2024, the standard mileage rate for the cost of operating your car for business use is 67 cents ($0.67) per mile."
+            }
+          ]
+        },
+        {
+          "text": "Publication 334 likewise gives the 2024 rate as 67 cents a mile for operating a car, van, pickup, or panel truck for business.",
+          "citations": [
+            {
+              "chunkId": "p334-2025:35:4",
+              "docId": "p334-2025",
+              "page": 35,
+              "quote": "The business standard mileage rate for 2025 is 70 cents a mile."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FAB-24",
+      "kind": "wrong_edition",
+      "sourceAnswer": "GV-01",
+      "plantedIndex": 1,
+      "original": "Publication 334 likewise gives the 2024 rate as 67 cents a mile for operating a car, van, pickup, or panel truck for business.",
+      "signature": "p334-2025",
+      "change": "citation p334-2024:4:2 → p334-2025:5:2 (other edition, different figure/year; sentence text unchanged)",
+      "sentences": [
+        {
+          "text": "The standard mileage rate for business use of a car in 2024 was 67 cents ($0.67) per mile.",
+          "citations": [
+            {
+              "chunkId": "p463-2024:21:4",
+              "docId": "p463-2024",
+              "page": 21,
+              "quote": "For 2024, the standard mileage rate for the cost of operating your car for business use is 67 cents ($0.67) per mile."
+            }
+          ]
+        },
+        {
+          "text": "Publication 334 likewise gives the 2024 rate as 67 cents a mile for operating a car, van, pickup, or panel truck for business.",
+          "citations": [
+            {
+              "chunkId": "p334-2025:5:2",
+              "docId": "p334-2025",
+              "page": 5,
+              "quote": "For 2026, the standard mileage rate for the cost of operating your car, van, pickup, or panel truck for each mile of business use is 72.5 cents a mile."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FAB-25",
+      "kind": "wrong_edition",
+      "sourceAnswer": "GA-01",
+      "plantedIndex": 0,
+      "original": "For 2025, the standard mileage rate for the cost of operating your car for business use is 70 cents ($0.70) per mile.",
+      "signature": "p463-2024",
+      "change": "citation p463-2025:20:3 → p463-2024:2:3 (other edition, different figure/year; sentence text unchanged)",
+      "sentences": [
+        {
+          "text": "For 2025, the standard mileage rate for the cost of operating your car for business use is 70 cents ($0.70) per mile.",
+          "citations": [
+            {
+              "chunkId": "p463-2024:2:3",
+              "docId": "p463-2024",
+              "page": 2,
+              "quote": "Standard mileage rate. For 2024, the standard mileage rate for the cost of operating your car for business use is 67 cents ($0.67) per mile."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CTL-01",
+      "kind": "control",
+      "sourceAnswer": "GA-01",
+      "plantedIndex": null,
+      "original": null,
+      "signature": null,
+      "change": null,
+      "sentences": [
+        {
+          "text": "For 2025, the standard mileage rate for the cost of operating your car for business use is 70 cents ($0.70) per mile.",
+          "citations": [
+            {
+              "chunkId": "p463-2025:20:3",
+              "docId": "p463-2025",
+              "page": 20,
+              "quote": "For 2025, the standard mileage rate for the cost of operating your car for business use is 70 cents ($0.70) per mile."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CTL-02",
+      "kind": "control",
+      "sourceAnswer": "GV-01",
+      "plantedIndex": null,
+      "original": null,
+      "signature": null,
+      "change": null,
+      "sentences": [
+        {
+          "text": "The standard mileage rate for business use of a car in 2024 was 67 cents ($0.67) per mile.",
+          "citations": [
+            {
+              "chunkId": "p463-2024:21:4",
+              "docId": "p463-2024",
+              "page": 21,
+              "quote": "For 2024, the standard mileage rate for the cost of operating your car for business use is 67 cents ($0.67) per mile."
+            }
+          ]
+        },
+        {
+          "text": "Publication 334 likewise gives the 2024 rate as 67 cents a mile for operating a car, van, pickup, or panel truck for business.",
+          "citations": [
+            {
+              "chunkId": "p334-2024:4:2",
+              "docId": "p334-2024",
+              "page": 4,
+              "quote": "For 2024, the standard\nmileage rate for the cost of operating your car, van, pickup, or\npanel truck for each mile of business use during 2024 increased to 67 cents a mile."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CTL-03",
+      "kind": "control",
+      "sourceAnswer": "GM-01",
+      "plantedIndex": null,
+      "original": null,
+      "signature": null,
+      "change": null,
+      "sentences": [
+        {
+          "text": "Employment tax records must be kept for at least 4 years.",
+          "citations": [
+            {
+              "chunkId": "p15-2026:9:3",
+              "docId": "p15-2026",
+              "page": 9,
+              "quote": "Keep all records of employment taxes for at least 4 years."
+            }
+          ]
+        },
+        {
+          "text": "Pub. 583 says that if you have employees, you must keep all employment tax records for at least 4 years after the date the tax becomes due or is paid, whichever is later.",
+          "citations": [
+            {
+              "chunkId": "p583-2024:16:1",
+              "docId": "p583-2024",
+              "page": 16,
+              "quote": "you must\nkeep all employment tax records for at least 4 years after\nthe date the tax becomes due or is paid, whichever is\nlater."
+            }
+          ]
+        },
+        {
+          "text": "Records related to the COVID-19 related employee retention credit paid after June 30, 2021, should be kept for at least 7 years.",
+          "citations": [
+            {
+              "chunkId": "p15-2026:9:4",
+              "docId": "p15-2026",
+              "page": 9,
+              "quote": "Records related to qualified wages for the COVID-19\nrelated employee retention credit paid after June 30,\n2021, should be kept for at least 7 years."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CTL-04",
+      "kind": "control",
+      "sourceAnswer": "GA-03",
+      "plantedIndex": null,
+      "original": null,
+      "signature": null,
+      "change": null,
+      "sentences": [
+        {
+          "text": "If you do not file a return, the period of limitations is not limited, and records must be kept for as long as they may be needed for the administration of any provision of the Internal Revenue Code, which generally means until the period of limitations for that return runs out.",
+          "citations": [
+            {
+              "chunkId": "p583-2024:15:5",
+              "docId": "p583-2024",
+              "page": 15,
+              "quote": "4. Do not file a return Not limited"
+            },
+            {
+              "chunkId": "p583-2024:16:1",
+              "docId": "p583-2024",
+              "page": 16,
+              "quote": "You must keep your records as long as they may be needed for the administration of any provision of the Internal Revenue\nCode. Generally, this means you must keep records that support an item of income or deduction on a return until the period of limitations for that return runs out."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CTL-05",
+      "kind": "control",
+      "sourceAnswer": "GA-04",
+      "plantedIndex": null,
+      "original": null,
+      "signature": null,
+      "change": null,
+      "sentences": [
+        {
+          "text": "Under the simplified method, the deduction is generally figured by multiplying $5, the prescribed rate, by the area of the home used for a qualified business use.",
+          "citations": [
+            {
+              "chunkId": "p587-2025:10:2",
+              "docId": "p587-2025",
+              "page": 10,
+              "quote": "In most cases, you will figure your deduction by multiplying $5, the prescribed rate, by the area of your home used for a qualified business use."
+            }
+          ]
+        },
+        {
+          "text": "The area used to figure the deduction is limited to 300 square feet.",
+          "citations": [
+            {
+              "chunkId": "p587-2025:10:2",
+              "docId": "p587-2025",
+              "page": 10,
+              "quote": "The area you use to figure your deduction is limited to 300 square feet."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CTL-06",
+      "kind": "control",
+      "sourceAnswer": "GA-05",
+      "plantedIndex": null,
+      "original": null,
+      "signature": null,
+      "change": null,
+      "sentences": [
+        {
+          "text": "No, you cannot depreciate the cost of land, because land does not wear out, become obsolete, or get used up.",
+          "citations": [
+            {
+              "chunkId": "p946-2025:5:8",
+              "docId": "p946-2025",
+              "page": 5,
+              "quote": "You cannot depreciate the cost of land because land does\nnot wear out, become obsolete, or get used up."
+            }
+          ]
+        },
+        {
+          "text": "However, you can depreciate certain land preparation costs, such as landscaping costs, if they are so closely associated with other depreciable property that you can determine a life for them along with the life of the associated property.",
+          "citations": [
+            {
+              "chunkId": "p946-2025:5:8",
+              "docId": "p946-2025",
+              "page": 5,
+              "quote": "Although you cannot depreciate land, you can depreciate certain land preparation costs, such as landscaping\ncosts, incurred in preparing land for business use. These\ncosts must be so closely associated with other depreciable property that you can determine a life for them along\nwith the life of the associated property."
+            }
+          ]
+        },
+        {
+          "text": "Other land preparation costs are added to the basis of the land because they have no determinable life and cannot be depreciated.",
+          "citations": [
+            {
+              "chunkId": "p946-2025:6:1",
+              "docId": "p946-2025",
+              "page": 6,
+              "quote": "Add your\nother land preparation costs to the basis of your land because they have no determinable life and you cannot depreciate them."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
