@@ -1,8 +1,12 @@
 # NEXT
 
-## ▶ Next session: confirm `eval/hand-answers.md`, then 2.10 and the Phase 2 gate
+## ▶ Next session: task 2.10 (hand-10 live), then the Phase 2 gate
 
-**Shane skims `eval/hand-answers.md`** (subagent-drafted from the PDFs only, blind to the golden set; quotes and pages spot-checked against the PDFs). On his go: record D-27 (subagent-drafted, Shane-confirmed), add §Golden-set changes lines, set the GM-02/GV-06 Pub 538 fragment to the printed p. 9 wording "…were $26 million or less (indexed for inflation)." (shows the diff first, rule 11), `corpus:check`, commit, tick 1.9. Page notes for 2.10: GV-01 / GA-02 / GV-02 are printed on both the What's New page (p. 2, the golden page) and the chapter page (pp. 21 / 29 / 28, the hand page), so 2.10 must accept either. **Then 2.10** (hand-10 live, `eval/results/hand10-…json`) and the Phase 2 gate. Still open: GitHub repo + `origin`.
+1.9 is done (D-27). Run the ten (GA-01, GV-01, GA-02, GV-02, GM-01, GA-03, GA-04, GM-02, GA-05, GU-01) live. Accept a citation on either the hand page or the golden page (± tolerance; GV-01 / GA-02 / GV-02 print the sentence on both p. 2 and the chapter page). Write `eval/results/hand10-<snapshot>-<date>.json`. Do not tune the prompt or θ on these. Expect GV-02 to be refused by θ (0.550), which counts as a mismatch to report, not to fix. Then the Phase 2 exit criteria, and write `docs/phase-3-tasks.md`, and stop for review. Still open: GitHub repo + `origin`.
+
+## Session 16b — 2026-10-21 (task 1.9)
+
+**Done:** `eval/hand-answers.md` (subagent-drafted, Shane-confirmed, D-27). Golden: the Pub 538 fragment now reads "…$26 million or less (indexed for inflation).", page 8 → 9, in GM-02 and GV-06. **Gate:** `corpus:check` OK, **0 UNVERIFIED** (was 2); `npm test` 42 files / 260 passed. **Spend: $0.1385 of $25.**
 
 ## Session 16 — 2026-10-21 (live halves of 2.5, 2.7, 2.9)
 

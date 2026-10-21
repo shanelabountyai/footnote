@@ -329,15 +329,15 @@
         },
         {
           "docId": "p538-2022",
-          "page": 8,
+          "page": 9,
           "pageTolerance": 1,
-          "quoteFragment": "its average annual gross receipts for the 3 prior tax years were $26 million or less."
+          "quoteFragment": "its average annual gross receipts for the 3 prior tax years were $26 million or less (indexed for inflation)."
         }
       ],
       "refusal": null,
       "mustLabelEditions": true
     },
-    "notes": "Both figures with their edition dates; neither declared 'correct'. Pub 538 fragment is the kit's wording and UNVERIFIED until Shane sets it in 1.9 (the page reads '... $26 million or less (indexed for inflation)', measured p. 9)."
+    "notes": "Both figures with their edition dates; neither declared 'correct'. Pub 538 fragment set to the printed wording in 1.9 (measured p. 9)."
   },
   {
     "id": "GM-03",
@@ -819,9 +819,9 @@
         },
         {
           "docId": "p538-2022",
-          "page": 8,
+          "page": 9,
           "pageTolerance": 1,
-          "quoteFragment": "its average annual gross receipts for the 3 prior tax years were $26 million or less."
+          "quoteFragment": "its average annual gross receipts for the 3 prior tax years were $26 million or less (indexed for inflation)."
         }
       ],
       "refusal": null,
