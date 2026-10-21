@@ -13,9 +13,10 @@ Reply with exactly one JSON object and nothing before or after it: {"sentences":
 
 // A chunk must not be able to open or close a wrapper: `<chunk`, `</chunk` (any case, any spacing after `<` or `/`).
 // Only that sequence is touched, so quotes copied from ordinary text still match the stored chunk (D-6).
-const TAG = /<(\s*\/?\s*)(chunk)/gi;
-export const escapeChunkText = (text: string) => text.replace(TAG, '&lt;$1$2');
-const attr = (v: string) => v.replace(/&/g, '&amp;').replace(/"/g, '&quot;').replace(/</g, '&lt;');
+// The judge (3.1) reuses this with its own wrapper names.
+export const escapeTags = (text: string, tags: string[]) => text.replace(new RegExp(`<(\\s*\\/?\\s*)(${tags.join('|')})`, 'gi'), '&lt;$1$2');
+export const escapeChunkText = (text: string) => escapeTags(text, ['chunk']);
+export const attr = (v: string) => v.replace(/&/g, '&amp;').replace(/"/g, '&quot;').replace(/</g, '&lt;');
 
 export function buildPrompt(question: string, chunks: PromptChunk[]): { system: string; user: string } {
   const body = chunks.map((c) =>

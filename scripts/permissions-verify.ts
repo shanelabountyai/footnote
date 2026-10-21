@@ -79,11 +79,17 @@ const walk = (dir: string): string[] => readdirSync(dir, { withFileTypes: true }
 const offenders = ['src', 'scripts'].flatMap(walk).filter((f) => /\.tsx?$/.test(f) && !f.startsWith('src/generated/') && !ALLOWED.has(f) && f !== 'scripts/permissions-verify.ts')
   .filter((f) => /CorpusChunk|corpusChunk|ChunkEmbedding|chunkEmbedding/.test(readFileSync(f, 'utf8')));
 check('lint chunk-table access', offenders.length === 0, offenders.length ? `also touched by ${offenders.join(', ')}` : 'only retriever.ts and indexer.ts');
-// Lint: the model is called and its output parsed only in compose.ts, which hands the parse to verifyCitations (exit criterion, non-negotiable 1).
+// Lint: the Messages API is reached only through llm/anthropic.ts, which only the composer and the judge import; answer
+// output is parsed only in compose.ts, which hands the parse to verifyCitations (exit criterion, non-negotiable 1).
 const srcFiles = walk('src').filter((f) => /\.tsx?$/.test(f) && !f.startsWith('src/generated/'));
-const modelPath = srcFiles.filter((f) => /api\.anthropic\.com|parseAnswerOutput\(/.test(readFileSync(f, 'utf8')) && f !== 'src/lib/answer/output.ts');
-check('lint answer path', modelPath.join() === 'src/lib/answer/compose.ts' && /verifyCitations\(parsed\.output,/.test(readFileSync('src/lib/answer/compose.ts', 'utf8')),
-  `model call + parse in ${modelPath.join(', ') || 'nothing'}, verified by verifyCitations`);
+const grepSrc = (re: RegExp, except: string) => srcFiles.filter((f) => f !== except && re.test(readFileSync(f, 'utf8')));
+const apiFiles = grepSrc(/api\.anthropic\.com/, '');
+const callers = grepSrc(/@\/lib\/llm\/anthropic'/, '');
+const parsers = grepSrc(/parseAnswerOutput\(/, 'src/lib/answer/output.ts');
+check('lint answer path',
+  apiFiles.join() === 'src/lib/llm/anthropic.ts' && callers.sort().join() === 'src/lib/answer/compose.ts,src/lib/eval/judge.ts'
+    && parsers.join() === 'src/lib/answer/compose.ts' && /verifyCitations\(parsed\.output,/.test(readFileSync('src/lib/answer/compose.ts', 'utf8')),
+  `API in ${apiFiles.join(', ') || 'nothing'}; called from ${callers.join(', ') || 'nothing'}; answers parsed in ${parsers.join(', ') || 'nothing'}, verified by verifyCitations`);
 const promptImports = readFileSync('src/lib/answer/prompt.ts', 'utf8').match(/^import .*$/gm) ?? [];
 check('lint prompt imports', promptImports.length === 1 && /^import type \{ RetrievedChunk \} from '@\/lib\/retrieval\/retriever';$/.test(promptImports[0]), promptImports.join(' | ') || 'none');
 const retrieverSrc = readFileSync('src/lib/retrieval/retriever.ts', 'utf8');

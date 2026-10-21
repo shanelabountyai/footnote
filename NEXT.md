@@ -1,8 +1,16 @@
 # NEXT
 
-## ▶ Next session: task 3.1 (judge)
+## ▶ Next session: task 3.2 (planted-fabrication fixtures)
 
-Phase 2 gate passed (D-28), and the Phase 3 list is reviewed: all three open questions are answered in D-29. Build 3.1 per `docs/phase-3-tasks.md`. Still open: GitHub repo + `origin`.
+3.1 is built (D-30). 3.2 is subagent-drafted from stored verified answers, then Shane confirms (D-29). Still open: GitHub repo + `origin`.
+
+## Session 18 — 2026-10-21 (task 3.1, judge)
+
+**Built:** `src/lib/eval/judge.ts` (`judge`, `buildJudgePrompt`, `parseJudgeOutput`, `JUDGE_SYSTEM_PROMPT`; Opus 5.5, purpose `judge`, budget before, `schema_invalid` logged and not retried); `src/lib/llm/anthropic.ts` `callMessages`, now shared with the composer; `escapeTags` in `prompt.ts`; `lint answer path` widened (a mutation with a third caller → FAIL). Tests: `tests/unit/judge.test.ts` (6: schema, prompt snapshot, breakout held, missing chunk throws), `tests/integration/judge.test.ts` (4: ok row, schema_invalid row with its cost, run cap → no fetch + `budget_exceeded` row, Fable refused).
+
+**Decided:** D-30. **Not run live:** no judge call yet; the first live calls are 3.3's gate run.
+
+**Gate:** `npm test` **44 files / 270 passed**; typecheck OK; lint 0 errors (the 1 template warning); `corpus:check` OK; `permissions:verify` OK. **Spend: $0.2074 of $25** (unchanged).
 
 ## Session 17 — 2026-10-21 (task 2.10, Phase 2 gate)
 

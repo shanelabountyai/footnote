@@ -1,11 +1,11 @@
 // Answer composer (task 2.5): retrieve → θ gate → assertBudget → model call → schema → verify. The only path that
-// returns sentences, and every one of them has been through verifyCitations (non-negotiable 1). Plain fetch, like
-// voyage.ts (D-19a); the key is read from process.env at call time (O-12).
+// returns sentences, and every one of them has been through verifyCitations (non-negotiable 1). The call itself is
+// `callMessages` (D-19a).
 import { randomUUID } from 'node:crypto';
 import { readdirSync, readFileSync } from 'node:fs';
 import { join } from 'node:path';
 import type { Caller, Retriever } from '@/lib/retrieval/retriever';
-import { fetchWithRetry } from '@/lib/retrieval/voyage';
+import { anthropicKey, callMessages } from '@/lib/llm/anthropic';
 import { assertBudget, BudgetExceededError, recordCall } from '@/lib/spend/budget';
 import { costMicroUsd, prices } from '@/lib/spend/prices';
 import { type GateResult, noRelevantPassage, thetaGate } from './gate';
@@ -17,7 +17,6 @@ export const DISCLAIMER = 'Footnote quotes IRS publications and firm documents. 
 export const ANSWER_MODEL = 'claude-sonnet-5-5'; // D-19, O-1
 export const ANSWER_K = 10;
 export const MAX_TOKENS = 2048;
-const URL = 'https://api.anthropic.com/v1/messages';
 
 type RefusalCode = NonNullable<Verified['refusal']>['code'] | 'BUDGET_EXCEEDED';
 /** One message per code. A permission-scoped miss gets the same text as a true miss, so it says nothing about hidden documents (D-13). */
@@ -77,8 +76,7 @@ export async function answer(caller: Caller, question: string, opts: AnswerOptio
 
   const docs = opts.docs ?? (cachedDocs ??= loadDocMeta());
   const { system, user } = buildPrompt(question, hits.map((c) => ({ ...c, edition: docs[c.docId]?.edition ?? '' })));
-  const key = process.env.ANTHROPIC_API_KEY;
-  if (!key) throw new Error('ANTHROPIC_API_KEY is not set — paste it into .env.local (O-12)');
+  anthropicKey(); // a missing key throws before the budget check, as before
   try {
     await assertBudget({ purpose: 'answer', model, estimateMicroUsd: estimateAnswerMicroUsd(model, system.length + user.length), runId, answerId });
   } catch (e) {
@@ -86,17 +84,10 @@ export async function answer(caller: Caller, question: string, opts: AnswerOptio
     return finish({ status: 'refused', refusal: { code: 'BUDGET_EXCEEDED' }, sentences: [], citations: [], droppedSentences: 0 }, gate); // D-18b
   }
 
-  const res = await fetchWithRetry(() => fetch(URL, {
-    method: 'POST',
-    headers: { 'x-api-key': key, 'anthropic-version': '2023-06-01', 'content-type': 'application/json' },
-    body: JSON.stringify({ model, max_tokens: MAX_TOKENS, system, messages: [{ role: 'user', content: user }] }),
-  }));
-  if (!res.ok) throw new Error(`anthropic ${res.status}: ${(await res.text()).slice(0, 300)}`);
-  const body = (await res.json()) as { content: { type: string; text?: string }[]; usage: { input_tokens: number; output_tokens: number } };
-  const text = body.content.filter((b) => b.type === 'text').map((b) => b.text).join('');
+  const { text, inputTokens, outputTokens } = await callMessages({ model, maxTokens: MAX_TOKENS, system, user });
   const parsed = parseAnswerOutput(text);
   const row = await recordCall({
-    purpose: 'answer', model, inputTokens: body.usage.input_tokens, outputTokens: body.usage.output_tokens,
+    purpose: 'answer', model, inputTokens, outputTokens,
     outcome: parsed.ok ? 'ok' : 'schema_invalid', runId, answerId,
   });
   const usage = { model, inputTokens: row.inputTokens, outputTokens: row.outputTokens, costUsd: row.costMicroUsd / 1e6 };
