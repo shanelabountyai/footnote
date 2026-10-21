@@ -2,7 +2,7 @@
 
 ## ▶ Next session: task 3.3 (judge gate run)
 
-3.2 is frozen (D-31). 3.3 is the first live judge spend: `npm run eval:judge-gate` over `eval/fixtures/fabrication.json` (25 plants + 6 controls; load chunks by id from the DB). Target ≥ 95% caught and 0 controls condemned, with every attempt recorded. Still open: GitHub repo + `origin`.
+3.2 is frozen (D-31). 3.3 is the first live judge spend: `npm run eval:judge-gate` over `eval/fixtures/fabrication.json` (25 plants + 6 controls; load chunks by id from the DB). Target ≥ 95% caught and 0 controls condemned, with every attempt recorded. **Per D-32, also run the gate once with the error-kind list removed from the rubric, and report both catch rates.** Still open: GitHub repo + `origin`.
 
 ## Session 19 — 2026-10-21 (task 3.2, fabrication fixtures)
 
