@@ -1,8 +1,8 @@
 # NEXT
 
-## ▶ Next session: Shane reviews `docs/phase-3-tasks.md`, then task 3.1 (judge)
+## ▶ Next session: task 3.1 (judge)
 
-Phase 2 gate passed (D-28). Answer the three open questions at the bottom of `docs/phase-3-tasks.md` (GU-01 refusal-code rule, who drafts the fabrication fixtures, θ axis values), then build 3.1. Still open: GitHub repo + `origin`.
+Phase 2 gate passed (D-28), and the Phase 3 list is reviewed: all three open questions are answered in D-29. Build 3.1 per `docs/phase-3-tasks.md`. Still open: GitHub repo + `origin`.
 
 ## Session 17 — 2026-10-21 (task 2.10, Phase 2 gate)
 
