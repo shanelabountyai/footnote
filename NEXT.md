@@ -1,8 +1,24 @@
 # NEXT
 
-## ▶ Next session: task 2.10 (hand-10 live), then the Phase 2 gate
+## ▶ Next session: Shane reviews `docs/phase-3-tasks.md`, then task 3.1 (judge)
 
-1.9 is done (D-27). Run the ten (GA-01, GV-01, GA-02, GV-02, GM-01, GA-03, GA-04, GM-02, GA-05, GU-01) live. Accept a citation on either the hand page or the golden page (± tolerance; GV-01 / GA-02 / GV-02 print the sentence on both p. 2 and the chapter page). Write `eval/results/hand10-<snapshot>-<date>.json`. Do not tune the prompt or θ on these. Expect GV-02 to be refused by θ (0.550), which counts as a mismatch to report, not to fix. Then the Phase 2 exit criteria, and write `docs/phase-3-tasks.md`, and stop for review. Still open: GitHub repo + `origin`.
+Phase 2 gate passed (D-28). Answer the three open questions at the bottom of `docs/phase-3-tasks.md` (GU-01 refusal-code rule, who drafts the fabrication fixtures, θ axis values), then build 3.1. Still open: GitHub repo + `origin`.
+
+## Session 17 — 2026-10-21 (task 2.10, Phase 2 gate)
+
+**Ran live:** `npm run eval:hand10` (new, `scripts/hand10-check.ts`), run `hand10:2026-10-21`, **$0.0688**. **7 of 10 match:**
+- **Answered, with a matching citation and 0 dropped:** GA-01 (p463-2025 p. 20), GV-01 (p463-2024 p. 21 + p334-2024 p. 4), GM-01, GA-03, GA-04, GA-05.
+- **Refused, with a code mismatch:** GU-01. Its dense top was 0.604, so it passed θ, and the model refused it as `INSUFFICIENT_SUPPORT`. Golden expects `NO_RELEVANT_PASSAGE`. That cost one call, and the result depended on the model.
+- **Mismatch, θ-refused (no call):** GA-02 0.555, GV-02 0.550, GM-02 0.523, against θ 0.559. Not tuned, per 2.10.
+- Partial: 0.
+
+Results are in `eval/results/hand10-cd1252c6a407-2026-10-21.json`.
+
+**Built:** `permissions:verify` has a new `lint answer path` check: only `compose.ts` calls the model or parses its output, and it hands the parse to `verifyCitations`. A mutation makes it FAIL.
+
+**Decided:** D-28. **Written:** `docs/phase-3-tasks.md` (3.1–3.9). Stopped for review.
+
+**Gate:** `npm test` **42 files / 260 passed**; typecheck OK; lint 0 errors (the 1 template warning); `corpus:check` OK (0 UNVERIFIED); `permissions:verify` OK. Phase 2 exit criteria: all met. **Spend: $0.2074 of $25** (answer $0.1926 over 22 calls, embed $0.0147).
 
 ## Session 16b — 2026-10-21 (task 1.9)
 

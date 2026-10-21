@@ -1,0 +1,525 @@
+{
+ "snapshot": "sha256:cd1252c6a4077a7ce34eefe1f5e9cc79d9bc7bf4737ee857c64f526c73bf8066",
+ "date": "2026-10-21",
+ "runId": "hand10:2026-10-21",
+ "costUsd": 0.068816,
+ "match": "docId and page within hand ± 1 or golden ± pageTolerance",
+ "rows": [
+  {
+   "id": "GA-01",
+   "callerRole": "front_desk",
+   "match": true,
+   "why": "",
+   "status": "answered",
+   "refusal": null,
+   "gate": {
+    "score": 0.6863001263708443,
+    "theta": 0.559,
+    "pass": true
+   },
+   "droppedSentences": 0,
+   "costUsd": 0.010888,
+   "sentences": [
+    {
+     "text": "For 2025, the standard mileage rate for the cost of operating your car for business use is 70 cents ($0.70) per mile.",
+     "superseded": null
+    }
+   ],
+   "citations": [
+    {
+     "docId": "p463-2025",
+     "page": 20,
+     "quote": "For 2025, the standard mileage rate for the cost of operating your car for business use is 70 cents ($0.70) per mile.",
+     "onHand": true,
+     "onGolden": true
+    }
+   ],
+   "handPages": [
+    {
+     "docId": "p463-2025",
+     "page": 20,
+     "tol": 1
+    }
+   ],
+   "goldenPages": [
+    {
+     "docId": "p463-2025",
+     "page": 20,
+     "tol": 1
+    },
+    {
+     "docId": "p334-2025",
+     "page": 4,
+     "tol": 1
+    }
+   ]
+  },
+  {
+   "id": "GV-01",
+   "callerRole": "bookkeeper",
+   "match": true,
+   "why": "",
+   "status": "answered",
+   "refusal": null,
+   "gate": {
+    "score": 0.5934668805878454,
+    "theta": 0.559,
+    "pass": true
+   },
+   "droppedSentences": 0,
+   "costUsd": 0.012932,
+   "sentences": [
+    {
+     "text": "The standard mileage rate for business use of a car in 2024 was 67 cents ($0.67) per mile.",
+     "superseded": "Cites only a superseded edition: Publication 463, Travel, Gift, and Car Expenses (For use in preparing 2024 returns). The current edition in the corpus is Publication 463, Travel, Gift, and Car Expenses (For use in preparing 2025 returns)."
+    },
+    {
+     "text": "Publication 334 likewise gives the 2024 rate as 67 cents a mile for operating a car, van, pickup, or panel truck for business.",
+     "superseded": "Cites only a superseded edition: Publication 334, Tax Guide for Small Business (For Individuals Who Use Schedule C) (For use in preparing 2024 returns). The current edition in the corpus is Publication 334, Tax Guide for Small Business (For Individuals Who Use Schedule C) (For use in preparing 2025 returns)."
+    }
+   ],
+   "citations": [
+    {
+     "docId": "p463-2024",
+     "page": 21,
+     "quote": "For 2024, the standard mileage rate for the cost of operating your car for business use is 67 cents ($0.67) per mile.",
+     "onHand": true,
+     "onGolden": false
+    },
+    {
+     "docId": "p334-2024",
+     "page": 4,
+     "quote": "For 2024, the standard\nmileage rate for the cost of operating your car, van, pickup, or\npanel truck for each mile of business use during 2024 increased to 67 cents a mile.",
+     "onHand": false,
+     "onGolden": true
+    }
+   ],
+   "handPages": [
+    {
+     "docId": "p463-2024",
+     "page": 21,
+     "tol": 1
+    }
+   ],
+   "goldenPages": [
+    {
+     "docId": "p463-2024",
+     "page": 2,
+     "tol": 1
+    },
+    {
+     "docId": "p334-2024",
+     "page": 4,
+     "tol": 1
+    }
+   ]
+  },
+  {
+   "id": "GA-02",
+   "callerRole": "front_desk",
+   "match": false,
+   "why": "refused NO_RELEVANT_PASSAGE",
+   "status": "refused",
+   "refusal": {
+    "code": "NO_RELEVANT_PASSAGE",
+    "message": "No passage in the documents answers this question."
+   },
+   "gate": {
+    "score": 0.5546041927449369,
+    "theta": 0.559,
+    "pass": false
+   },
+   "droppedSentences": 0,
+   "costUsd": 0,
+   "sentences": [],
+   "citations": [],
+   "handPages": [
+    {
+     "docId": "p15-2026",
+     "page": 29,
+     "tol": 1
+    }
+   ],
+   "goldenPages": [
+    {
+     "docId": "p15-2026",
+     "page": 2,
+     "tol": 1
+    }
+   ]
+  },
+  {
+   "id": "GV-02",
+   "callerRole": "partner",
+   "match": false,
+   "why": "refused NO_RELEVANT_PASSAGE",
+   "status": "refused",
+   "refusal": {
+    "code": "NO_RELEVANT_PASSAGE",
+    "message": "No passage in the documents answers this question."
+   },
+   "gate": {
+    "score": 0.549976152161734,
+    "theta": 0.559,
+    "pass": false
+   },
+   "droppedSentences": 0,
+   "costUsd": 0,
+   "sentences": [],
+   "citations": [],
+   "handPages": [
+    {
+     "docId": "p15-2025",
+     "page": 28,
+     "tol": 1
+    }
+   ],
+   "goldenPages": [
+    {
+     "docId": "p15-2025",
+     "page": 2,
+     "tol": 1
+    },
+    {
+     "docId": "p334-2025",
+     "page": 4,
+     "tol": 1
+    }
+   ]
+  },
+  {
+   "id": "GM-01",
+   "callerRole": "front_desk",
+   "match": true,
+   "why": "",
+   "status": "answered",
+   "refusal": null,
+   "gate": {
+    "score": 0.7183858567288486,
+    "theta": 0.559,
+    "pass": true
+   },
+   "droppedSentences": 0,
+   "costUsd": 0.010528,
+   "sentences": [
+    {
+     "text": "Employment tax records must be kept for at least 4 years.",
+     "superseded": null
+    },
+    {
+     "text": "Pub. 583 says that if you have employees, you must keep all employment tax records for at least 4 years after the date the tax becomes due or is paid, whichever is later.",
+     "superseded": null
+    },
+    {
+     "text": "Records related to the COVID-19 related employee retention credit paid after June 30, 2021, should be kept for at least 7 years.",
+     "superseded": null
+    }
+   ],
+   "citations": [
+    {
+     "docId": "p15-2026",
+     "page": 9,
+     "quote": "Keep all records of employment taxes for at least 4 years.",
+     "onHand": true,
+     "onGolden": true
+    },
+    {
+     "docId": "p583-2024",
+     "page": 16,
+     "quote": "you must\nkeep all employment tax records for at least 4 years after\nthe date the tax becomes due or is paid, whichever is\nlater.",
+     "onHand": true,
+     "onGolden": true
+    },
+    {
+     "docId": "p15-2026",
+     "page": 9,
+     "quote": "Records related to qualified wages for the COVID-19\nrelated employee retention credit paid after June 30,\n2021, should be kept for at least 7 years.",
+     "onHand": true,
+     "onGolden": true
+    }
+   ],
+   "handPages": [
+    {
+     "docId": "p15-2026",
+     "page": 9,
+     "tol": 1
+    },
+    {
+     "docId": "p15-2025",
+     "page": 8,
+     "tol": 1
+    },
+    {
+     "docId": "p583-2024",
+     "page": 16,
+     "tol": 1
+    }
+   ],
+   "goldenPages": [
+    {
+     "docId": "p15-2026",
+     "page": 9,
+     "tol": 1
+    },
+    {
+     "docId": "p583-2024",
+     "page": 16,
+     "tol": 1
+    }
+   ]
+  },
+  {
+   "id": "GA-03",
+   "callerRole": "bookkeeper",
+   "match": true,
+   "why": "",
+   "status": "answered",
+   "refusal": null,
+   "gate": {
+    "score": 0.6173538985326026,
+    "theta": 0.559,
+    "pass": true
+   },
+   "droppedSentences": 0,
+   "costUsd": 0.008752,
+   "sentences": [
+    {
+     "text": "If you do not file a return, the period of limitations is not limited, and records must be kept for as long as they may be needed for the administration of any provision of the Internal Revenue Code, which generally means until the period of limitations for that return runs out.",
+     "superseded": null
+    }
+   ],
+   "citations": [
+    {
+     "docId": "p583-2024",
+     "page": 15,
+     "quote": "4. Do not file a return Not limited",
+     "onHand": true,
+     "onGolden": true
+    },
+    {
+     "docId": "p583-2024",
+     "page": 16,
+     "quote": "You must keep your records as long as they may be needed for the administration of any provision of the Internal Revenue\nCode. Generally, this means you must keep records that support an item of income or deduction on a return until the period of limitations for that return runs out.",
+     "onHand": true,
+     "onGolden": true
+    }
+   ],
+   "handPages": [
+    {
+     "docId": "p583-2024",
+     "page": 15,
+     "tol": 1
+    }
+   ],
+   "goldenPages": [
+    {
+     "docId": "p583-2024",
+     "page": 15,
+     "tol": 1
+    }
+   ]
+  },
+  {
+   "id": "GA-04",
+   "callerRole": "front_desk",
+   "match": true,
+   "why": "",
+   "status": "answered",
+   "refusal": null,
+   "gate": {
+    "score": 0.5684423697653986,
+    "theta": 0.559,
+    "pass": true
+   },
+   "droppedSentences": 0,
+   "costUsd": 0.011132,
+   "sentences": [
+    {
+     "text": "Under the simplified method, the deduction is generally figured by multiplying $5, the prescribed rate, by the area of the home used for a qualified business use.",
+     "superseded": null
+    },
+    {
+     "text": "The area used to figure the deduction is limited to 300 square feet.",
+     "superseded": null
+    }
+   ],
+   "citations": [
+    {
+     "docId": "p587-2025",
+     "page": 10,
+     "quote": "In most cases, you will figure your deduction by multiplying $5, the prescribed rate, by the area of your home used for a qualified business use.",
+     "onHand": true,
+     "onGolden": true
+    },
+    {
+     "docId": "p587-2025",
+     "page": 10,
+     "quote": "The area you use to figure your deduction is limited to 300 square feet.",
+     "onHand": true,
+     "onGolden": true
+    }
+   ],
+   "handPages": [
+    {
+     "docId": "p587-2025",
+     "page": 10,
+     "tol": 1
+    },
+    {
+     "docId": "p587-2025",
+     "page": 10,
+     "tol": 1
+    }
+   ],
+   "goldenPages": [
+    {
+     "docId": "p587-2025",
+     "page": 10,
+     "tol": 1
+    },
+    {
+     "docId": "p587-2025",
+     "page": 10,
+     "tol": 1
+    }
+   ]
+  },
+  {
+   "id": "GM-02",
+   "callerRole": "bookkeeper",
+   "match": false,
+   "why": "refused NO_RELEVANT_PASSAGE",
+   "status": "refused",
+   "refusal": {
+    "code": "NO_RELEVANT_PASSAGE",
+    "message": "No passage in the documents answers this question."
+   },
+   "gate": {
+    "score": 0.5225069931091721,
+    "theta": 0.559,
+    "pass": false
+   },
+   "droppedSentences": 0,
+   "costUsd": 0,
+   "sentences": [],
+   "citations": [],
+   "handPages": [
+    {
+     "docId": "p334-2025",
+     "page": 16,
+     "tol": 1
+    },
+    {
+     "docId": "p538-2022",
+     "page": 9,
+     "tol": 1
+    }
+   ],
+   "goldenPages": [
+    {
+     "docId": "p334-2025",
+     "page": 16,
+     "tol": 1
+    },
+    {
+     "docId": "p538-2022",
+     "page": 9,
+     "tol": 1
+    }
+   ]
+  },
+  {
+   "id": "GA-05",
+   "callerRole": "service",
+   "match": true,
+   "why": "",
+   "status": "answered",
+   "refusal": null,
+   "gate": {
+    "score": 0.6823080848044902,
+    "theta": 0.559,
+    "pass": true
+   },
+   "droppedSentences": 0,
+   "costUsd": 0.011478,
+   "sentences": [
+    {
+     "text": "No, you cannot depreciate the cost of land, because land does not wear out, become obsolete, or get used up.",
+     "superseded": null
+    },
+    {
+     "text": "However, you can depreciate certain land preparation costs, such as landscaping costs, if they are so closely associated with other depreciable property that you can determine a life for them along with the life of the associated property.",
+     "superseded": null
+    },
+    {
+     "text": "Other land preparation costs are added to the basis of the land because they have no determinable life and cannot be depreciated.",
+     "superseded": null
+    }
+   ],
+   "citations": [
+    {
+     "docId": "p946-2025",
+     "page": 5,
+     "quote": "You cannot depreciate the cost of land because land does\nnot wear out, become obsolete, or get used up.",
+     "onHand": true,
+     "onGolden": true
+    },
+    {
+     "docId": "p946-2025",
+     "page": 5,
+     "quote": "Although you cannot depreciate land, you can depreciate certain land preparation costs, such as landscaping\ncosts, incurred in preparing land for business use. These\ncosts must be so closely associated with other depreciable property that you can determine a life for them along\nwith the life of the associated property.",
+     "onHand": true,
+     "onGolden": true
+    },
+    {
+     "docId": "p946-2025",
+     "page": 6,
+     "quote": "Add your\nother land preparation costs to the basis of your land because they have no determinable life and you cannot depreciate them.",
+     "onHand": true,
+     "onGolden": true
+    }
+   ],
+   "handPages": [
+    {
+     "docId": "p946-2025",
+     "page": 5,
+     "tol": 1
+    },
+    {
+     "docId": "p334-2025",
+     "page": 36,
+     "tol": 1
+    }
+   ],
+   "goldenPages": [
+    {
+     "docId": "p946-2025",
+     "page": 5,
+     "tol": 1
+    }
+   ]
+  },
+  {
+   "id": "GU-01",
+   "callerRole": "front_desk",
+   "match": true,
+   "why": "",
+   "status": "refused",
+   "refusal": {
+    "code": "INSUFFICIENT_SUPPORT",
+    "message": "The documents were searched, but no sentence of an answer could be backed by a verified quotation."
+   },
+   "gate": {
+    "score": 0.6036882367537815,
+    "theta": 0.559,
+    "pass": true
+   },
+   "droppedSentences": 0,
+   "costUsd": 0.003106,
+   "sentences": [],
+   "citations": [],
+   "handPages": [],
+   "goldenPages": []
+  }
+ ]
+}

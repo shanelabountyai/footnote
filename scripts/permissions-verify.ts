@@ -79,6 +79,11 @@ const walk = (dir: string): string[] => readdirSync(dir, { withFileTypes: true }
 const offenders = ['src', 'scripts'].flatMap(walk).filter((f) => /\.tsx?$/.test(f) && !f.startsWith('src/generated/') && !ALLOWED.has(f) && f !== 'scripts/permissions-verify.ts')
   .filter((f) => /CorpusChunk|corpusChunk|ChunkEmbedding|chunkEmbedding/.test(readFileSync(f, 'utf8')));
 check('lint chunk-table access', offenders.length === 0, offenders.length ? `also touched by ${offenders.join(', ')}` : 'only retriever.ts and indexer.ts');
+// Lint: the model is called and its output parsed only in compose.ts, which hands the parse to verifyCitations (exit criterion, non-negotiable 1).
+const srcFiles = walk('src').filter((f) => /\.tsx?$/.test(f) && !f.startsWith('src/generated/'));
+const modelPath = srcFiles.filter((f) => /api\.anthropic\.com|parseAnswerOutput\(/.test(readFileSync(f, 'utf8')) && f !== 'src/lib/answer/output.ts');
+check('lint answer path', modelPath.join() === 'src/lib/answer/compose.ts' && /verifyCitations\(parsed\.output,/.test(readFileSync('src/lib/answer/compose.ts', 'utf8')),
+  `model call + parse in ${modelPath.join(', ') || 'nothing'}, verified by verifyCitations`);
 const promptImports = readFileSync('src/lib/answer/prompt.ts', 'utf8').match(/^import .*$/gm) ?? [];
 check('lint prompt imports', promptImports.length === 1 && /^import type \{ RetrievedChunk \} from '@\/lib\/retrieval\/retriever';$/.test(promptImports[0]), promptImports.join(' | ') || 'none');
 const retrieverSrc = readFileSync('src/lib/retrieval/retriever.ts', 'utf8');
