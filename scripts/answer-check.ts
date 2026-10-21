@@ -17,7 +17,7 @@ const retriever = hybridRetriever(ftsRetriever(snapshot), denseRetriever(snapsho
 for (const g of golden) {
   const a = await answer({ orgId: org.id, role: g.callerRole }, g.question, { retriever, snapshot, runId });
   console.log(`\n${g.id} ${g.callerRole}: ${a.status}${a.refusal ? ` / ${a.refusal.code}` : ''} (dense top ${a.gate.score?.toFixed(3)} vs θ ${a.gate.theta}, dropped ${a.droppedSentences})`);
-  for (const s of a.sentences) console.log(`  • ${s.text} [${s.citations.join(', ')}]`);
+  for (const s of a.sentences) console.log(`  • ${s.text} [${s.citations.join(', ')}]${s.superseded ? `\n    ⚠ ${s.superseded}` : ''}`);
   for (const c of a.citations) console.log(`  ${c.id} ${c.docId} p.${c.location.page} (${c.edition}, rev ${c.revisionDate}): "${c.quote}"`);
   if (a.usage) console.log(`  ${a.usage.model}: ${a.usage.inputTokens} in / ${a.usage.outputTokens} out, $${a.usage.costUsd.toFixed(4)}`);
   console.log(`  ${a.disclaimer}`);

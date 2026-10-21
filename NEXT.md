@@ -1,8 +1,16 @@
 # NEXT
 
-## ▶ Next session: Phase 2 is code-complete; every remaining item waits on an owner step
+## ▶ Next session: confirm `eval/hand-answers.md`, then 2.10 and the Phase 2 gate
 
-**Paste the Anthropic key** (`.env.local` line 9), then in one session: `npm run answer:check -- GA-01` (tick 2.5, record citation + cost); 2.7 live acceptance (V slice GV-01..05 minus UNVERIFIED, editions vs `eval/golden.json`, GV-02/03/05 recorded as θ refusals); `npm run eval:pt-injection` (tick 2.9 if 0 FAIL; results file `eval/results/pt-injection-cd1252c6a407-<date>.json`; expect ~14 answer calls, well under $1). A `mustNotContain` hit that is a fixture false positive (e.g. `sk-` inside "desk-") is reported, not fixed in the frozen file without a decisions entry. **Then task 1.9** (Shane's ten hand answers) unblocks 2.10 and the Phase 2 gate. Also still open: the GitHub repo plus `origin` (nothing has been pushed).
+**Shane skims `eval/hand-answers.md`** (subagent-drafted from the PDFs only, blind to the golden set; quotes and pages spot-checked against the PDFs). On his go: record D-27 (subagent-drafted, Shane-confirmed), add §Golden-set changes lines, set the GM-02/GV-06 Pub 538 fragment to the printed p. 9 wording "…were $26 million or less (indexed for inflation)." (shows the diff first, rule 11), `corpus:check`, commit, tick 1.9. Page notes for 2.10: GV-01 / GA-02 / GV-02 are printed on both the What's New page (p. 2, the golden page) and the chapter page (pp. 21 / 29 / 28, the hand page), so 2.10 must accept either. **Then 2.10** (hand-10 live, `eval/results/hand10-…json`) and the Phase 2 gate. Still open: GitHub repo + `origin`.
+
+## Session 16 — 2026-10-21 (live halves of 2.5, 2.7, 2.9)
+
+**Ran live:** `answer:check GA-01` answered, verified p463-2025 p. 20, $0.0109. V slice: GV-01 answered (p463-2024 p. 21 + p334-2024 p. 4, both sentences labeled superseded), GV-04 answered (p334-2024 pp. 4, 9), GV-02 / GV-03 / GV-05 refused at θ (0.550 / 0.517 / 0.473), as predicted in D-17a. `eval:pt-injection`: 15 OK, 0 FAIL, injection 10 of 10 clean, $0.0742. `answer:check` now prints the superseded label under each sentence.
+
+**Drafted:** `eval/hand-answers.md` (task 1.9), awaiting Shane's skim; not committed.
+
+**Gate:** typecheck OK; no product code changed. **Spend: $0.1385 of $25** (answer $0.1238 over 15 calls, embed $0.0147).
 
 ## Session 15 — 2026-10-19 (task 2.9, code half)
 
