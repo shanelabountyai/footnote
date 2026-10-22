@@ -47,6 +47,17 @@ export function ftsRetriever(snapshot: string): Retriever {
   };
 }
 
+/** Named chunks, under the same org + tier predicate as search (task 3.3: the judge gate loads its fixtures' chunks).
+ *  Unranked, so `score` is 0; a chunk the caller may not read is simply absent. */
+export function chunksById(snapshot: string, caller: Caller, ids: string[]): Promise<RetrievedChunk[]> {
+  return db.$queryRawUnsafe<RetrievedChunk[]>(
+    `SELECT ${COLS}, 0::float8 AS score
+     FROM "CorpusChunk" c
+     WHERE c.snapshot = $1 AND c."orgId" = $2::uuid AND c.tier::text = ANY($3::text[]) AND c."chunkId" = ANY($4::text[])
+     ORDER BY c."chunkId"`,
+    snapshot, caller.orgId, tiersFor(caller.role), ids);
+}
+
 /** Exact cosine scan, no ANN index (D-16), so the tier filter never costs recall. */
 export function denseRetriever(snapshot: string, opts: { embed?: Embedder; model?: string; runId?: string | null } = {}): Retriever {
   const { embed = voyageEmbed, model = EMBED_MODEL, runId = null } = opts;

@@ -94,7 +94,7 @@ const promptImports = readFileSync('src/lib/answer/prompt.ts', 'utf8').match(/^i
 check('lint prompt imports', promptImports.length === 1 && /^import type \{ RetrievedChunk \} from '@\/lib\/retrieval\/retriever';$/.test(promptImports[0]), promptImports.join(' | ') || 'none');
 const retrieverSrc = readFileSync('src/lib/retrieval/retriever.ts', 'utf8');
 const selects = retrieverSrc.split(/\$queryRawUnsafe/).slice(1);
-check('lint retriever predicate', selects.length === 2 && selects.every((s) => PREDICATE.test(s)), `${selects.filter((s) => PREDICATE.test(s)).length} of ${selects.length} SELECTs carry the org + tier predicate`);
+check('lint retriever predicate', selects.length === 3 && selects.every((s) => PREDICATE.test(s)), `${selects.filter((s) => PREDICATE.test(s)).length} of ${selects.length} SELECTs carry the org + tier predicate`);
 
 await db.$disconnect();
 console.log(failures ? `permissions:verify FAILED — ${failures} check(s)` : 'permissions:verify OK');

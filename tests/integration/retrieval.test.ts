@@ -2,7 +2,7 @@ import { afterAll, afterEach, beforeEach, describe, expect, it, vi } from 'vites
 import { db } from '@/core/db';
 import { chunkCorpus, type Page } from '@/lib/corpus/chunk';
 import { indexChunks, indexEmbeddings } from '@/lib/retrieval/indexer';
-import { denseRetriever, ftsRetriever, hybridRetriever, type RetrievedChunk, rrf, tiersFor } from '@/lib/retrieval/retriever';
+import { chunksById, denseRetriever, ftsRetriever, hybridRetriever, type RetrievedChunk, rrf, tiersFor } from '@/lib/retrieval/retriever';
 import { snapshotId } from '@/lib/retrieval/snapshot';
 import { EMBED_DIM, type Embedder, fetchWithRetry, voyageEmbed } from '@/lib/retrieval/voyage';
 import { makeOrg } from '../helpers/org';
@@ -142,5 +142,16 @@ describe('voyageEmbed goes through the spend ledger (D-18, D-23)', () => {
 describe('snapshotId (D-9)', () => {
   it('matches the id corpus:check prints', () => {
     expect(snapshotId()).toMatch(/^sha256:cd1252c6[0-9a-f]{56}$/);
+  });
+});
+
+describe('chunksById (task 3.3, judge gate)', () => {
+  it('applies the org + tier predicate: a partner chunk asked for by id is absent for front_desk and for another org', async () => {
+    await indexChunks(SNAP, orgA, chunkCorpus(PAGES));
+    const ids = (await db.corpusChunk.findMany({ where: { orgId: orgA }, select: { chunkId: true } })).map((c) => c.chunkId);
+    const docs = async (orgId: string, role: Parameters<typeof tiersFor>[0]) => (await chunksById(SNAP, { orgId, role }, ids)).map((c) => c.docId);
+    expect(new Set(await docs(orgA, 'partner'))).toEqual(new Set(['pub-a', 'memo-p']));
+    expect(new Set(await docs(orgA, 'front_desk'))).toEqual(new Set(['pub-a']));
+    expect(await docs(orgB, 'partner')).toEqual([]);
   });
 });
