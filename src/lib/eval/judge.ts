@@ -26,6 +26,10 @@ editionStated: true when the sentence names the edition or tax year its figures 
 reason: one line, under 200 characters, naming the claim that decided the verdict.
 Reply with exactly one JSON object and nothing before or after it: {"verdict": "supported" | "partial" | "unsupported", "quoteIsRule": true | false, "editionStated": true | false, "reason": "..."}.`;
 
+/** D-32: the same rubric with the error-kind list (the five plant kinds of D-31) taken out of `unsupported`, so the gate
+ *  can show whether the judge catches errors it was not told to look for. Gate-only; the judge ships with the full one. */
+export const JUDGE_SYSTEM_PROMPT_NO_KINDS = JUDGE_SYSTEM_PROMPT.replace(' (a changed number or year, an inverted condition, an exception the quotes do not make, or a figure attributed to an edition other than the one cited)', '');
+
 const WRAPPERS = ['sentence', 'citation', 'chunk'];
 const esc = (t: string) => escapeTags(t, WRAPPERS);
 
@@ -73,11 +77,13 @@ export type JudgeResult = { usage: { model: string; inputTokens: number; outputT
 
 export async function judge(
   sentence: string, citations: Citation[], chunks: RetrievedChunk[],
-  opts: { model?: string; runId?: string | null; answerId?: string | null } = {},
+  opts: { model?: string; runId?: string | null; answerId?: string | null; system?: string } = {},
 ): Promise<JudgeResult> {
   const { model = JUDGE_MODEL, runId = null, answerId = null } = opts;
   if (prices.models[model]?.runtimeAllowed === false) throw new Error(`${model} is not a runtime model (D-4)`);
-  const { system, user } = buildJudgePrompt(sentence, citations, chunks);
+  const built = buildJudgePrompt(sentence, citations, chunks);
+  const { user } = built;
+  const system = opts.system ?? built.system;
   // Same over-estimate as the composer: ≈ 3 chars per token plus the full max_tokens ceiling.
   await assertBudget({ purpose: 'judge', model, estimateMicroUsd: costMicroUsd(model, Math.ceil((system.length + user.length) / 3), JUDGE_MAX_TOKENS), runId, answerId });
   const { text, inputTokens, outputTokens } = await callMessages({ model, maxTokens: JUDGE_MAX_TOKENS, system, user });

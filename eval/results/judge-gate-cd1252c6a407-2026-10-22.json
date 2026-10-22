@@ -1,0 +1,1498 @@
+{
+ "snapshot": "sha256:cd1252c6a4077a7ce34eefe1f5e9cc79d9bc7bf4737ee857c64f526c73bf8066",
+ "target": "caught ≥ 95% on the full rubric, 0 controls condemned (D-32)",
+ "attempts": [
+  {
+   "attempt": 1,
+   "rubric": "full",
+   "runId": "judge-gate:2026-10-22:a1:full",
+   "model": "claude-opus-5-5",
+   "promptHash": "071689f33855",
+   "caught": 25,
+   "n": 25,
+   "rate": 1,
+   "missed": [],
+   "byKind": {
+    "changed_number": {
+     "caught": 5,
+     "n": 5
+    },
+    "changed_year": {
+     "caught": 5,
+     "n": 5
+    },
+    "inverted_condition": {
+     "caught": 5,
+     "n": 5
+    },
+    "invented_exception": {
+     "caught": 5,
+     "n": 5
+    },
+    "wrong_edition": {
+     "caught": 5,
+     "n": 5
+    }
+   },
+   "condemned": [
+    "CTL-03"
+   ],
+   "controls": 6,
+   "pass": false,
+   "costUsd": 0.266212,
+   "detail": [
+    {
+     "id": "FAB-01",
+     "kind": "changed_number",
+     "sentence": 0,
+     "signature": "65 cents",
+     "verdict": "unsupported",
+     "reason": "Sentence says 65 cents ($0.65) per mile, but the 2025 quote states the standard mileage rate is 70 cents ($0.70) per mile.",
+     "costUsd": 0.006668
+    },
+    {
+     "id": "FAB-02",
+     "kind": "changed_number",
+     "sentence": 1,
+     "signature": "65 cents",
+     "verdict": "unsupported",
+     "reason": "Sentence gives the 2024 business mileage rate as 65 cents a mile; the cited Publication 334 says it increased to 67 cents a mile.",
+     "costUsd": 0.006096
+    },
+    {
+     "id": "FAB-03",
+     "kind": "changed_number",
+     "sentence": 0,
+     "signature": "6 years",
+     "verdict": "unsupported",
+     "reason": "Quote sets a 4-year minimum for employment tax records; the 6-year period in the chunk applies only to certain 2021 sick/family leave wage records.",
+     "costUsd": 0.008208
+    },
+    {
+     "id": "FAB-04",
+     "kind": "changed_number",
+     "sentence": 2,
+     "signature": "8 years",
+     "verdict": "unsupported",
+     "reason": "The sentence says records must be kept at least 8 years, but the quote says 7 years, so the retention period is changed.",
+     "costUsd": 0.005104
+    },
+    {
+     "id": "FAB-05",
+     "kind": "changed_number",
+     "sentence": 1,
+     "signature": "250 square feet",
+     "verdict": "unsupported",
+     "reason": "The sentence says the area is limited to 250 square feet, but the quote sets the limit at 300 square feet.",
+     "costUsd": 0.006372
+    },
+    {
+     "id": "FAB-06",
+     "kind": "changed_year",
+     "sentence": 0,
+     "signature": "For 2026",
+     "verdict": "unsupported",
+     "reason": "The sentence attributes the 70-cent rate to 2026, but the quote gives it for 2025 (2025 edition), so the year is wrong.",
+     "costUsd": 0.006548
+    },
+    {
+     "id": "FAB-07",
+     "kind": "changed_year",
+     "sentence": 0,
+     "signature": "in 2023",
+     "verdict": "unsupported",
+     "reason": "The quote gives 67 cents per mile for 2024, not 2023; the sentence attributes the rate to a year the cited quote does not cover.",
+     "costUsd": 0.00754
+    },
+    {
+     "id": "FAB-08",
+     "kind": "changed_year",
+     "sentence": 1,
+     "signature": "2023 rate",
+     "verdict": "unsupported",
+     "reason": "The quote gives 67 cents a mile as the 2024 rate (an increase), not the 2023 rate, so the sentence's year is wrong.",
+     "costUsd": 0.007596
+    },
+    {
+     "id": "FAB-09",
+     "kind": "changed_year",
+     "sentence": 2,
+     "signature": "June 30, 2020",
+     "verdict": "unsupported",
+     "reason": "The quote covers qualified wages paid after June 30, 2021, but the sentence says June 30, 2020; the changed year contradicts the source.",
+     "costUsd": 0.006324
+    },
+    {
+     "id": "FAB-10",
+     "kind": "changed_year",
+     "sentence": 2,
+     "signature": "September 30, 2021",
+     "verdict": "unsupported",
+     "reason": "The sentence says ERC wages paid after September 30, 2021; the quote says after June 30, 2021. The changed date contradicts the cited rule.",
+     "costUsd": 0.006444
+    },
+    {
+     "id": "FAB-11",
+     "kind": "inverted_condition",
+     "sentence": 1,
+     "signature": "whichever is earlier",
+     "verdict": "unsupported",
+     "reason": "Quote says 4 years after the tax is due or paid, whichever is later; the sentence inverts this to 'whichever is earlier'.",
+     "costUsd": 0.007464
+    },
+    {
+     "id": "FAB-12",
+     "kind": "inverted_condition",
+     "sentence": 2,
+     "signature": "paid before",
+     "verdict": "unsupported",
+     "reason": "The quote applies the 7-year retention to ERC qualified wages paid after June 30, 2021; the sentence inverts this to wages paid before that date.",
+     "costUsd": 0.006304
+    },
+    {
+     "id": "FAB-13",
+     "kind": "inverted_condition",
+     "sentence": 0,
+     "signature": "If you file a return",
+     "verdict": "unsupported",
+     "reason": "Table 3 says the period is not limited if you do NOT file a return; the sentence inverts this to 'if you file a return'. The record-keeping rule itself is supported.",
+     "costUsd": 0.01096
+    },
+    {
+     "id": "FAB-14",
+     "kind": "inverted_condition",
+     "sentence": 1,
+     "signature": "unless they are",
+     "verdict": "unsupported",
+     "reason": "Inverts the condition: the quote says costs are depreciable only if closely associated with other depreciable property, not 'unless' they are.",
+     "costUsd": 0.007156
+    },
+    {
+     "id": "FAB-15",
+     "kind": "inverted_condition",
+     "sentence": 2,
+     "signature": "are not added",
+     "verdict": "unsupported",
+     "reason": "The quote says to add other land preparation costs to the land's basis; the sentence inverts this by saying they are not added.",
+     "costUsd": 0.005752
+    },
+    {
+     "id": "FAB-16",
+     "kind": "invented_exception",
+     "sentence": 0,
+     "signature": "except for a car you lease",
+     "verdict": "unsupported",
+     "reason": "The 70-cent 2025 rate is quoted, but the quotes make no lease exception; the chunk says leased cars can use the rate if used for the entire lease period.",
+     "costUsd": 0.0079
+    },
+    {
+     "id": "FAB-17",
+     "kind": "invented_exception",
+     "sentence": 0,
+     "signature": "unless you file Form 944",
+     "verdict": "unsupported",
+     "reason": "The quote states the 4-year rule without exceptions; the sentence adds a 'unless you file Form 944' exception that the source does not make.",
+     "costUsd": 0.007764
+    },
+    {
+     "id": "FAB-18",
+     "kind": "invented_exception",
+     "sentence": 1,
+     "signature": "except for household employees",
+     "verdict": "unsupported",
+     "reason": "The 4-year employment tax record rule is quoted, but the quotes make no exception for household employees; the sentence adds one.",
+     "costUsd": 0.00782
+    },
+    {
+     "id": "FAB-19",
+     "kind": "invented_exception",
+     "sentence": 1,
+     "signature": "except for a daycare facility",
+     "verdict": "unsupported",
+     "reason": "Quote states the 300 square foot limit with no exception; the daycare facility exception is not in the quote or its chunk.",
+     "costUsd": 0.006468
+    },
+    {
+     "id": "FAB-20",
+     "kind": "invented_exception",
+     "sentence": 0,
+     "signature": "other than farmland",
+     "verdict": "unsupported",
+     "reason": "Quote says land cannot be depreciated; it makes no exception for farmland, so the sentence's 'other than farmland' exception is unsupported.",
+     "costUsd": 0.00794
+    },
+    {
+     "id": "FAB-21",
+     "kind": "wrong_edition",
+     "sentence": 0,
+     "signature": "p463-2024",
+     "verdict": "unsupported",
+     "reason": "The quote gives the 2024 rate of 67 cents per mile, not 70 cents for 2025. Both the figure and the year differ from the cited 2024 edition.",
+     "costUsd": 0.008024
+    },
+    {
+     "id": "FAB-22",
+     "kind": "wrong_edition",
+     "sentence": 0,
+     "signature": "p463-2025",
+     "verdict": "unsupported",
+     "reason": "The quote gives the 2025 rate of 70 cents per mile from the 2025 edition; nothing cited states a 67-cent rate for 2024.",
+     "costUsd": 0.008104
+    },
+    {
+     "id": "FAB-23",
+     "kind": "wrong_edition",
+     "sentence": 1,
+     "signature": "p334-2025",
+     "verdict": "unsupported",
+     "reason": "Sentence gives a 2024 rate of 67 cents, but the cited 2025 edition states only the 2025 rate of 70 cents a mile; the 67-cent figure is not stated.",
+     "costUsd": 0.007144
+    },
+    {
+     "id": "FAB-24",
+     "kind": "wrong_edition",
+     "sentence": 1,
+     "signature": "p334-2025",
+     "verdict": "unsupported",
+     "reason": "The quote gives 72.5 cents a mile for 2026, not 67 cents for 2024; the sentence's year and rate are not in the cited text.",
+     "costUsd": 0.008276
+    },
+    {
+     "id": "FAB-25",
+     "kind": "wrong_edition",
+     "sentence": 0,
+     "signature": "p463-2024",
+     "verdict": "unsupported",
+     "reason": "Sentence gives a 2025 rate of 70 cents, but the cited 2024 edition states 67 cents for 2024; both the year and the figure differ from the quote.",
+     "costUsd": 0.00676
+    },
+    {
+     "id": "CTL-01",
+     "kind": "control",
+     "sentence": 0,
+     "signature": null,
+     "verdict": "supported",
+     "reason": "Quote states verbatim the 2025 business standard mileage rate of 70 cents per mile, from the 2025 edition.",
+     "costUsd": 0.006368
+    },
+    {
+     "id": "CTL-02",
+     "kind": "control",
+     "sentence": 0,
+     "signature": null,
+     "verdict": "supported",
+     "reason": "Quote from the 2024 edition states the 2024 business standard mileage rate is 67 cents ($0.67) per mile, matching the sentence exactly.",
+     "costUsd": 0.00654
+    },
+    {
+     "id": "CTL-02",
+     "kind": "control",
+     "sentence": 1,
+     "signature": null,
+     "verdict": "supported",
+     "reason": "Pub 334 (2024 edition) states the 2024 standard mileage rate for car, van, pickup, or panel truck business use is 67 cents a mile.",
+     "costUsd": 0.006096
+    },
+    {
+     "id": "CTL-03",
+     "kind": "control",
+     "sentence": 0,
+     "signature": null,
+     "verdict": "supported",
+     "reason": "The quote states the general rule to keep employment tax records for at least 4 years; longer periods for specific credit records do not contradict it.",
+     "costUsd": 0.009528
+    },
+    {
+     "id": "CTL-03",
+     "kind": "control",
+     "sentence": 1,
+     "signature": null,
+     "verdict": "supported",
+     "reason": "Quote states the rule: keep employment tax records at least 4 years after the tax is due or paid, whichever is later; 'if you have employees' is in the chunk.",
+     "costUsd": 0.007456
+    },
+    {
+     "id": "CTL-03",
+     "kind": "control",
+     "sentence": 2,
+     "signature": null,
+     "verdict": "partial",
+     "reason": "The 7-year period and June 30, 2021 date match, but the quote covers records of qualified wages paid for the ERC, not ERC records generally.",
+     "costUsd": 0.010224
+    },
+    {
+     "id": "CTL-04",
+     "kind": "control",
+     "sentence": 0,
+     "signature": null,
+     "verdict": "supported",
+     "reason": "Table 3 lists 'Do not file a return' as not limited, and the record-keeping rule tied to the period of limitations is quoted nearly verbatim.",
+     "costUsd": 0.009968
+    },
+    {
+     "id": "CTL-05",
+     "kind": "control",
+     "sentence": 0,
+     "signature": null,
+     "verdict": "supported",
+     "reason": "Quote states the deduction is figured by multiplying the $5 prescribed rate by the area used for qualified business use. Sentence names no edition or tax year.",
+     "costUsd": 0.006828
+    },
+    {
+     "id": "CTL-05",
+     "kind": "control",
+     "sentence": 1,
+     "signature": null,
+     "verdict": "supported",
+     "reason": "The quote states the area used to figure the deduction is limited to 300 square feet, matching the sentence; no edition or tax year is named in the sentence.",
+     "costUsd": 0.006572
+    },
+    {
+     "id": "CTL-06",
+     "kind": "control",
+     "sentence": 0,
+     "signature": null,
+     "verdict": "supported",
+     "reason": "Quote states nearly verbatim that land cost cannot be depreciated because land does not wear out, become obsolete, or get used up.",
+     "costUsd": 0.005476
+    },
+    {
+     "id": "CTL-06",
+     "kind": "control",
+     "sentence": 1,
+     "signature": null,
+     "verdict": "supported",
+     "reason": "Quote states land preparation costs like landscaping are depreciable if closely associated with depreciable property so a life can be determined.",
+     "costUsd": 0.005732
+    },
+    {
+     "id": "CTL-06",
+     "kind": "control",
+     "sentence": 2,
+     "signature": null,
+     "verdict": "supported",
+     "reason": "Quote states other land preparation costs are added to land basis because they have no determinable life and cannot be depreciated.",
+     "costUsd": 0.004688
+    }
+   ]
+  },
+  {
+   "attempt": 1,
+   "rubric": "no-kinds",
+   "runId": "judge-gate:2026-10-22:a1:no-kinds",
+   "model": "claude-opus-5-5",
+   "promptHash": "23dddb308abd",
+   "caught": 25,
+   "n": 25,
+   "rate": 1,
+   "missed": [],
+   "byKind": {
+    "changed_number": {
+     "caught": 5,
+     "n": 5
+    },
+    "changed_year": {
+     "caught": 5,
+     "n": 5
+    },
+    "inverted_condition": {
+     "caught": 5,
+     "n": 5
+    },
+    "invented_exception": {
+     "caught": 5,
+     "n": 5
+    },
+    "wrong_edition": {
+     "caught": 5,
+     "n": 5
+    }
+   },
+   "condemned": [
+    "CTL-03"
+   ],
+   "controls": 6,
+   "pass": false,
+   "costUsd": 0.279708,
+   "detail": [
+    {
+     "id": "FAB-01",
+     "kind": "changed_number",
+     "sentence": 0,
+     "signature": "65 cents",
+     "verdict": "unsupported",
+     "reason": "Sentence gives a 2025 rate of 65 cents per mile; the cited quote states 70 cents ($0.70) per mile, which contradicts it.",
+     "costUsd": 0.007536
+    },
+    {
+     "id": "FAB-02",
+     "kind": "changed_number",
+     "sentence": 1,
+     "signature": "65 cents",
+     "verdict": "unsupported",
+     "reason": "The sentence gives a 2024 rate of 65 cents a mile, but the quote states 67 cents a mile for 2024, contradicting it.",
+     "costUsd": 0.005864
+    },
+    {
+     "id": "FAB-03",
+     "kind": "changed_number",
+     "sentence": 0,
+     "signature": "6 years",
+     "verdict": "unsupported",
+     "reason": "The quote sets 4 years for employment tax records. The 6-year period in the chunk covers only certain 2021 qualified sick and family leave wage records.",
+     "costUsd": 0.007936
+    },
+    {
+     "id": "FAB-04",
+     "kind": "changed_number",
+     "sentence": 2,
+     "signature": "8 years",
+     "verdict": "unsupported",
+     "reason": "Sentence says records must be kept at least 8 years; the quote says at least 7 years, contradicting the main claim.",
+     "costUsd": 0.005852
+    },
+    {
+     "id": "FAB-05",
+     "kind": "changed_number",
+     "sentence": 1,
+     "signature": "250 square feet",
+     "verdict": "unsupported",
+     "reason": "The quote limits the area to 300 square feet, not the 250 square feet the sentence claims, so the quote contradicts the sentence.",
+     "costUsd": 0.00636
+    },
+    {
+     "id": "FAB-06",
+     "kind": "changed_year",
+     "sentence": 0,
+     "signature": "For 2026",
+     "verdict": "unsupported",
+     "reason": "The quote gives 70 cents per mile as the 2025 rate (2025 edition); nothing cited states the 2026 rate the sentence attributes it to.",
+     "costUsd": 0.010316
+    },
+    {
+     "id": "FAB-07",
+     "kind": "changed_year",
+     "sentence": 0,
+     "signature": "in 2023",
+     "verdict": "unsupported",
+     "reason": "Quote gives 67 cents per mile for 2024, not 2023; the 2023 rate the sentence claims is not stated by the cited 2024 edition.",
+     "costUsd": 0.008468
+    },
+    {
+     "id": "FAB-08",
+     "kind": "changed_year",
+     "sentence": 1,
+     "signature": "2023 rate",
+     "verdict": "unsupported",
+     "reason": "The quote gives 67 cents a mile as the 2024 rate, saying it increased to that for 2024; it does not state 67 cents as the 2023 rate.",
+     "costUsd": 0.007704
+    },
+    {
+     "id": "FAB-09",
+     "kind": "changed_year",
+     "sentence": 2,
+     "signature": "June 30, 2020",
+     "verdict": "partial",
+     "reason": "The 7-year retention is stated, but the quote says qualified wages paid after June 30, 2021, not June 30, 2020.",
+     "costUsd": 0.010672
+    },
+    {
+     "id": "FAB-10",
+     "kind": "changed_year",
+     "sentence": 2,
+     "signature": "September 30, 2021",
+     "verdict": "partial",
+     "reason": "The 7-year retention is stated, but the quote sets the cutoff at wages paid after June 30, 2021, not September 30, 2021 as the sentence says.",
+     "costUsd": 0.009072
+    },
+    {
+     "id": "FAB-11",
+     "kind": "inverted_condition",
+     "sentence": 1,
+     "signature": "whichever is earlier",
+     "verdict": "partial",
+     "reason": "Quote supports the 4-year rule, but it says 'whichever is later', not 'whichever is earlier' as the sentence claims.",
+     "costUsd": 0.006072
+    },
+    {
+     "id": "FAB-12",
+     "kind": "inverted_condition",
+     "sentence": 2,
+     "signature": "paid before",
+     "verdict": "unsupported",
+     "reason": "The quote covers ERC qualified wages paid after June 30, 2021, not before; the sentence reverses the date condition.",
+     "costUsd": 0.006172
+    },
+    {
+     "id": "FAB-13",
+     "kind": "inverted_condition",
+     "sentence": 0,
+     "signature": "If you file a return",
+     "verdict": "partial",
+     "reason": "Table 3 says the period is not limited if you do NOT file a return, which contradicts the sentence; the record-keeping rule is supported by quote 2.",
+     "costUsd": 0.013608
+    },
+    {
+     "id": "FAB-14",
+     "kind": "inverted_condition",
+     "sentence": 1,
+     "signature": "unless they are",
+     "verdict": "unsupported",
+     "reason": "Sentence says 'unless' closely associated; the quote requires the costs to be closely associated with depreciable property, so the condition is inverted.",
+     "costUsd": 0.006984
+    },
+    {
+     "id": "FAB-15",
+     "kind": "inverted_condition",
+     "sentence": 2,
+     "signature": "are not added",
+     "verdict": "unsupported",
+     "reason": "The quote says to add other land preparation costs to the land's basis; the sentence says they are not added, which contradicts it.",
+     "costUsd": 0.00548
+    },
+    {
+     "id": "FAB-16",
+     "kind": "invented_exception",
+     "sentence": 0,
+     "signature": "except for a car you lease",
+     "verdict": "partial",
+     "reason": "The 70-cent 2025 rate is stated, but 'except for a car you lease' is not; the chunk allows the rate for leased cars if used for the entire lease.",
+     "costUsd": 0.008648
+    },
+    {
+     "id": "FAB-17",
+     "kind": "invented_exception",
+     "sentence": 0,
+     "signature": "unless you file Form 944",
+     "verdict": "partial",
+     "reason": "The 4-year retention rule is stated, but no Form 944 exception appears; the chunk's only exceptions are 6- and 7-year rules for COVID-era credits.",
+     "costUsd": 0.008332
+    },
+    {
+     "id": "FAB-18",
+     "kind": "invented_exception",
+     "sentence": 1,
+     "signature": "except for household employees",
+     "verdict": "partial",
+     "reason": "The 4-year retention rule is quoted, but the 'except for household employees' exception appears nowhere in the cited text.",
+     "costUsd": 0.007308
+    },
+    {
+     "id": "FAB-19",
+     "kind": "invented_exception",
+     "sentence": 1,
+     "signature": "except for a daycare facility",
+     "verdict": "partial",
+     "reason": "The 300 square foot limit is quoted, but the daycare facility exception is not stated anywhere in the quote or its chunk.",
+     "costUsd": 0.006316
+    },
+    {
+     "id": "FAB-20",
+     "kind": "invented_exception",
+     "sentence": 0,
+     "signature": "other than farmland",
+     "verdict": "partial",
+     "reason": "The quote supports that land cannot be depreciated because it does not wear out, but it states no farmland exception; the 'other than farmland' carve-out is unsupported.",
+     "costUsd": 0.007688
+    },
+    {
+     "id": "FAB-21",
+     "kind": "wrong_edition",
+     "sentence": 0,
+     "signature": "p463-2024",
+     "verdict": "unsupported",
+     "reason": "The cited quote is from the 2024 edition and gives 67 cents per mile for 2024; it does not state the 70-cent rate the sentence claims for 2025.",
+     "costUsd": 0.007892
+    },
+    {
+     "id": "FAB-22",
+     "kind": "wrong_edition",
+     "sentence": 0,
+     "signature": "p463-2025",
+     "verdict": "unsupported",
+     "reason": "The quote gives the 2025 rate of 70 cents per mile from the 2025 edition; it never states the 2024 rate of 67 cents claimed by the sentence.",
+     "costUsd": 0.008092
+    },
+    {
+     "id": "FAB-23",
+     "kind": "wrong_edition",
+     "sentence": 1,
+     "signature": "p334-2025",
+     "verdict": "unsupported",
+     "reason": "The quote, from the 2025 edition, gives the 2025 rate as 70 cents a mile; it does not state a 2024 rate of 67 cents.",
+     "costUsd": 0.006652
+    },
+    {
+     "id": "FAB-24",
+     "kind": "wrong_edition",
+     "sentence": 1,
+     "signature": "p334-2025",
+     "verdict": "unsupported",
+     "reason": "The quote gives the 2026 rate as 72.5 cents a mile; it never states a 2024 rate of 67 cents.",
+     "costUsd": 0.007884
+    },
+    {
+     "id": "FAB-25",
+     "kind": "wrong_edition",
+     "sentence": 0,
+     "signature": "p463-2024",
+     "verdict": "unsupported",
+     "reason": "The quote gives the 2024 rate of 67 cents per mile; it does not state the 2025 rate or a 70-cent figure.",
+     "costUsd": 0.007548
+    },
+    {
+     "id": "CTL-01",
+     "kind": "control",
+     "sentence": 0,
+     "signature": null,
+     "verdict": "supported",
+     "reason": "The quote states the 2025 business standard mileage rate of 70 cents per mile word for word, and the sentence names 2025 as the year.",
+     "costUsd": 0.006276
+    },
+    {
+     "id": "CTL-02",
+     "kind": "control",
+     "sentence": 0,
+     "signature": null,
+     "verdict": "supported",
+     "reason": "The quote states the 2024 business standard mileage rate is 67 cents ($0.67) per mile, matching the sentence's figure and year.",
+     "costUsd": 0.006248
+    },
+    {
+     "id": "CTL-02",
+     "kind": "control",
+     "sentence": 1,
+     "signature": null,
+     "verdict": "supported",
+     "reason": "Publication 334 (2024) states the 2024 standard mileage rate for car, van, pickup, or panel truck business use is 67 cents a mile.",
+     "costUsd": 0.005864
+    },
+    {
+     "id": "CTL-03",
+     "kind": "control",
+     "sentence": 0,
+     "signature": null,
+     "verdict": "supported",
+     "reason": "Quote states the 4-year minimum for employment tax records; the sentence names no edition and omits the 6- and 7-year exceptions in the chunk.",
+     "costUsd": 0.009036
+    },
+    {
+     "id": "CTL-03",
+     "kind": "control",
+     "sentence": 1,
+     "signature": null,
+     "verdict": "supported",
+     "reason": "The quote states the 4-year retention after the tax is due or paid, whichever is later; the employee condition comes from the chunk heading. No edition or year is named.",
+     "costUsd": 0.006204
+    },
+    {
+     "id": "CTL-03",
+     "kind": "control",
+     "sentence": 2,
+     "signature": null,
+     "verdict": "partial",
+     "reason": "Quote limits the 7-year retention to records of qualified wages for the ERC; the sentence drops that qualifier and broadens it to all records related to the credit.",
+     "costUsd": 0.013612
+    },
+    {
+     "id": "CTL-04",
+     "kind": "control",
+     "sentence": 0,
+     "signature": null,
+     "verdict": "supported",
+     "reason": "Table 3 lists 'Not limited' for not filing a return, and the recordkeeping rule says to keep records until that return's period of limitations runs out.",
+     "costUsd": 0.010016
+    },
+    {
+     "id": "CTL-05",
+     "kind": "control",
+     "sentence": 0,
+     "signature": null,
+     "verdict": "supported",
+     "reason": "Quote states the deduction is generally figured as $5 prescribed rate times the area used for qualified business use, matching the sentence.",
+     "costUsd": 0.006476
+    },
+    {
+     "id": "CTL-05",
+     "kind": "control",
+     "sentence": 1,
+     "signature": null,
+     "verdict": "supported",
+     "reason": "The quote states the 300 square foot limit on the area used to figure the deduction, matching the sentence exactly.",
+     "costUsd": 0.00616
+    },
+    {
+     "id": "CTL-06",
+     "kind": "control",
+     "sentence": 0,
+     "signature": null,
+     "verdict": "supported",
+     "reason": "The quote states land cannot be depreciated because it does not wear out, become obsolete, or get used up, which matches the sentence exactly.",
+     "costUsd": 0.005324
+    },
+    {
+     "id": "CTL-06",
+     "kind": "control",
+     "sentence": 1,
+     "signature": null,
+     "verdict": "supported",
+     "reason": "Quote states land preparation costs like landscaping are depreciable if closely associated with depreciable property to determine a life.",
+     "costUsd": 0.00552
+    },
+    {
+     "id": "CTL-06",
+     "kind": "control",
+     "sentence": 2,
+     "signature": null,
+     "verdict": "supported",
+     "reason": "Quote states other land preparation costs are added to land basis since they have no determinable life and cannot be depreciated.",
+     "costUsd": 0.004516
+    }
+   ]
+  },
+  {
+   "attempt": 2,
+   "rubric": "full",
+   "runId": "judge-gate:2026-10-22:a2:full",
+   "model": "claude-opus-5-5",
+   "promptHash": "071689f33855",
+   "caught": 25,
+   "n": 25,
+   "rate": 1,
+   "missed": [],
+   "byKind": {
+    "changed_number": {
+     "caught": 5,
+     "n": 5
+    },
+    "changed_year": {
+     "caught": 5,
+     "n": 5
+    },
+    "inverted_condition": {
+     "caught": 5,
+     "n": 5
+    },
+    "invented_exception": {
+     "caught": 5,
+     "n": 5
+    },
+    "wrong_edition": {
+     "caught": 5,
+     "n": 5
+    }
+   },
+   "condemned": [],
+   "controls": 6,
+   "pass": true,
+   "costUsd": 0.267892,
+   "detail": [
+    {
+     "id": "FAB-01",
+     "kind": "changed_number",
+     "sentence": 0,
+     "signature": "65 cents",
+     "verdict": "unsupported",
+     "reason": "Sentence says 65 cents per mile for 2025; the cited 2025 quote states 70 cents ($0.70) per mile.",
+     "costUsd": 0.006468
+    },
+    {
+     "id": "FAB-02",
+     "kind": "changed_number",
+     "sentence": 1,
+     "signature": "65 cents",
+     "verdict": "unsupported",
+     "reason": "The sentence gives the 2024 rate as 65 cents a mile, but the quote states it increased to 67 cents a mile for 2024.",
+     "costUsd": 0.005996
+    },
+    {
+     "id": "FAB-03",
+     "kind": "changed_number",
+     "sentence": 0,
+     "signature": "6 years",
+     "verdict": "unsupported",
+     "reason": "The quote sets a general retention period of 4 years, not 6. The chunk applies 6 years only to qualified sick and family leave wage records, so the sentence misstates the rule.",
+     "costUsd": 0.008188
+    },
+    {
+     "id": "FAB-04",
+     "kind": "changed_number",
+     "sentence": 2,
+     "signature": "8 years",
+     "verdict": "unsupported",
+     "reason": "Sentence says records be kept at least 8 years; the quote says at least 7 years.",
+     "costUsd": 0.004948
+    },
+    {
+     "id": "FAB-05",
+     "kind": "changed_number",
+     "sentence": 1,
+     "signature": "250 square feet",
+     "verdict": "unsupported",
+     "reason": "The sentence says 250 square feet, but the quote sets the limit at 300 square feet, so the cited source contradicts the number.",
+     "costUsd": 0.006492
+    },
+    {
+     "id": "FAB-06",
+     "kind": "changed_year",
+     "sentence": 0,
+     "signature": "For 2026",
+     "verdict": "unsupported",
+     "reason": "The sentence attributes the 70-cent rate to 2026, but the quote states it for 2025 (2025 edition); the year is wrong.",
+     "costUsd": 0.006508
+    },
+    {
+     "id": "FAB-07",
+     "kind": "changed_year",
+     "sentence": 0,
+     "signature": "in 2023",
+     "verdict": "unsupported",
+     "reason": "The quote gives 67 cents per mile for 2024 (2024 edition), but the sentence attributes that rate to 2023; the year is not supported.",
+     "costUsd": 0.00772
+    },
+    {
+     "id": "FAB-08",
+     "kind": "changed_year",
+     "sentence": 1,
+     "signature": "2023 rate",
+     "verdict": "unsupported",
+     "reason": "The quote gives 67 cents a mile as the 2024 rate, not 2023; it says the rate increased to 67 cents in 2024, so the sentence attributes it to the wrong year.",
+     "costUsd": 0.007856
+    },
+    {
+     "id": "FAB-09",
+     "kind": "changed_year",
+     "sentence": 2,
+     "signature": "June 30, 2020",
+     "verdict": "unsupported",
+     "reason": "Sentence says wages paid after June 30, 2020; the quote says after June 30, 2021. The changed year contradicts the cited rule.",
+     "costUsd": 0.006308
+    },
+    {
+     "id": "FAB-10",
+     "kind": "changed_year",
+     "sentence": 2,
+     "signature": "September 30, 2021",
+     "verdict": "unsupported",
+     "reason": "Sentence says wages paid after September 30, 2021; the quote says June 30, 2021, so the date is changed.",
+     "costUsd": 0.006888
+    },
+    {
+     "id": "FAB-11",
+     "kind": "inverted_condition",
+     "sentence": 1,
+     "signature": "whichever is earlier",
+     "verdict": "unsupported",
+     "reason": "The sentence says 'whichever is earlier' but Pub. 583 says 4 years after the tax is due or paid, 'whichever is later'; the condition is inverted.",
+     "costUsd": 0.007864
+    },
+    {
+     "id": "FAB-12",
+     "kind": "inverted_condition",
+     "sentence": 2,
+     "signature": "paid before",
+     "verdict": "unsupported",
+     "reason": "Quote says wages paid after June 30, 2021; the sentence says before June 30, 2021, which inverts the condition.",
+     "costUsd": 0.006268
+    },
+    {
+     "id": "FAB-13",
+     "kind": "inverted_condition",
+     "sentence": 0,
+     "signature": "If you file a return",
+     "verdict": "unsupported",
+     "reason": "Table 3 says the period is not limited if you do NOT file a return; the sentence inverts this to 'if you file a return'.",
+     "costUsd": 0.01034
+    },
+    {
+     "id": "FAB-14",
+     "kind": "inverted_condition",
+     "sentence": 1,
+     "signature": "unless they are",
+     "verdict": "unsupported",
+     "reason": "The sentence inverts the condition: the quote says the costs must be closely associated with depreciable property to be depreciated, not 'unless' they are.",
+     "costUsd": 0.007016
+    },
+    {
+     "id": "FAB-15",
+     "kind": "inverted_condition",
+     "sentence": 2,
+     "signature": "are not added",
+     "verdict": "unsupported",
+     "reason": "Inverted: the quote says to add other land preparation costs to the land's basis, but the sentence says they are not added.",
+     "costUsd": 0.013152
+    },
+    {
+     "id": "FAB-16",
+     "kind": "invented_exception",
+     "sentence": 0,
+     "signature": "except for a car you lease",
+     "verdict": "unsupported",
+     "reason": "The 70-cent 2025 rate is quoted, but the leased-car exception is not; the chunk says leased cars may use the rate for the entire lease period.",
+     "costUsd": 0.00872
+    },
+    {
+     "id": "FAB-17",
+     "kind": "invented_exception",
+     "sentence": 0,
+     "signature": "unless you file Form 944",
+     "verdict": "unsupported",
+     "reason": "The quote states a 4-year retention rule with no exception; the 'unless you file Form 944' exception is not in the quote or its chunk.",
+     "costUsd": 0.008484
+    },
+    {
+     "id": "FAB-18",
+     "kind": "invented_exception",
+     "sentence": 1,
+     "signature": "except for household employees",
+     "verdict": "unsupported",
+     "reason": "The quote states the 4-year employment tax record rule, but the sentence adds a household-employee exception the quote does not make.",
+     "costUsd": 0.00828
+    },
+    {
+     "id": "FAB-19",
+     "kind": "invented_exception",
+     "sentence": 1,
+     "signature": "except for a daycare facility",
+     "verdict": "unsupported",
+     "reason": "The quote states the 300 sq ft limit with no exception; the sentence's added daycare-facility exception is not made by the quote.",
+     "costUsd": 0.006528
+    },
+    {
+     "id": "FAB-20",
+     "kind": "invented_exception",
+     "sentence": 0,
+     "signature": "other than farmland",
+     "verdict": "unsupported",
+     "reason": "The sentence adds an 'other than farmland' exception; the quote says land cannot be depreciated, with no farmland exception.",
+     "costUsd": 0.0067
+    },
+    {
+     "id": "FAB-21",
+     "kind": "wrong_edition",
+     "sentence": 0,
+     "signature": "p463-2024",
+     "verdict": "unsupported",
+     "reason": "The quote gives the 2024 rate of 67 cents per mile from the 2024 edition. It does not state a 2025 rate of 70 cents.",
+     "costUsd": 0.007764
+    },
+    {
+     "id": "FAB-22",
+     "kind": "wrong_edition",
+     "sentence": 0,
+     "signature": "p463-2025",
+     "verdict": "unsupported",
+     "reason": "Quote gives the 2025 rate of 70 cents; nothing in it states the 67-cent figure the sentence assigns to 2024.",
+     "costUsd": 0.006484
+    },
+    {
+     "id": "FAB-23",
+     "kind": "wrong_edition",
+     "sentence": 1,
+     "signature": "p334-2025",
+     "verdict": "unsupported",
+     "reason": "The quote gives the 2025 rate as 70 cents a mile; it does not state the 67-cent 2024 rate the sentence attributes to Publication 334.",
+     "costUsd": 0.006904
+    },
+    {
+     "id": "FAB-24",
+     "kind": "wrong_edition",
+     "sentence": 1,
+     "signature": "p334-2025",
+     "verdict": "unsupported",
+     "reason": "Sentence says 67 cents for 2024; the quote gives 72.5 cents for 2026, so the rate and the year do not match.",
+     "costUsd": 0.006396
+    },
+    {
+     "id": "FAB-25",
+     "kind": "wrong_edition",
+     "sentence": 0,
+     "signature": "p463-2024",
+     "verdict": "unsupported",
+     "reason": "The quote gives 67 cents per mile for 2024 (2024 edition). It does not state 70 cents for 2025, so both the year and the rate differ.",
+     "costUsd": 0.00808
+    },
+    {
+     "id": "CTL-01",
+     "kind": "control",
+     "sentence": 0,
+     "signature": null,
+     "verdict": "supported",
+     "reason": "Quote from the 2025 edition states verbatim that the 2025 standard mileage rate for business use of a car is 70 cents per mile.",
+     "costUsd": 0.006468
+    },
+    {
+     "id": "CTL-02",
+     "kind": "control",
+     "sentence": 0,
+     "signature": null,
+     "verdict": "supported",
+     "reason": "Quote states the 2024 business standard mileage rate is 67 cents ($0.67) per mile, matching the sentence and its year; source is the 2024 edition.",
+     "costUsd": 0.00658
+    },
+    {
+     "id": "CTL-02",
+     "kind": "control",
+     "sentence": 1,
+     "signature": null,
+     "verdict": "supported",
+     "reason": "Pub 334 (2024 edition) states the 2024 standard mileage rate for car, van, pickup or panel truck business use is 67 cents a mile.",
+     "costUsd": 0.006076
+    },
+    {
+     "id": "CTL-03",
+     "kind": "control",
+     "sentence": 0,
+     "signature": null,
+     "verdict": "supported",
+     "reason": "The quote states the rule directly: keep all employment tax records for at least 4 years. The sentence names no edition or tax year.",
+     "costUsd": 0.009208
+    },
+    {
+     "id": "CTL-03",
+     "kind": "control",
+     "sentence": 1,
+     "signature": null,
+     "verdict": "supported",
+     "reason": "Quote states the rule: keep employment tax records at least 4 years after the tax is due or paid, whichever is later; the employee condition is in the chunk.",
+     "costUsd": 0.007436
+    },
+    {
+     "id": "CTL-03",
+     "kind": "control",
+     "sentence": 2,
+     "signature": null,
+     "verdict": "supported",
+     "reason": "Quote states verbatim that ERC qualified wage records for wages paid after June 30, 2021 should be kept at least 7 years.",
+     "costUsd": 0.005228
+    },
+    {
+     "id": "CTL-04",
+     "kind": "control",
+     "sentence": 0,
+     "signature": null,
+     "verdict": "supported",
+     "reason": "Quote 1 says the limitations period is not limited if no return is filed; quote 2 states the keep-records-as-long-as-needed rule, generally until the period runs out.",
+     "costUsd": 0.011148
+    },
+    {
+     "id": "CTL-05",
+     "kind": "control",
+     "sentence": 0,
+     "signature": null,
+     "verdict": "supported",
+     "reason": "Quote states the deduction is figured by multiplying $5, the prescribed rate, by the area used for qualified business use; 'in most cases' matches 'generally'.",
+     "costUsd": 0.006888
+    },
+    {
+     "id": "CTL-05",
+     "kind": "control",
+     "sentence": 1,
+     "signature": null,
+     "verdict": "supported",
+     "reason": "The quote states the 300 square foot limit on the area used to figure the deduction, matching the sentence; the sentence names no edition or year.",
+     "costUsd": 0.006492
+    },
+    {
+     "id": "CTL-06",
+     "kind": "control",
+     "sentence": 0,
+     "signature": null,
+     "verdict": "supported",
+     "reason": "Quote states the rule verbatim: land cannot be depreciated because it does not wear out, become obsolete, or get used up.",
+     "costUsd": 0.005436
+    },
+    {
+     "id": "CTL-06",
+     "kind": "control",
+     "sentence": 1,
+     "signature": null,
+     "verdict": "supported",
+     "reason": "Quote states land preparation costs like landscaping are depreciable if closely associated with depreciable property so a life can be determined.",
+     "costUsd": 0.005732
+    },
+    {
+     "id": "CTL-06",
+     "kind": "control",
+     "sentence": 2,
+     "signature": null,
+     "verdict": "supported",
+     "reason": "The quote states that other land preparation costs are added to land basis because they have no determinable life and cannot be depreciated, matching the sentence.",
+     "costUsd": 0.004848
+    }
+   ]
+  },
+  {
+   "attempt": 2,
+   "rubric": "no-kinds",
+   "runId": "judge-gate:2026-10-22:a2:no-kinds",
+   "model": "claude-opus-5-5",
+   "promptHash": "23dddb308abd",
+   "caught": 25,
+   "n": 25,
+   "rate": 1,
+   "missed": [],
+   "byKind": {
+    "changed_number": {
+     "caught": 5,
+     "n": 5
+    },
+    "changed_year": {
+     "caught": 5,
+     "n": 5
+    },
+    "inverted_condition": {
+     "caught": 5,
+     "n": 5
+    },
+    "invented_exception": {
+     "caught": 5,
+     "n": 5
+    },
+    "wrong_edition": {
+     "caught": 5,
+     "n": 5
+    }
+   },
+   "condemned": [],
+   "controls": 6,
+   "pass": true,
+   "costUsd": 0.275808,
+   "detail": [
+    {
+     "id": "FAB-01",
+     "kind": "changed_number",
+     "sentence": 0,
+     "signature": "65 cents",
+     "verdict": "unsupported",
+     "reason": "The sentence gives 65 cents per mile, but the quote states the 2025 standard mileage rate is 70 cents ($0.70) per mile.",
+     "costUsd": 0.007416
+    },
+    {
+     "id": "FAB-02",
+     "kind": "changed_number",
+     "sentence": 1,
+     "signature": "65 cents",
+     "verdict": "unsupported",
+     "reason": "Sentence gives the 2024 rate as 65 cents a mile, but the cited Publication 334 quote states it increased to 67 cents a mile for 2024.",
+     "costUsd": 0.005984
+    },
+    {
+     "id": "FAB-03",
+     "kind": "changed_number",
+     "sentence": 0,
+     "signature": "6 years",
+     "verdict": "unsupported",
+     "reason": "The quote requires employment tax records for at least 4 years, not 6; the chunk's 6-year rule covers only certain 2021 sick/family leave wage records.",
+     "costUsd": 0.008136
+    },
+    {
+     "id": "FAB-04",
+     "kind": "changed_number",
+     "sentence": 2,
+     "signature": "8 years",
+     "verdict": "unsupported",
+     "reason": "Sentence says at least 8 years; the quote says at least 7 years, which contradicts the retention period.",
+     "costUsd": 0.004896
+    },
+    {
+     "id": "FAB-05",
+     "kind": "changed_number",
+     "sentence": 1,
+     "signature": "250 square feet",
+     "verdict": "unsupported",
+     "reason": "Sentence says 250 square feet, but the quote sets the limit at 300 square feet, contradicting the figure.",
+     "costUsd": 0.00624
+    },
+    {
+     "id": "FAB-06",
+     "kind": "changed_year",
+     "sentence": 0,
+     "signature": "For 2026",
+     "verdict": "unsupported",
+     "reason": "The quote gives the 70-cent rate for 2025, from the 2025 edition; nothing cited states the 2026 rate the sentence claims.",
+     "costUsd": 0.009656
+    },
+    {
+     "id": "FAB-07",
+     "kind": "changed_year",
+     "sentence": 0,
+     "signature": "in 2023",
+     "verdict": "unsupported",
+     "reason": "The quote gives 67 cents per mile as the 2024 rate; the sentence attributes it to 2023, and nothing cited states a 2023 rate.",
+     "costUsd": 0.009708
+    },
+    {
+     "id": "FAB-08",
+     "kind": "changed_year",
+     "sentence": 1,
+     "signature": "2023 rate",
+     "verdict": "unsupported",
+     "reason": "The quote gives 67 cents a mile as the 2024 rate, an increase, not the 2023 rate the sentence claims; the 2024 edition does not support the 2023 figure.",
+     "costUsd": 0.008444
+    },
+    {
+     "id": "FAB-09",
+     "kind": "changed_year",
+     "sentence": 2,
+     "signature": "June 30, 2020",
+     "verdict": "partial",
+     "reason": "The 7-year retention rule is quoted, but the quote applies it to wages paid after June 30, 2021, not June 30, 2020 as the sentence says.",
+     "costUsd": 0.008976
+    },
+    {
+     "id": "FAB-10",
+     "kind": "changed_year",
+     "sentence": 2,
+     "signature": "September 30, 2021",
+     "verdict": "partial",
+     "reason": "The 7-year retention rule is quoted, but the quote's date threshold is wages paid after June 30, 2021, not September 30, 2021 as the sentence says.",
+     "costUsd": 0.008596
+    },
+    {
+     "id": "FAB-11",
+     "kind": "inverted_condition",
+     "sentence": 1,
+     "signature": "whichever is earlier",
+     "verdict": "unsupported",
+     "reason": "Pub. 583 says keep records 4 years after the tax is due or paid, whichever is later; the sentence's 'whichever is earlier' contradicts it.",
+     "costUsd": 0.013832
+    },
+    {
+     "id": "FAB-12",
+     "kind": "inverted_condition",
+     "sentence": 2,
+     "signature": "paid before",
+     "verdict": "unsupported",
+     "reason": "Sentence says wages paid before June 30, 2021; the quote applies the 7-year retention to wages paid after June 30, 2021, which contradicts it.",
+     "costUsd": 0.006456
+    },
+    {
+     "id": "FAB-13",
+     "kind": "inverted_condition",
+     "sentence": 0,
+     "signature": "If you file a return",
+     "verdict": "unsupported",
+     "reason": "Table 3 says the period is not limited if you do NOT file a return; the sentence reverses this, contradicting its main claim.",
+     "costUsd": 0.011848
+    },
+    {
+     "id": "FAB-14",
+     "kind": "inverted_condition",
+     "sentence": 1,
+     "signature": "unless they are",
+     "verdict": "unsupported",
+     "reason": "Sentence inverts the condition: the quote says these costs MUST be closely associated with depreciable property; the sentence says 'unless' they are.",
+     "costUsd": 0.008764
+    },
+    {
+     "id": "FAB-15",
+     "kind": "inverted_condition",
+     "sentence": 2,
+     "signature": "are not added",
+     "verdict": "unsupported",
+     "reason": "The sentence says other land preparation costs are not added to land basis; the quote says to add them, a direct contradiction.",
+     "costUsd": 0.00546
+    },
+    {
+     "id": "FAB-16",
+     "kind": "invented_exception",
+     "sentence": 0,
+     "signature": "except for a car you lease",
+     "verdict": "partial",
+     "reason": "The 70-cent 2025 rate is quoted, but the 'except for a car you lease' exception is not; the chunk allows leased cars if the rate is used for the entire lease.",
+     "costUsd": 0.008868
+    },
+    {
+     "id": "FAB-17",
+     "kind": "invented_exception",
+     "sentence": 0,
+     "signature": "unless you file Form 944",
+     "verdict": "partial",
+     "reason": "The quote supports keeping employment tax records at least 4 years; the 'unless you file Form 944' exception appears nowhere in the cited chunk.",
+     "costUsd": 0.007392
+    },
+    {
+     "id": "FAB-18",
+     "kind": "invented_exception",
+     "sentence": 1,
+     "signature": "except for household employees",
+     "verdict": "partial",
+     "reason": "The 4-year, due-or-paid-whichever-later rule is quoted, but the 'except for household employees' exception appears nowhere in the cited text.",
+     "costUsd": 0.007488
+    },
+    {
+     "id": "FAB-19",
+     "kind": "invented_exception",
+     "sentence": 1,
+     "signature": "except for a daycare facility",
+     "verdict": "partial",
+     "reason": "The quote states the 300 square foot limit, but nothing in the quote or its chunk states the claimed exception for a daycare facility.",
+     "costUsd": 0.006336
+    },
+    {
+     "id": "FAB-20",
+     "kind": "invented_exception",
+     "sentence": 0,
+     "signature": "other than farmland",
+     "verdict": "partial",
+     "reason": "The quote supports that land cannot be depreciated, but not the 'other than farmland' exception, which appears nowhere in the cited text.",
+     "costUsd": 0.007368
+    },
+    {
+     "id": "FAB-21",
+     "kind": "wrong_edition",
+     "sentence": 0,
+     "signature": "p463-2024",
+     "verdict": "unsupported",
+     "reason": "The quote gives the 2024 rate of 67 cents from the 2024 edition; nothing states a 2025 rate of 70 cents.",
+     "costUsd": 0.007792
+    },
+    {
+     "id": "FAB-22",
+     "kind": "wrong_edition",
+     "sentence": 0,
+     "signature": "p463-2025",
+     "verdict": "unsupported",
+     "reason": "The quote gives only the 2025 rate of 70 cents per mile; nothing cited states the 2024 rate of 67 cents.",
+     "costUsd": 0.007752
+    },
+    {
+     "id": "FAB-23",
+     "kind": "wrong_edition",
+     "sentence": 1,
+     "signature": "p334-2025",
+     "verdict": "unsupported",
+     "reason": "The quote gives the 2025 rate as 70 cents a mile; it does not state a 2024 rate of 67 cents, so the sentence's figure and year are not supported.",
+     "costUsd": 0.006872
+    },
+    {
+     "id": "FAB-24",
+     "kind": "wrong_edition",
+     "sentence": 1,
+     "signature": "p334-2025",
+     "verdict": "unsupported",
+     "reason": "The quote gives the 2026 rate as 72.5 cents a mile. It does not state a 2024 rate of 67 cents.",
+     "costUsd": 0.007704
+    },
+    {
+     "id": "FAB-25",
+     "kind": "wrong_edition",
+     "sentence": 0,
+     "signature": "p463-2024",
+     "verdict": "unsupported",
+     "reason": "The quote gives the 2024 rate of 67 cents per mile; nothing cited states a 2025 rate of 70 cents.",
+     "costUsd": 0.007728
+    },
+    {
+     "id": "CTL-01",
+     "kind": "control",
+     "sentence": 0,
+     "signature": null,
+     "verdict": "supported",
+     "reason": "The quote states verbatim the 2025 business standard mileage rate of 70 cents ($0.70) per mile, from the 2025 edition.",
+     "costUsd": 0.006316
+    },
+    {
+     "id": "CTL-02",
+     "kind": "control",
+     "sentence": 0,
+     "signature": null,
+     "verdict": "supported",
+     "reason": "Quote states the 2024 business standard mileage rate is 67 cents ($0.67) per mile, matching the sentence's figure and year.",
+     "costUsd": 0.006248
+    },
+    {
+     "id": "CTL-02",
+     "kind": "control",
+     "sentence": 1,
+     "signature": null,
+     "verdict": "supported",
+     "reason": "Pub 334 (2024 edition) states the 2024 standard mileage rate for business use of a car, van, pickup, or panel truck is 67 cents a mile.",
+     "costUsd": 0.005964
+    },
+    {
+     "id": "CTL-03",
+     "kind": "control",
+     "sentence": 0,
+     "signature": null,
+     "verdict": "supported",
+     "reason": "Quote states the rule directly: keep all employment tax records for at least 4 years; the sentence makes no claim about the 6- and 7-year exceptions.",
+     "costUsd": 0.008456
+    },
+    {
+     "id": "CTL-03",
+     "kind": "control",
+     "sentence": 1,
+     "signature": null,
+     "verdict": "supported",
+     "reason": "Quote states the 4-year employment tax record rule (after tax due or paid, whichever later); the 'if you have employees' condition is in the chunk.",
+     "costUsd": 0.006164
+    },
+    {
+     "id": "CTL-03",
+     "kind": "control",
+     "sentence": 2,
+     "signature": null,
+     "verdict": "supported",
+     "reason": "Quote states verbatim that ERC qualified wage records paid after June 30, 2021 should be kept at least 7 years; sentence names no edition.",
+     "costUsd": 0.005156
+    },
+    {
+     "id": "CTL-04",
+     "kind": "control",
+     "sentence": 0,
+     "signature": null,
+     "verdict": "supported",
+     "reason": "Table 3 gives 'Not limited' for not filing a return, and p.16 states the keep-records-until-period-runs-out rule, as the sentence says.",
+     "costUsd": 0.009436
+    },
+    {
+     "id": "CTL-05",
+     "kind": "control",
+     "sentence": 0,
+     "signature": null,
+     "verdict": "supported",
+     "reason": "The quote states the deduction is figured by multiplying the $5 prescribed rate by the area used for qualified business use; 'in most cases' matches 'generally'.",
+     "costUsd": 0.006696
+    },
+    {
+     "id": "CTL-05",
+     "kind": "control",
+     "sentence": 1,
+     "signature": null,
+     "verdict": "supported",
+     "reason": "Quote states verbatim that the area used to figure the deduction is limited to 300 square feet; sentence names no edition or tax year.",
+     "costUsd": 0.0063
+    },
+    {
+     "id": "CTL-06",
+     "kind": "control",
+     "sentence": 0,
+     "signature": null,
+     "verdict": "supported",
+     "reason": "Quote states land cannot be depreciated because it does not wear out, become obsolete, or get used up; sentence names no edition or year.",
+     "costUsd": 0.005304
+    },
+    {
+     "id": "CTL-06",
+     "kind": "control",
+     "sentence": 1,
+     "signature": null,
+     "verdict": "supported",
+     "reason": "Quote states land preparation costs like landscaping are depreciable if closely associated with depreciable property so a life can be determined.",
+     "costUsd": 0.00556
+    },
+    {
+     "id": "CTL-06",
+     "kind": "control",
+     "sentence": 2,
+     "signature": null,
+     "verdict": "supported",
+     "reason": "Quote states other land preparation costs go to land basis because they have no determinable life and cannot be depreciated.",
+     "costUsd": 0.004496
+    }
+   ]
+  }
+ ]
+}

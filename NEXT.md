@@ -1,8 +1,20 @@
 # NEXT
 
-## ▶ Next session: task 3.3 (judge gate run)
+## ▶ Next session: task 3.4 needs Shane, so start with 3.7 (full-run harness)
 
-3.2 is frozen (D-31). 3.3 is the first live judge spend: `npm run eval:judge-gate` over `eval/fixtures/fabrication.json` (25 plants + 6 controls; load chunks by id from the DB). Target ≥ 95% caught and 0 controls condemned, with every attempt recorded. **Per D-32, also run the gate once with the error-kind list removed from the rubric, and report both catch rates.** Still open: GitHub repo + `origin`.
+3.3 passed (D-33, D-34). 3.4 (Shane grades 20 answered sentences) depends on a full hybrid + Sonnet run, so 3.7 (`npm run eval:answers`) comes first: it builds the run that 3.4 draws from. 3.5 (`cohenKappa`, pure + unit tests) can be built at any time, with no spend. Still open: GitHub repo + `origin`.
+
+## Session 20 — 2026-10-22 (task 3.3, judge gate)
+
+**Ran live:** `npm run eval:judge-gate` (new `scripts/judge-gate.ts`), Opus 5.5 judge, two attempts × two rubrics. Results are in `eval/results/judge-gate-cd1252c6a407-2026-10-22.json`.
+- **Attempt 1:** full rubric (prompt `071689f33855`) caught 25/25 but condemned 1/6 controls; no-kinds (`23dddb308abd`) the same. CTL-03 s3 was `partial` on both, and **the judge was right**: the composer's GM-01 sentence dropped "qualified wages for" from the quote's scope, which `verifyCitations` can't see.
+- **Attempt 2** (after the D-33 fixture fix): **full 25/25, 0/6 controls condemned → PASS.** No-kinds also 25/25, 0/6, so the **D-32 gap is 0**.
+
+**Built:** `src/lib/eval/judge-gate.ts` `scoreGate` (pure) + `tests/unit/judge-gate.test.ts` (3); `JUDGE_SYSTEM_PROMPT_NO_KINDS` and a `system` override on `judge()`; `chunksById` in `retriever.ts` under the tier predicate + 1 integration test; `lint retriever predicate` now expects 3 SELECTs.
+
+**Decided:** D-33 (CTL-03 not clean; "qualified wages for" restored in 13 fixture occurrences; Shane clicked it), D-34 (gate chunks through the retriever predicate, not a lint allowlist).
+
+**Gate:** `npm test` **46 files / 277 passed**; typecheck OK; lint 0 errors (the 1 template warning); `corpus:check` OK; `permissions:verify` OK (mutation: the tier filter removed from `chunksById` → FAIL). **Spend: $1.2970 of $25** (judge $1.0896 over 148 calls this session).
 
 ## Session 19 — 2026-10-21 (task 3.2, fabrication fixtures)
 

@@ -87,7 +87,7 @@
           ]
         },
         {
-          "text": "Records related to the COVID-19 related employee retention credit paid after June 30, 2021, should be kept for at least 7 years.",
+          "text": "Records related to qualified wages for the COVID-19 related employee retention credit paid after June 30, 2021, should be kept for at least 7 years.",
           "citations": [
             {
               "chunkId": "p15-2026:9:4",
@@ -104,7 +104,7 @@
       "kind": "changed_number",
       "sourceAnswer": "GM-01",
       "plantedIndex": 2,
-      "original": "Records related to the COVID-19 related employee retention credit paid after June 30, 2021, should be kept for at least 7 years.",
+      "original": "Records related to qualified wages for the COVID-19 related employee retention credit paid after June 30, 2021, should be kept for at least 7 years.",
       "signature": "8 years",
       "change": "at least 7 years → at least 8 years",
       "sentences": [
@@ -131,7 +131,7 @@
           ]
         },
         {
-          "text": "Records related to the COVID-19 related employee retention credit paid after June 30, 2021, should be kept for at least 8 years.",
+          "text": "Records related to qualified wages for the COVID-19 related employee retention credit paid after June 30, 2021, should be kept for at least 8 years.",
           "citations": [
             {
               "chunkId": "p15-2026:9:4",
@@ -269,7 +269,7 @@
       "kind": "changed_year",
       "sourceAnswer": "GM-01",
       "plantedIndex": 2,
-      "original": "Records related to the COVID-19 related employee retention credit paid after June 30, 2021, should be kept for at least 7 years.",
+      "original": "Records related to qualified wages for the COVID-19 related employee retention credit paid after June 30, 2021, should be kept for at least 7 years.",
       "signature": "June 30, 2020",
       "change": "June 30, 2021 → June 30, 2020",
       "sentences": [
@@ -296,7 +296,7 @@
           ]
         },
         {
-          "text": "Records related to the COVID-19 related employee retention credit paid after June 30, 2020, should be kept for at least 7 years.",
+          "text": "Records related to qualified wages for the COVID-19 related employee retention credit paid after June 30, 2020, should be kept for at least 7 years.",
           "citations": [
             {
               "chunkId": "p15-2026:9:4",
@@ -313,7 +313,7 @@
       "kind": "changed_year",
       "sourceAnswer": "GM-01",
       "plantedIndex": 2,
-      "original": "Records related to the COVID-19 related employee retention credit paid after June 30, 2021, should be kept for at least 7 years.",
+      "original": "Records related to qualified wages for the COVID-19 related employee retention credit paid after June 30, 2021, should be kept for at least 7 years.",
       "signature": "September 30, 2021",
       "change": "June 30, 2021 → September 30, 2021",
       "sentences": [
@@ -340,7 +340,7 @@
           ]
         },
         {
-          "text": "Records related to the COVID-19 related employee retention credit paid after September 30, 2021, should be kept for at least 7 years.",
+          "text": "Records related to qualified wages for the COVID-19 related employee retention credit paid after September 30, 2021, should be kept for at least 7 years.",
           "citations": [
             {
               "chunkId": "p15-2026:9:4",
@@ -384,7 +384,7 @@
           ]
         },
         {
-          "text": "Records related to the COVID-19 related employee retention credit paid after June 30, 2021, should be kept for at least 7 years.",
+          "text": "Records related to qualified wages for the COVID-19 related employee retention credit paid after June 30, 2021, should be kept for at least 7 years.",
           "citations": [
             {
               "chunkId": "p15-2026:9:4",
@@ -401,7 +401,7 @@
       "kind": "inverted_condition",
       "sourceAnswer": "GM-01",
       "plantedIndex": 2,
-      "original": "Records related to the COVID-19 related employee retention credit paid after June 30, 2021, should be kept for at least 7 years.",
+      "original": "Records related to qualified wages for the COVID-19 related employee retention credit paid after June 30, 2021, should be kept for at least 7 years.",
       "signature": "paid before",
       "change": "paid after June 30 → paid before June 30",
       "sentences": [
@@ -428,7 +428,7 @@
           ]
         },
         {
-          "text": "Records related to the COVID-19 related employee retention credit paid before June 30, 2021, should be kept for at least 7 years.",
+          "text": "Records related to qualified wages for the COVID-19 related employee retention credit paid before June 30, 2021, should be kept for at least 7 years.",
           "citations": [
             {
               "chunkId": "p15-2026:9:4",
@@ -610,7 +610,7 @@
           ]
         },
         {
-          "text": "Records related to the COVID-19 related employee retention credit paid after June 30, 2021, should be kept for at least 7 years.",
+          "text": "Records related to qualified wages for the COVID-19 related employee retention credit paid after June 30, 2021, should be kept for at least 7 years.",
           "citations": [
             {
               "chunkId": "p15-2026:9:4",
@@ -654,7 +654,7 @@
           ]
         },
         {
-          "text": "Records related to the COVID-19 related employee retention credit paid after June 30, 2021, should be kept for at least 7 years.",
+          "text": "Records related to qualified wages for the COVID-19 related employee retention credit paid after June 30, 2021, should be kept for at least 7 years.",
           "citations": [
             {
               "chunkId": "p15-2026:9:4",
@@ -973,7 +973,7 @@
           ]
         },
         {
-          "text": "Records related to the COVID-19 related employee retention credit paid after June 30, 2021, should be kept for at least 7 years.",
+          "text": "Records related to qualified wages for the COVID-19 related employee retention credit paid after June 30, 2021, should be kept for at least 7 years.",
           "citations": [
             {
               "chunkId": "p15-2026:9:4",

@@ -37,6 +37,7 @@
     "eval:gate": "dotenv -e .env.local -- tsx scripts/gate-check.ts",
     "eval:pt-injection": "dotenv -e .env.local -- tsx scripts/pt-injection-check.ts",
     "eval:hand10": "dotenv -e .env.local -- tsx scripts/hand10-check.ts",
+    "eval:judge-gate": "dotenv -e .env.local -- tsx scripts/judge-gate.ts",
     "answer:check": "dotenv -e .env.local -- tsx scripts/answer-check.ts",
     "permissions:verify": "dotenv -e .env.local -- tsx scripts/permissions-verify.ts",
     "spend": "dotenv -e .env.local -- tsx scripts/spend.ts"
