@@ -75,6 +75,9 @@ export type JudgeResult = { usage: { model: string; inputTokens: number; outputT
   | { ok: true; verdict: JudgeVerdict }
   | { ok: false; outcome: 'schema_invalid'; reason: string });
 
+/** Same over-estimate as the composer: ≈ 3 chars per token plus the full max_tokens ceiling. */
+export const estimateJudgeMicroUsd = (model: string, promptChars: number) => costMicroUsd(model, Math.ceil(promptChars / 3), JUDGE_MAX_TOKENS);
+
 export async function judge(
   sentence: string, citations: Citation[], chunks: RetrievedChunk[],
   opts: { model?: string; runId?: string | null; answerId?: string | null; system?: string } = {},
@@ -84,8 +87,7 @@ export async function judge(
   const built = buildJudgePrompt(sentence, citations, chunks);
   const { user } = built;
   const system = opts.system ?? built.system;
-  // Same over-estimate as the composer: ≈ 3 chars per token plus the full max_tokens ceiling.
-  await assertBudget({ purpose: 'judge', model, estimateMicroUsd: costMicroUsd(model, Math.ceil((system.length + user.length) / 3), JUDGE_MAX_TOKENS), runId, answerId });
+  await assertBudget({ purpose: 'judge', model, estimateMicroUsd: estimateJudgeMicroUsd(model, system.length + user.length), runId, answerId });
   const { text, inputTokens, outputTokens } = await callMessages({ model, maxTokens: JUDGE_MAX_TOKENS, system, user });
   const parsed = parseJudgeOutput(text);
   const row = await recordCall({ purpose: 'judge', model, inputTokens, outputTokens, outcome: parsed.ok ? 'ok' : 'schema_invalid', runId, answerId });

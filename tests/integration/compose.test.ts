@@ -92,6 +92,14 @@ describe('answer() end to end (task 2.5)', () => {
     expect(await answerRows()).toHaveLength(0);
   });
 
+  it('with enforceGate false, below θ still calls the model and records the failing gate (task 3.7)', async () => {
+    vi.stubGlobal('fetch', reply(JSON.stringify({ sentences: [] })));
+    const a = await answer(caller, 'What is the capital of France?', { retriever: retriever(), snapshot: SNAP, docs: DOCS, enforceGate: false });
+    expect(a.gate.pass).toBe(false);
+    expect(a.usage).not.toBeNull();
+    expect(await answerRows()).toHaveLength(1);
+  });
+
   it('output that fails the schema is refused INSUFFICIENT_SUPPORT and logged schema_invalid, cost counted', async () => {
     vi.stubGlobal('fetch', reply('Here is the answer: {"sentences": []}'));
     const a = await answer(caller, QUESTION, { retriever: retriever(), snapshot: SNAP, docs: DOCS });

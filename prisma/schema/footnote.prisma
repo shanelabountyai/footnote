@@ -104,13 +104,17 @@ enum AnswerStatus {
   refused
 }
 
-/// One row per answer() call made through the API. `id` is the answerId the ModelCall rows carry, so
+/// One row per answer() call made through the API or the eval harness (task 3.7). `id` is the answerId the ModelCall rows carry, so
 /// `GET /api/answers/:id` replays from this row and those rows with zero model calls (D-23).
 model Answer {
   id               String       @id @db.Uuid
   createdAt        DateTime     @default(now()) @db.Timestamptz(6)
   orgId            String       @db.Uuid
-  userId           String       @db.Uuid
+  /// Null for eval-harness rows, which run as a golden callerRole, not as a user.
+  userId           String?      @db.Uuid
+  /// Eval harness only: the run (`eval:answers`) and the golden question id.
+  runId            String?
+  goldenId         String?
   question         String
   callerRole       FootnoteRole
   snapshot         String
@@ -126,4 +130,25 @@ model Answer {
   droppedSentences Int
 
   @@index([orgId, createdAt])
+  @@index([runId])
+}
+
+/// One judge verdict per answered sentence (task 3.7). `verdict` is null when the reply failed the schema
+/// (`outcome` schema_invalid). The scorecard (3.9) reads these with zero model calls.
+model SentenceJudgment {
+  id            String           @id @default(uuid()) @db.Uuid
+  createdAt     DateTime         @default(now()) @db.Timestamptz(6)
+  runId         String
+  answerId      String           @db.Uuid
+  sentenceIndex Int
+  model         String
+  promptHash    String
+  outcome       ModelCallOutcome
+  verdict       String?
+  quoteIsRule   Boolean?
+  editionStated Boolean?
+  reason        String
+
+  @@unique([answerId, sentenceIndex, model, promptHash])
+  @@index([runId])
 }
