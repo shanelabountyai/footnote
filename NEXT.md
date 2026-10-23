@@ -1,8 +1,12 @@
 # NEXT
 
-## ▶ Next session: 3.4 grading sheet for Shane (verdicts hidden), then κ
+## ▶ Next session: Shane grades `eval/grades.md`, then κ (3.5 figure)
 
-`cohenKappa` is built (3.5 code half, D-36). The κ figure needs 3.4: pick 20 of the 55 sentences in run `answers:hybrid:claude-sonnet-5-5:theta-on:2026-10-23T1646` and build a grading sheet with the `SentenceJudgment` verdicts hidden. Shane grades them into `eval/grades.md` (supported / partial / unsupported). Then compute κ with n and raw agreement against the Opus verdicts; the target is ≥ 0.7. **Carry to 3.8:** θ-off Sonnet + Opus judge estimates $3.51 and is refused (D-35); 3.6's outcome decides whether Sonnet judges the matrix. Still open: GitHub repo + `origin`.
+**Shane:** fill each `grade:` line in `eval/grades.md` (supported / partial / unsupported, a note after is fine). Don't open D-35 / D-37 / the run results JSON while grading: they name which sentences the judge called partial. **Then Claude:** parse the grades by the `<!-- key answerId:idx -->` comments, join to `SentenceJudgment` (run `answers:hybrid:claude-sonnet-5-5:theta-on:2026-10-23T1646`, judge `claude-opus-5-5`), report `cohenKappa` with n and raw agreement, labelled "enriched sample" (D-37). Target ≥ 0.7. Then 3.6 (same 20 to Sonnet). **Carry to 3.8:** θ-off Sonnet + Opus judge estimates $3.51 and is refused (D-35). Still open: GitHub repo + `origin`.
+
+## Session 23 — 2026-10-23 (task 3.4, sheet half)
+
+**Built:** `scripts/grading-sheet.ts` behind `npm run eval:grading-sheet`; wrote `eval/grades.md` (20 sentences: 14 hand-10, 2 judge-partial, 4 by hash). **Decided:** D-37 (enriched sample, Shane's pick). **Gate:** typecheck OK, eslint clean on the new script, `corpus:check` OK, `permissions:verify` OK; no product code changed. **Spend: $1.9303 of $25** (no model calls).
 
 ## Session 22 — 2026-10-23 (task 3.5, code half)
 
