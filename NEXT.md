@@ -1,8 +1,18 @@
 # NEXT
 
-## ▶ Next session: task 3.4 needs Shane, so start with 3.7 (full-run harness)
+## ▶ Next session: 3.5 (`cohenKappa`, pure, no spend), then 3.4 is Shane's
 
-3.3 passed (D-33, D-34). 3.4 (Shane grades 20 answered sentences) depends on a full hybrid + Sonnet run, so 3.7 (`npm run eval:answers`) comes first: it builds the run that 3.4 draws from. 3.5 (`cohenKappa`, pure + unit tests) can be built at any time, with no spend. Still open: GitHub repo + `origin`.
+3.7 is done: the run 3.4 draws from is `answers:hybrid:claude-sonnet-5-5:theta-on:2026-10-23T1646` (19 answered, 55 sentences; the six answered hand-10 questions are all in it). 3.4 needs Shane to grade 20 of those sentences into `eval/grades.md` without seeing the `SentenceJudgment` verdicts, so a grading sheet with the verdicts hidden is the first thing to build for him. **Carry to 3.8:** θ-off Sonnet + Opus judge estimates $3.51 and is refused (D-35); 3.6's outcome decides whether Sonnet judges the matrix. Still open: GitHub repo + `origin`.
+
+## Session 21 — 2026-10-23 (task 3.7, full-run harness)
+
+**Built:** `scripts/eval-answers.ts` behind `npm run eval:answers -- --retriever= --model= [--judge=] [--theta=off] [--estimate]`; `src/lib/eval/answers-run.ts` `estimateRunMicroUsd` + `tests/unit/answers-run.test.ts` (3); `answer()` option `enforceGate` + 1 integration test; `buildAnswerPrompt` and `estimateJudgeMicroUsd` exported; migration `20261023164436_eval_answers` (`Answer.runId`, `goldenId`, nullable `userId`; `SentenceJudgment`), applied to dev and test.
+
+**Ran live:** hybrid + Sonnet, θ on: 41 Answer rows, answered 19, partial 0, refused 22 (18 at θ, 4 by the model: GA-11, GM-08, GU-01, GU-05), 55 sentences judged: 53 supported, 2 partial (GA-12 s0, GM-07 s1), JUDGE UNCALIBRATED. **$0.6333** vs estimate $1.9685. Results: `eval/results/answers-hybrid-claude-sonnet-5-5-theta-on-cd1252c6a407-2026-10-23T1646.json`.
+
+**Decided:** D-35.
+
+**Gate:** `npm test` **47 files / 281 passed**; typecheck OK; lint 0 errors (the 1 template warning); `corpus:check` OK; `permissions:verify` OK. **Spend: $1.9303 of $25.**
 
 ## Session 20 — 2026-10-22 (task 3.3, judge gate)
 

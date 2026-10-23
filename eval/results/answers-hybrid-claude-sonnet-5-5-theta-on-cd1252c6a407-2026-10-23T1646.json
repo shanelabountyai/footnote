@@ -1,0 +1,663 @@
+{
+ "snapshot": "sha256:cd1252c6a4077a7ce34eefe1f5e9cc79d9bc7bf4737ee857c64f526c73bf8066",
+ "runId": "answers:hybrid:claude-sonnet-5-5:theta-on:2026-10-23T1646",
+ "retriever": "hybrid",
+ "model": "claude-sonnet-5-5",
+ "judge": "claude-opus-5-5",
+ "judgePromptHash": "071689f33855",
+ "theta": "on",
+ "unverified": [],
+ "estimateUsd": 1.968462,
+ "spentUsd": 0.63331,
+ "stopped": null,
+ "rows": [
+  {
+   "id": "GA-01",
+   "slice": "A",
+   "answerId": "ab0c9418-4c77-4bed-80f0-5c9d39642ad8",
+   "status": "answered",
+   "refusal": null,
+   "gate": {
+    "score": 0.6869639399274465,
+    "theta": 0.559,
+    "pass": true
+   },
+   "droppedSentences": 0,
+   "verdicts": [
+    "supported"
+   ]
+  },
+  {
+   "id": "GA-02",
+   "slice": "A",
+   "answerId": "825fde94-b47b-4cdf-b2b7-60cae06c954b",
+   "status": "refused",
+   "refusal": "NO_RELEVANT_PASSAGE",
+   "gate": {
+    "score": 0.5551233987399938,
+    "theta": 0.559,
+    "pass": false
+   },
+   "droppedSentences": 0,
+   "verdicts": []
+  },
+  {
+   "id": "GA-03",
+   "slice": "A",
+   "answerId": "486277fc-13bc-4fb8-b708-932293c6b692",
+   "status": "answered",
+   "refusal": null,
+   "gate": {
+    "score": 0.6176439024063477,
+    "theta": 0.559,
+    "pass": true
+   },
+   "droppedSentences": 0,
+   "verdicts": [
+    "supported",
+    "supported"
+   ]
+  },
+  {
+   "id": "GA-04",
+   "slice": "A",
+   "answerId": "e33beb71-2acb-4ab0-b0f1-d55b1c52496d",
+   "status": "answered",
+   "refusal": null,
+   "gate": {
+    "score": 0.5690073458247833,
+    "theta": 0.559,
+    "pass": true
+   },
+   "droppedSentences": 0,
+   "verdicts": [
+    "supported",
+    "supported",
+    "supported"
+   ]
+  },
+  {
+   "id": "GA-05",
+   "slice": "A",
+   "answerId": "ea40c8ef-075a-40c4-9d93-954ad54224e5",
+   "status": "answered",
+   "refusal": null,
+   "gate": {
+    "score": 0.6834587778588967,
+    "theta": 0.559,
+    "pass": true
+   },
+   "droppedSentences": 0,
+   "verdicts": [
+    "supported",
+    "supported",
+    "supported"
+   ]
+  },
+  {
+   "id": "GA-06",
+   "slice": "A",
+   "answerId": "d816b780-3b6b-48b3-97c7-9ace01034496",
+   "status": "refused",
+   "refusal": "NO_RELEVANT_PASSAGE",
+   "gate": {
+    "score": 0.4544067735187085,
+    "theta": 0.559,
+    "pass": false
+   },
+   "droppedSentences": 0,
+   "verdicts": []
+  },
+  {
+   "id": "GA-07",
+   "slice": "A",
+   "answerId": "c51a719a-9699-40ee-8ed1-c574a6c4dfd5",
+   "status": "answered",
+   "refusal": null,
+   "gate": {
+    "score": 0.679716346314608,
+    "theta": 0.559,
+    "pass": true
+   },
+   "droppedSentences": 0,
+   "verdicts": [
+    "supported",
+    "supported",
+    "supported",
+    "supported"
+   ]
+  },
+  {
+   "id": "GA-08",
+   "slice": "A",
+   "answerId": "57957b99-a40f-48f8-affc-3d8dcb44e8bf",
+   "status": "answered",
+   "refusal": null,
+   "gate": {
+    "score": 0.6104179489114518,
+    "theta": 0.559,
+    "pass": true
+   },
+   "droppedSentences": 0,
+   "verdicts": [
+    "supported",
+    "supported",
+    "supported",
+    "supported",
+    "supported"
+   ]
+  },
+  {
+   "id": "GA-09",
+   "slice": "A",
+   "answerId": "5aaa128e-e7cd-4787-9142-a95e4c62a32d",
+   "status": "refused",
+   "refusal": "NO_RELEVANT_PASSAGE",
+   "gate": {
+    "score": 0.5529385615807938,
+    "theta": 0.559,
+    "pass": false
+   },
+   "droppedSentences": 0,
+   "verdicts": []
+  },
+  {
+   "id": "GA-10",
+   "slice": "A",
+   "answerId": "3f4e9048-6392-480a-95c9-79aa802dbcfa",
+   "status": "answered",
+   "refusal": null,
+   "gate": {
+    "score": 0.6392661738615413,
+    "theta": 0.559,
+    "pass": true
+   },
+   "droppedSentences": 0,
+   "verdicts": [
+    "supported",
+    "supported",
+    "supported"
+   ]
+  },
+  {
+   "id": "GA-11",
+   "slice": "A",
+   "answerId": "7152bba1-e2a7-4d65-98de-837946fd3ca0",
+   "status": "refused",
+   "refusal": "INSUFFICIENT_SUPPORT",
+   "gate": {
+    "score": 0.583242192880766,
+    "theta": 0.559,
+    "pass": true
+   },
+   "droppedSentences": 0,
+   "verdicts": []
+  },
+  {
+   "id": "GA-12",
+   "slice": "A",
+   "answerId": "e535a8d8-e1c8-46e6-a4ef-0c7ad3343e38",
+   "status": "answered",
+   "refusal": null,
+   "gate": {
+    "score": 0.5723367929458985,
+    "theta": 0.559,
+    "pass": true
+   },
+   "droppedSentences": 0,
+   "verdicts": [
+    "partial",
+    "supported",
+    "supported",
+    "supported",
+    "supported"
+   ]
+  },
+  {
+   "id": "GA-13",
+   "slice": "A",
+   "answerId": "e911376e-c809-457f-bf7d-9e42028bcc6d",
+   "status": "answered",
+   "refusal": null,
+   "gate": {
+    "score": 0.7090984637132273,
+    "theta": 0.559,
+    "pass": true
+   },
+   "droppedSentences": 0,
+   "verdicts": [
+    "supported",
+    "supported",
+    "supported",
+    "supported"
+   ]
+  },
+  {
+   "id": "GA-14",
+   "slice": "A",
+   "answerId": "8cdca7f5-7be7-44d5-aaf7-a1adea20fc8a",
+   "status": "answered",
+   "refusal": null,
+   "gate": {
+    "score": 0.6569185870436326,
+    "theta": 0.559,
+    "pass": true
+   },
+   "droppedSentences": 0,
+   "verdicts": [
+    "supported",
+    "supported"
+   ]
+  },
+  {
+   "id": "GM-01",
+   "slice": "M",
+   "answerId": "75ac8d5f-f036-42e5-bdba-ad65a28e3f7f",
+   "status": "answered",
+   "refusal": null,
+   "gate": {
+    "score": 0.7194678830625868,
+    "theta": 0.559,
+    "pass": true
+   },
+   "droppedSentences": 0,
+   "verdicts": [
+    "supported",
+    "supported",
+    "supported"
+   ]
+  },
+  {
+   "id": "GM-02",
+   "slice": "M",
+   "answerId": "3d307081-162e-44f7-aa5c-6d489df771eb",
+   "status": "refused",
+   "refusal": "NO_RELEVANT_PASSAGE",
+   "gate": {
+    "score": 0.522784761386599,
+    "theta": 0.559,
+    "pass": false
+   },
+   "droppedSentences": 0,
+   "verdicts": []
+  },
+  {
+   "id": "GM-03",
+   "slice": "M",
+   "answerId": "2e0527f5-ec9f-44b9-87cb-b242d939350d",
+   "status": "answered",
+   "refusal": null,
+   "gate": {
+    "score": 0.6514169808824154,
+    "theta": 0.559,
+    "pass": true
+   },
+   "droppedSentences": 0,
+   "verdicts": [
+    "supported",
+    "supported",
+    "supported",
+    "supported"
+   ]
+  },
+  {
+   "id": "GM-04",
+   "slice": "M",
+   "answerId": "e71b2315-d266-4d28-b43c-a61494f8b22a",
+   "status": "answered",
+   "refusal": null,
+   "gate": {
+    "score": 0.6508912264238372,
+    "theta": 0.559,
+    "pass": true
+   },
+   "droppedSentences": 0,
+   "verdicts": [
+    "supported",
+    "supported",
+    "supported",
+    "supported"
+   ]
+  },
+  {
+   "id": "GM-05",
+   "slice": "M",
+   "answerId": "9310e3d7-37e9-48c6-ad4c-f887defdb7fd",
+   "status": "refused",
+   "refusal": "NO_RELEVANT_PASSAGE",
+   "gate": {
+    "score": 0.46342083302776027,
+    "theta": 0.559,
+    "pass": false
+   },
+   "droppedSentences": 0,
+   "verdicts": []
+  },
+  {
+   "id": "GM-06",
+   "slice": "M",
+   "answerId": "02eecbf7-0fdb-49e2-a5ac-3d499c345325",
+   "status": "refused",
+   "refusal": "NO_RELEVANT_PASSAGE",
+   "gate": {
+    "score": 0.5584288100174284,
+    "theta": 0.559,
+    "pass": false
+   },
+   "droppedSentences": 0,
+   "verdicts": []
+  },
+  {
+   "id": "GM-07",
+   "slice": "M",
+   "answerId": "fc31daee-d45c-4c99-8cb4-f38b54f46bb1",
+   "status": "answered",
+   "refusal": null,
+   "gate": {
+    "score": 0.5962279313018295,
+    "theta": 0.559,
+    "pass": true
+   },
+   "droppedSentences": 0,
+   "verdicts": [
+    "supported",
+    "partial",
+    "supported",
+    "supported"
+   ]
+  },
+  {
+   "id": "GM-08",
+   "slice": "M",
+   "answerId": "92ad04a4-413e-4fc0-b873-7e0b5d2b3ae3",
+   "status": "refused",
+   "refusal": "INSUFFICIENT_SUPPORT",
+   "gate": {
+    "score": 0.5945810095724445,
+    "theta": 0.559,
+    "pass": true
+   },
+   "droppedSentences": 0,
+   "verdicts": []
+  },
+  {
+   "id": "GU-01",
+   "slice": "U",
+   "answerId": "0b1b09bd-6b11-4b79-8e64-9ce8ab72f002",
+   "status": "refused",
+   "refusal": "INSUFFICIENT_SUPPORT",
+   "gate": {
+    "score": 0.6038421560952549,
+    "theta": 0.559,
+    "pass": true
+   },
+   "droppedSentences": 0,
+   "verdicts": []
+  },
+  {
+   "id": "GU-02",
+   "slice": "U",
+   "answerId": "fc3d9df6-430a-4b99-9530-f36e9c4934a1",
+   "status": "refused",
+   "refusal": "NO_RELEVANT_PASSAGE",
+   "gate": {
+    "score": 0.46683467430399006,
+    "theta": 0.559,
+    "pass": false
+   },
+   "droppedSentences": 0,
+   "verdicts": []
+  },
+  {
+   "id": "GU-03",
+   "slice": "U",
+   "answerId": "a153889b-88b4-40e6-8fc2-88d45cce25a0",
+   "status": "refused",
+   "refusal": "NO_RELEVANT_PASSAGE",
+   "gate": {
+    "score": 0.5330017168229773,
+    "theta": 0.559,
+    "pass": false
+   },
+   "droppedSentences": 0,
+   "verdicts": []
+  },
+  {
+   "id": "GU-04",
+   "slice": "U",
+   "answerId": "452590bd-2728-4ba1-9b2f-4eae4877ccbd",
+   "status": "refused",
+   "refusal": "NO_RELEVANT_PASSAGE",
+   "gate": {
+    "score": 0.42856416532015507,
+    "theta": 0.559,
+    "pass": false
+   },
+   "droppedSentences": 0,
+   "verdicts": []
+  },
+  {
+   "id": "GU-05",
+   "slice": "U",
+   "answerId": "a6195d64-5441-48df-9ef0-cfe300c958bb",
+   "status": "refused",
+   "refusal": "INSUFFICIENT_SUPPORT",
+   "gate": {
+    "score": 0.5916983157283509,
+    "theta": 0.559,
+    "pass": true
+   },
+   "droppedSentences": 0,
+   "verdicts": []
+  },
+  {
+   "id": "GU-06",
+   "slice": "U",
+   "answerId": "97dbab07-3d9f-4e9c-af6e-d514314fc519",
+   "status": "refused",
+   "refusal": "NO_RELEVANT_PASSAGE",
+   "gate": {
+    "score": 0.4239509530053145,
+    "theta": 0.559,
+    "pass": false
+   },
+   "droppedSentences": 0,
+   "verdicts": []
+  },
+  {
+   "id": "GU-07",
+   "slice": "U",
+   "answerId": "0da86357-eb50-4c5e-a3ee-0437fbc7780b",
+   "status": "refused",
+   "refusal": "NO_RELEVANT_PASSAGE",
+   "gate": {
+    "score": 0.5063024185786259,
+    "theta": 0.559,
+    "pass": false
+   },
+   "droppedSentences": 0,
+   "verdicts": []
+  },
+  {
+   "id": "GU-08",
+   "slice": "U",
+   "answerId": "ec5670aa-f4c6-4584-8525-ba9df1d0c210",
+   "status": "refused",
+   "refusal": "NO_RELEVANT_PASSAGE",
+   "gate": {
+    "score": 0.5440634756258572,
+    "theta": 0.559,
+    "pass": false
+   },
+   "droppedSentences": 0,
+   "verdicts": []
+  },
+  {
+   "id": "GP-01",
+   "slice": "P",
+   "answerId": "37ea4a24-3c04-4462-a86b-f7446008f891",
+   "status": "refused",
+   "refusal": "NO_RELEVANT_PASSAGE",
+   "gate": {
+    "score": 0.32616591261308214,
+    "theta": 0.559,
+    "pass": false
+   },
+   "droppedSentences": 0,
+   "verdicts": []
+  },
+  {
+   "id": "GP-02",
+   "slice": "P",
+   "answerId": "e06fcdc6-8efb-4622-83cb-987bdb593d35",
+   "status": "answered",
+   "refusal": null,
+   "gate": {
+    "score": 0.5816491462211988,
+    "theta": 0.559,
+    "pass": true
+   },
+   "droppedSentences": 0,
+   "verdicts": [
+    "supported"
+   ]
+  },
+  {
+   "id": "GP-03",
+   "slice": "P",
+   "answerId": "1bf2ad52-27ca-4a87-8675-5beddb6dd310",
+   "status": "refused",
+   "refusal": "NO_RELEVANT_PASSAGE",
+   "gate": {
+    "score": 0.5094662730338442,
+    "theta": 0.559,
+    "pass": false
+   },
+   "droppedSentences": 0,
+   "verdicts": []
+  },
+  {
+   "id": "GP-04",
+   "slice": "P",
+   "answerId": "2d14c802-d9c5-48d6-ae36-0a818a7f425d",
+   "status": "answered",
+   "refusal": null,
+   "gate": {
+    "score": 0.7460184783269106,
+    "theta": 0.559,
+    "pass": true
+   },
+   "droppedSentences": 0,
+   "verdicts": [
+    "supported"
+   ]
+  },
+  {
+   "id": "GP-05",
+   "slice": "P",
+   "answerId": "d1066f40-7848-473e-9ebb-811a2f4f7018",
+   "status": "answered",
+   "refusal": null,
+   "gate": {
+    "score": 0.7125648863342892,
+    "theta": 0.559,
+    "pass": true
+   },
+   "droppedSentences": 0,
+   "verdicts": [
+    "supported",
+    "supported"
+   ]
+  },
+  {
+   "id": "GV-01",
+   "slice": "V",
+   "answerId": "04c26be2-a49b-4e4a-9818-bc5d1c52b69e",
+   "status": "answered",
+   "refusal": null,
+   "gate": {
+    "score": 0.5932510232631093,
+    "theta": 0.559,
+    "pass": true
+   },
+   "droppedSentences": 0,
+   "verdicts": [
+    "supported",
+    "supported"
+   ]
+  },
+  {
+   "id": "GV-02",
+   "slice": "V",
+   "answerId": "c64bd734-f7e6-4c65-9546-d50a5b97a745",
+   "status": "refused",
+   "refusal": "NO_RELEVANT_PASSAGE",
+   "gate": {
+    "score": 0.5507949772340223,
+    "theta": 0.559,
+    "pass": false
+   },
+   "droppedSentences": 0,
+   "verdicts": []
+  },
+  {
+   "id": "GV-03",
+   "slice": "V",
+   "answerId": "8af0a6d6-a92b-4b01-9034-01b35ed0cea6",
+   "status": "refused",
+   "refusal": "NO_RELEVANT_PASSAGE",
+   "gate": {
+    "score": 0.5162286585228766,
+    "theta": 0.559,
+    "pass": false
+   },
+   "droppedSentences": 0,
+   "verdicts": []
+  },
+  {
+   "id": "GV-04",
+   "slice": "V",
+   "answerId": "afd9b821-1edc-42d9-86e4-420fc66dc3d1",
+   "status": "answered",
+   "refusal": null,
+   "gate": {
+    "score": 0.6733915392419006,
+    "theta": 0.559,
+    "pass": true
+   },
+   "droppedSentences": 0,
+   "verdicts": [
+    "supported",
+    "supported"
+   ]
+  },
+  {
+   "id": "GV-05",
+   "slice": "V",
+   "answerId": "960f5ff9-5c73-4ba0-aadd-9bf7bd0ee17e",
+   "status": "refused",
+   "refusal": "NO_RELEVANT_PASSAGE",
+   "gate": {
+    "score": 0.47286513609500025,
+    "theta": 0.559,
+    "pass": false
+   },
+   "droppedSentences": 0,
+   "verdicts": []
+  },
+  {
+   "id": "GV-06",
+   "slice": "V",
+   "answerId": "b1f31edb-2f06-4f03-b662-262846f8cd45",
+   "status": "refused",
+   "refusal": "NO_RELEVANT_PASSAGE",
+   "gate": {
+    "score": 0.509730782025131,
+    "theta": 0.559,
+    "pass": false
+   },
+   "droppedSentences": 0,
+   "verdicts": []
+  }
+ ]
+}
