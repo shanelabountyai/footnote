@@ -1,8 +1,16 @@
 # NEXT
 
-## ▶ Next session: 3.5 (`cohenKappa`, pure, no spend), then 3.4 is Shane's
+## ▶ Next session: 3.4 grading sheet for Shane (verdicts hidden), then κ
 
-3.7 is done: the run 3.4 draws from is `answers:hybrid:claude-sonnet-5-5:theta-on:2026-10-23T1646` (19 answered, 55 sentences; the six answered hand-10 questions are all in it). 3.4 needs Shane to grade 20 of those sentences into `eval/grades.md` without seeing the `SentenceJudgment` verdicts, so a grading sheet with the verdicts hidden is the first thing to build for him. **Carry to 3.8:** θ-off Sonnet + Opus judge estimates $3.51 and is refused (D-35); 3.6's outcome decides whether Sonnet judges the matrix. Still open: GitHub repo + `origin`.
+`cohenKappa` is built (3.5 code half, D-36). The κ figure needs 3.4: pick 20 of the 55 sentences in run `answers:hybrid:claude-sonnet-5-5:theta-on:2026-10-23T1646` and build a grading sheet with the `SentenceJudgment` verdicts hidden. Shane grades them into `eval/grades.md` (supported / partial / unsupported). Then compute κ with n and raw agreement against the Opus verdicts; the target is ≥ 0.7. **Carry to 3.8:** θ-off Sonnet + Opus judge estimates $3.51 and is refused (D-35); 3.6's outcome decides whether Sonnet judges the matrix. Still open: GitHub repo + `origin`.
+
+## Session 22 — 2026-10-23 (task 3.5, code half)
+
+**Built:** `src/lib/eval/kappa.ts` `cohenKappa` + `KAPPA_TARGET`; `tests/unit/kappa.test.ts` (4 tests).
+
+**Decided:** D-36 (κ is null when pₑ = 1; unweighted over the three judge labels).
+
+**Gate:** `npm test` **48 files / 285 passed**; typecheck OK; lint 0 errors (the 1 template warning); `corpus:check` OK; `permissions:verify` OK. **Spend: $1.9303 of $25** (no model calls).
 
 ## Session 21 — 2026-10-23 (task 3.7, full-run harness)
 
