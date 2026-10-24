@@ -41,7 +41,7 @@ describe('judge() (task 3.1)', () => {
 
     const r = await judge(SENTENCE, [CITATION], [CHUNK]);
 
-    expect(r).toMatchObject({ ok: false, outcome: 'schema_invalid', reason: 'not a single JSON value' });
+    expect(r).toMatchObject({ ok: false, outcome: 'schema_invalid', reason: expect.stringMatching(/^not a single JSON value: Looks supported\./) });
     expect(fetchMock).toHaveBeenCalledTimes(1);
     const [row] = await db.modelCall.findMany();
     expect(row).toMatchObject({ purpose: 'judge', outcome: 'schema_invalid', costMicroUsd: costMicroUsd(JUDGE_MODEL, 640, 48) });

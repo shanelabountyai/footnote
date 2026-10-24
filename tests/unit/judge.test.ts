@@ -23,9 +23,13 @@ describe('parseJudgeOutput (task 3.1)', () => {
     expect(invalid({ ...valid, quoteIsRule: 'yes' })).toMatch(/quoteIsRule/);
   });
 
-  it('rejects prose or a fence around the JSON', () => {
-    expect(invalid(`Verdict:\n${JSON.stringify(valid)}`)).toBe('not a single JSON value');
-    expect(invalid('```json\n' + JSON.stringify(valid) + '\n```')).toBe('not a single JSON value');
+  it('rejects prose around the JSON and keeps the raw head in the reason', () => {
+    expect(invalid(`Verdict:\n${JSON.stringify(valid)}`)).toBe(`not a single JSON value: Verdict: ${JSON.stringify(valid)}`.slice(0, 225));
+    expect(invalid('Sure. ```json\n' + JSON.stringify(valid) + '\n```')).toMatch(/^not a single JSON value: Sure\./);
+  });
+
+  it('accepts one code fence around the JSON and nothing else (D-38)', () => {
+    for (const raw of ['```json\n' + JSON.stringify(valid) + '\n```', '```\n' + JSON.stringify(valid) + '\n```\n']) expect(parseJudgeOutput(raw)).toEqual({ ok: true, verdict: valid });
   });
 });
 

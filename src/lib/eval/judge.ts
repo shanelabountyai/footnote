@@ -59,13 +59,15 @@ export const JudgeVerdictSchema = z.strictObject({
 });
 export type JudgeVerdict = z.infer<typeof JudgeVerdictSchema>;
 
-/** Strict JSON only: prose or a code fence around the object is a schema failure, as for answers (D-6a). */
+/** Strict JSON: prose around the object is a schema failure, as for answers (D-6a). One code fence around it is
+ *  stripped, since Sonnet fenced 11 of 20 judge replies (D-38); the answer parser stays strict. */
 export function parseJudgeOutput(raw: string): { ok: true; verdict: JudgeVerdict } | { ok: false; reason: string } {
   let json: unknown;
   try {
-    json = JSON.parse(raw);
+    json = JSON.parse(raw.trim().replace(/^```(?:json)?\n([\s\S]*)\n```$/, '$1'));
   } catch {
-    return { ok: false, reason: 'not a single JSON value' };
+    const flat = raw.replace(/\s+/g, ' ');
+    return { ok: false, reason: `not a single JSON value: ${flat.length > 200 ? `${flat.slice(0, 120)} … ${flat.slice(-80)}` : flat}` };
   }
   const r = JudgeVerdictSchema.safeParse(json);
   return r.success ? { ok: true, verdict: r.data } : { ok: false, reason: z.prettifyError(r.error) };

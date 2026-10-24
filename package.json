@@ -40,6 +40,7 @@
     "eval:judge-gate": "dotenv -e .env.local -- tsx scripts/judge-gate.ts",
     "eval:answers": "dotenv -e .env.local -- tsx scripts/eval-answers.ts",
     "eval:grading-sheet": "dotenv -e .env.local -- tsx scripts/grading-sheet.ts",
+    "eval:rejudge": "dotenv -e .env.local -- tsx scripts/rejudge.ts",
     "answer:check": "dotenv -e .env.local -- tsx scripts/answer-check.ts",
     "permissions:verify": "dotenv -e .env.local -- tsx scripts/permissions-verify.ts",
     "spend": "dotenv -e .env.local -- tsx scripts/spend.ts"

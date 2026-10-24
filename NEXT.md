@@ -1,8 +1,12 @@
 # NEXT
 
-## ▶ Next session: Shane grades `eval/grades.md`, then κ (3.5 figure)
+## ▶ Next session: Shane grades `eval/grades.md`, then κ for both judges (3.5 + 3.6)
 
-**Shane:** fill each `grade:` line in `eval/grades.md` (supported / partial / unsupported, a note after is fine). Don't open D-35 / D-37 / the run results JSON while grading: they name which sentences the judge called partial. **Then Claude:** parse the grades by the `<!-- key answerId:idx -->` comments, join to `SentenceJudgment` (run `answers:hybrid:claude-sonnet-5-5:theta-on:2026-10-23T1646`, judge `claude-opus-5-5`), report `cohenKappa` with n and raw agreement, labelled "enriched sample" (D-37). Target ≥ 0.7. Then 3.6 (same 20 to Sonnet). **Carry to 3.8:** θ-off Sonnet + Opus judge estimates $3.51 and is refused (D-35). Still open: GitHub repo + `origin`.
+**Shane:** fill each `grade:` line in `eval/grades.md` (supported / partial / unsupported, a note after is fine). While grading, don't open D-35 / D-37 / D-38, the run results JSON, or the session-24 transcript's tool output: they show judge verdicts. **Then Claude:** parse the grades by the `<!-- key answerId:idx -->` comments and join them to `SentenceJudgment` for two judges. Opus: run `answers:hybrid:claude-sonnet-5-5:theta-on:2026-10-23T1646`, n 20. Sonnet: run `rejudge:claude-sonnet-5-5:2026-10-23T1646`, n 15 usable, 5 schema_invalid. Report `cohenKappa` with n and raw agreement for each, labelled "enriched sample" (D-37). Target ≥ 0.7. Then the D-19 call: Sonnet becomes the routine judge only if its κ is within 0.05 of Opus's. **Recommend Opus stays anyway**, since Sonnet's single-pass format failure rate is ≈ 7 of 20 (D-38). If Opus stays, re-estimate 3.8 under Opus: θ-off Sonnet + Opus judge already estimates $3.51, over the $3 run cap. Still open: GitHub repo + `origin`.
+
+## Session 24 — 2026-10-24 (task 3.6, Sonnet half, ahead of the grades)
+
+**Built:** `scripts/rejudge.ts` behind `npm run eval:rejudge -- --model=`. `parseJudgeOutput` strips one code fence and logs the raw head and tail on a failure (+1 unit test; 2 tests adjusted). **Ran live:** Sonnet on the 20, then two reruns of the failures: 11, then 7, then 5 schema_invalid; $0.1352 over 38 calls. **Decided:** D-38 (Shane chose fence stripping). **Gate:** `npm test` **48 files / 286 passed**; typecheck OK; lint OK; `corpus:check` OK; `permissions:verify` OK. **Spend: $2.0655 of $25.**
 
 ## Session 23 — 2026-10-23 (task 3.4, sheet half)
 
