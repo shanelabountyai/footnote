@@ -37,7 +37,7 @@ was paid
 
 </details>
 
-grade: 
+grade: partial — Claude draft, Shane approved: 'not limited' is quoted; the link from limitations period to record-keeping is on p.16, not cited here
 
 ---
 
@@ -83,7 +83,7 @@ car;
 
 </details>
 
-grade: 
+grade: supported — Claude draft, Shane approved
 
 ---
 
@@ -118,7 +118,7 @@ withholding Medicare tax at 1.45%, you must withhold a
 
 </details>
 
-grade: 
+grade: supported — Claude draft, Shane approved
 
 ---
 
@@ -152,7 +152,7 @@ the building, you would have to destroy the bushes and
 
 </details>
 
-grade: 
+grade: supported — Claude draft, Shane approved
 
 ---
 
@@ -191,7 +191,7 @@ the optional depreciation tables.
 
 </details>
 
-grade: 
+grade: supported — Claude draft, Shane approved: 'per square foot' is from the chunk's next line, not the quote
 
 ---
 
@@ -233,7 +233,7 @@ for a deduction.
 
 </details>
 
-grade: 
+grade: supported — Claude draft, Shane approved
 
 ---
 
@@ -274,7 +274,7 @@ rate by the due date (including extensions) of your return. You can’t revoke t
 
 </details>
 
-grade: 
+grade: supported — Claude draft, Shane approved
 
 ---
 
@@ -313,7 +313,7 @@ the optional depreciation tables.
 
 </details>
 
-grade: 
+grade: supported — Claude draft, Shane approved
 
 ---
 
@@ -354,7 +354,7 @@ return each day.
 
 </details>
 
-grade: 
+grade: supported — Claude draft, Shane approved
 
 ---
 
@@ -395,7 +395,7 @@ rate by the due date (including extensions) of your return. You can’t revoke t
 
 </details>
 
-grade: 
+grade: supported — Claude draft, Shane approved
 
 ---
 
@@ -431,7 +431,7 @@ identification number and your identification number on
 
 </details>
 
-grade: 
+grade: partial — Claude draft, Shane approved: the wages condition is the chunk's next bullet, not in the quote
 
 ---
 
@@ -464,7 +464,7 @@ $2,450,000 ($2,500,000 − $50,000).
 
 </details>
 
-grade: 
+grade: supported — Claude draft, Shane approved
 
 ---
 
@@ -504,7 +504,7 @@ method only).
 
 </details>
 
-grade: 
+grade: supported — Claude draft, Shane approved: 'more than one business' is implied by 'all of the businesses'
 
 ---
 
@@ -538,7 +538,7 @@ section 181(f) of the Internal Revenue Code, of which
 
 </details>
 
-grade: 
+grade: supported — Claude draft, Shane approved
 
 ---
 
@@ -581,7 +581,7 @@ kept for at least 6 years. For more information on
 
 </details>
 
-grade: 
+grade: supported — Claude draft, Shane approved
 
 ---
 
@@ -623,7 +623,7 @@ related employee retention credit paid after June 30,
 
 </details>
 
-grade: 
+grade: supported — Claude draft, Shane approved
 
 ---
 
@@ -657,7 +657,7 @@ the building, you would have to destroy the bushes and
 
 </details>
 
-grade: 
+grade: supported — Claude draft, Shane approved
 
 ---
 
@@ -694,7 +694,7 @@ or loss when you sell or otherwise dispose of the property.
 
 </details>
 
-grade: 
+grade: supported — Claude draft, Shane approved
 
 ---
 
@@ -719,7 +719,7 @@ other land preparation costs to the basis of your land because they have no dete
 
 </details>
 
-grade: 
+grade: supported — Claude draft, Shane approved
 
 ---
 
@@ -756,4 +756,4 @@ or loss when you sell or otherwise dispose of the property.
 
 </details>
 
-grade: 
+grade: supported — Claude draft, Shane approved: drops 'Generally', claim unchanged
