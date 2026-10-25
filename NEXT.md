@@ -1,8 +1,8 @@
 # NEXT
 
-## ▶ Next session: Shane grades `eval/grades.md`, then κ for both judges (3.5 + 3.6)
+## ▶ Next session: κ for both judges (3.5 + 3.6), then the D-19 call
 
-**Shane:** fill each `grade:` line in `eval/grades.md` (supported / partial / unsupported, a note after is fine). While grading, don't open D-35 / D-37 / D-38, the run results JSON, or the session-24 transcript's tool output: they show judge verdicts. **Then Claude:** parse the grades by the `<!-- key answerId:idx -->` comments and join them to `SentenceJudgment` for two judges. Opus: run `answers:hybrid:claude-sonnet-5-5:theta-on:2026-10-23T1646`, n 20. Sonnet: run `rejudge:claude-sonnet-5-5:2026-10-23T1646`, n 15 usable, 5 schema_invalid. Report `cohenKappa` with n and raw agreement for each, labelled "enriched sample" (D-37). Target ≥ 0.7. Then the D-19 call: Sonnet becomes the routine judge only if its κ is within 0.05 of Opus's. **Recommend Opus stays anyway**, since Sonnet's single-pass format failure rate is ≈ 7 of 20 (D-38). If Opus stays, re-estimate 3.8 under Opus: θ-off Sonnet + Opus judge already estimates $3.51, over the $3 run cap. Still open: GitHub repo + `origin`.
+Grades are done (`2ae0467`, D-39). Claude drafted them and Shane approved all 20: 18 supported, 2 partial (S-01, S-11). **Claude:** parse `eval/grades.md` by the `<!-- key answerId:idx -->` comments and join to `SentenceJudgment`. Opus: run `answers:hybrid:claude-sonnet-5-5:theta-on:2026-10-23T1646`, n 20. Sonnet: run `rejudge:claude-sonnet-5-5:2026-10-23T1646`, n 15 usable. Report `cohenKappa` with n and raw agreement, labelled "enriched sample, Claude-assisted grades" (D-39). With 18 of 20 one class, expect κ to be unstable or null; show raw agreement next to it. Then the D-19 call. The recommendation is that Opus stays, since Sonnet fails the format on ≈ 7 of 20 (D-38). Then re-estimate 3.8 under Opus ($3.51, over the $3 cap). Still open: GitHub repo + `origin`.
 
 ## Session 24 — 2026-10-24 (task 3.6, Sonnet half, ahead of the grades)
 
