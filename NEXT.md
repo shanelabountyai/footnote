@@ -1,8 +1,8 @@
 # NEXT
 
-## ▶ Next session: Shane picks how 3.8 runs given κ 0.17 (D-42), then build/run it
+## ▶ Next session: task 3.8 under D-43 (answer-only matrix)
 
-Pooled Opus κ **0.17** (n 40); sheet 2 caught the judge passing 5 of 20 sentences Shane would not support. 3.8 as written spends roughly 70–98% of each cell on judge calls, and dense/hybrid θ-off cells sit near or over the $3 cap (hybrid + Sonnet $3.51, D-35). Dense/hybrid estimates not re-run: Voyage connect timeout 2026-10-27; retry `npm run eval:answers -- --retriever=dense --model=claude-haiku-5-5 --theta=off --estimate`.
+Add `--judge=none` to `scripts/eval-answers.ts` (no judge estimate, no `SentenceJudgment` rows) + a unit test on `estimateRunMicroUsd` with no judge. Check `config/prices.json` Haiku row (present). Run `--estimate` per cell first. Voyage timed out on connect 2026-10-27, so retry the dense/hybrid estimate before anything else. Then run the cells **Haiku first**: fts/dense/hybrid × Haiku, then fts/dense × Sonnet, dense and hybrid with `--theta=off`. Run 1646 is the hybrid + Sonnet cell (D-43).
 
 ## Session 26 — 2026-10-27 (tasks 3.5 sheet 2, 3.8 estimate)
 
