@@ -3,13 +3,17 @@
 // questions (14), both sentences the judge called partial (an enriched sample, so κ can see the rare label), and 4 more
 // picked by hash, not by verdict. The order is hashed too, so position gives nothing away. Refuses to overwrite: the
 // file holds Shane's grades once written. Zero model calls.
+// `-- --sheet=2` (D-41) writes `eval/grades-2.md` instead: 20 more by hash from the sentences not on sheet 1, none forced,
+// numbered S-21 on, graded unassisted.
 import { createHash } from 'node:crypto';
 import { existsSync, readFileSync, writeFileSync } from 'node:fs';
+import { parseArgs } from 'node:util';
 import { db } from '@/core/db';
 import { chunksById } from '@/lib/retrieval/retriever';
 
 const RUN_ID = 'answers:hybrid:claude-sonnet-5-5:theta-on:2026-10-23T1646';
-const OUT = 'eval/grades.md';
+const SHEET2 = parseArgs({ options: { sheet: { type: 'string', default: '1' } } }).values.sheet === '2';
+const OUT = SHEET2 ? 'eval/grades-2.md' : 'eval/grades.md';
 const N = 20;
 
 type Sentence = { text: string; citations: string[]; superseded: string | null };
@@ -21,8 +25,9 @@ const hash = (s: string) => createHash('sha256').update(`${RUN_ID}|${s}`).digest
 
 const answers = await db.answer.findMany({ where: { runId: RUN_ID, status: { not: 'refused' } } });
 const partial = new Set((await db.sentenceJudgment.findMany({ where: { runId: RUN_ID, verdict: 'partial' } })).map((j) => `${j.answerId}:${j.sentenceIndex}`));
-const all = answers.flatMap((a) => (a.sentences as Sentence[]).map((s, i) => ({ a, s, i, key: `${a.id}:${i}` })));
-const forced = all.filter((x) => hand10.has(x.a.goldenId!) || partial.has(x.key));
+const onSheet1 = SHEET2 ? new Set([...readFileSync('eval/grades.md', 'utf8').matchAll(/<!-- key (\S+) -->/g)].map((m) => m[1]!)) : new Set<string>();
+const all = answers.flatMap((a) => (a.sentences as Sentence[]).map((s, i) => ({ a, s, i, key: `${a.id}:${i}` }))).filter((x) => !onSheet1.has(x.key));
+const forced = SHEET2 ? [] : all.filter((x) => hand10.has(x.a.goldenId!) || partial.has(x.key));
 const rest = all.filter((x) => !forced.includes(x)).sort((x, y) => hash(x.key).localeCompare(hash(y.key)));
 const picked = [...forced, ...rest.slice(0, N - forced.length)].sort((x, y) => hash(`order|${x.key}`).localeCompare(hash(`order|${y.key}`)));
 if (picked.length !== N) throw new Error(`expected ${N} sentences, got ${picked.length}`);
@@ -34,7 +39,7 @@ for (const [n, { a, s, i, key }] of picked.entries()) {
   // Same org + tier predicate as retrieval (non-negotiable 3), as the question's own caller.
   const chunks = new Map((await chunksById(a.snapshot, { orgId: a.orgId, role: a.callerRole }, cits.map((c) => c.chunkId))).map((c) => [c.chunkId, c.text]));
   blocks.push([
-    `## S-${String(n + 1).padStart(2, '0')} · ${a.goldenId} sentence ${i + 1}`,
+    `## S-${String(n + 1 + (SHEET2 ? N : 0)).padStart(2, '0')} · ${a.goldenId} sentence ${i + 1}`,
     `<!-- key ${key} -->`,
     `**Question:** ${golden.get(a.goldenId!) ?? a.question}`,
     `**Sentence:** ${s.text}`,
@@ -45,7 +50,7 @@ for (const [n, { a, s, i, key }] of picked.entries()) {
   ].join('\n\n'));
 }
 
-writeFileSync(OUT, `# Shane's grades (task 3.4)
+writeFileSync(OUT, `# Shane's grades (task 3.4${SHEET2 ? ', sheet 2, unassisted (D-41)' : ''})
 
 Run \`${RUN_ID}\`, ${N} sentences. The judge's verdicts are not in this file. For each sentence, fill in the \`grade:\` line with one of:
 

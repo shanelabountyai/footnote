@@ -1,8 +1,12 @@
 # NEXT
 
-## ▶ Next session: κ for both judges (3.5 + 3.6), then the D-19 call
+## ▶ Next session: Shane grades `eval/grades-2.md` unassisted, then `npm run eval:kappa`
 
-Grades are done (`2ae0467`, D-39). Claude drafted them and Shane approved all 20: 18 supported, 2 partial (S-01, S-11). **Claude:** parse `eval/grades.md` by the `<!-- key answerId:idx -->` comments and join to `SentenceJudgment`. Opus: run `answers:hybrid:claude-sonnet-5-5:theta-on:2026-10-23T1646`, n 20. Sonnet: run `rejudge:claude-sonnet-5-5:2026-10-23T1646`, n 15 usable. Report `cohenKappa` with n and raw agreement, labelled "enriched sample, Claude-assisted grades" (D-39). With 18 of 20 one class, expect κ to be unstable or null; show raw agreement next to it. Then the D-19 call. The recommendation is that Opus stays, since Sonnet fails the format on ≈ 7 of 20 (D-38). Then re-estimate 3.8 under Opus ($3.51, over the $3 cap). Still open: GitHub repo + `origin`.
+**Shane:** fill the 20 `grade:` lines in `eval/grades-2.md` (S-21 to S-40) **without a Claude draft** (D-41). The judge marked all 20 supported, so every partial or unsupported grade is a judge miss. **Then Claude:** run `npm run eval:kappa` (zero model calls). It prints κ per sheet and pooled for Opus. Record the figures in a D-entry. Then the 3.8 cost re-estimate under Opus: $3.51, over the $3 per-run cap.
+
+## Session 25 — 2026-10-25/27 (tasks 3.4 grades, 3.5 + 3.6 κ)
+
+**Built:** `scripts/kappa.ts` behind `npm run eval:kappa`, and a `--sheet=2` mode in `grading-sheet.ts`. **Measured:** on sheet 1 (enriched, Claude-assisted), Opus κ 0.44, n 20, raw 90%; Sonnet κ −0.07, n 15, raw 87%. **Decided:** D-39 (assisted grades), D-40 (Opus stays the judge), D-41 (sheet 2 unassisted; 0.7 is a target, not a gate). **Gate:** `npm test` 48 files / 286 passed; typecheck OK; lint OK; `corpus:check` OK; `permissions:verify` OK. **Spend: $2.0655 of $25** (no model calls). Still open: GitHub repo + `origin`.
 
 ## Session 24 — 2026-10-24 (task 3.6, Sonnet half, ahead of the grades)
 
