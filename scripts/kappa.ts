@@ -33,9 +33,9 @@ for (const { label, gs: grades } of sets) for (const [name, runId] of Object.ent
     if (ok.length === 0) { missing++; continue; }
     pairs.push({ sid: g.sid, shane: g.grade, judge: ok[0]!.verdict as Label });
   }
+  if (pairs.length === 0) continue;
   const k = cohenKappa(pairs.map((p) => p.shane), pairs.map((p) => p.judge), LABELS);
   const counts = (xs: Label[]) => LABELS.map((l) => `${l[0]}${xs.filter((x) => x === l).length}`).join('/');
-  if (pairs.length === 0) continue;
   console.log(`${label} · ${name} · ${runId}`);
   console.log(`  n ${k.n} (${missing} without a usable verdict)  raw agreement ${(k.observed * 100).toFixed(0)}%  p_e ${k.expected.toFixed(3)}  κ ${k.kappa === null ? 'null (p_e = 1)' : k.kappa.toFixed(2)}  target ≥ ${KAPPA_TARGET}`);
   console.log(`  Shane ${counts(pairs.map((p) => p.shane))}  judge ${counts(pairs.map((p) => p.judge))}`);

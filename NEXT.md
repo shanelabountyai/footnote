@@ -1,8 +1,12 @@
 # NEXT
 
-## ▶ Next session: Shane grades `eval/grades-2.md` unassisted, then `npm run eval:kappa`
+## ▶ Next session: Shane picks how 3.8 runs given κ 0.17 (D-42), then build/run it
 
-**Shane:** fill the 20 `grade:` lines in `eval/grades-2.md` (S-21 to S-40) **without a Claude draft** (D-41). The judge marked all 20 supported, so every partial or unsupported grade is a judge miss. **Then Claude:** run `npm run eval:kappa` (zero model calls). It prints κ per sheet and pooled for Opus. Record the figures in a D-entry. Then the 3.8 cost re-estimate under Opus: $3.51, over the $3 per-run cap.
+Pooled Opus κ **0.17** (n 40); sheet 2 caught the judge passing 5 of 20 sentences Shane would not support. 3.8 as written spends roughly 70–98% of each cell on judge calls, and dense/hybrid θ-off cells sit near or over the $3 cap (hybrid + Sonnet $3.51, D-35). Dense/hybrid estimates not re-run: Voyage connect timeout 2026-10-27; retry `npm run eval:answers -- --retriever=dense --model=claude-haiku-5-5 --theta=off --estimate`.
+
+## Session 26 — 2026-10-27 (tasks 3.5 sheet 2, 3.8 estimate)
+
+**Measured:** sheet 2 (unassisted) Opus κ 0.00 n 20 (judge all-supported, so κ is 0 by construction; miss rate 5/20); pooled κ 0.17 n 40, raw 83%. fts estimates: Haiku $1.1657, Sonnet $1.6709. **Fixed:** `scripts/kappa.ts` threw on a sheet with no judge rows (guard moved before `cohenKappa`). **Decided:** D-42. S-32 recorded as `supported` from Shane's remote "approved". **Gate:** typecheck OK, eslint clean on the script; no product code changed. **Spend: $2.0655 of $25** (no model calls; estimate embeds round to $0). Still open: GitHub repo + `origin`.
 
 ## Session 25 — 2026-10-25/27 (tasks 3.4 grades, 3.5 + 3.6 κ)
 

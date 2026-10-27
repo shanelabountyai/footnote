@@ -39,7 +39,7 @@ withholding Medicare tax at 1.45%, you must withhold a
 
 </details>
 
-grade: 
+grade: supported
 
 ---
 
@@ -72,7 +72,7 @@ been discontinued and the Bad Debts information provided in that publication has
 
 </details>
 
-grade: 
+grade: partial
 
 ---
 
@@ -95,7 +95,7 @@ Ledger & Lane keeps client records for 7 years from the close of the engagement 
 
 </details>
 
-grade: 
+grade: unsupported
 
 ---
 
@@ -134,7 +134,7 @@ gross receipts.
 
 </details>
 
-grade: 
+grade: supported
 
 ---
 
@@ -175,7 +175,7 @@ year after 2026. For more information on backup withholding, see Backup withhold
 
 </details>
 
-grade: 
+grade: supported
 
 ---
 
@@ -216,7 +216,7 @@ Center where you file your return.
 
 </details>
 
-grade: 
+grade: supported
 
 ---
 
@@ -256,7 +256,7 @@ an incidental cost.
 
 </details>
 
-grade: 
+grade: supported
 
 ---
 
@@ -295,7 +295,7 @@ your principal place of business.
 
 </details>
 
-grade: 
+grade: supported
 
 ---
 
@@ -331,7 +331,7 @@ identification number and your identification number on
 
 </details>
 
-grade: 
+grade: supported
 
 ---
 
@@ -371,7 +371,7 @@ and you have a business discussion in the car. These activities don’t change t
 
 </details>
 
-grade: 
+grade: supported
 
 ---
 
@@ -410,7 +410,7 @@ gross receipts.
 
 </details>
 
-grade: 
+grade: unsupported
 
 ---
 
@@ -453,7 +453,7 @@ independent business relationship with any of the executives’ other family mem
 
 </details>
 
-grade: 
+grade: supported — Shane, dictated remotely as "approved"
 
 ---
 
@@ -500,7 +500,7 @@ rate for the cost of operating your car for business use is
 
 </details>
 
-grade: 
+grade: partial
 
 ---
 
@@ -534,7 +534,7 @@ plans.
 
 </details>
 
-grade: 
+grade: supported
 
 ---
 
@@ -560,7 +560,7 @@ grade:
 
 </details>
 
-grade: 
+grade: supported
 
 ---
 
@@ -593,7 +593,7 @@ of people who receive the gift.
 
 </details>
 
-grade: 
+grade: supported
 
 ---
 
@@ -632,7 +632,7 @@ Fruits and Nuts Planted or Grafted Before January 20,
 
 </details>
 
-grade: 
+grade: supported
 
 ---
 
@@ -673,7 +673,7 @@ Medicare part of the SE tax on all your net earnings.
 
 </details>
 
-grade: 
+grade: supported
 
 ---
 
@@ -708,7 +708,7 @@ withholding Medicare tax at 1.45%, you must withhold a
 
 </details>
 
-grade: 
+grade: partial
 
 ---
 
@@ -748,4 +748,4 @@ treated as one taxpayer for the dollar limit. You must allocate the dollar limit
 
 </details>
 
-grade: 
+grade: supported
