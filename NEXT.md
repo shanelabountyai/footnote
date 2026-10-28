@@ -1,8 +1,12 @@
 # NEXT
 
-## ▶ Next session: task 4.3
+## ▶ Next session: task 4.4
 
-The one UI page: an ask box for a signed-in staff user (see `docs/phase-4-tasks.md`). It should also add the nav link to `/o/[org]/answers` for partners. 4.2 left that out on purpose (D-51).
+N9 contract doc: `docs/n9-contract.md` plus the one unit test that parses its examples against the zod schemas (see `docs/phase-4-tasks.md`).
+
+## Session 32 — 2026-10-28 (task 4.3)
+
+**Built:** `/o/[org]/ask` (`page.tsx` + client `ask-form.tsx`): posts to `POST /api/answers`, renders refusal message, sentences with citations (title, edition, revised date, page, quote), superseded label, disclaimer and snapshot id. Nav: `Ask` for all, `Answers` for partners. **Decided:** D-52. **Tests:** `e2e/ask.spec.ts` (answered + refusal, API stubbed in the browser via `page.route`; this proves rendering only, not that a θ refusal makes no model call, which the API/eval tests cover). **Gate:** `npm test` 49 files / 291 passed; typecheck OK; lint clean; `corpus:check` OK; `permissions:verify` OK; ask + audit e2e 4 passed on the production build. No model calls this session. **Spend: $2.7874 of $25.**
 
 ## Session 31 — 2026-10-28 (task 4.2)
 
