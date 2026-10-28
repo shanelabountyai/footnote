@@ -1,8 +1,12 @@
 # NEXT
 
-## ▶ Next session: task 4.6
+## ▶ Next session: closure (task 4.6 done)
 
-Engineering write-up: see `docs/phase-4-tasks.md` (scorecard numbers beside every claim, retrieval comparison with no winner wording, *Defects Found*, *Hardest Bug*). Then closure: exec brief, LinkedIn drafts, cost review.
+`docs/WRITEUP.md` committed and pushed. Remaining per global definition of done: (1) exec brief via `exec-brief` skill, scope honesty near the top (synthetic private tier, judge UNCALIBRATED κ 0.17, not deployed, targets missed); (2) LinkedIn drafts into the Ledger, mine WRITEUP *Defects Found* / *Hardest Bug*; (3) cost review (nothing deployed, no crons; record keep/off per item, baseline spend ~$2.81). Record artifact URLs in `docs/RELEASE_NOTES.md`. Not verified this session: `npm test` (docs only).
+
+## Session 35 — 2026-10-28 (task 4.6)
+
+**Built:** `docs/WRITEUP.md`. No model calls, no product code. **Spend: ~$2.81 of $25.**
 
 ## Session 34 — 2026-10-28 (task 4.5)
 
