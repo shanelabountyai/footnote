@@ -1,8 +1,12 @@
 # NEXT
 
-## ▶ Next session: closure (task 4.6 done)
+## ▶ Next session: project closed — nothing queued
 
-`docs/WRITEUP.md` committed and pushed. Remaining per global definition of done: (1) exec brief via `exec-brief` skill, scope honesty near the top (synthetic private tier, judge UNCALIBRATED κ 0.17, not deployed, targets missed); (2) LinkedIn drafts into the Ledger, mine WRITEUP *Defects Found* / *Hardest Bug*; (3) cost review (nothing deployed, no crons; record keep/off per item, baseline spend ~$2.81). Record artifact URLs in `docs/RELEASE_NOTES.md`. Not verified this session: `npm test` (docs only).
+All four closure deliverables exist (DEMO.md, exec brief, LinkedIn drafts, cost review D-54); URLs in `docs/RELEASE_NOTES.md`. WRITEUP private-document count corrected (30 docs + 10 injection fixtures; P slice asks about 3).
+
+## Session 36 — 2026-10-28 (closure)
+
+**Built:** D-54 cost review (baseline $2.8243 of $25; nothing deployed; template cron inert while unlinked). Exec brief **Footnote in Brief** https://claude.ai/artifact/63gkAR4hsj1x7LQBis1o6D. Ledger posts 139 (MarTech, superseded editions) and 140 (AI, uncalibrated grader). `docs/RELEASE_NOTES.md`. **Gate:** `npm test` 294 tests: 291 passed, 3 failed in template `inv-01-04-22-actions` while ledgerleave and alongside sweeps ran concurrently (load average 44–60; first control timed out at 20s, the next two hit leftover seed rows) — same file and cause as session 27. Isolated rerun: 14/14 passed in 10.6s (load 35). No model calls. **Spend: $2.8243 of $25.**
 
 ## Session 35 — 2026-10-28 (task 4.6)
 
