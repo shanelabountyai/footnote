@@ -6,7 +6,7 @@ Service API key (hashed-key table, D-48); see `docs/phase-4-tasks.md`.
 
 ## Session 29 — 2026-10-27 (task 4.0)
 
-**Built:** `POST /api/answers` uses `denseRetriever` (D-46); `THETA = 0.52` in `src/lib/answer/gate.ts` is the `thetaGate` default, `THETA_DENSE` 0.559 kept as the calibration record; `eval:answers` defaults to `--retriever=dense`; `eval:gate` runs dense and expects GU-08 to pass. **Measured:** `eval:gate`: GU-06 0.425 and GU-07 0.506 refused, GU-08 0.544 passes to the model, answer ModelCall rows 208 → 208. **Gate:** `npm test` 49 files / 288 passed; typecheck OK; lint 0 errors (the 1 template warning); `corpus:check` OK; `permissions:verify` OK. **Spend: $2.7874 of $25** (3 Voyage query embeds, below display precision). Still open: GitHub repo + `origin`.
+**Built:** `POST /api/answers` uses `denseRetriever` (D-46); `THETA = 0.52` in `src/lib/answer/gate.ts` is the `thetaGate` default, `THETA_DENSE` 0.559 kept as the calibration record; `eval:answers` defaults to `--retriever=dense`; `eval:gate` runs dense and expects GU-08 to pass. **Measured:** `eval:gate`: GU-06 0.425 and GU-07 0.506 refused, GU-08 0.544 passes to the model, answer ModelCall rows 208 → 208. **Gate:** `npm test` 49 files / 288 passed; typecheck OK; lint 0 errors (the 1 template warning); `corpus:check` OK; `permissions:verify` OK. **Spend: $2.7874 of $25** (3 Voyage query embeds, below display precision). **Repo:** private `https://github.com/shanelabountyai/footnote`, `main` tracks `origin/main` (was `template/main`), D-49; public waits on scrubbing `audit/` from history.
 
 ## Session 28 — 2026-10-28 (task 3.9, Phase 3 gate)
 
