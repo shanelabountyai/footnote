@@ -21,7 +21,7 @@ import { BudgetExceededError, CAPS_MICRO_USD, spentMicroUsd } from '@/lib/spend/
 type Golden = { id: string; slice: string; question: string; callerRole: Caller['role'] };
 
 const { values: args } = parseArgs({ options: {
-  retriever: { type: 'string', default: 'hybrid' }, model: { type: 'string', default: ANSWER_MODEL },
+  retriever: { type: 'string', default: 'dense' }, model: { type: 'string', default: ANSWER_MODEL },
   judge: { type: 'string', default: JUDGE_MODEL }, theta: { type: 'string', default: 'on' }, estimate: { type: 'boolean', default: false },
 } });
 const name = args.retriever as RetrieverName;

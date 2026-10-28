@@ -83,7 +83,7 @@ describe('POST /api/answers (task 2.6)', () => {
     const res = await post({ question: QUESTION, org: orgSlug, role: 'partner', caller: { role: 'partner', orgId }, options: { corpusSnapshot: SNAP } });
     expect(res.status).toBe(201);
     const a = await res.json();
-    expect(a).toMatchObject({ status: 'answered', corpusSnapshot: SNAP, retriever: 'hybrid' });
+    expect(a).toMatchObject({ status: 'answered', corpusSnapshot: SNAP, retriever: 'dense' });
     expect(a.citations.map((c: { tier: string }) => c.tier)).toEqual(['public']);
 
     const prompt = sent.find((s) => s.url === ANTHROPIC)!.body;

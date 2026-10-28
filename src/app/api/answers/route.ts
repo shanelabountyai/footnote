@@ -5,7 +5,7 @@ import { requireUser } from '@/core/auth/session';
 import { db } from '@/core/db';
 import { answer } from '@/lib/answer/compose';
 import { apiCaller } from '@/lib/answer/caller';
-import { denseRetriever, ftsRetriever, hybridRetriever } from '@/lib/retrieval/retriever';
+import { denseRetriever } from '@/lib/retrieval/retriever';
 import { snapshotId } from '@/lib/retrieval/snapshot';
 
 export const dynamic = 'force-dynamic';
@@ -30,7 +30,7 @@ export async function POST(req: Request) {
     return Response.json({ error: 'Corpus snapshot mismatch.', corpusSnapshot: snapshot }, { status: 409 });
   }
 
-  const retriever = hybridRetriever(ftsRetriever(snapshot), denseRetriever(snapshot)); // D-15a default
+  const retriever = denseRetriever(snapshot); // D-46 default
   const a = await answer(who.caller, question, { retriever, snapshot });
   await db.answer.create({
     data: {
