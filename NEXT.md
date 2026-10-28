@@ -1,8 +1,12 @@
 # NEXT
 
-## ▶ Next session: task 3.8 under D-43 (answer-only matrix)
+## ▶ Next session: task 3.9 scorecard
 
-Add `--judge=none` to `scripts/eval-answers.ts` (no judge estimate, no `SentenceJudgment` rows) + a unit test on `estimateRunMicroUsd` with no judge. Check `config/prices.json` Haiku row (present). Run `--estimate` per cell first. Voyage timed out on connect 2026-10-27, so retry the dense/hybrid estimate before anything else. Then run the cells **Haiku first**: fts/dense/hybrid × Haiku, then fts/dense × Sonnet, dense and hybrid with `--theta=off`. Run 1646 is the hybrid + Sonnet cell (D-43).
+`npm run eval:scorecard`: stored rows only, zero model calls, with a test that `fetch` is never called. It covers the 6 matrix cells (D-44 lists the run files) plus judge-free metrics per D-43, and the θ′ axis {off, 0.52, 0.559, 0.58} derived from stored `thetaScore` on the θ-off cells. **It counts `schema_invalid` answer calls apart from model refusals** (hybrid+Haiku 10 of 41). Sentence support is quoted for run 1646 only, with κ 0.17 n 40 beside it. Then the Phase 3 gate, `docs/phase-4-tasks.md`, and stop for review.
+
+## Session 27 — 2026-10-28 (task 3.8)
+
+**Built:** `eval:answers --judge=none` (b47aa15); `estimateRunMicroUsd` takes a null judge (+1 unit test). **Ran live:** 5 answer-only cells, all done 41 of 41, **$0.7218** total against a $1.80 estimate. Answered / refused: fts+Haiku 18/23, dense+Haiku θ off 27/14, hybrid+Haiku θ off 23/18, fts+Sonnet 18/23, dense+Sonnet θ off 28/13. Partial 0 everywhere. Schema-invalid answer calls: hybrid+Haiku 10, dense+Haiku 6, dense+Sonnet 4, fts 1 each. Voyage connected this time. **Decided:** D-44. The optional hybrid+Sonnet θ-off cell was not run. **Gate:** `npm test` 287 tests: 284 passed, plus 3 in the template `inv-01-04-22-actions` file timed out while `housefile_test` held 10 connections; that file passes 14/14 when rerun alone. Typecheck OK; lint 0 errors (the 1 template warning); `corpus:check` OK; `permissions:verify` OK. **Spend: $2.7874 of $25.** Still open: GitHub repo + `origin`.
 
 ## Session 26 — 2026-10-27 (tasks 3.5 sheet 2, 3.8 estimate)
 
