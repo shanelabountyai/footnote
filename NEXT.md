@@ -1,8 +1,12 @@
 # NEXT
 
-## ▶ Next session: task 4.4
+## ▶ Next session: task 4.5
 
-N9 contract doc: `docs/n9-contract.md` plus the one unit test that parses its examples against the zod schemas (see `docs/phase-4-tasks.md`).
+DEMO.md (`docs/DEMO.md`): see `docs/phase-4-tasks.md`. Run every command in it once before committing.
+
+## Session 33 — 2026-10-28 (task 4.4)
+
+**Built:** `docs/n9-contract.md`; `src/lib/answer/contract.ts` (`AnswerResponseSchema`, strict zod of the `Answer` type); `tests/unit/n9-contract.test.ts` (3: doc response example parses, request fields, schema strict + four refusal codes in the doc). **Decided:** D-53. **Gate:** new test 3 passed; typecheck OK; eslint clean on the new files. Full `npm test` not rerun (docs + one new file, no product code touched). No model calls. **Spend: $2.7874 of $25.**
 
 ## Session 32 — 2026-10-28 (task 4.3)
 
