@@ -44,6 +44,7 @@
     "eval:kappa": "dotenv -e .env.local -- tsx scripts/kappa.ts",
     "eval:scorecard": "dotenv -e .env.local -- tsx scripts/scorecard.ts",
     "answer:check": "dotenv -e .env.local -- tsx scripts/answer-check.ts",
+    "apikey:create": "dotenv -e .env.local -- tsx scripts/apikey-create.ts",
     "permissions:verify": "dotenv -e .env.local -- tsx scripts/permissions-verify.ts",
     "spend": "dotenv -e .env.local -- tsx scripts/spend.ts"
   },

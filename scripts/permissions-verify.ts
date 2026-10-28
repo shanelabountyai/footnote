@@ -4,6 +4,8 @@
 import { readdirSync, readFileSync } from 'node:fs';
 import { join } from 'node:path';
 import { db } from '@/core/db';
+import { hashToken, newToken } from '@/core/tokens';
+import { keyCaller } from '@/lib/answer/caller';
 import { type Caller, denseRetriever, ftsRetriever, hybridRetriever, type RetrievedChunk, type Retriever } from '@/lib/retrieval/retriever';
 import { snapshotId } from '@/lib/retrieval/snapshot';
 
@@ -32,6 +34,13 @@ const PREDICATE = /WHERE[\s\S]*c\."orgId" = \$\d+::uuid AND c\.tier::text = ANY\
 const org = await db.org.findUniqueOrThrow({ where: { slug: 'ledger-lane' } });
 const snapshot = snapshotId();
 const as = (role: Caller['role']): Caller => ({ orgId: org.id, role });
+// PT-1 service (task 4.1): the caller comes from a throwaway ApiKey row through keyCaller, the API's own path, never a literal.
+const tmpKey = `fn_${newToken()}`;
+const keyRow = await db.apiKey.create({ data: { orgId: org.id, label: 'permissions:verify (deleted on exit)', keyHash: hashToken(tmpKey) } });
+const keyed = await keyCaller(`Bearer ${tmpKey}`);
+await db.apiKey.delete({ where: { id: keyRow.id } });
+if (keyed instanceof Response) throw new Error(`keyCaller refused a live key: ${keyed.status}`);
+check('PT-1 service key caller', keyed.caller.role === 'service' && keyed.caller.orgId === org.id, `role ${keyed.caller.role} from the ApiKey row`);
 const fts = ftsRetriever(snapshot);
 const dense = denseRetriever(snapshot, { runId: 'permissions:verify' });
 // `-- --retriever=fts` (CI, D-12b): CI has no Voyage key, so dense/hybrid are skipped there; their SQL predicate is still
@@ -60,6 +69,8 @@ for (const r of retrievers) {
     const fdw = await r.search(as('front_desk'), probe, K);
     check(`PT-1 ${r.name} front_desk (memo wording)`, count(fdw, 'partner', 'engagement') === 0, `question as written: 0 chunks for every role; "${probe}" → ${fdw.length} chunks, ${count(fdw, 'partner')} partner`);
   }
+  const sk = await r.search(keyed.caller, probe, K);
+  check(`PT-1 ${r.name} service`, sk.every((c) => c.tier === 'public') && !sk.some((c) => c.docId === PT1_MEMO), `${sk.length} chunks, ${count(sk, 'staff', 'partner', 'engagement')} non-public, memo absent${probe === RED_FORK ? '' : ' (memo wording)'}`);
   check(`PT-1 ${r.name} partner`, p[0]?.docId === PT1_MEMO, `rank 1 = ${p[0]?.docId ?? 'none'} (${p.length} chunks${probe === RED_FORK ? '' : ', memo wording'})`);
 
   let fd2 = await r.search(as('front_desk'), RETENTION, K);

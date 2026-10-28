@@ -1,10 +1,11 @@
 // POST /api/answers (task 2.6): question in, verified answer out, stored as an Answer row. Role from the session
 // (D-12; a `role` or `caller` field in the body is stripped by the schema), 409 on a stale corpus snapshot (D-9).
+// A request with `Authorization` skips the session and is checked against the ApiKey table (task 4.1, D-48); without one, requireUser.
 import { z } from 'zod';
 import { requireUser } from '@/core/auth/session';
 import { db } from '@/core/db';
 import { answer } from '@/lib/answer/compose';
-import { apiCaller } from '@/lib/answer/caller';
+import { apiCaller, keyCaller, keyForOrg } from '@/lib/answer/caller';
 import { denseRetriever } from '@/lib/retrieval/retriever';
 import { snapshotId } from '@/lib/retrieval/snapshot';
 
@@ -17,12 +18,15 @@ const Body = z.object({
 });
 
 export async function POST(req: Request) {
-  const session = await requireUser();
+  const authorization = req.headers.get('authorization');
+  const session = authorization ? null : await requireUser();
+  const key = authorization ? await keyCaller(authorization) : null;
+  if (key instanceof Response) return key;
   const parsed = Body.safeParse(await req.json().catch(() => null));
   if (!parsed.success) return Response.json({ error: 'Body needs { question, org }.' }, { status: 400 });
   const { question, org, options } = parsed.data;
 
-  const who = await apiCaller(session, { slug: org });
+  const who = key ? await keyForOrg(key, { slug: org }) : await apiCaller(session!, { slug: org });
   if (who instanceof Response) return who;
 
   const snapshot = snapshotId();

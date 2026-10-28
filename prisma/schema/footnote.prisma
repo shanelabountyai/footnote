@@ -152,3 +152,15 @@ model SentenceJudgment {
   @@unique([answerId, sentenceIndex, model, promptHash])
   @@index([runId])
 }
+
+/// A service key for `POST /api/answers` (task 4.1, D-48). Only the sha256 of the key is stored; `npm run apikey:create`
+/// prints the key once. The caller role is this row's `role`, which a CHECK pins to `service` (D-12).
+model ApiKey {
+  id        String       @id @default(uuid()) @db.Uuid
+  createdAt DateTime     @default(now()) @db.Timestamptz(6)
+  orgId     String       @db.Uuid
+  label     String
+  keyHash   String       @unique
+  role      FootnoteRole @default(service)
+  revokedAt DateTime?    @db.Timestamptz(6)
+}

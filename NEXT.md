@@ -1,8 +1,12 @@
 # NEXT
 
-## ▶ Next session: task 4.1
+## ▶ Next session: task 4.2
 
-Service API key (hashed-key table, D-48); see `docs/phase-4-tasks.md`.
+Audit view (`/o/[org]/answers`, partner-only, same GET check as `GET /api/answers/:id`); see `docs/phase-4-tasks.md`.
+
+## Session 30 — 2026-10-28 (task 4.1)
+
+**Built:** `ApiKey` table (migration `20261028000000_api_key`: sha256 `keyHash` unique, `orgId`, `label`, `role` CHECK = `service`, `revokedAt`); `keyCaller` / `keyForOrg` in `src/lib/answer/caller.ts`; `POST /api/answers` takes `Authorization: Bearer` instead of a session (401 before the body on unknown/revoked/malformed, 404 for another org's slug, `Answer.userId` null); `npm run apikey:create -- --org=<slug> --label=<text>` prints the key once to stdout. `permissions:verify` adds `PT-1 service key caller` and `PT-1 <retriever> service` (caller resolved from a throwaway ApiKey row). **Decided:** D-50. **Tests:** 3 new in `tests/integration/answers-api.test.ts` (public-only prompt with body role partner, 401/404 with no fetch, CHECK refuses partner); mutation check: forcing `role: 'partner'` in `keyCaller` turns the first red. **Gate:** `npm test` 49 files / 291 passed; typecheck OK; lint 0 errors (the 1 template warning); `corpus:check` OK; `permissions:verify` OK. **Spend: $2.7874 of $25** (Voyage query embeds from permissions:verify, below display precision). Migration applied to `footnote_test` and the local dev DB.
 
 ## Session 29 — 2026-10-27 (task 4.0)
 

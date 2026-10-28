@@ -5,6 +5,7 @@ import { afterEach, beforeEach, describe, expect, it, vi } from 'vitest';
 import { POST } from '@/app/api/answers/route';
 import { GET } from '@/app/api/answers/[id]/route';
 import { db } from '@/core/db';
+import { hashToken } from '@/core/tokens';
 import { chunkCorpus, type Page } from '@/lib/corpus/chunk';
 import { indexChunks, indexEmbeddings } from '@/lib/retrieval/indexer';
 import type { FootnoteRole } from '@/lib/retrieval/retriever';
@@ -57,7 +58,7 @@ async function staff(role: FootnoteRole, email: string) {
   await db.staffRole.create({ data: { orgId, userId: user.id, role } });
   return user;
 }
-const post = (body: unknown) => POST(new Request('http://localhost/api/answers', { method: 'POST', body: JSON.stringify(body) }));
+const post = (body: unknown, headers?: HeadersInit) => POST(new Request('http://localhost/api/answers', { method: 'POST', body: JSON.stringify(body), headers }));
 const get = (id: string) => GET(new Request(`http://localhost/api/answers/${id}`), { params: Promise.resolve({ id }) });
 
 beforeEach(async () => {
@@ -110,6 +111,42 @@ describe('POST /api/answers (task 2.6)', () => {
     expect((await post({ question: QUESTION, org: 'no-such-org' })).status).toBe(404);
     expect((await post({ org: orgSlug })).status).toBe(400);
     expect(sent).toHaveLength(0);
+  });
+});
+
+describe('POST /api/answers with a service key (task 4.1, D-48)', () => {
+  const KEY = 'fn_test-service-key';
+  const bearer = (k = KEY) => ({ authorization: `Bearer ${k}` });
+  const makeKey = (data: { orgId: string; revokedAt?: Date }) => db.apiKey.create({ data: { label: 'test', keyHash: hashToken(KEY), ...data } });
+
+  it('answers as service from public chunks only; the body role is ignored, no session needed', async () => {
+    await makeKey({ orgId });
+    stubFetch(replyCiting(`${PARTNER}:1:1`)); // the model naming a partner chunk it was never shown is dropped by the verifier
+    const res = await post({ question: QUESTION, org: orgSlug, role: 'partner', caller: { role: 'partner', orgId } }, bearer());
+    expect(res.status).toBe(201);
+    const a = await res.json();
+    const prompt = sent.find((s) => s.url === ANTHROPIC)!.body;
+    expect(prompt).toContain(`${PUBLIC}:3:1`);
+    expect(prompt).not.toContain(PARTNER);
+    expect(a.citations).toEqual([]);
+    expect(await db.answer.findUnique({ where: { id: a.answerId } })).toMatchObject({ callerRole: 'service', userId: null, orgId });
+  });
+
+  it('a revoked, unknown or malformed key is 401 with no fetch and no row; a live key for another org is 404', async () => {
+    await makeKey({ orgId, revokedAt: new Date() });
+    expect((await post({ question: QUESTION, org: orgSlug }, bearer())).status).toBe(401);
+    expect((await post({ question: QUESTION, org: orgSlug }, bearer('fn_unknown'))).status).toBe(401);
+    expect((await post({ question: QUESTION, org: orgSlug }, { authorization: KEY })).status).toBe(401);
+    expect((await post({ org: orgSlug }, bearer('fn_unknown'))).status).toBe(401);
+    await db.apiKey.deleteMany();
+    await makeKey({ orgId: (await makeOrg('answers-b')).id });
+    expect((await post({ question: QUESTION, org: orgSlug }, bearer())).status).toBe(404);
+    expect(sent).toHaveLength(0);
+    expect(await db.answer.count()).toBe(0);
+  });
+
+  it('the table refuses a key with any role but service', async () => {
+    await expect(db.apiKey.create({ data: { orgId, label: 'x', keyHash: 'h', role: 'partner' } })).rejects.toThrow(/ApiKey_role_service/);
   });
 });
 
