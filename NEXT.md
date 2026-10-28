@@ -1,8 +1,12 @@
 # NEXT
 
-## ▶ Next session: task 4.2
+## ▶ Next session: task 4.3
 
-Audit view (`/o/[org]/answers`, partner-only, same GET check as `GET /api/answers/:id`); see `docs/phase-4-tasks.md`.
+The one UI page: an ask box for a signed-in staff user (see `docs/phase-4-tasks.md`). It should also add the nav link to `/o/[org]/answers` for partners. 4.2 left that out on purpose (D-51).
+
+## Session 31 — 2026-10-28 (task 4.2)
+
+**Built:** `readableAnswer(session, id)` in `src/lib/answer/caller.ts` is the D-26 read check, now shared by `GET /api/answers/:id` (refactored to use it) and the audit pages. `/o/[org]/answers` lists the newest 200 answers in the org (question, caller role, status, refusal code, snapshot, cost summed from `ModelCall`). `/o/[org]/answers/[id]` shows each sentence with its citations (title, edition, revision date, page, quote), the superseded label, the gate score and the disclaimer. Both pages run `requireOrg` first, then require StaffRole `partner`; anything else is 404. **Decided:** D-51. **Tests:** `e2e/answers-audit.spec.ts`, one spec per page; each checks partner content, then that front_desk gets 404. **Gate:** `npm test` 49 files / 291 passed; typecheck OK; lint 0 errors (the 1 template warning); `corpus:check` OK; `permissions:verify` OK; the audit e2e spec 2 passed on the production build. No mutation run (each costs a production rebuild); the front_desk-404 assertions are what fails if the partner check goes. **Spend: $2.7874 of $25.**
 
 ## Session 30 — 2026-10-28 (task 4.1)
 
