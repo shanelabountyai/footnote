@@ -82,4 +82,4 @@ What I did not do: tune the prompt until κ cleared 0.7 on the same 40 sentences
 - Sentence support is one run and an uncalibrated judge.
 - Edition labeling and verbatim citation are true by construction; they test the code, not the model.
 - Hand grades on sheet 1 were Claude-drafted and human-approved (D-39); sheet 2 is unassisted but has no negatives to find disagreement among except judge misses.
-- One synthetic org, three synthetic private documents, one corpus snapshot. Not deployed.
+- One synthetic org: 30 synthetic private documents plus 10 injection fixtures, of which the private slice (P) asks about 3. One corpus snapshot. Not deployed.
