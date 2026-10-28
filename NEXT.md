@@ -1,8 +1,8 @@
 # NEXT
 
-## ▶ Next session: Phase 4 review (stopped for Shane)
+## ▶ Next session: task 4.0, then 4.1
 
-Phase 3 gate met (D-45). Read `docs/phase-4-tasks.md` and answer its three review questions: the product default cell (keep hybrid+Sonnet θ 0.559, or dense+Sonnet θ off, or θ 0.52), Haiku left out of the product, and O-10 (hashed-key table). Then 4.1.
+Review answered (D-46 to D-48). 4.0: the default becomes dense + Sonnet with θ 0.52 (see `docs/phase-4-tasks.md`). Then 4.1, the service API key (hashed-key table, D-48).
 
 ## Session 28 — 2026-10-28 (task 3.9, Phase 3 gate)
 
