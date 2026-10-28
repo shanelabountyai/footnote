@@ -1,8 +1,12 @@
 # NEXT
 
-## ▶ Next session: task 4.5
+## ▶ Next session: task 4.6
 
-DEMO.md (`docs/DEMO.md`): see `docs/phase-4-tasks.md`. Run every command in it once before committing.
+Engineering write-up: see `docs/phase-4-tasks.md` (scorecard numbers beside every claim, retrieval comparison with no winner wording, *Defects Found*, *Hardest Bug*). Then closure: exec brief, LinkedIn drafts, cost review.
+
+## Session 34 — 2026-10-28 (task 4.5)
+
+**Built:** `docs/DEMO.md` (setup, three accounts, seven stops, concessions, troubleshooting); `scripts/seed-footnote-demo.ts` behind `npm run seed:footnote` (partner, bookkeeper, front_desk in `ledger-lane`; nothing else granted a StaffRole outside tests). **Ran once, live:** corpus:check, permissions:verify, seed, /demo sign-in, mileage 2025 (answered, p20), mileage 2024 (both sentences labeled superseded), GU-02 (refused), Red Fork as front_desk (refused) and partner (15% cited, tier partner), audit page 200 for partner / 404 for front_desk, service-key curl (answered), eval:scorecard, spend. **Gate:** typecheck OK, eslint clean on the new script; full `npm test` not rerun (no product code touched). **Spend: ~$2.81 of $25** (about $0.03 this session). A demo ApiKey row remains in the local dev DB.
 
 ## Session 33 — 2026-10-28 (task 4.4)
 
