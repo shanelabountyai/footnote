@@ -42,6 +42,7 @@
     "eval:grading-sheet": "dotenv -e .env.local -- tsx scripts/grading-sheet.ts",
     "eval:rejudge": "dotenv -e .env.local -- tsx scripts/rejudge.ts",
     "eval:kappa": "dotenv -e .env.local -- tsx scripts/kappa.ts",
+    "eval:scorecard": "dotenv -e .env.local -- tsx scripts/scorecard.ts",
     "answer:check": "dotenv -e .env.local -- tsx scripts/answer-check.ts",
     "permissions:verify": "dotenv -e .env.local -- tsx scripts/permissions-verify.ts",
     "spend": "dotenv -e .env.local -- tsx scripts/spend.ts"

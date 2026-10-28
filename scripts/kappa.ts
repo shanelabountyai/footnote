@@ -4,21 +4,17 @@
 // (D-41). κ is printed per sheet and pooled; an ungraded sheet is skipped.
 import { existsSync, readFileSync } from 'node:fs';
 import { db } from '@/core/db';
-import { cohenKappa, KAPPA_TARGET } from '@/lib/eval/kappa';
-
-const LABELS = ['supported', 'partial', 'unsupported'] as const;
-type Label = (typeof LABELS)[number];
+import { cohenKappa, GRADE_LABELS as LABELS, type GradeLabel as Label, KAPPA_TARGET, parseGradeSheet } from '@/lib/eval/kappa';
 const RUNS = { opus: 'answers:hybrid:claude-sonnet-5-5:theta-on:2026-10-23T1646', sonnet: 'rejudge:claude-sonnet-5-5:2026-10-23T1646' };
 
 const SHEETS = { 'sheet 1 (enriched, Claude-assisted, D-39)': 'eval/grades.md', 'sheet 2 (unassisted, D-41)': 'eval/grades-2.md' };
 const bySheet = Object.entries(SHEETS).flatMap(([label, file]) => {
   if (!existsSync(file)) return [];
-  const gs = [...readFileSync(file, 'utf8').matchAll(/## (S-\d+)[^\n]*\n\n<!-- key ([0-9a-f-]{36}):(\d+) -->[\s\S]*?\ngrade: (\w*)/g)]
-    .map((m) => ({ sid: m[1]!, answerId: m[2]!, idx: Number(m[3]), grade: m[4] as Label }));
+  const gs = parseGradeSheet(readFileSync(file, 'utf8'));
   if (gs.length !== 20) throw new Error(`${file}: expected 20 sentences, got ${gs.length}`);
   const blank = gs.filter((g) => !g.grade).length;
   if (blank) { console.log(`${file}: ${blank} of 20 ungraded, skipped\n`); return []; }
-  for (const g of gs) if (!LABELS.includes(g.grade)) throw new Error(`${file} ${g.sid}: grade ${g.grade}`);
+  for (const g of gs) if (!LABELS.includes(g.grade as Label)) throw new Error(`${file} ${g.sid}: grade ${g.grade}`);
   return [{ label, gs }];
 });
 const sets = bySheet.length > 1 ? [...bySheet, { label: 'pooled', gs: bySheet.flatMap((b) => b.gs) }] : bySheet;
@@ -31,7 +27,7 @@ for (const { label, gs: grades } of sets) for (const [name, runId] of Object.ent
     const ok = rows.filter((r) => r.answerId === g.answerId && r.sentenceIndex === g.idx && r.outcome === 'ok');
     if (ok.length > 1) throw new Error(`${name} ${g.sid}: ${ok.length} ok rows`);
     if (ok.length === 0) { missing++; continue; }
-    pairs.push({ sid: g.sid, shane: g.grade, judge: ok[0]!.verdict as Label });
+    pairs.push({ sid: g.sid, shane: g.grade as Label, judge: ok[0]!.verdict as Label });
   }
   if (pairs.length === 0) continue;
   const k = cohenKappa(pairs.map((p) => p.shane), pairs.map((p) => p.judge), LABELS);

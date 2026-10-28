@@ -1,8 +1,12 @@
 # NEXT
 
-## ▶ Next session: task 3.9 scorecard
+## ▶ Next session: Phase 4 review (stopped for Shane)
 
-`npm run eval:scorecard`: stored rows only, zero model calls, with a test that `fetch` is never called. It covers the 6 matrix cells (D-44 lists the run files) plus judge-free metrics per D-43, and the θ′ axis {off, 0.52, 0.559, 0.58} derived from stored `thetaScore` on the θ-off cells. **It counts `schema_invalid` answer calls apart from model refusals** (hybrid+Haiku 10 of 41). Sentence support is quoted for run 1646 only, with κ 0.17 n 40 beside it. Then the Phase 3 gate, `docs/phase-4-tasks.md`, and stop for review.
+Phase 3 gate met (D-45). Read `docs/phase-4-tasks.md` and answer its three review questions: the product default cell (keep hybrid+Sonnet θ 0.559, or dense+Sonnet θ off, or θ 0.52), Haiku left out of the product, and O-10 (hashed-key table). Then 4.1.
+
+## Session 28 — 2026-10-28 (task 3.9, Phase 3 gate)
+
+**Built:** `npm run eval:scorecard` (`src/lib/eval/scorecard.ts`, `scripts/scorecard.ts`), stored rows and result files only; `tests/integration/scorecard.test.ts` (fetch never called; refusals split pre-call / schema_invalid / model; θ′ cut). `parseGradeSheet` moved into `src/lib/eval/kappa.ts`, shared with `eval:kappa`. **Measured:** `eval/results/scorecard-cd1252c6a407-2026-10-28.md`: verbatim 342/342, leaks 0/342, expected cited best 17/22 (dense+Sonnet θ off), answered-or-partial best 19/22, U refusal 6–8 of 8, support 49/51 for run 1646 only (JUDGE UNCALIBRATED, κ 0.17 n 40), fabrication 25/25, injection 10/10. **Decided:** D-45. **Written:** `docs/phase-4-tasks.md`; 3.4–3.6 ticked. **Gate:** `npm test` 49 files / 288 passed; typecheck OK; lint 0 errors (the 1 template warning); `corpus:check` OK; `permissions:verify` OK. **Spend: $2.7874 of $25** (no model calls). Still open: GitHub repo + `origin`.
 
 ## Session 27 — 2026-10-28 (task 3.8)
 

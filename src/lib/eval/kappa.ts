@@ -13,3 +13,13 @@ export function cohenKappa<L extends string>(a: readonly L[], b: readonly L[], l
   const kappa = expected === 1 ? null : (observed - expected) / (1 - expected);
   return { kappa, observed, expected, n };
 }
+
+export const GRADE_LABELS = ['supported', 'partial', 'unsupported'] as const;
+export type GradeLabel = (typeof GRADE_LABELS)[number];
+export type Grade = { sid: string; answerId: string; idx: number; grade: GradeLabel | '' };
+
+/** Shane's grades from a sheet (`eval/grades*.md`), keyed to SentenceJudgment by `<!-- key answerId:idx -->`. */
+export function parseGradeSheet(text: string): Grade[] {
+  return [...text.matchAll(/## (S-\d+)[^\n]*\n\n<!-- key ([0-9a-f-]{36}):(\d+) -->[\s\S]*?\ngrade: (\w*)/g)]
+    .map((m) => ({ sid: m[1]!, answerId: m[2]!, idx: Number(m[3]), grade: m[4] as GradeLabel }));
+}
