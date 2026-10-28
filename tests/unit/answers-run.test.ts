@@ -21,6 +21,11 @@ describe('estimateRunMicroUsd (task 3.7)', () => {
     expect(estimateRunMicroUsd([{ callsModel: false, promptChars: 6_000, chunkChars: [900] }], S, O)).toEqual({ answers: 0, judges: 0, total: 0, calling: 0 });
   });
 
+  it('with no judge (--judge=none, D-43) only the answer is priced', () => {
+    const e = estimateRunMicroUsd([{ callsModel: true, promptChars: 6_000, chunkChars: [900, 700] }], S, null);
+    expect(e).toEqual({ answers: estimateAnswerMicroUsd(S, 6_000), judges: 0, total: estimateAnswerMicroUsd(S, 6_000), calling: 1 });
+  });
+
   it('a larger prompt never estimates lower', () => {
     const at = (chars: number) => estimateRunMicroUsd([{ callsModel: true, promptChars: chars, chunkChars: [chars / 10] }], S, O).total;
     expect(at(20_000)).toBeGreaterThan(at(2_000));

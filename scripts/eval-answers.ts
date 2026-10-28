@@ -1,9 +1,9 @@
-// `npm run eval:answers -- --retriever=<fts|dense|hybrid> --model=<answer model> [--judge=<judge model>] [--theta=off] [--estimate]`
+// `npm run eval:answers -- --retriever=<fts|dense|hybrid> --model=<answer model> [--judge=<judge model>|none] [--theta=off] [--estimate]`
 // (task 3.7, D-35). All golden questions, each as its callerRole, under one run id: retrieve every question first (one
 // Voyage call), estimate answers + judge calls, refuse to start over the $3 run cap, then answer, store an Answer row
 // per question with its gate score, and judge every answered sentence into SentenceJudgment. UNVERIFIED questions are
 // skipped and counted. `--theta=off` records the gate without enforcing it (3.8 derives θ′ from the stored score).
-// `--estimate` stops after the estimate: one embed call, no model call.
+// `--judge=none` (D-43) stores answers only: no judge estimate, no SentenceJudgment rows. `--estimate` stops after the estimate: one embed call, no model call.
 import { execFileSync } from 'node:child_process';
 import { createHash } from 'node:crypto';
 import { readFileSync, writeFileSync } from 'node:fs';
@@ -28,6 +28,7 @@ const name = args.retriever as RetrieverName;
 if (!['fts', 'dense', 'hybrid'].includes(name)) throw new Error(`--retriever must be fts, dense or hybrid, not ${name}`);
 if (!['on', 'off'].includes(args.theta)) throw new Error(`--theta must be on or off, not ${args.theta}`);
 const enforceGate = args.theta === 'on';
+const judgeModel = args.judge === 'none' ? null : args.judge;
 const usd = (micro: number) => `$${(micro / 1e6).toFixed(4)}`;
 
 const all = JSON.parse(readFileSync('eval/golden.json', 'utf8')) as Golden[];
@@ -59,7 +60,7 @@ for (const g of qs) {
   plan.push({ callsModel: h.length > 0 && (!enforceGate || thetaGate(name, h).pass), promptChars: system.length + user.length, chunkChars: h.map((c) => c.text.length) });
 }
 
-const est = estimateRunMicroUsd(plan, args.model, args.judge);
+const est = estimateRunMicroUsd(plan, args.model, judgeModel);
 const buildLeft = CAPS_MICRO_USD.build - (await spentMicroUsd());
 console.log(`${runId}: ${qs.length} questions (${unverified.length} UNVERIFIED skipped${unverified.length ? `: ${unverified.join(' ')}` : ''}), ${est.calling} reach the model`);
 console.log(`estimate: answers ${usd(est.answers)} + judge ${usd(est.judges)} = ${usd(est.total)} against the run cap ${usd(CAPS_MICRO_USD.run)}; build left ${usd(buildLeft)}`);
@@ -90,11 +91,11 @@ for (const g of qs) {
 
   const verdicts: string[] = [];
   try {
-    for (const [i, s] of a.sentences.entries()) {
+    for (const [i, s] of judgeModel ? a.sentences.entries() : []) {
       const cites = s.citations.map((id) => a.citations.find((c) => c.id === id)!);
-      const r = await judge(s.text, cites, h, { model: args.judge, runId, answerId: a.answerId });
+      const r = await judge(s.text, cites, h, { model: judgeModel!, runId, answerId: a.answerId });
       await db.sentenceJudgment.create({ data: {
-        runId, answerId: a.answerId, sentenceIndex: i, model: args.judge, promptHash, outcome: r.ok ? 'ok' : 'schema_invalid',
+        runId, answerId: a.answerId, sentenceIndex: i, model: judgeModel!, promptHash, outcome: r.ok ? 'ok' : 'schema_invalid',
         verdict: r.ok ? r.verdict.verdict : null, quoteIsRule: r.ok ? r.verdict.quoteIsRule : null,
         editionStated: r.ok ? r.verdict.editionStated : null, reason: r.ok ? r.verdict.reason : r.reason,
       } });
@@ -112,9 +113,9 @@ for (const g of qs) {
 const spent = await spentMicroUsd({ runId });
 const count = (s: string) => rows.filter((r) => r.status === s).length;
 const judged = rows.flatMap((r) => r.verdicts);
-console.log(`${stopped ? `STOPPED (${stopped}) after ${rows.length} of ${qs.length}` : `done ${rows.length} of ${qs.length}`}: answered ${count('answered')}, partial ${count('partial')}, refused ${count('refused')}; ${judged.length} sentences judged (JUDGE UNCALIBRATED until 3.5); run spend ${usd(spent)} vs estimate ${usd(est.total)}`);
+console.log(`${stopped ? `STOPPED (${stopped}) after ${rows.length} of ${qs.length}` : `done ${rows.length} of ${qs.length}`}: answered ${count('answered')}, partial ${count('partial')}, refused ${count('refused')}; ${judgeModel ? `${judged.length} sentences judged (JUDGE UNCALIBRATED, κ 0.17 n 40)` : 'not judged (--judge=none)'}; run spend ${usd(spent)} vs estimate ${usd(est.total)}`);
 const out = `eval/results/answers-${name}-${args.model}-theta-${args.theta}-${snapshot.replace('sha256:', '').slice(0, 12)}-${stamp}.json`;
-writeFileSync(out, JSON.stringify({ snapshot, runId, retriever: name, model: args.model, judge: args.judge, judgePromptHash: promptHash, theta: args.theta, unverified, estimateUsd: est.total / 1e6, spentUsd: spent / 1e6, stopped, rows }, null, 1) + '\n');
+writeFileSync(out, JSON.stringify({ snapshot, runId, retriever: name, model: args.model, judge: judgeModel, judgePromptHash: judgeModel ? promptHash : null, theta: args.theta, unverified, estimateUsd: est.total / 1e6, spentUsd: spent / 1e6, stopped, rows }, null, 1) + '\n');
 console.log(`wrote ${out}`);
 await db.$disconnect();
 process.exit(stopped ? 1 : 0);
