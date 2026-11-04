@@ -1,6 +1,6 @@
 # footnote
 
-> Cloned from saas-foundation v1.3.0. Port 5800. Upgrade with `npm run foundation:status`; template-owned paths are listed in the template's plan §3.2.
+> Cloned from saas-foundation v1.3.0, upgraded to v1.4.1 (2026-11-04). Port 5800. Upgrade with `npm run foundation:status`; template-owned paths are listed in the template's plan §3.2.
 
 ## ⚠️ Scope Honesty (read first)
 
@@ -55,7 +55,9 @@ and go in `.env.local`; without them email is captured in the database, billing 
 
 - `src/core/`: env, db, auth, tenancy, authz, audit, tokens, email, share links, cron. Never imports from `src/modules` or `src/app` (lint-enforced).
 - `src/modules/{billing,notifications}/`: optional, deletable.
-- `src/app/`: routes. `src/app/cron-jobs.ts` is where a clone adds its own cron work.
+- `src/app/`: routes. `src/app/cron-jobs.ts` is where a clone adds its own cron work. `src/app/org-hooks.ts` holds the
+  clone's org hooks: `beforeOrgDelete` (runs before an org is deleted; throwing stops it) and `filterListedOrgs` (which of a
+  user's orgs `/onboarding` and `/demo` list; default all, and it can only hide, never add — D-22).
 - `prisma/schema/`: `core.prisma` plus one file per module. A clone's tables get their own file and migrations.
 - `tests/invariants/`: the security rules as tests. `tests/fixtures/app.ts` holds a clone's harness rows.
 
