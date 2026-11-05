@@ -134,6 +134,23 @@ describe('answer() end to end (task 2.5)', () => {
     expect(rows[0]!.costMicroUsd).toBeGreaterThan(CAPS_MICRO_USD.answer);
   });
 
+  it("template v1.6.0 withBudget: the org's monthly AI cap refuses BUDGET_EXCEEDED with no fetch; a call under it leaves one AiUsage row", async () => {
+    const out = JSON.stringify({ sentences: [{ sentence: 'Keep a mileage log for business use.', chunkIds: ['pub-a:3:1'], quotes: [QUOTE] }] });
+    const fetchMock = reply(out);
+    vi.stubGlobal('fetch', fetchMock);
+    await db.aiBudget.create({ data: { orgId: caller.orgId, monthlyCapMicros: 1n } });
+    const a = await answer(caller, QUESTION, { retriever: retriever(), snapshot: SNAP, docs: DOCS });
+    expect(a).toMatchObject({ status: 'refused', refusal: { code: 'BUDGET_EXCEEDED' }, usage: null });
+    expect(fetchMock).not.toHaveBeenCalled();
+    expect(await db.aiUsage.count({ where: { orgId: caller.orgId } })).toBe(0);
+
+    await db.aiBudget.update({ where: { orgId: caller.orgId }, data: { monthlyCapMicros: 25_000_000n } });
+    const b = await answer(caller, QUESTION, { retriever: retriever(), snapshot: SNAP, docs: DOCS });
+    expect(b.status).toBe('answered');
+    expect(await db.aiUsage.findMany({ where: { orgId: caller.orgId } })).toMatchObject([{ provider: 'anthropic', model: ANSWER_MODEL, feature: 'answer', inputTokens: 812, outputTokens: 64 }]);
+    expect(await db.aiHold.count({ where: { orgId: caller.orgId } })).toBe(0);
+  });
+
   it('refuses a model that is not allowed at runtime before retrieving (D-4)', async () => {
     await expect(answer(caller, QUESTION, { retriever: retriever(), snapshot: SNAP, docs: DOCS, model: 'claude-fable-5-1' })).rejects.toThrow(/not a runtime model/);
   });
