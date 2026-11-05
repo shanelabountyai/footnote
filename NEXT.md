@@ -4,6 +4,10 @@
 
 All four closure deliverables exist (DEMO.md, exec brief, LinkedIn drafts, cost review D-54); URLs in `docs/RELEASE_NOTES.md`. WRITEUP private-document count corrected (30 docs + 10 injection fixtures; P slice asks about 3).
 
+## 2026-11-04 — saas-foundation v1.3.0 → v1.4.1 (security)
+
+**Merged:** template tag v1.4.1 (`fca3c57`) on branch `foundation-v1.4.1`, taking v1.3.1 and v1.4.0 with it. `next` and `eslint-config-next` 16.4.5 (critical unauthenticated RCE in Image Optimization, next ≤ 16.4.0), `zod` 4.6.7, `prisma`/`@prisma/client`/`@prisma/adapter-pg` 7.10.1, lockfile bumps for sharp, source-map-js and fast-uri. v1.4.0's `filterListedOrgs` hook lands in `src/app/org-hooks.ts` with the template default (`return orgs`); footnote hides no orgs, and `/demo` and `/onboarding` are template-owned and uncustomised here, so nothing else changed. **Conflicts:** `NEXT.md` (kept footnote's); `CLONES.md` auto-merged but reverted to footnote's copy (template-only doc). **Gate:** `npm audit --omit=dev` 0 vulnerabilities; generate, typecheck OK; lint 0 errors (the 1 template warning); `npm test` 54 files / 329 passed against local `footnote_test` (schema up to date, 15 migrations); `foundation:drift` clean against v1.4.1; `npm run build` OK. No e2e locally; not deployed, so no redeploy. No model calls.
+
 ## Session 36 — 2026-10-28 (closure)
 
 **Built:** D-54 cost review (baseline $2.8243 of $25; nothing deployed; template cron inert while unlinked). Exec brief **Footnote in Brief** https://claude.ai/artifact/63gkAR4hsj1x7LQBis1o6D. Ledger posts 139 (MarTech, superseded editions) and 140 (AI, uncalibrated grader). `docs/RELEASE_NOTES.md`. **Gate:** `npm test` 294 tests: 291 passed, 3 failed in template `inv-01-04-22-actions` while ledgerleave and alongside sweeps ran concurrently (load average 44–60; first control timed out at 20s, the next two hit leftover seed rows) — same file and cause as session 27. Isolated rerun: 14/14 passed in 10.6s (load 35). No model calls. **Spend: $2.8243 of $25.**
