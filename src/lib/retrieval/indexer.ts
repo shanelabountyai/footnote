@@ -34,3 +34,9 @@ export async function indexEmbeddings(snapshot: string, orgId: string, model: st
 }
 
 export const toVector = (v: number[]) => `[${v.join(',')}]`;
+
+// D-55: the per-org data export leaves the chunk tables out. They are re-derived from the source documents by
+// `corpus:index`, and D-12 keeps every read of them in this file and retriever.ts, so export-hooks.ts takes this entry.
+export const chunkExportSkipped: Readonly<Record<string, string>> = {
+  CorpusChunk: 'derived from the source documents by corpus:index; D-12 confines chunk-table reads to the retriever and indexer',
+};
