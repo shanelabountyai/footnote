@@ -3,6 +3,7 @@ import { readdirSync, readFileSync, statSync } from 'node:fs';
 import { join } from 'node:path';
 import { beforeAll, describe, expect, it } from 'vitest';
 import { orgTables } from '../../scripts/rls-policies';
+import { seedApp } from '../fixtures/app';
 import { db } from '@/core/db';
 import { CROSS_ORG_FILES } from '@/core/db/cross-org';
 import { withOrg } from '@/core/db/rls';
@@ -105,6 +106,8 @@ describe.skipIf(!enforce)('INV-29: no org set, no rows; org A set, only A rows',
       await dbSystem.aiUsage.create({ data: { orgId, provider: 'anthropic', model: 'inv29', inputTokens: 1, outputTokens: 1, costMicros: 1n, feature: 'inv29' } });
       await dbSystem.aiBudget.create({ data: { orgId } });
       await dbSystem.aiHold.create({ data: { orgId, costMicros: 1n, expiresAt: exp } });
+      await seedApp({ orgId, userId: user.id }, n); // the clone's own org tables: the same fixture the action harness uses
+      const ev = await dbSystem.orgEvent.create({ data: { orgId, type: 'inv29', payload: {} } });
       // module tables only when the module is installed (check-modules removes them)
       const model = (m: string) => (dbSystem as unknown as Record<string, { create: (a: unknown) => Promise<unknown> } | undefined>)[m];
       await model('billingAccount')?.create({ data: { orgId } });
@@ -112,6 +115,12 @@ describe.skipIf(!enforce)('INV-29: no org set, no rows; org A set, only A rows',
       await model('ssoConnection')?.create({ data: { orgId, issuer: 'https://idp.example', clientId: 'x', clientSecretSealed: 'x', allowedDomains: [] } });
       await model('ssoDomain')?.create({ data: { orgId, domain: `inv29-${n}-${tag}.example` } });
       await model('ssoState')?.create({ data: { hash: `inv29-${n}-${tag}`, orgId, nonce: 'x', codeVerifier: 'x', createdAt: new Date(), expiresAt: exp } });
+      const key = (await model('apiKey')?.create({ data: { orgId, label: 'inv29', prefix: 'api_x', keyHash: `inv29-${n}-${tag}`, scopes: ['read'], createdById: user.id } })) as { id: string } | undefined;
+      if (key) {
+        await model('idempotencyRecord')!.create({ data: { orgId, apiKeyId: key.id, idemKey: 'k', requestHash: 'h', status: 'done', expiresAt: exp, createdAt: new Date(), updatedAt: new Date() } });
+        const ep = (await model('webhookEndpoint')!.create({ data: { orgId, url: 'https://hooks.example', secretSealed: 'x' } })) as { id: string };
+        await model('webhookDelivery')!.create({ data: { orgId, endpointId: ep.id, eventId: ev.id, seq: 1 } });
+      }
     }
   });
 
