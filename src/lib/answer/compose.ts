@@ -5,6 +5,7 @@ import { randomUUID } from 'node:crypto';
 import { readdirSync, readFileSync } from 'node:fs';
 import { join } from 'node:path';
 import type { Caller, RetrievedChunk, Retriever } from '@/lib/retrieval/retriever';
+import { BudgetExceeded, withBudget } from '@/core/ai/budget';
 import { anthropicKey, callMessages } from '@/lib/llm/anthropic';
 import { assertBudget, BudgetExceededError, recordCall } from '@/lib/spend/budget';
 import { costMicroUsd, prices } from '@/lib/spend/prices';
@@ -85,14 +86,28 @@ export async function answer(caller: Caller, question: string, opts: AnswerOptio
   const docs = opts.docs ?? (cachedDocs ??= loadDocMeta());
   const { system, user } = buildAnswerPrompt(question, hits, docs);
   anthropicKey(); // a missing key throws before the budget check, as before
+  const estimate = estimateAnswerMicroUsd(model, system.length + user.length);
+  const refused = () => finish({ status: 'refused', refusal: { code: 'BUDGET_EXCEEDED' }, sentences: [], citations: [], droppedSentences: 0 }, gate); // D-18b
   try {
-    await assertBudget({ purpose: 'answer', model, estimateMicroUsd: estimateAnswerMicroUsd(model, system.length + user.length), runId, answerId });
+    await assertBudget({ purpose: 'answer', model, estimateMicroUsd: estimate, runId, answerId });
   } catch (e) {
     if (!(e instanceof BudgetExceededError)) throw e;
-    return finish({ status: 'refused', refusal: { code: 'BUDGET_EXCEEDED' }, sentences: [], citations: [], droppedSentences: 0 }, gate); // D-18b
+    return refused();
   }
 
-  const { text, inputTokens, outputTokens } = await callMessages({ model, maxTokens: MAX_TOKENS, system, user });
+  // Template v1.6.0 §6: the org's monthly cap, on top of the build/run/answer caps above. The same over-estimate is
+  // the hold, so a call that could push the org past its cap never starts.
+  let call: Awaited<ReturnType<typeof callMessages>>;
+  try {
+    call = await withBudget(caller, 'answer', BigInt(Math.ceil(estimate)), async () => {
+      const r = await callMessages({ model, maxTokens: MAX_TOKENS, system, user });
+      return { ...r, usage: { provider: 'anthropic', model, inputTokens: r.inputTokens, outputTokens: r.outputTokens } };
+    });
+  } catch (e) {
+    if (!(e instanceof BudgetExceeded)) throw e;
+    return refused();
+  }
+  const { text, inputTokens, outputTokens } = call;
   const parsed = parseAnswerOutput(text);
   const row = await recordCall({
     purpose: 'answer', model, inputTokens, outputTokens,

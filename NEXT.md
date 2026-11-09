@@ -4,6 +4,10 @@
 
 All four closure deliverables exist (DEMO.md, exec brief, LinkedIn drafts, cost review D-54); URLs in `docs/RELEASE_NOTES.md`. WRITEUP private-document count corrected (30 docs + 10 injection fixtures; P slice asks about 3).
 
+## 2026-11-09 — saas-foundation v1.6.0
+
+Merged v1.6.0 (with v1.5.0, vitest 5) via PR #2, which also carries the M12 `withBudget` wiring on the answer path. apikeys module removed, footnote key renamed `FootnoteApiKey` (D-55). RLS off, `sso` kept.
+
 ## 2026-11-04 — saas-foundation v1.3.0 → v1.4.1 (security)
 
 **Merged:** template tag v1.4.1 (`fca3c57`) on branch `foundation-v1.4.1`, taking v1.3.1 and v1.4.0 with it. `next` and `eslint-config-next` 16.4.5 (critical unauthenticated RCE in Image Optimization, next ≤ 16.4.0), `zod` 4.6.7, `prisma`/`@prisma/client`/`@prisma/adapter-pg` 7.10.1, lockfile bumps for sharp, source-map-js and fast-uri. v1.4.0's `filterListedOrgs` hook lands in `src/app/org-hooks.ts` with the template default (`return orgs`); footnote hides no orgs, and `/demo` and `/onboarding` are template-owned and uncustomised here, so nothing else changed. **Conflicts:** `NEXT.md` (kept footnote's); `CLONES.md` auto-merged but reverted to footnote's copy (template-only doc). **Gate:** `npm audit --omit=dev` 0 vulnerabilities; generate, typecheck OK; lint 0 errors (the 1 template warning); `npm test` 54 files / 329 passed against local `footnote_test` (schema up to date, 15 migrations); `foundation:drift` clean against v1.4.1; `npm run build` OK. No e2e locally; not deployed, so no redeploy. No model calls.

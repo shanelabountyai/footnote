@@ -153,9 +153,10 @@ model SentenceJudgment {
   @@index([runId])
 }
 
-/// A service key for `POST /api/answers` (task 4.1, D-48). Only the sha256 of the key is stored; `npm run apikey:create`
+/// A service key for `POST /api/answers` (task 4.1, D-48). Named FootnoteApiKey since v1.6.0 (D-55): the template's apikeys
+/// module, removed here, owns the "ApiKey" table in its migrations and `db.apiKey` in the invariant harness. Only the sha256 of the key is stored; `npm run apikey:create`
 /// prints the key once. The caller role is this row's `role`, which a CHECK pins to `service` (D-12).
-model ApiKey {
+model FootnoteApiKey {
   id        String       @id @default(uuid()) @db.Uuid
   createdAt DateTime     @default(now()) @db.Timestamptz(6)
   orgId     String       @db.Uuid
