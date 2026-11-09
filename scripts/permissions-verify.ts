@@ -36,9 +36,9 @@ const snapshot = snapshotId();
 const as = (role: Caller['role']): Caller => ({ orgId: org.id, role });
 // PT-1 service (task 4.1): the caller comes from a throwaway ApiKey row through keyCaller, the API's own path, never a literal.
 const tmpKey = `fn_${newToken()}`;
-const keyRow = await db.apiKey.create({ data: { orgId: org.id, label: 'permissions:verify (deleted on exit)', keyHash: hashToken(tmpKey) } });
+const keyRow = await db.footnoteApiKey.create({ data: { orgId: org.id, label: 'permissions:verify (deleted on exit)', keyHash: hashToken(tmpKey) } });
 const keyed = await keyCaller(`Bearer ${tmpKey}`);
-await db.apiKey.delete({ where: { id: keyRow.id } });
+await db.footnoteApiKey.delete({ where: { id: keyRow.id } });
 if (keyed instanceof Response) throw new Error(`keyCaller refused a live key: ${keyed.status}`);
 check('PT-1 service key caller', keyed.caller.role === 'service' && keyed.caller.orgId === org.id, `role ${keyed.caller.role} from the ApiKey row`);
 const fts = ftsRetriever(snapshot);

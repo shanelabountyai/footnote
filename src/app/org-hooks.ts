@@ -1,5 +1,4 @@
 import { cancelOrgSubscription } from '@/modules/billing/provider'; // billing
-import { revokeKeysCreatedBy } from '@/modules/apikeys/keys'; // apikeys
 import type { ListedOrg } from '@/core/tenancy/listed';
 import type { MembershipEnded } from '@/core/tenancy/orgs';
 
@@ -22,6 +21,5 @@ export async function filterListedOrgs(_userId: string, orgs: readonly ListedOrg
 // Clone-owned (v1.6.0): what ends with a membership (removed, left, or account deleted), in the same transaction. The
 // template revokes the API keys the person created (owner decision 2026-11-05, like K6's share links). A clone adds its
 // own per-person credentials here. Throwing stops the removal.
-export const onMembershipEnded: MembershipEnded = async (tx, orgId, userId) => {
-  await revokeKeysCreatedBy(tx, orgId, userId); // apikeys
-};
+// footnote removed the apikeys module (D-55); its own service keys (FootnoteApiKey, D-48) belong to the org, not a person.
+export const onMembershipEnded: MembershipEnded = async () => {};

@@ -117,7 +117,7 @@ describe('POST /api/answers (task 2.6)', () => {
 describe('POST /api/answers with a service key (task 4.1, D-48)', () => {
   const KEY = 'fn_test-service-key';
   const bearer = (k = KEY) => ({ authorization: `Bearer ${k}` });
-  const makeKey = (data: { orgId: string; revokedAt?: Date }) => db.apiKey.create({ data: { label: 'test', keyHash: hashToken(KEY), ...data } });
+  const makeKey = (data: { orgId: string; revokedAt?: Date }) => db.footnoteApiKey.create({ data: { label: 'test', keyHash: hashToken(KEY), ...data } });
 
   it('answers as service from public chunks only; the body role is ignored, no session needed', async () => {
     await makeKey({ orgId });
@@ -138,7 +138,7 @@ describe('POST /api/answers with a service key (task 4.1, D-48)', () => {
     expect((await post({ question: QUESTION, org: orgSlug }, bearer('fn_unknown'))).status).toBe(401);
     expect((await post({ question: QUESTION, org: orgSlug }, { authorization: KEY })).status).toBe(401);
     expect((await post({ org: orgSlug }, bearer('fn_unknown'))).status).toBe(401);
-    await db.apiKey.deleteMany();
+    await db.footnoteApiKey.deleteMany();
     await makeKey({ orgId: (await makeOrg('answers-b')).id });
     expect((await post({ question: QUESTION, org: orgSlug }, bearer())).status).toBe(404);
     expect(sent).toHaveLength(0);
@@ -146,7 +146,7 @@ describe('POST /api/answers with a service key (task 4.1, D-48)', () => {
   });
 
   it('the table refuses a key with any role but service', async () => {
-    await expect(db.apiKey.create({ data: { orgId, label: 'x', keyHash: 'h', role: 'partner' } })).rejects.toThrow(/ApiKey_role_service/);
+    await expect(db.footnoteApiKey.create({ data: { orgId, label: 'x', keyHash: 'h', role: 'partner' } })).rejects.toThrow(/ApiKey_role_service/);
   });
 });
 

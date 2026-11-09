@@ -102,9 +102,6 @@ model Org {
   ssoConnection  SsoConnection? // sso
   ssoDomains     SsoDomain[] // sso
   ssoStates      SsoState[] // sso
-  apiKeys        ApiKey[] // apikeys
-  webhookEndpoints WebhookEndpoint[] // apikeys
-  webhookDeliveries WebhookDelivery[] // apikeys
 }
 
 model Membership {
@@ -273,7 +270,6 @@ model OrgEvent {
   key       String? // optional dedupe key: a second emit with the same key in the same org is dropped
   createdAt DateTime @default(now()) @db.Timestamptz(6)
 
-  deliveries WebhookDelivery[] // apikeys
 
   @@unique([orgId, seq])
   @@unique([orgId, key])

@@ -4,6 +4,10 @@
 
 All four closure deliverables exist (DEMO.md, exec brief, LinkedIn drafts, cost review D-54); URLs in `docs/RELEASE_NOTES.md`. WRITEUP private-document count corrected (30 docs + 10 injection fixtures; P slice asks about 3).
 
+## 2026-11-09 — saas-foundation v1.6.0
+
+Merged v1.6.0 (with v1.5.0, vitest 5) via PR #2, which also carries the M12 `withBudget` wiring on the answer path. apikeys module removed, footnote key renamed `FootnoteApiKey` (D-55). RLS off, `sso` kept.
+
 ## Session 36 — 2026-10-28 (closure)
 
 **Built:** D-54 cost review (baseline $2.8243 of $25; nothing deployed; template cron inert while unlinked). Exec brief **Footnote in Brief** https://claude.ai/artifact/63gkAR4hsj1x7LQBis1o6D. Ledger posts 139 (MarTech, superseded editions) and 140 (AI, uncalibrated grader). `docs/RELEASE_NOTES.md`. **Gate:** `npm test` 294 tests: 291 passed, 3 failed in template `inv-01-04-22-actions` while ledgerleave and alongside sweeps ran concurrently (load average 44–60; first control timed out at 20s, the next two hit leftover seed rows) — same file and cause as session 27. Isolated rerun: 14/14 passed in 10.6s (load 35). No model calls. **Spend: $2.8243 of $25.**

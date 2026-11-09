@@ -7,6 +7,13 @@ import type { ExportTable } from '@/core/tenancy/export';
 //   { name: 'Booking', rows: (tx, orgId) => tx.booking.findMany({ where: { orgId }, select: { id: true, startsAt: true } }) },
 export const exportTables: readonly ExportTable[] = [
   ...moduleExportTables,
+  // D-55: footnote's org tables. Whole rows where no column is secret; CorpusChunk's `tsv` is Unsupported, so Prisma
+  // leaves it out, and the embedding vectors live in ChunkEmbedding (no orgId), so neither is exported.
+  { name: 'CorpusChunk', rows: (tx, orgId) => tx.corpusChunk.findMany({ where: { orgId } }) },
+  { name: 'StaffRole', rows: (tx, orgId) => tx.staffRole.findMany({ where: { orgId } }) },
+  { name: 'Answer', rows: (tx, orgId) => tx.answer.findMany({ where: { orgId } }) },
+  // Never whole: keyHash is the credential's sha256 (D-48).
+  { name: 'FootnoteApiKey', rows: (tx, orgId) => tx.footnoteApiKey.findMany({ where: { orgId }, select: { id: true, label: true, role: true, createdAt: true, revokedAt: true } }) },
 ];
 
 // An org-owned table left out on purpose, with the reason. INV-34 fails on any model with an orgId column that is in

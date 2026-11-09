@@ -12,7 +12,7 @@ if (!slug || !label) { console.error('usage: npm run apikey:create -- --org=<slu
 const org = await db.org.findUnique({ where: { slug }, select: { id: true } });
 if (!org) { console.error(`no org "${slug}"`); process.exit(1); }
 const key = `fn_${newToken()}`;
-const row = await db.apiKey.create({ data: { orgId: org.id, label, keyHash: hashToken(key) } });
+const row = await db.footnoteApiKey.create({ data: { orgId: org.id, label, keyHash: hashToken(key) } });
 await db.$disconnect();
 console.error(`service key ${row.id} for ${slug} ("${label}"); shown once, store it now:`);
 console.log(key);

@@ -37,7 +37,7 @@ export const notFound = () => Response.json({ error: 'Not found.' }, { status: 4
 /** `Authorization: Bearer <key>`: unknown or revoked → 401, checked before the body is read. */
 export async function keyCaller(authorization: string): Promise<ApiCaller | Response> {
   const key = /^Bearer (\S+)$/.exec(authorization)?.[1];
-  const row = key && (await db.apiKey.findUnique({ where: { keyHash: hashToken(key) } }));
+  const row = key && (await db.footnoteApiKey.findUnique({ where: { keyHash: hashToken(key) } }));
   if (!row || row.revokedAt) return Response.json({ error: 'Invalid API key.' }, { status: 401 });
   return { userId: null, caller: { orgId: row.orgId, role: row.role } };
 }
