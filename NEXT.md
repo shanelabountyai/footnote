@@ -316,3 +316,5 @@ Known chunker limits (D-10a): page-bounded, so a sentence across a page break is
 **Owner hand steps still open:** paste `VOYAGE_API_KEY` into `.env.local` (line prepared); private GitHub repo `shanelabountyai/footnote` + `git remote add origin` + first-push secret check (`git ls-files | grep -iE "\.env|secret|credential|\.pem$|\.key$"` — only `.env.example` may appear); build-log card A4; task 1.9 (ten hand answers, GM-02b fragment).
 
 Spend so far: **$0.0147** (dense index, 735,309 embedding tokens).
+
+**2026-11-09 (foundation upgrade):** saas-foundation v1.6.1 -> v1.6.2 (PR "Foundation v1.6.2"): Org.events -> Org.orgEvents, rls:policies module guards, e2e seeds via seed:demo:test. No migration, no env change. apikeys stays removed (D-55); the new F-09 module-guard unit test now ignores the apikeys module. 394 pass, 21 skipped.
