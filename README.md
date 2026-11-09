@@ -1,6 +1,6 @@
 # footnote
 
-> Cloned from saas-foundation v1.3.0. Port 5800. Upgrade with `npm run foundation:status`; template-owned paths are listed in the template's plan §3.2.
+> Cloned from saas-foundation v1.3.0, upgraded to v1.4.1 (2026-11-04). Port 5800. Upgrade with `npm run foundation:status`; template-owned paths are listed in the template's plan §3.2.
 
 ## ⚠️ Scope Honesty (read first)
 
