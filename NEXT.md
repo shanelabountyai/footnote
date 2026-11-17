@@ -4,9 +4,9 @@
 
 All four closure deliverables exist (DEMO.md, exec brief, LinkedIn drafts, cost review D-54); URLs in `docs/RELEASE_NOTES.md`. WRITEUP private-document count corrected (30 docs + 10 injection fixtures; P slice asks about 3).
 
-## 2026-11-17 — Yardstick eval gate (branch `yardstick-gate`, demo PR, unmerged)
+## 2026-11-17 — Yardstick eval gate (branch `yardstick-gate`, PR #5, action pinned to Yardstick `df298b7`)
 
-**Built:** `.github/workflows/yardstick.yml`, `.yardstick/gates/` (product-default, judged), `.yardstick/baselines/` (two pinned runs from committed outputs). **Decided:** D-57. No product code, no model calls, no secrets. **Left open:** pin the Yardstick action to a tag or SHA after its Phase 4 PR merges; a live judge needs `ANTHROPIC_API_KEY` as a repo secret (owner). **Spend: $2.8243 of $25** (unchanged, D-54).
+**Built:** `.github/workflows/yardstick.yml`, `.yardstick/gates/` (product-default, judged), `.yardstick/baselines/` (two pinned runs from committed outputs). **Decided:** D-57. No product code, no model calls, no secrets. **Left open:** a live judge needs `ANTHROPIC_API_KEY` as a repo secret (owner). **Spend: $2.8243 of $25** (unchanged, D-54).
 
 ## 2026-11-09 — saas-foundation v1.6.0
 
