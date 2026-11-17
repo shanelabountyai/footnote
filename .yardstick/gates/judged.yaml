@@ -1,0 +1,19 @@
+# Yardstick gate for the one judged cell: hybrid + Sonnet, θ on (run 2026-10-23T1646), with the Opus sentence
+# verdicts committed in that answers file replayed through Yardstick's llm-judge scorer: zero model calls, $0 cap.
+# YS-05: the judge's rule gates only if its pooled kappa against Shane's grades (eval/grades.md, eval/grades-2.md)
+# is >= kappa_floor. Footnote's own floor is 0.7 (scorecard); the judge measures κ 0.17 (n 40), so the support
+# rule is shown as report-only and cannot change the verdict. No API key is used anywhere in this workflow.
+min_items: 8
+judge:
+  kappa_floor: 0.7
+rules:
+  - metric: rate:refusal
+    slice: A+M
+    max_drop: 0
+  - metric: pass_rate
+    slice: U
+    max_drop: 0
+  # Sentence support by the judge on A, M, V >= 90% (Footnote's target): report-only until κ >= 0.7.
+  - metric: rate:judge
+    slice: A+M+V
+    floor: 0.90

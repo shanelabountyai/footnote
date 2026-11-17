@@ -1,0 +1,18 @@
+# Yardstick regression gate for Footnote's product default: dense + Sonnet, θ 0.52 (docs/decisions.md D-46),
+# replayed from the newest committed dense+Sonnet θ-off answers file (Yardstick --theta-prime 0.52).
+# A regression gate, not the scorecard targets: the committed cell is below Footnote's own targets
+# (A+M answered-or-partial 17/22 vs ≥ 90%, U refusal 7/8 vs ≥ 90%; see the scorecard), so absolute floors would
+# fail on every PR. Here nothing may drop below the pinned baseline (.yardstick/baselines/). Yardstick D-42..D-47.
+min_items: 8
+rules:
+  # Answered or partial on answerable questions (A, M): no drop vs baseline.
+  - metric: rate:refusal
+    slice: A+M
+    max_drop: 0
+  # Refusal on unanswerable questions (U): no drop vs baseline.
+  - metric: pass_rate
+    slice: U
+    max_drop: 0
+  # Every golden item (answer vs refusal as expected, OUT_OF_SCOPE code): no drop vs baseline.
+  - metric: pass_rate
+    max_drop: 0
