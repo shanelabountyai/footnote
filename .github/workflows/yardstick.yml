@@ -1,0 +1,78 @@
+name: Yardstick
+
+# Eval regression gate over Footnote's committed eval outputs (eval/golden.json, eval/results/, eval/grades*.md),
+# using the Yardstick composite action. No database, no model call, no secrets: the judge's verdicts are replayed
+# from the committed answers file under a $0 cap, and its rule is report-only while κ < 0.7 (Yardstick YS-05).
+# The `@phase-4` ref is a branch for this demo; pin a tag or a full commit SHA once Yardstick's Phase 4 PR merges.
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  eval-gate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pull-requests: write # one comment per gate, updated in place on every push
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+
+      - name: Install Yardstick
+        uses: shanelabountyai/yardstick@phase-4
+        with:
+          install-only: "true"
+
+      # Everything the gates read is derived here from committed files, so nothing is hand-copied.
+      - name: Build suites, replayed judge verdicts and judge calibration
+        id: prep
+        run: |
+          set -euo pipefail
+          out="$RUNNER_TEMP/yardstick-inputs"
+          mkdir -p "$out"
+          judged=eval/results/answers-hybrid-claude-sonnet-5-5-theta-on-cd1252c6a407-2026-10-23T1646.json
+          # Product default (D-46) is replayed from the newest committed dense+Sonnet θ-off cell.
+          default=$(ls eval/results/answers-dense-claude-sonnet-5-5-theta-off-*.json | sort | tail -n 1)
+          yardstick footnote suite eval/golden.json -o "$out/suite.yaml"
+          yardstick footnote suite eval/golden.json --judged -o "$out/judge-suite.yaml"
+          yardstick footnote verdicts "$judged" --source "footnote: $judged" -o "$out/verdicts.json"
+          yardstick footnote grades eval/grades.md --answers "$judged" --name sheet-1 \
+            --source "footnote: eval/grades.md" -o "$out/sheet-1.yaml"
+          yardstick footnote grades eval/grades-2.md --answers "$judged" --name sheet-2 \
+            --source "footnote: eval/grades-2.md" -o "$out/sheet-2.yaml"
+          yardstick kappa --grades "$out/sheet-1.yaml" --grades "$out/sheet-2.yaml" \
+            --verdicts "$out/verdicts.json" -o "$out/calibration.json"
+          {
+            echo "dir=$out"
+            echo "default=$default"
+            echo "judged=$judged"
+          } >> "$GITHUB_OUTPUT"
+
+      - name: Gate the product default (dense + Sonnet, θ 0.52)
+        uses: shanelabountyai/yardstick@phase-4
+        with:
+          suite: ${{ steps.prep.outputs.dir }}/suite.yaml
+          gate-config: .yardstick/gates/product-default.yaml
+          results: ${{ steps.prep.outputs.default }}
+          mapping: footnote
+          run-args: --theta-prime 0.52
+          target-name: dense-sonnet-theta-0.52
+          baseline: .yardstick/baselines/footnote-golden__dense-sonnet-theta-0.52.json
+          comment-tag: product-default
+
+      - name: Gate the judged cell (hybrid + Sonnet, θ on; judge report-only)
+        uses: shanelabountyai/yardstick@phase-4
+        with:
+          suite: ${{ steps.prep.outputs.dir }}/judge-suite.yaml
+          gate-config: .yardstick/gates/judged.yaml
+          results: ${{ steps.prep.outputs.judged }}
+          mapping: footnote
+          run-args: --judge replay:${{ steps.prep.outputs.dir }}/verdicts.json --judge-budget-usd 0
+          target-name: hybrid-sonnet-theta-on
+          baseline: .yardstick/baselines/footnote-golden-judged__hybrid-sonnet-theta-on.json
+          calibration: ${{ steps.prep.outputs.dir }}/calibration.json
+          comment-tag: judged
