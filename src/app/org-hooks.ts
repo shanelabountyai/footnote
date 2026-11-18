@@ -1,6 +1,6 @@
 import { cancelOrgSubscription } from '@/modules/billing/provider'; // billing
 import type { ListedOrg } from '@/core/tenancy/listed';
-import type { MembershipEnded } from '@/core/tenancy/orgs';
+import type { MembershipEnded, RoleChanged } from '@/core/tenancy/orgs';
 
 // Clone-owned, like cron-jobs.ts: what must happen before an org is deleted. Throwing stops the
 // deletion. Removing the billing module deletes the lines marked `// billing`.
@@ -23,3 +23,7 @@ export async function filterListedOrgs(_userId: string, orgs: readonly ListedOrg
 // own per-person credentials here. Throwing stops the removal.
 // footnote removed the apikeys module (D-55); its own service keys (FootnoteApiKey, D-48) belong to the org, not a person.
 export const onMembershipEnded: MembershipEnded = async () => {};
+
+// Clone-owned (v1.7.0): what follows a role change, in the same transaction (audit A-08). Nothing here: the apikeys module
+// is removed (D-55). Throwing stops the role change.
+export const onRoleChanged: RoleChanged = async () => {};
