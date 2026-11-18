@@ -1,5 +1,5 @@
 import { drainOutbox, sweepOutbox } from '@/modules/notifications/outbox'; // notifications
-import { sweepSsoStates } from '@/modules/sso/hooks'; // sso
+import { recheckSsoDomains, sweepSsoStates } from '@/modules/sso/hooks'; // sso
 
 // Clone-owned (plan §3.2): /api/cron calls this after its own core sweeps. A clone adds its jobs here,
 // and removing the notifications module deletes the lines marked `// notifications`.
@@ -7,5 +7,6 @@ export async function cronJobs(): Promise<Record<string, unknown>> {
   const jobs: Record<string, unknown> = {};
   jobs.outbox = { ...(await drainOutbox()), swept: await sweepOutbox() }; // notifications
   jobs.ssoStates = await sweepSsoStates(); // sso
+  jobs.ssoDomains = await recheckSsoDomains(); // sso
   return jobs;
 }
