@@ -3,7 +3,8 @@ name: Yardstick
 # Eval regression gate over Footnote's committed eval outputs (eval/golden.json, eval/results/, eval/grades*.md),
 # using the Yardstick composite action. No database, no model call, no secrets: the judge's verdicts are replayed
 # from the committed answers file under a $0 cap, and its rule is report-only while κ < 0.7 (Yardstick YS-05).
-# The action is pinned to a full commit SHA of Yardstick main (Phase 4 merged 2026-11-17).
+# The action is pinned to a full commit SHA of Yardstick main (710c604, 2026-11-22; includes PR #8 / D-79, which moved
+# the Footnote suite hashes, so both baselines were re-pinned with it: docs/decisions.md D-58).
 
 on:
   push:
@@ -23,7 +24,7 @@ jobs:
       - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
 
       - name: Install Yardstick
-        uses: shanelabountyai/yardstick@df298b71544d7d6098ead8f3c09c976351d4f421 # yardstick main after PR #5 (Phase 4)
+        uses: shanelabountyai/yardstick@710c604098d0ee6ef6d9abf89cd0741be3ab5cbb # yardstick main after PR #9 (has PR #8, D-79); re-pinned 2026-11-23
         with:
           install-only: "true"
 
@@ -53,7 +54,7 @@ jobs:
           } >> "$GITHUB_OUTPUT"
 
       - name: Gate the product default (dense + Sonnet, θ 0.52)
-        uses: shanelabountyai/yardstick@df298b71544d7d6098ead8f3c09c976351d4f421 # yardstick main after PR #5 (Phase 4)
+        uses: shanelabountyai/yardstick@710c604098d0ee6ef6d9abf89cd0741be3ab5cbb # yardstick main after PR #9 (has PR #8, D-79); re-pinned 2026-11-23
         with:
           suite: ${{ steps.prep.outputs.dir }}/suite.yaml
           gate-config: .yardstick/gates/product-default.yaml
@@ -65,7 +66,7 @@ jobs:
           comment-tag: product-default
 
       - name: Gate the judged cell (hybrid + Sonnet, θ on; judge report-only)
-        uses: shanelabountyai/yardstick@df298b71544d7d6098ead8f3c09c976351d4f421 # yardstick main after PR #5 (Phase 4)
+        uses: shanelabountyai/yardstick@710c604098d0ee6ef6d9abf89cd0741be3ab5cbb # yardstick main after PR #9 (has PR #8, D-79); re-pinned 2026-11-23
         with:
           suite: ${{ steps.prep.outputs.dir }}/judge-suite.yaml
           gate-config: .yardstick/gates/judged.yaml
