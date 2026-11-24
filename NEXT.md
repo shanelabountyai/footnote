@@ -4,6 +4,10 @@
 
 All four closure deliverables exist (DEMO.md, exec brief, LinkedIn drafts, cost review D-54); URLs in `docs/RELEASE_NOTES.md`. WRITEUP private-document count corrected (30 docs + 10 injection fixtures; P slice asks about 3).
 
+## 2026-11-23 — Yardstick re-pin (branch `yardstick-repin/2026-11-23`, draft PR, action pinned to Yardstick `710c604`)
+
+**Why:** Yardstick PR #8 (D-79) moved the Footnote suite hashes. Reproduced on main `d1baef7`: Yardstick `df298b7` both gates exit 0; Yardstick `710c604` both exit 2 (`suite hash differs`). **Built:** all three `uses:` in `.github/workflows/yardstick.yml` moved to `710c604098d0ee6ef6d9abf89cd0741be3ab5cbb`; both `.yardstick/baselines/` re-pinned with `yardstick baseline pin` from the same committed answers files (replay, $0 judge cap). New suite hashes: `footnote-golden` `sha256:76beaa0f0f1d…`, `footnote-golden-judged` `sha256:9f0f55fdea7d…`. Every item and score unchanged (product default 17/22, 7/8, 32/41; judged 28/41, support 96.1% report-only at κ 0.17 n 40); new fields are `descriptions` and `label_judges` metadata only. Gate files unchanged. On the branch with `710c604` both gates exit 0. **Decided:** D-58. **Checks here:** `npm ci` fails at `prisma generate` (sandbox proxy 403 on binaries.prisma.sh); with `--ignore-scripts`: lint 0 errors (the 1 template warning), `corpus:check` OK, typecheck fails only for the missing generated Prisma client, `npm test` not run (needs the client and pgvector Postgres 17). No app code touched; CI decides. **Left open:** review and merge the PR (owner). No model calls. **Spend: $2.8243 of $25** (unchanged, D-54).
+
 ## 2026-11-17 — Yardstick eval gate (branch `yardstick-gate`, PR #5, action pinned to Yardstick `df298b7`)
 
 **Built:** `.github/workflows/yardstick.yml`, `.yardstick/gates/` (product-default, judged), `.yardstick/baselines/` (two pinned runs from committed outputs). **Decided:** D-57. No product code, no model calls, no secrets. **Left open:** a live judge needs `ANTHROPIC_API_KEY` as a repo secret (owner). **Spend: $2.8243 of $25** (unchanged, D-54).
